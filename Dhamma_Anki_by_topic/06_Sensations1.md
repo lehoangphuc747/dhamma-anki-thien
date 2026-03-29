@@ -1,0 +1,15 @@
+# 6. Sensations1
+
+| English | IPA | Vietnamese | Giải thích chi tiết |
+| --- | --- | --- | --- |
+| throbbing | /θˈrɑbɪŋ/ | nhói, mạch đập mạnh | Khi ngồi quan sát thân, đôi khi một chỗ (đầu gối, thái dương, bàn chân…) cứ “đập” theo nhịp như tim: đó là cảm giác nhói–mạch đập. Không cần sửa hay xoa; chỉ nhận biết là có nhịp, có áp lực lên–xuống, rồi để nó tự đổi nếu nó đổi. |
+| pressured | /ˈprɛʃərd/ | bị đè ép | Cảm giác như có vật nặng đặt lên da hoặc bên trong một vùng bị “ép chặt” (vai, ngực, bụng). Trong thiền, thường là do tư thế, hơi thở hoặc căng thẳng tích lũy; quan sát thuần túy giúp thấy áp lực là một luồng cảm giác đến–đi, không nhất thiết là “có chuyện xấu đang xảy ra”. |
+| tension | /ˈtɛnʃən/ | lực căng, căng kéo | Cơ hoặc vùng thân đang “giữ cứng” như dây căng: có hướng kéo, không thả lỏng hết. Khi ngồi, hay gặp ở vai, cổ, hàm. Ghi nhận tension là thấy rõ “đang có sự kéo căng ở đây”, không đồng nghĩa với phải xả ngay bằng ý chí. |
+| strain | /streɪn/ | căng thẳng, áp lực | Gần tension nhưng nhấn mạnh cảm giác “gồng quá mức” hoặc bị kéo căng đến khó chịu (ví dụ ngồi lâu, lưng cố giữ thẳng). Trong quan sát thân, strain nhắc mình: có chỗ đang chịu lực quá lớn so với lúc này — có thể chỉnh tư thế nhẹ, rồi tiếp tục quan sát. |
+| ache | /eɪk/ | đau | Đau âm ỉ, kéo dài một vùng (lưng, đầu gối…), không nhất thiết nhói từng cơn. Trên gối ngồi, ache là tín hiệu thân đang nói chuyện; ta học đứng bên cạnh cơn đau: biết có đau, không thêm kịch bản sợ hãi hay chống cự dữ dội. |
+| numbness | /ˈnəmnəs/ | tê, tê cóng | Giảm cảm giác hoặc “cứng–tê” ở tay chân khi ngồi lâu, máu lưu thông khác đi. Đôi kèm kim châm nhẹ. Trong thiền, tê là hiện tượng thân–thần kinh; quan sát giúp phân biệt “cảm giác tê” với câu chuyện trong đầu về tê. |
+| convulsion | /kənˈvəlʃən/ | sự co giật | Co giật mạnh, có thể là cục bộ hoặc cả vùng; ít gặp hơn spasm nhưng vẫn có khi thân thả lỏng sâu hoặc hệ thần kinh phóng thích căng. Không cần khuấy động: nhận biết “có đợt giật”, an toàn nếu ngồi ổn định; nếu bất thường về y tế thì nên hỏi bác sĩ. |
+| spasm | /ˈspæzəm/ | sự co thắt | Cơn co bất chợt, nhỏ (giật nhẹ ở mí mắt, bắp chân) hoặc rõ hơn. Khi quan sát thân, spasm như “sóng” chạy qua: nổi lên, rồi nguôi. Ghi nhận giúp không đánh giá là mình hỏng hay thiền sai. |
+| expansion | /ɪkˈspænʧən/ | giãn ra, nở ra | Cảm giác ngực, bụng hoặc cả thân “mở rộng”, có không gian hơn khi thở hoặc khi thả lỏng. Không phải lúc nào cũng dễ chịu ngay; đôi khi là nở nhẹ gắn với hơi thở. Quan sát expansion là thấy hướng nở–giãn đang diễn ra ở đâu. |
+| contraction | /kənˈtrækʃən/ | sự co kéo, co lại | Ngược expansion: vùng thân thu lại, co, “nhỏ lại” (bụng, vai, bàn tay). Trong thiền, contraction thường đi cùng sợ hãi, lạnh hoặc thói quen gồng; chỉ cần biết “đang có chiều co” mà không phải lập tức sửa bằng ý niệm. |
+| pulsing | /ˈpəlsɪŋ/ | mạch đập nhè nhẹ | Rung nhịp đều đặn, nhẹ hơn throbbing: như sóng nhỏ lặp lại ở một điểm hoặc một dải. Khi ngồi yên, dễ nghe thấy nhịp ở thái dương, cổ tay. Pulsing là đối tượng quan sát tốt để thấy “cảm giác + nhịp lặp”, tách khỏi câu chuyện suy nghĩ. |

@@ -1,0 +1,24 @@
+# 2. About the mind
+
+| English | IPA | Vietnamese | Giải thích chi tiết |
+| --- | --- | --- | --- |
+| surface of the mind | /ˈsərfəs əv ðə maɪnd/ | bề mặt tâm | Lớp tâm ta bắt gặp đầu tiên khi ngồi: ý nghĩ lướt qua, cảm giác thoáng qua, tâm trạng dễ thấy. Quan sát bề mặt giúp nhận ra “tâm đang làm gì” trước khi chìm sâu vào nội dung suy nghĩ. |
+| superficial level | /ˌsupərˈfɪʃəl ˈlɛvəl/ | ở mức độ bề mặt, bề ngoài | Mức chỉ nhìn hình thức bên ngoài của kinh nghiệm (ví dụ “tôi đang bực”) mà chưa thấy rõ cơ chế: thân nào căng, tâm muốn gì, phản ứng nảy ra thế nào. Thiền khuyến khích từ từ đi sâu hơn lớp bề ngoài đó. |
+| intellectual level | /ˌɪnəˈlɛkʧuəl ˈlɛvəl/ | mức độ tri thức, trí năng | Hiểu bằng lý thuyết, từ vựng, khái niệm — hữu ích nhưng dễ tách khỏi cảm nhận trực tiếp. Trên thảm tập, cần phân biệt “biết bằng đầu” và “thấy đang xảy ra trong tâm-thân lúc này”. |
+| experiencial level | /ɛkˌspɛriˈɛnʃəl ˈlɛvəl/ | mức độ kinh nghiệm | Mức biết qua trải nghiệm trực tiếp: cảm giác, nhịp thở, rung động cảm xúc, khoảng trống sau khi buông một phản ứng. Đây là tầng thiền thường nhắm tới — không chỉ nghĩ về tâm mà đang sống cùng tâm. |
+| conscious level | /ˈkɑnʃəs ˈlɛvəl/ | tầng có ý thức | Những gì ta có thể nhận biết ngay: “đang chú ý”, “đang phân vân”, “đang theo dõi hơi thở”. Chánh niệm bắt đầu từ tầng này, rồi từ từ soi rõ các lớp sâu hơn. |
+| subconscious level | /səbˈkɑnʃəs ˈlɛvəl/ | tiềm thức | Các xu hướng, ký ức, thói quen phản ứng vừa chớm đã chạy — ta thường chỉ thấy hậu quả (đã giận rồi, đã lo rồi). Thiền giúp thấy “điểm bùng” sớm hơn, khi phản ứng còn mờ nhưng đã có mặt. |
+| unconscious level | /ˌənˈkɑnʃəs ˈlɛvəl/ | tầng vô thức | Lớp sâu, khó truy cập trực tiếp; đôi khi chỉ lộ ra qua mơ, phản xạ mạnh, hoặc sau thời gian quan sát lâu dài. Không cần “đào” ép — chỉ cần kiên nhẫn quan sát, lớp sâu từ từ hiện ra trong ánh sáng chánh niệm. |
+| defilement | /dɪˈfaɪlmənt/ | ô nhiễm | Tâm bị “bẩn” bởi tham, sân, si và các biến thể: không phải ta xấu người, mà là trạng thái tâm lúc đó đang bị che phủ, khó trong sáng. Nhận ra ô nhiễm là bước đầu để không đồng hóa mình với nó. |
+| impurity | /ˌɪmˈpjʊrəti/ | bất tịnh | Gần với ô nhiễm nhưng nhấn mạnh sự “không trong” của kinh nghiệm: tâm dính, vướng, không an. Quan sát bất tịnh không phải để tự trách, mà để thấy rõ cần buông chỗ nào. |
+| negativity | /ˌnɛgəˈtɪvəti/ | tiêu cực | Xu hướng tâm nghiêng về chê bai, sợ hãi, bi quan, phán xét. Trên thảm, ta học nhận ra tiêu cực như một làn sóng — có thể cảm mà không nhất thiết phải tin theo hoặc nuôi dưỡng thêm. |
+| craving | /ˈkreɪvɪŋ/ | tham muốn, tâm tham | Áp lực “muốn thêm”, “phải có”, kéo tâm ra khỏi hiện tại. Trong thiền, tham thường hiện là bồn chồn, tìm khoái, trốn khó chịu. Thấy rõ tham là thấy động cơ của nhiều phiền não. |
+| aversion | /əˈvərʒən/ | ghét bỏ, tâm sân | Phản ứng đẩy đi, không chịu, phản kháng với cảm giác hoặc hoàn cảnh. Sân làm tâm co cứng; quan sát sân là học “ở lại” với khó chịu mà không nhất thiết hành động theo nó ngay. |
+| ignorance | /ˈɪgnərəns/ | vô minh | Không thấy đúng bản chất (vô thường, vô ngã, duyên khởi…) nên tâm chạy theo chấp thủ. Vô minh không chỉ là “không biết sách” mà là không thấy rõ điều đang xảy ra trong chính kinh nghiệm này. |
+| illusion | /ˌɪˈluʒən/ | ảo tưởng | Cảm giác sự vật “là một khối cố định, đẹp/xấu vĩnh viễn” trong khi thực tế luôn đổi. Ảo tưởng dễ nuôi kỳ vọng và thất vọng; thiền là nhìn lại để thấy sự mỏng manh của nhãn quan đó. |
+| delusion | /dɪˈluʒən/ | mê lầm | Sai lệch sâu hơn ảo tưởng: tin chắc vào một câu chuyện về bản thân hoặc thế giới (ví dụ “ta luôn thất bại”, “họ luôn ác ý”). Mê lầm cần được nhìn từng lớp bằng chánh niệm và đôi khi cần thêm tri thức lành để nới lỏng. |
+| attachment | /əˈtæʧmənt/ | dính mắc | Tâm bám vào người, ý kiến, cảm giác dễ chịu, hoặc chính hình ảnh “tôi đang thiền giỏi”. Dính mắc làm khó buông; quan sát là thấy khoảnh khắc “đang muốn giữ”. |
+| clinging | /ˈklɪŋɪŋ/ | bám víu | Gắn chặt hơn dính mắc: như bám vào phao trong nước — sợ mất, sợ trống. Bám víu thường đi kèm căng thẳng; nhận ra nó giúp có chỗ để nhẹ nhàng mở tay trong tâm. |
+| the world within | /ðə wərld wɪˈθɪn/ | thế giới bên trong, nội tâm | Toàn bộ cảm giác, ký ức, giá trị, phản ứng — một “vũ trụ” riêng mà thiền là hành trình khám phá không cần chạy ra ngoài. Hiểu nội tâm là nền tảng để hiểu cách ta tương tác với đời sống bên ngoài. |
+| habit pattern | /ˈhæbət ˈpætərn/ | khuôn mẫu thói quen | Đường ray tâm lặp lại: gặp X thì nghĩ Y, khó chịu thì trốn bằng Z. Thói quen không phải kẻ thù — nhận ra khuôn mẫu là có thể chọn phản ứng khác, hoặc chỉ quan sát cho đến khi nó yếu đi. |
+| roll in thoughts | /roʊl ɪn θɔts/ | trôi lăn trong suy nghĩ | Trạng thái tâm bị cuốn theo dòng ý nghĩ như nước xoáy, quên mất thân và hơi thở. Trên thảm, nhận ra “đang trôi” chính là khoảnh khắc tỉnh lại — có thể nhẹ nhàng quay về điểm neo mà không tự trách. |
