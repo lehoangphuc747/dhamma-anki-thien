@@ -1,0 +1,6962 @@
+[
+  {
+    "id": "Pali - 0001",
+    "Pali": "Namo",
+    "Viettnamese": "Sự tôn kính, kính lễ"
+  },
+  {
+    "id": "Pali - 0002",
+    "Pali": "tassa",
+    "Viettnamese": "Ngài"
+  },
+  {
+    "id": "Pali - 0003",
+    "Pali": "bhagavato",
+    "Viettnamese": "(nói đến) Đức Thế Tôn"
+  },
+  {
+    "id": "Pali - 0004",
+    "Pali": "arahato",
+    "Viettnamese": "(nói đến) Bậc A La hán"
+  },
+  {
+    "id": "Pali - 0005",
+    "Pali": "sammāsambuddhassa",
+    "Viettnamese": "Bậc tự giác ngộ hoàn toàn, Bậc Chánh Đẳng Giác."
+  },
+  {
+    "id": "Pali - 0006",
+    "Pali": "Ti+saraṇa+gamanam (gamanam=đi đến)",
+    "Viettnamese": "tam+nương tựa+đi đến"
+  },
+  {
+    "id": "Pali - 0007",
+    "Pali": "Buddhaṃ",
+    "Viettnamese": "Buddha"
+  },
+  {
+    "id": "Pali - 0008",
+    "Pali": "saraṇaṃ",
+    "Viettnamese": "sự nương tựa, sự bảo vệ"
+  },
+  {
+    "id": "Pali - 0009",
+    "Pali": "gacchāmi",
+    "Viettnamese": "Tôi đi đến"
+  },
+  {
+    "id": "Pali - 0010",
+    "Pali": "Dhammaṃ",
+    "Viettnamese": "Dhamma"
+  },
+  {
+    "id": "Pali - 0011",
+    "Pali": "Saṅghaṃ",
+    "Viettnamese": "Saṅgha"
+  },
+  {
+    "id": "Pali - 0012",
+    "Pali": "Pañca+sīla",
+    "Viettnamese": "(Năm + giới)"
+  },
+  {
+    "id": "Pali - 0013",
+    "Pali": "pāṇātipātā (pāṇa+atipāta)",
+    "Viettnamese": "(tránh khỏi) sát sinh (chúng sinh hữu tình+sự hủy diệt đời sống, sự giết hại)"
+  },
+  {
+    "id": "Pali - 0014",
+    "Pali": "veramaṇī",
+    "Viettnamese": "sự kiêng tránh"
+  },
+  {
+    "id": "Pali - 0015",
+    "Pali": "sikkhāpadaṃ",
+    "Viettnamese": "quy tắc rèn luyện (về đạo đức), giới"
+  },
+  {
+    "id": "Pali - 0016",
+    "Pali": "samādiyāmi",
+    "Viettnamese": "(Tôi) cam kết"
+  },
+  {
+    "id": "Pali - 0017",
+    "Pali": "adinnādānā (=adinna+ādāna)",
+    "Viettnamese": "(tránh khỏi) việc lấy những gì không được cho (thứ mà không được cho + việc lấy/việc chiếm đoạt)"
+  },
+  {
+    "id": "Pali - 0018",
+    "Pali": "kāmesu",
+    "Viettnamese": "(trong) ham muốn tình dục"
+  },
+  {
+    "id": "Pali - 0019",
+    "Pali": "micchācārā (= micchā+cāra)",
+    "Viettnamese": "(tránh khỏi) hành vi sai trái (sai trái + hành vi)"
+  },
+  {
+    "id": "Pali - 0020",
+    "Pali": "Musā-vādā (=Musā+vāda)",
+    "Viettnamese": "(tránh khỏi) lời nói sai trái/dối trá (dối trá + lời nói)"
+  },
+  {
+    "id": "Pali - 0021",
+    "Pali": "Surā",
+    "Viettnamese": "rượu nấu"
+  },
+  {
+    "id": "Pali - 0022",
+    "Pali": "Meraya",
+    "Viettnamese": "rượu men"
+  },
+  {
+    "id": "Pali - 0023",
+    "Pali": "Majja",
+    "Viettnamese": "chất làm say"
+  },
+  {
+    "id": "Pali - 0024",
+    "Pali": "pamādaṭṭhānā",
+    "Viettnamese": "(tránh khỏi) nguyên nhân của sự thiếu chú ý/hành vi quá khích"
+  },
+  {
+    "id": "Pali - 0025",
+    "Pali": "Aṭṭha + aṅga + sīla",
+    "Viettnamese": "(tám+ thành phần (của) + hành vi đạo đức)"
+  },
+  {
+    "id": "Pali - 0026",
+    "Pali": "abrahmacariyā",
+    "Viettnamese": "(tránh khỏi) không tịnh thân/ không độc thân"
+  },
+  {
+    "id": "Pali - 0027",
+    "Pali": "vikālabhojanā (= vikāla+bhojana)",
+    "Viettnamese": "(tránh khỏi) ăn sai giờ (thời gian sai trái/không đúng đắn + bữa ăn)"
+  },
+  {
+    "id": "Pali - 0028",
+    "Pali": "nacca",
+    "Viettnamese": "nhảy múa"
+  },
+  {
+    "id": "Pali - 0029",
+    "Pali": "gīta",
+    "Viettnamese": "ca hát"
+  },
+  {
+    "id": "Pali - 0030",
+    "Pali": "vādita",
+    "Viettnamese": "âm nhạc"
+  },
+  {
+    "id": "Pali - 0031",
+    "Pali": "visūkadassanā",
+    "Viettnamese": "xem biểu diễn/ triển lãm"
+  },
+  {
+    "id": "Pali - 0032",
+    "Pali": "mālā",
+    "Viettnamese": "vòng hoa"
+  },
+  {
+    "id": "Pali - 0033",
+    "Pali": "gandha",
+    "Viettnamese": "hương thơm, nước hoa"
+  },
+  {
+    "id": "Pali - 0034",
+    "Pali": "vilepana",
+    "Viettnamese": "mỹ phẩm"
+  },
+  {
+    "id": "Pali - 0035",
+    "Pali": "dhāraṇa",
+    "Viettnamese": "mang/mặc"
+  },
+  {
+    "id": "Pali - 0036",
+    "Pali": "maṇḍana",
+    "Viettnamese": "đồ trang điểm, quần áo lộng lẫy"
+  },
+  {
+    "id": "Pali - 0037",
+    "Pali": "vibhūsanaṭṭhānā",
+    "Viettnamese": "(tránh khỏi những thứ dùng để) trang trí/làm đẹp"
+  },
+  {
+    "id": "Pali - 0038",
+    "Pali": "uccāsayana",
+    "Viettnamese": "giường cao"
+  },
+  {
+    "id": "Pali - 0039",
+    "Pali": "mahāsayanā",
+    "Viettnamese": "(tránh khỏi việc sử dụng) giường lớn/ xa hoa"
+  },
+  {
+    "id": "Pali - 0040",
+    "Pali": "Pariccajāmi",
+    "Viettnamese": "quy phục, quy thuận"
+  },
+  {
+    "id": "Pali - 0041",
+    "Pali": "Imāhaṃ",
+    "Viettnamese": "này + Tôi"
+  },
+  {
+    "id": "Pali - 0042",
+    "Pali": "bhante",
+    "Viettnamese": "bạch Ngài/bạch Thế Tôn"
+  },
+  {
+    "id": "Pali - 0043",
+    "Pali": "attabhāvaṃ",
+    "Viettnamese": "cá nhân, cá tính, bản sắc"
+  },
+  {
+    "id": "Pali - 0044",
+    "Pali": "jīvitaṃ",
+    "Viettnamese": "cuộc đời"
+  },
+  {
+    "id": "Pali - 0045",
+    "Pali": "bhagavato",
+    "Viettnamese": "đến Đức Thế Tôn"
+  },
+  {
+    "id": "Pali - 0046",
+    "Pali": "pariccajāmi",
+    "Viettnamese": "(Tôi) quy thuận/từ bỏ"
+  },
+  {
+    "id": "Pali - 0047",
+    "Pali": "ācariyassa",
+    "Viettnamese": "đến vị thầy"
+  },
+  {
+    "id": "Pali - 0048",
+    "Pali": "Nibbānassa",
+    "Viettnamese": "(của) niết bàn"
+  },
+  {
+    "id": "Pali - 0049",
+    "Pali": "sacchikaraṇatthāya",
+    "Viettnamese": "(vì mục đích của) sự nhận thức rõ/ kinh nghiệm (đối với) tôi"
+  },
+  {
+    "id": "Pali - 0050",
+    "Pali": "ānāpāna=āna+apāna",
+    "Viettnamese": "hơi thở vào, hơi thở ra"
+  },
+  {
+    "id": "Pali - 0051",
+    "Pali": "kammaṭṭhānaṃ",
+    "Viettnamese": "đối tượng thiền"
+  },
+  {
+    "id": "Pali - 0052",
+    "Pali": "dehi",
+    "Viettnamese": "ban cho"
+  },
+  {
+    "id": "Pali - 0053",
+    "Pali": "Bhavatu sabba",
+    "Viettnamese": "nguyện tất cả (có) được"
+  },
+  {
+    "id": "Pali - 0054",
+    "Pali": "maṅgalaṃ",
+    "Viettnamese": "hạnh phúc, phúc lành"
+  },
+  {
+    "id": "Pali - 0055",
+    "Pali": "Deva-āhvānasuttaṃ",
+    "Viettnamese": "thỉnh chư thiên"
+  },
+  {
+    "id": "Pali - 0056",
+    "Pali": "Samantā",
+    "Viettnamese": "từ mọi phía/hướng"
+  },
+  {
+    "id": "Pali - 0057",
+    "Pali": "cakkavāḷesu",
+    "Viettnamese": "trong thế giới, vũ trụ"
+  },
+  {
+    "id": "Pali - 0058",
+    "Pali": "atragacchantu (= atra+āgacchantu)",
+    "Viettnamese": "ở đây + mời gọi đến"
+  },
+  {
+    "id": "Pali - 0059",
+    "Pali": "devatā",
+    "Viettnamese": "chư thiên"
+  },
+  {
+    "id": "Pali - 0060",
+    "Pali": "Saddhammaṃ",
+    "Viettnamese": "Dhamma thuần khiết/chân thật"
+  },
+  {
+    "id": "Pali - 0061",
+    "Pali": "munirājassa",
+    "Viettnamese": "của vị vua hiền thánh"
+  },
+  {
+    "id": "Pali - 0062",
+    "Pali": "suṇantu",
+    "Viettnamese": "hãy lắng nghe"
+  },
+  {
+    "id": "Pali - 0063",
+    "Pali": "saggamokkhadaṃ",
+    "Viettnamese": "dẫn đến cõi trời và giải thoát"
+  },
+  {
+    "id": "Pali - 0064",
+    "Pali": "Dhammassavana-kālo (=Dhamma+savana+kālo)",
+    "Viettnamese": "thời gian để lắng nghe Dhamma (Dhamma+lắng nghe+thời gian)"
+  },
+  {
+    "id": "Pali - 0065",
+    "Pali": "ayaṃ",
+    "Viettnamese": "này"
+  },
+  {
+    "id": "Pali - 0066",
+    "Pali": "bhadantā",
+    "Viettnamese": "những bậc đáng kính"
+  },
+  {
+    "id": "Pali - 0067",
+    "Pali": "Ye",
+    "Viettnamese": "những thứ đó"
+  },
+  {
+    "id": "Pali - 0068",
+    "Pali": "santā",
+    "Viettnamese": "những người bình an"
+  },
+  {
+    "id": "Pali - 0069",
+    "Pali": "santa-cittā",
+    "Viettnamese": "của tâm bình an"
+  },
+  {
+    "id": "Pali - 0070",
+    "Pali": "tisaraṇa-saraṇā",
+    "Viettnamese": "nơi nương tựa của họ là tam bảo"
+  },
+  {
+    "id": "Pali - 0071",
+    "Pali": "ettha",
+    "Viettnamese": "ở đây, trong thế giới này"
+  },
+  {
+    "id": "Pali - 0072",
+    "Pali": "lokantare",
+    "Viettnamese": "thế giới khác"
+  },
+  {
+    "id": "Pali - 0073",
+    "Pali": "vā",
+    "Viettnamese": "hoặc"
+  },
+  {
+    "id": "Pali - 0074",
+    "Pali": "Bhummābhummā (=bhummā+abhummā)",
+    "Viettnamese": "cư ngụ trên trái đất hay nơi nào khác (cõi trần+phi cõi trần)"
+  },
+  {
+    "id": "Pali - 0075",
+    "Pali": "ca",
+    "Viettnamese": "cũng vậy"
+  },
+  {
+    "id": "Pali - 0076",
+    "Pali": "guṇa-gaṇa-gahanā",
+    "Viettnamese": "những công đức-vô số-thu được"
+  },
+  {
+    "id": "Pali - 0077",
+    "Pali": "byāvaṭā",
+    "Viettnamese": "bận rộn"
+  },
+  {
+    "id": "Pali - 0078",
+    "Pali": "sabbakālaṃ",
+    "Viettnamese": "mọi lúc"
+  },
+  {
+    "id": "Pali - 0079",
+    "Pali": "ete",
+    "Viettnamese": "những cái này"
+  },
+  {
+    "id": "Pali - 0080",
+    "Pali": "āyantu",
+    "Viettnamese": "hãy đến"
+  },
+  {
+    "id": "Pali - 0081",
+    "Pali": "Vara-kanakamaye",
+    "Viettnamese": "vàng rực rỡ"
+  },
+  {
+    "id": "Pali - 0082",
+    "Pali": "merurāje",
+    "Viettnamese": "trên núi Meru (một ngọn núi thần thoại)"
+  },
+  {
+    "id": "Pali - 0083",
+    "Pali": "vasanto",
+    "Viettnamese": "đang cư ngụ"
+  },
+  {
+    "id": "Pali - 0084",
+    "Pali": "santo",
+    "Viettnamese": "bình an"
+  },
+  {
+    "id": "Pali - 0085",
+    "Pali": "santosahetuṃ (=santosa+hetuṃ)",
+    "Viettnamese": "hài lòng+vì/cho"
+  },
+  {
+    "id": "Pali - 0086",
+    "Pali": "munivara-vacanaṃ (=muni+vara+vacanaṃ)",
+    "Viettnamese": "những lời của bậc thánh nhân vĩ đại (thánh nhân+vĩ đại+những lời)"
+  },
+  {
+    "id": "Pali - 0087",
+    "Pali": "sotumaggaṃ (=sotuṃ+aggaṃ)",
+    "Viettnamese": "để lắng nghe + cái tốt nhất"
+  },
+  {
+    "id": "Pali - 0088",
+    "Pali": "samaggaṃ",
+    "Viettnamese": "cùng nhau, đoàn kết lại"
+  },
+  {
+    "id": "Pali - 0089",
+    "Pali": "Imāya",
+    "Viettnamese": "(nhờ) điều này/cái này"
+  },
+  {
+    "id": "Pali - 0090",
+    "Pali": "Dhammānudhamma (=Dhamma+anudhamma)",
+    "Viettnamese": "từ bước đầu tiên đến đích cuối (quy luật trong hình thức đầy đủ) (dhamma+phù hợp với luật/dhamma)"
+  },
+  {
+    "id": "Pali - 0091",
+    "Pali": "paṭipattiyā",
+    "Viettnamese": "(nhờ) thực hành"
+  },
+  {
+    "id": "Pali - 0092",
+    "Pali": "Buddhaṃ",
+    "Viettnamese": "Buddha"
+  },
+  {
+    "id": "Pali - 0093",
+    "Pali": "pūjemi",
+    "Viettnamese": "(Tôi) thành kính/kính lễ"
+  },
+  {
+    "id": "Pali - 0094",
+    "Pali": "Dhammaṃ",
+    "Viettnamese": "Dhamma"
+  },
+  {
+    "id": "Pali - 0095",
+    "Pali": "Saṅghaṃ",
+    "Viettnamese": "saṅgha"
+  },
+  {
+    "id": "Pali - 0096",
+    "Pali": "Buddhā",
+    "Viettnamese": "số nhiều của Buddha"
+  },
+  {
+    "id": "Pali - 0097",
+    "Pali": "atītā",
+    "Viettnamese": "quá khứ"
+  },
+  {
+    "id": "Pali - 0098",
+    "Pali": "anāgatā",
+    "Viettnamese": "tương lai (vẫn chưa đến)"
+  },
+  {
+    "id": "Pali - 0099",
+    "Pali": "paccuppannā",
+    "Viettnamese": "hiện tại, hiện nay"
+  },
+  {
+    "id": "Pali - 0100",
+    "Pali": "ahaṃ",
+    "Viettnamese": "Tôi"
+  },
+  {
+    "id": "Pali - 0101",
+    "Pali": "vandāmi",
+    "Viettnamese": "thành kính/đánh lễ"
+  },
+  {
+    "id": "Pali - 0102",
+    "Pali": "sabbadā",
+    "Viettnamese": "luôn luôn"
+  },
+  {
+    "id": "Pali - 0103",
+    "Pali": "Dhammā",
+    "Viettnamese": "số nhiều của dhamma"
+  },
+  {
+    "id": "Pali - 0104",
+    "Pali": "Saṅghā",
+    "Viettnamese": "số nhiều của saṅgha"
+  },
+  {
+    "id": "Pali - 0105",
+    "Pali": "Natthi",
+    "Viettnamese": "không, không có"
+  },
+  {
+    "id": "Pali - 0106",
+    "Pali": "me",
+    "Viettnamese": "của tôi"
+  },
+  {
+    "id": "Pali - 0107",
+    "Pali": "aññaṃ",
+    "Viettnamese": "bất kỳ cái nào khác"
+  },
+  {
+    "id": "Pali - 0108",
+    "Pali": "Buddho (Dhamma, Saṅgho)",
+    "Viettnamese": "Buddha (Dhamma, Saṅgha)"
+  },
+  {
+    "id": "Pali - 0109",
+    "Pali": "varaṃ",
+    "Viettnamese": "tối cao, xuất sắc"
+  },
+  {
+    "id": "Pali - 0110",
+    "Pali": "etena",
+    "Viettnamese": "nhờ điều này"
+  },
+  {
+    "id": "Pali - 0111",
+    "Pali": "saccavajjena (=sacca+vajja)",
+    "Viettnamese": "nhờ lời chân thật này (sự thật+lời nói)"
+  },
+  {
+    "id": "Pali - 0112",
+    "Pali": "jayassu",
+    "Viettnamese": "nguyện có được chiến thắng"
+  },
+  {
+    "id": "Pali - 0113",
+    "Pali": "jayamangalaṃ (=jaya+maṅgalaṃ)",
+    "Viettnamese": "chiến thắng và hạnh phúc (chiến thắng+hạnh phúc)"
+  },
+  {
+    "id": "Pali - 0114",
+    "Pali": "bhavatu",
+    "Viettnamese": "nguyện cho, được"
+  },
+  {
+    "id": "Pali - 0115",
+    "Pali": "te",
+    "Viettnamese": "của bạn"
+  },
+  {
+    "id": "Pali - 0116",
+    "Pali": "sabba maṅgalaṃ (= sabba+maṅgalaṃ)",
+    "Viettnamese": "hạnh phúc, lợi lạc của tất cả (tất cả hạnh phúc)"
+  },
+  {
+    "id": "Pali - 0117",
+    "Pali": "Ti+ratana+vandanā",
+    "Viettnamese": "(số nhiều) ba + viên ngọc + thành kính, đảnh lễ"
+  },
+  {
+    "id": "Pali - 0118",
+    "Pali": "Itipi = iti+pi",
+    "Viettnamese": "Như vậy cũng (như vậy + cũng)"
+  },
+  {
+    "id": "Pali - 0119",
+    "Pali": "so",
+    "Viettnamese": "anh ấy/vị ấy"
+  },
+  {
+    "id": "Pali - 0120",
+    "Pali": "bhagavā",
+    "Viettnamese": "Đức Thế Tôn, đã thoát khỏi các bất tịnh"
+  },
+  {
+    "id": "Pali - 0121",
+    "Pali": "arahaṃ",
+    "Viettnamese": "A-la-hán, Vị xứng đáng, bậc đã tiêu diệt các kẻ thù của ngài"
+  },
+  {
+    "id": "Pali - 0122",
+    "Pali": "sammāsambuddho",
+    "Viettnamese": "Bậc hoàn toàn giải thoát bằng nỗ lực của chính mình (Chánh đẳng giác)"
+  },
+  {
+    "id": "Pali - 0123",
+    "Pali": "vijjācaraṇasampanno (=vijjā+ācaraṇa+sampanno)",
+    "Viettnamese": "hoàn hảo trong lý thuyết và thực hành (lý thuyết + thực hành + được phú cho) (minh hạnh túc)"
+  },
+  {
+    "id": "Pali - 0124",
+    "Pali": "sugato",
+    "Viettnamese": "làm tốt, đã đạt được đích cuối cùng (Thiện thệ)"
+  },
+  {
+    "id": "Pali - 0125",
+    "Pali": "lokavidū",
+    "Viettnamese": "người biết về toàn vũ trụ"
+  },
+  {
+    "id": "Pali - 0126",
+    "Pali": "anuttaro",
+    "Viettnamese": "không thể so sánh (vô song)"
+  },
+  {
+    "id": "Pali - 0127",
+    "Pali": "purisa-damma-sārathi",
+    "Viettnamese": "vị thầy của loài người (người đánh xe)"
+  },
+  {
+    "id": "Pali - 0128",
+    "Pali": "satthā",
+    "Viettnamese": "vị thầy"
+  },
+  {
+    "id": "Pali - 0129",
+    "Pali": "devamanussānaṃ",
+    "Viettnamese": "của Chư thiên và loài người"
+  },
+  {
+    "id": "Pali - 0130",
+    "Pali": "Svākkhāto (=su+akkhāto)",
+    "Viettnamese": "giải thích rõ ràng (rõ ràng + tuyên bố)"
+  },
+  {
+    "id": "Pali - 0131",
+    "Pali": "sandiṭṭhiko",
+    "Viettnamese": "được kinh nghiệm trực tiếp"
+  },
+  {
+    "id": "Pali - 0132",
+    "Pali": "akāliko",
+    "Viettnamese": "mang đến kết quả tại đây và bây giờ"
+  },
+  {
+    "id": "Pali - 0133",
+    "Pali": "ehipassiko",
+    "Viettnamese": "mời gọi người đến và xem"
+  },
+  {
+    "id": "Pali - 0134",
+    "Pali": "paccattaṃ",
+    "Viettnamese": "cá nhân, cho chính mình"
+  },
+  {
+    "id": "Pali - 0135",
+    "Pali": "veditabbo",
+    "Viettnamese": "được nhận thức rõ, giác ngộ"
+  },
+  {
+    "id": "Pali - 0136",
+    "Pali": "viññūhi",
+    "Viettnamese": "bởi bất kỳ bậc trí, người thông thái"
+  },
+  {
+    "id": "Pali - 0137",
+    "Pali": "Suppaṭipanno",
+    "Viettnamese": "người đã thực hành tốt"
+  },
+  {
+    "id": "Pali - 0138",
+    "Pali": "sāvakasaṅgho",
+    "Viettnamese": "đệ tử (Đức Phật)"
+  },
+  {
+    "id": "Pali - 0139",
+    "Pali": "ujuppaṭipanno",
+    "Viettnamese": "người hành trì nghiêm chỉnh"
+  },
+  {
+    "id": "Pali - 0140",
+    "Pali": "ñāyappaṭipanno",
+    "Viettnamese": "người hành trì trí tuệ"
+  },
+  {
+    "id": "Pali - 0141",
+    "Pali": "sāmīcippaṭipanno",
+    "Viettnamese": "người hành trì đúng đắn"
+  },
+  {
+    "id": "Pali - 0142",
+    "Pali": "yadidaṃ",
+    "Viettnamese": "đó là"
+  },
+  {
+    "id": "Pali - 0143",
+    "Pali": "cattāri",
+    "Viettnamese": "bốn"
+  },
+  {
+    "id": "Pali - 0144",
+    "Pali": "purisayugāni (=purisa+yugāni)",
+    "Viettnamese": "cặp người (người+cặp)"
+  },
+  {
+    "id": "Pali - 0145",
+    "Pali": "aṭṭhapurisapuggalā",
+    "Viettnamese": "tám loại người"
+  },
+  {
+    "id": "Pali - 0146",
+    "Pali": "esa",
+    "Viettnamese": "này"
+  },
+  {
+    "id": "Pali - 0147",
+    "Pali": "āhuneyyo",
+    "Viettnamese": "xứng đáng thọ nhận, được quý kính"
+  },
+  {
+    "id": "Pali - 0148",
+    "Pali": "pāhuneyyo",
+    "Viettnamese": "xứng đáng để thiết đãi"
+  },
+  {
+    "id": "Pali - 0149",
+    "Pali": "dakkhiṇeyyo",
+    "Viettnamese": "xứng đáng được cúng dường"
+  },
+  {
+    "id": "Pali - 0150",
+    "Pali": "añjalikaraṇīyo",
+    "Viettnamese": "xứng đáng được tôn kính với đôi bàn tay chắp lại"
+  },
+  {
+    "id": "Pali - 0151",
+    "Pali": "anuttaraṃ",
+    "Viettnamese": "vô song, không vượt qua được"
+  },
+  {
+    "id": "Pali - 0152",
+    "Pali": "puññakkhettaṃ (= puñña+khettaṃ)",
+    "Viettnamese": "ruộng công đức (công đức+ruộng)"
+  },
+  {
+    "id": "Pali - 0153",
+    "Pali": "lokassa",
+    "Viettnamese": "cho thế gian"
+  },
+  {
+    "id": "Pali - 0154",
+    "Pali": "Āṭānāṭiya",
+    "Viettnamese": "tên thị trấn"
+  },
+  {
+    "id": "Pali - 0155",
+    "Pali": "Appasannehi",
+    "Viettnamese": "không hạnh phúc, không tin tưởng, không hài lòng"
+  },
+  {
+    "id": "Pali - 0156",
+    "Pali": "nāthassa",
+    "Viettnamese": "thượng đế (của, hướng về)"
+  },
+  {
+    "id": "Pali - 0157",
+    "Pali": "sāsane",
+    "Viettnamese": "giáo huấn"
+  },
+  {
+    "id": "Pali - 0158",
+    "Pali": "sādhu",
+    "Viettnamese": "người tốt"
+  },
+  {
+    "id": "Pali - 0159",
+    "Pali": "sammate",
+    "Viettnamese": "được đồng ý bởi"
+  },
+  {
+    "id": "Pali - 0160",
+    "Pali": "amanussehi",
+    "Viettnamese": "không phải loài người"
+  },
+  {
+    "id": "Pali - 0161",
+    "Pali": "caṇḍehi",
+    "Viettnamese": "tức giận, phẫn nộ"
+  },
+  {
+    "id": "Pali - 0162",
+    "Pali": "sadā",
+    "Viettnamese": "luôn luôn"
+  },
+  {
+    "id": "Pali - 0163",
+    "Pali": "kibbisakāribhi",
+    "Viettnamese": "kẻ làm ác"
+  },
+  {
+    "id": "Pali - 0164",
+    "Pali": "Parisānaṃ",
+    "Viettnamese": "quy tụ, tập hợp"
+  },
+  {
+    "id": "Pali - 0165",
+    "Pali": "catassannaṃ",
+    "Viettnamese": "bốn"
+  },
+  {
+    "id": "Pali - 0166",
+    "Pali": "ahiṃsāya",
+    "Viettnamese": "không gây tổn thương"
+  },
+  {
+    "id": "Pali - 0167",
+    "Pali": "ca",
+    "Viettnamese": "và, cũng thế, cũng"
+  },
+  {
+    "id": "Pali - 0168",
+    "Pali": "guttiyā",
+    "Viettnamese": "sự bảo vệ, hộ trì"
+  },
+  {
+    "id": "Pali - 0169",
+    "Pali": "yaṃ",
+    "Viettnamese": "cái mà, cái đó"
+  },
+  {
+    "id": "Pali - 0170",
+    "Pali": "desesi",
+    "Viettnamese": "đã dạy"
+  },
+  {
+    "id": "Pali - 0171",
+    "Pali": "mahāvīro",
+    "Viettnamese": "của sự dũng cảm vĩ đại (Đức Phật)"
+  },
+  {
+    "id": "Pali - 0172",
+    "Pali": "parittaṃ",
+    "Viettnamese": "những lời hộ trì"
+  },
+  {
+    "id": "Pali - 0173",
+    "Pali": "taṃ",
+    "Viettnamese": "đó"
+  },
+  {
+    "id": "Pali - 0174",
+    "Pali": "bhaṇāmahe",
+    "Viettnamese": "chúng ta hãy cùng tụng"
+  },
+  {
+    "id": "Pali - 0175",
+    "Pali": "Vipassī",
+    "Viettnamese": "tên vị Phật trước đây"
+  },
+  {
+    "id": "Pali - 0176",
+    "Pali": "sabbabhūtānukampino (=sabba+bhūta+anukampino)",
+    "Viettnamese": "bi mẫn đến muôn loài (tất cả + chúng sinh + bi mẫn)"
+  },
+  {
+    "id": "Pali - 0177",
+    "Pali": "Vesabhū",
+    "Viettnamese": "tên vị Phật trước đây"
+  },
+  {
+    "id": "Pali - 0178",
+    "Pali": "nhātakassa",
+    "Viettnamese": "vị đã gột sạch tất cả bất tịnh"
+  },
+  {
+    "id": "Pali - 0179",
+    "Pali": "tapassino",
+    "Viettnamese": "vị hành giả nhiệt thành"
+  },
+  {
+    "id": "Pali - 0180",
+    "Pali": "Kakusandha",
+    "Viettnamese": "tên vị Phật trước đây"
+  },
+  {
+    "id": "Pali - 0181",
+    "Pali": "mārasenāpamaddino (=māra+senā+pamaddino)",
+    "Viettnamese": "vị chiến thắng đội quân của Māra (Māra + đội quân + người chiến thắng)"
+  },
+  {
+    "id": "Pali - 0182",
+    "Pali": "Koṇāgamana",
+    "Viettnamese": "tên vị Phật trước đây"
+  },
+  {
+    "id": "Pali - 0183",
+    "Pali": "brāhmaṇassa",
+    "Viettnamese": "của đời sống thuần khiết, đời sống vô tội"
+  },
+  {
+    "id": "Pali - 0184",
+    "Pali": "vusīmato",
+    "Viettnamese": "bậc toàn hảo"
+  },
+  {
+    "id": "Pali - 0185",
+    "Pali": "Kassapa",
+    "Viettnamese": "tên vị Phật trước đây"
+  },
+  {
+    "id": "Pali - 0186",
+    "Pali": "vippamuttassa",
+    "Viettnamese": "được tự do hoàn toàn"
+  },
+  {
+    "id": "Pali - 0187",
+    "Pali": "sabbadhi",
+    "Viettnamese": "trong mọi khía cạnh"
+  },
+  {
+    "id": "Pali - 0188",
+    "Pali": "Aṅgīrasa",
+    "Viettnamese": "bậc rực rỡ, huy hoàng"
+  },
+  {
+    "id": "Pali - 0189",
+    "Pali": "caññe=ca+aññe",
+    "Viettnamese": "và những người khác"
+  },
+  {
+    "id": "Pali - 0190",
+    "Pali": "sambuddhā",
+    "Viettnamese": "hoàn toàn giải thoát bằng chính nỗ lực của vị ấy"
+  },
+  {
+    "id": "Pali - 0191",
+    "Pali": "anekasatakoṭiyo (=aneka+sata+koṭiyo)",
+    "Viettnamese": "hàng trăm crore (một crore = mười triệu)"
+  },
+  {
+    "id": "Pali - 0192",
+    "Pali": "sabbe",
+    "Viettnamese": "tất cả"
+  },
+  {
+    "id": "Pali - 0193",
+    "Pali": "Buddhā",
+    "Viettnamese": "Bậc Giác Ngộ"
+  },
+  {
+    "id": "Pali - 0194",
+    "Pali": "samasamā",
+    "Viettnamese": "ngang bằng, bình đẳng"
+  },
+  {
+    "id": "Pali - 0195",
+    "Pali": "mahiddhikā",
+    "Viettnamese": "sở hữu sức mạnh siêu nhiên to lớn"
+  },
+  {
+    "id": "Pali - 0196",
+    "Pali": "dasabalūpetā (=dasa+bala+upetā)",
+    "Viettnamese": "được ban cho mười loại sức mạnh (mười+sức mạnh+được ban cho)"
+  },
+  {
+    "id": "Pali - 0197",
+    "Pali": "vesārajjehupāgatā",
+    "Viettnamese": "đạt được 4 lĩnh vực tự tin"
+  },
+  {
+    "id": "Pali - 0198",
+    "Pali": "paṭijānanti",
+    "Viettnamese": "biết"
+  },
+  {
+    "id": "Pali - 0199",
+    "Pali": "āsabhaṭṭhānamuttamaṃ (=āsabha+ṭhānaṃ+uttamaṃ)",
+    "Viettnamese": "nơi ở của con bò đực hay nơi nổi bật (bò đực+vị trí+nhất)"
+  },
+  {
+    "id": "Pali - 0200",
+    "Pali": "Sīhanādaṃ=sīhā+nādaṃ",
+    "Viettnamese": "tiếng rống sư tử (sư tử + rống)"
+  },
+  {
+    "id": "Pali - 0201",
+    "Pali": "nadante",
+    "Viettnamese": "âm thanh"
+  },
+  {
+    "id": "Pali - 0202",
+    "Pali": "parisāsu",
+    "Viettnamese": "trong các hội đồng, hội chúng"
+  },
+  {
+    "id": "Pali - 0203",
+    "Pali": "visāradā",
+    "Viettnamese": "có kỹ năng, tự tin, thông thái"
+  },
+  {
+    "id": "Pali - 0204",
+    "Pali": "brahmacakkaṃ",
+    "Viettnamese": "bánh xe Dhamma"
+  },
+  {
+    "id": "Pali - 0205",
+    "Pali": "pavattenti",
+    "Viettnamese": "chúng lăn, bắt đầu"
+  },
+  {
+    "id": "Pali - 0206",
+    "Pali": "loke",
+    "Viettnamese": "trong thế gian"
+  },
+  {
+    "id": "Pali - 0207",
+    "Pali": "sakyaputtassa",
+    "Viettnamese": "con trai dòng Sakyā (dòng dõi)"
+  },
+  {
+    "id": "Pali - 0208",
+    "Pali": "Yo",
+    "Viettnamese": "ai, người nào"
+  },
+  {
+    "id": "Pali - 0209",
+    "Pali": "imaṃ",
+    "Viettnamese": "này"
+  },
+  {
+    "id": "Pali - 0210",
+    "Pali": "sabbadukkhāpanūdanaṃ (=sabba+dukkhā+panūdanaṃ)",
+    "Viettnamese": "xua tan mọi đau khổ (tất cả + đau khổ + xua tan)"
+  },
+  {
+    "id": "Pali - 0211",
+    "Pali": "Ye",
+    "Viettnamese": "ai, người nào"
+  },
+  {
+    "id": "Pali - 0212",
+    "Pali": "cāpi = ca + api",
+    "Viettnamese": "và cũng"
+  },
+  {
+    "id": "Pali - 0213",
+    "Pali": "nibbutā",
+    "Viettnamese": "dập tắt tham ái thế gian, được giải thoát"
+  },
+  {
+    "id": "Pali - 0214",
+    "Pali": "loke",
+    "Viettnamese": "trong thế gian"
+  },
+  {
+    "id": "Pali - 0215",
+    "Pali": "yathābhūtaṃ",
+    "Viettnamese": "sự thực như nó là"
+  },
+  {
+    "id": "Pali - 0216",
+    "Pali": "vipassisum",
+    "Viettnamese": "tuệ giác"
+  },
+  {
+    "id": "Pali - 0217",
+    "Pali": "Te",
+    "Viettnamese": "họ, này"
+  },
+  {
+    "id": "Pali - 0218",
+    "Pali": "janā",
+    "Viettnamese": "mọi người"
+  },
+  {
+    "id": "Pali - 0219",
+    "Pali": "apisuṇātha",
+    "Viettnamese": "không nói xấu"
+  },
+  {
+    "id": "Pali - 0220",
+    "Pali": "mahantā",
+    "Viettnamese": "hùng mạnh, hùng vĩ"
+  },
+  {
+    "id": "Pali - 0221",
+    "Pali": "vītasāradā",
+    "Viettnamese": "không thiếu kinh nghiệm, khôn ngoan"
+  },
+  {
+    "id": "Pali - 0222",
+    "Pali": "Hitaṃ",
+    "Viettnamese": "ân nhân"
+  },
+  {
+    "id": "Pali - 0223",
+    "Pali": "devamanussānaṃ",
+    "Viettnamese": "chư thiên và loài người"
+  },
+  {
+    "id": "Pali - 0224",
+    "Pali": "yaṃ",
+    "Viettnamese": "người mà"
+  },
+  {
+    "id": "Pali - 0225",
+    "Pali": "namassanti",
+    "Viettnamese": "người mà mọi người kính trọng"
+  },
+  {
+    "id": "Pali - 0226",
+    "Pali": "Vijjācaraṇasampannaṃ",
+    "Viettnamese": "toàn hảo trí tuệ và giới hạnh"
+  },
+  {
+    "id": "Pali - 0227",
+    "Pali": "mahantaṃ",
+    "Viettnamese": "hùng mạnh"
+  },
+  {
+    "id": "Pali - 0228",
+    "Pali": "Ete",
+    "Viettnamese": "này"
+  },
+  {
+    "id": "Pali - 0229",
+    "Pali": "appaṭivattiyaṃ",
+    "Viettnamese": "chuyển động không thể quay trở lại"
+  },
+  {
+    "id": "Pali - 0230",
+    "Pali": "Upetā",
+    "Viettnamese": "được phú cho"
+  },
+  {
+    "id": "Pali - 0231",
+    "Pali": "Buddhadhammehi",
+    "Viettnamese": "(với ) những phẩm hạnh của một vị Phật"
+  },
+  {
+    "id": "Pali - 0232",
+    "Pali": "aṭṭhārasahi",
+    "Viettnamese": "18 loại (phẩm hạnh phi thường)"
+  },
+  {
+    "id": "Pali - 0233",
+    "Pali": "nāyakā",
+    "Viettnamese": "những nhà lãnh đạo, người dẫn đầu"
+  },
+  {
+    "id": "Pali - 0234",
+    "Pali": "battimsa-lakkhaṇūpetā (=battimsa+lakkhaṇa+upetā)",
+    "Viettnamese": "được phú cho 32 hảo tướng (32 + tướng + được phú cho)"
+  },
+  {
+    "id": "Pali - 0235",
+    "Pali": "sītānubyañjanādharā",
+    "Viettnamese": "có 80 điểm đặc trưng nhỏ hơn"
+  },
+  {
+    "id": "Pali - 0236",
+    "Pali": "Byāmappabhāya (=byāma+pabhāya)",
+    "Viettnamese": "sải + vầng hào quang (với)"
+  },
+  {
+    "id": "Pali - 0237",
+    "Pali": "suppabhā",
+    "Viettnamese": "rực rỡ sáng ngời"
+  },
+  {
+    "id": "Pali - 0238",
+    "Pali": "muni + kuñjarā",
+    "Viettnamese": "(thánh nhân + voi xuất chúng)"
+  },
+  {
+    "id": "Pali - 0239",
+    "Pali": "sabbaññuno",
+    "Viettnamese": "thông suốt mọi sự, toàn tri, toàn giác"
+  },
+  {
+    "id": "Pali - 0240",
+    "Pali": "khīṇāsavā (=khīṇa+āsavā)",
+    "Viettnamese": "vị A la hán, người đã diệt trừ mọi phiền não (đã cạn kiệt + dòng chảy ô nhiễm tinh thần)"
+  },
+  {
+    "id": "Pali - 0241",
+    "Pali": "jinā",
+    "Viettnamese": "những bậc chiến thắng"
+  },
+  {
+    "id": "Pali - 0242",
+    "Pali": "Mahāpabhā",
+    "Viettnamese": "có đại hào quang"
+  },
+  {
+    "id": "Pali - 0243",
+    "Pali": "mahātejā",
+    "Viettnamese": "có đại năng lực"
+  },
+  {
+    "id": "Pali - 0244",
+    "Pali": "mahāpaññā",
+    "Viettnamese": "có đại trí tuệ"
+  },
+  {
+    "id": "Pali - 0245",
+    "Pali": "mahabbalā",
+    "Viettnamese": "có đại oai lực"
+  },
+  {
+    "id": "Pali - 0246",
+    "Pali": "mahākāruṇikā",
+    "Viettnamese": "có đại bi mẫn"
+  },
+  {
+    "id": "Pali - 0247",
+    "Pali": "dhīrā",
+    "Viettnamese": "cương quyết"
+  },
+  {
+    "id": "Pali - 0248",
+    "Pali": "sabbesānaṃ",
+    "Viettnamese": "cho tất cả"
+  },
+  {
+    "id": "Pali - 0249",
+    "Pali": "sukhāvahā",
+    "Viettnamese": "mang lại hạnh phúc"
+  },
+  {
+    "id": "Pali - 0250",
+    "Pali": "Dīpā",
+    "Viettnamese": "nơi nương tựa, hòn đảo"
+  },
+  {
+    "id": "Pali - 0251",
+    "Pali": "nāthā",
+    "Viettnamese": "những vị hộ trì, các Thượng Đế"
+  },
+  {
+    "id": "Pali - 0252",
+    "Pali": "patiṭṭhā",
+    "Viettnamese": "sự giúp đỡ, nơi trú tạm, nơi nương tựa"
+  },
+  {
+    "id": "Pali - 0253",
+    "Pali": "tāṇā",
+    "Viettnamese": "sự hộ trì"
+  },
+  {
+    "id": "Pali - 0254",
+    "Pali": "leṇā",
+    "Viettnamese": "nơi an toàn"
+  },
+  {
+    "id": "Pali - 0255",
+    "Pali": "pāṇinam",
+    "Viettnamese": "cho chúng sinh hữu tình"
+  },
+  {
+    "id": "Pali - 0256",
+    "Pali": "gatī",
+    "Viettnamese": "những nơi trú ẩn/nương tựa"
+  },
+  {
+    "id": "Pali - 0257",
+    "Pali": "bandhū",
+    "Viettnamese": "dòng dõi, người thân"
+  },
+  {
+    "id": "Pali - 0258",
+    "Pali": "mahessāsā (mahā+assāsa)",
+    "Viettnamese": "lớn lao + nguồn an ủi"
+  },
+  {
+    "id": "Pali - 0259",
+    "Pali": "saraṇā",
+    "Viettnamese": "nơi nương tựa"
+  },
+  {
+    "id": "Pali - 0260",
+    "Pali": "hitesino",
+    "Viettnamese": "những lời chúc tốt lành"
+  },
+  {
+    "id": "Pali - 0261",
+    "Pali": "Sadevakassa",
+    "Viettnamese": "với tất cả chư thiên"
+  },
+  {
+    "id": "Pali - 0262",
+    "Pali": "lokassa",
+    "Viettnamese": "của thế gian này"
+  },
+  {
+    "id": "Pali - 0263",
+    "Pali": "parāyaṇā",
+    "Viettnamese": "hỗ trợ"
+  },
+  {
+    "id": "Pali - 0264",
+    "Pali": "sirasā",
+    "Viettnamese": "với cái đầu"
+  },
+  {
+    "id": "Pali - 0265",
+    "Pali": "pāde",
+    "Viettnamese": "dưới chân"
+  },
+  {
+    "id": "Pali - 0266",
+    "Pali": "vandāmi",
+    "Viettnamese": "Tôi/con đảnh lễ"
+  },
+  {
+    "id": "Pali - 0267",
+    "Pali": "purisuttame",
+    "Viettnamese": "những con người xuất sắc, những chúng sinh vĩ đại"
+  },
+  {
+    "id": "Pali - 0268",
+    "Pali": "Vacasā",
+    "Viettnamese": "trong lời nói"
+  },
+  {
+    "id": "Pali - 0269",
+    "Pali": "manasā",
+    "Viettnamese": "trong suy nghĩ"
+  },
+  {
+    "id": "Pali - 0270",
+    "Pali": "ceva=ca+eva",
+    "Viettnamese": "và cũng (và + cũng)"
+  },
+  {
+    "id": "Pali - 0271",
+    "Pali": "vandāmete (=vandāmi+ete)",
+    "Viettnamese": "Tôi/con kính lễ tới những vị này (Tôi/con đảnh lễ tới + những vị này)"
+  },
+  {
+    "id": "Pali - 0272",
+    "Pali": "tathāgate",
+    "Viettnamese": "Chư Phật"
+  },
+  {
+    "id": "Pali - 0273",
+    "Pali": "sayane",
+    "Viettnamese": "trong khi nằm"
+  },
+  {
+    "id": "Pali - 0274",
+    "Pali": "āsane",
+    "Viettnamese": "trong khi ngồi"
+  },
+  {
+    "id": "Pali - 0275",
+    "Pali": "ṭhāne",
+    "Viettnamese": "trong khi đứng"
+  },
+  {
+    "id": "Pali - 0276",
+    "Pali": "gamane",
+    "Viettnamese": "trong khi đi"
+  },
+  {
+    "id": "Pali - 0277",
+    "Pali": "sabbadā",
+    "Viettnamese": "mọi lúc"
+  },
+  {
+    "id": "Pali - 0278",
+    "Pali": "Sadā",
+    "Viettnamese": "luôn luôn"
+  },
+  {
+    "id": "Pali - 0279",
+    "Pali": "sukhena",
+    "Viettnamese": "một cách hạnh phúc"
+  },
+  {
+    "id": "Pali - 0280",
+    "Pali": "rakkhantu",
+    "Viettnamese": "gìn giữ, bảo vệ"
+  },
+  {
+    "id": "Pali - 0281",
+    "Pali": "santikarā",
+    "Viettnamese": "người chỉ đường đến (đề xướng) bình an"
+  },
+  {
+    "id": "Pali - 0282",
+    "Pali": "tehi",
+    "Viettnamese": "bởi họ"
+  },
+  {
+    "id": "Pali - 0283",
+    "Pali": "tvaṃ",
+    "Viettnamese": "bạn"
+  },
+  {
+    "id": "Pali - 0284",
+    "Pali": "rakkhito",
+    "Viettnamese": "được bảo vệ"
+  },
+  {
+    "id": "Pali - 0285",
+    "Pali": "santo",
+    "Viettnamese": "bình an, an vui"
+  },
+  {
+    "id": "Pali - 0286",
+    "Pali": "mutto",
+    "Viettnamese": "tự do"
+  },
+  {
+    "id": "Pali - 0287",
+    "Pali": "sabbabhayehi (=sabba+bhayehi)",
+    "Viettnamese": "khỏi mọi nỗi sợ (tất cả + khỏi những nỗi sợ)"
+  },
+  {
+    "id": "Pali - 0288",
+    "Pali": "Sabbarogā",
+    "Viettnamese": "khỏi mọi bệnh tật"
+  },
+  {
+    "id": "Pali - 0289",
+    "Pali": "vinimutto",
+    "Viettnamese": "hoàn toàn tự do, giải thoát"
+  },
+  {
+    "id": "Pali - 0290",
+    "Pali": "sabbasantāpavajjito (=sabba+santāpa+vajjito)",
+    "Viettnamese": "thoát khỏi mọi đau khổ (tất cả+đau khổ+ thoát khỏi)"
+  },
+  {
+    "id": "Pali - 0291",
+    "Pali": "sabbaveramatikkanto",
+    "Viettnamese": "vượt qua mọi hận thù"
+  },
+  {
+    "id": "Pali - 0292",
+    "Pali": "nibbuto",
+    "Viettnamese": "tiêu diệt, dập tắt, để có được niềm hạnh phúc cuối cùng"
+  },
+  {
+    "id": "Pali - 0293",
+    "Pali": "bhava",
+    "Viettnamese": "trở nên, trở thành"
+  },
+  {
+    "id": "Pali - 0294",
+    "Pali": "Tesaṃ",
+    "Viettnamese": "của họ"
+  },
+  {
+    "id": "Pali - 0295",
+    "Pali": "saccena",
+    "Viettnamese": "sự thật"
+  },
+  {
+    "id": "Pali - 0296",
+    "Pali": "sīlena",
+    "Viettnamese": "đức hạnh"
+  },
+  {
+    "id": "Pali - 0297",
+    "Pali": "khanti",
+    "Viettnamese": "khảm nhẫn"
+  },
+  {
+    "id": "Pali - 0298",
+    "Pali": "mettā",
+    "Viettnamese": "lòng từ ái"
+  },
+  {
+    "id": "Pali - 0299",
+    "Pali": "balena",
+    "Viettnamese": "sức mạnh"
+  },
+  {
+    "id": "Pali - 0300",
+    "Pali": "tepi=te+pi",
+    "Viettnamese": "họ cũng (họ+cũng)"
+  },
+  {
+    "id": "Pali - 0301",
+    "Pali": "tvaṃ",
+    "Viettnamese": "bạn"
+  },
+  {
+    "id": "Pali - 0302",
+    "Pali": "anurakkhantu",
+    "Viettnamese": "nguyện họ hộ trì, nguyện họ gìn giữ"
+  },
+  {
+    "id": "Pali - 0303",
+    "Pali": "arogena",
+    "Viettnamese": "lành mạnh"
+  },
+  {
+    "id": "Pali - 0304",
+    "Pali": "sukhena",
+    "Viettnamese": "hạnh phúc"
+  },
+  {
+    "id": "Pali - 0305",
+    "Pali": "Puratthimasmiṃ",
+    "Viettnamese": "ở hướng đông"
+  },
+  {
+    "id": "Pali - 0306",
+    "Pali": "disābhāge",
+    "Viettnamese": "các hướng"
+  },
+  {
+    "id": "Pali - 0307",
+    "Pali": "santi",
+    "Viettnamese": "có"
+  },
+  {
+    "id": "Pali - 0308",
+    "Pali": "bhūtā",
+    "Viettnamese": "chúng sinh"
+  },
+  {
+    "id": "Pali - 0309",
+    "Pali": "Dakkhiṇasmiṃ",
+    "Viettnamese": "ở hướng nam"
+  },
+  {
+    "id": "Pali - 0310",
+    "Pali": "Pacchimasmiṃ",
+    "Viettnamese": "ở hướng tây"
+  },
+  {
+    "id": "Pali - 0311",
+    "Pali": "nāgā",
+    "Viettnamese": "con rắn"
+  },
+  {
+    "id": "Pali - 0312",
+    "Pali": "Uttarasmiṃ",
+    "Viettnamese": "ở hướng bắc"
+  },
+  {
+    "id": "Pali - 0313",
+    "Pali": "yakkhā",
+    "Viettnamese": "không phải loài người, quỷ /dạ xoa"
+  },
+  {
+    "id": "Pali - 0314",
+    "Pali": "Dhataraṭṭho",
+    "Viettnamese": "vua phương đông (tên)"
+  },
+  {
+    "id": "Pali - 0315",
+    "Pali": "Virūḷhako",
+    "Viettnamese": "vua phương nam (tên)"
+  },
+  {
+    "id": "Pali - 0316",
+    "Pali": "Virūpakkho",
+    "Viettnamese": "vua phương tây (tên)"
+  },
+  {
+    "id": "Pali - 0317",
+    "Pali": "Kuvero",
+    "Viettnamese": "vua phương bắc (tên)"
+  },
+  {
+    "id": "Pali - 0318",
+    "Pali": "Cattāro",
+    "Viettnamese": "bốn"
+  },
+  {
+    "id": "Pali - 0319",
+    "Pali": "mahārājā",
+    "Viettnamese": "những vị vua vĩ đại"
+  },
+  {
+    "id": "Pali - 0320",
+    "Pali": "lokapālā (=loka+pāla)",
+    "Viettnamese": "những người bảo vệ thế giới này (thế giới + những người bảo vệ)"
+  },
+  {
+    "id": "Pali - 0321",
+    "Pali": "yasassino",
+    "Viettnamese": "có danh tiếng"
+  },
+  {
+    "id": "Pali - 0322",
+    "Pali": "Ākāsaṭṭhā",
+    "Viettnamese": "trú trên cõi trời"
+  },
+  {
+    "id": "Pali - 0323",
+    "Pali": "bhūmmaṭṭhā",
+    "Viettnamese": "trú trên trái đất/cõi trần"
+  },
+  {
+    "id": "Pali - 0324",
+    "Pali": "Iddhimanto",
+    "Viettnamese": "những vị hùng mạnh/hùng cường"
+  },
+  {
+    "id": "Pali - 0325",
+    "Pali": "ye",
+    "Viettnamese": "của họ"
+  },
+  {
+    "id": "Pali - 0326",
+    "Pali": "vasantā",
+    "Viettnamese": "sống"
+  },
+  {
+    "id": "Pali - 0327",
+    "Pali": "idha",
+    "Viettnamese": "ở đây"
+  },
+  {
+    "id": "Pali - 0328",
+    "Pali": "sāsane",
+    "Viettnamese": "trong giáo huấn/giáo pháp"
+  },
+  {
+    "id": "Pali - 0329",
+    "Pali": "Sabbītiyo=sabba+iti",
+    "Viettnamese": "tất cả tai ương"
+  },
+  {
+    "id": "Pali - 0330",
+    "Pali": "vivajjantu",
+    "Viettnamese": "(nguyện cho) rời đi"
+  },
+  {
+    "id": "Pali - 0331",
+    "Pali": "soko",
+    "Viettnamese": "nỗi đau khổ"
+  },
+  {
+    "id": "Pali - 0332",
+    "Pali": "rogo",
+    "Viettnamese": "bệnh tật"
+  },
+  {
+    "id": "Pali - 0333",
+    "Pali": "vinassatu",
+    "Viettnamese": "nguyện cho bị phá hủy, diệt vong"
+  },
+  {
+    "id": "Pali - 0334",
+    "Pali": "mā",
+    "Viettnamese": "không"
+  },
+  {
+    "id": "Pali - 0335",
+    "Pali": "bhavatvantarāyo (=bhavatu+antarāyo)",
+    "Viettnamese": "gây hại đến (gây+hại)"
+  },
+  {
+    "id": "Pali - 0336",
+    "Pali": "sukhī",
+    "Viettnamese": "hạnh phúc"
+  },
+  {
+    "id": "Pali - 0337",
+    "Pali": "dīghāyuko",
+    "Viettnamese": "sống thọ"
+  },
+  {
+    "id": "Pali - 0338",
+    "Pali": "Abhivādanasīlassa",
+    "Viettnamese": "thói quen chào hỏi kính cẩn"
+  },
+  {
+    "id": "Pali - 0339",
+    "Pali": "niccaṃ",
+    "Viettnamese": "luôn luôn, thường hằng"
+  },
+  {
+    "id": "Pali - 0340",
+    "Pali": "Vuḍḍhāpacāyino (=vuḍḍhā+ apacāyino)",
+    "Viettnamese": "kính trọng bậc lớn tuổi (lớn tuổi+người kính trọng)"
+  },
+  {
+    "id": "Pali - 0341",
+    "Pali": "dhammā",
+    "Viettnamese": "phẩm hạnh"
+  },
+  {
+    "id": "Pali - 0342",
+    "Pali": "vaḍḍhanti",
+    "Viettnamese": "tăng, gia tăng"
+  },
+  {
+    "id": "Pali - 0343",
+    "Pali": "āyu",
+    "Viettnamese": "tuổi tác, sống thọ"
+  },
+  {
+    "id": "Pali - 0344",
+    "Pali": "vaṇṇo",
+    "Viettnamese": "nhan sắc, nước da"
+  },
+  {
+    "id": "Pali - 0345",
+    "Pali": "sukhaṃ",
+    "Viettnamese": "hạnh phúc"
+  },
+  {
+    "id": "Pali - 0346",
+    "Pali": "balaṃ",
+    "Viettnamese": "sức mạnh"
+  },
+  {
+    "id": "Pali - 0347",
+    "Pali": "Koṭisatasahassesu (=Koṭi+sata+sahassa)",
+    "Viettnamese": "con số cực cao (crore+trăm+ngàn)"
+  },
+  {
+    "id": "Pali - 0348",
+    "Pali": "cakkavāḷesu",
+    "Viettnamese": "trong hệ thống thế gian này"
+  },
+  {
+    "id": "Pali - 0349",
+    "Pali": "devatā",
+    "Viettnamese": "chư thiên"
+  },
+  {
+    "id": "Pali - 0350",
+    "Pali": "Yassānaṃ (=yassa+āṇaṃ)",
+    "Viettnamese": "mệnh lệnh của người ai đó (của người ai đó +mệnh lệnh)"
+  },
+  {
+    "id": "Pali - 0351",
+    "Pali": "paṭigaṇhanti",
+    "Viettnamese": "chấp nhận"
+  },
+  {
+    "id": "Pali - 0352",
+    "Pali": "yañca=yaṃ+ca",
+    "Viettnamese": "và cái nào (cái nào + và)"
+  },
+  {
+    "id": "Pali - 0353",
+    "Pali": "vesāliyā",
+    "Viettnamese": "ở Vesālī (một thành phố)"
+  },
+  {
+    "id": "Pali - 0354",
+    "Pali": "pure",
+    "Viettnamese": "trước đây"
+  },
+  {
+    "id": "Pali - 0355",
+    "Pali": "rogāmanussa-dubbhikkhaṃ (=roga+amanussa+dubbhikkhaṃ)",
+    "Viettnamese": "bệnh tật + phi nhân + nạn đói"
+  },
+  {
+    "id": "Pali - 0356",
+    "Pali": "sambūtaṃ",
+    "Viettnamese": "khởi sinh từ điều này"
+  },
+  {
+    "id": "Pali - 0357",
+    "Pali": "tividhaṃ",
+    "Viettnamese": "3 loại"
+  },
+  {
+    "id": "Pali - 0358",
+    "Pali": "bhayaṃ",
+    "Viettnamese": "nỗi sợ"
+  },
+  {
+    "id": "Pali - 0359",
+    "Pali": "Khippamantaradhāpesi (=Khippaṃ+antaradhāpesi)",
+    "Viettnamese": "nguyên nhân biến mất một cách nhanh chóng (một cách nhanh chóng+nguyên nhân biến mất)"
+  },
+  {
+    "id": "Pali - 0360",
+    "Pali": "parittaṃ",
+    "Viettnamese": "lời kệ hộ trì"
+  },
+  {
+    "id": "Pali - 0361",
+    "Pali": "taṃ",
+    "Viettnamese": "đó"
+  },
+  {
+    "id": "Pali - 0362",
+    "Pali": "bhaṇāmahe",
+    "Viettnamese": "chúng ta hãy cùng tụng"
+  },
+  {
+    "id": "Pali - 0363",
+    "Pali": "Yānīdha=yāni+idha",
+    "Viettnamese": "dù thế nào + ở đây"
+  },
+  {
+    "id": "Pali - 0364",
+    "Pali": "bhūtāni",
+    "Viettnamese": "sinh vật sống"
+  },
+  {
+    "id": "Pali - 0365",
+    "Pali": "samāgatāni",
+    "Viettnamese": "được tập hợp lại"
+  },
+  {
+    "id": "Pali - 0366",
+    "Pali": "bhummāni",
+    "Viettnamese": "ở trên mặt đất"
+  },
+  {
+    "id": "Pali - 0367",
+    "Pali": "vā",
+    "Viettnamese": "hoặc, có...không"
+  },
+  {
+    "id": "Pali - 0368",
+    "Pali": "antalikkhe",
+    "Viettnamese": "cõi trời (bầu trời)"
+  },
+  {
+    "id": "Pali - 0369",
+    "Pali": "sabbeva",
+    "Viettnamese": "tất cả"
+  },
+  {
+    "id": "Pali - 0370",
+    "Pali": "bhūtā",
+    "Viettnamese": "chúng sinh"
+  },
+  {
+    "id": "Pali - 0371",
+    "Pali": "sumanā",
+    "Viettnamese": "hạnh phúc"
+  },
+  {
+    "id": "Pali - 0372",
+    "Pali": "bhavantu",
+    "Viettnamese": "được"
+  },
+  {
+    "id": "Pali - 0373",
+    "Pali": "athopi=atho+api",
+    "Viettnamese": "và (sau đó cũng)"
+  },
+  {
+    "id": "Pali - 0374",
+    "Pali": "sakkacca",
+    "Viettnamese": "một cách kính trọng, cẩn thận"
+  },
+  {
+    "id": "Pali - 0375",
+    "Pali": "suṇantu",
+    "Viettnamese": "hãy lắng nghe"
+  },
+  {
+    "id": "Pali - 0376",
+    "Pali": "bhāsitaṃ",
+    "Viettnamese": "những lời này, những gì được nói ra"
+  },
+  {
+    "id": "Pali - 0377",
+    "Pali": "Tasmā",
+    "Viettnamese": "vì vậy"
+  },
+  {
+    "id": "Pali - 0378",
+    "Pali": "nisāmetha",
+    "Viettnamese": "lắng nghe"
+  },
+  {
+    "id": "Pali - 0379",
+    "Pali": "sabbe",
+    "Viettnamese": "tất cả"
+  },
+  {
+    "id": "Pali - 0380",
+    "Pali": "mettaṃ mettā",
+    "Viettnamese": "(tâm từ)"
+  },
+  {
+    "id": "Pali - 0381",
+    "Pali": "karotha",
+    "Viettnamese": "thực hành"
+  },
+  {
+    "id": "Pali - 0382",
+    "Pali": "mānusiyā",
+    "Viettnamese": "hướng đến loài người"
+  },
+  {
+    "id": "Pali - 0383",
+    "Pali": "pajāya",
+    "Viettnamese": "chúng sinh"
+  },
+  {
+    "id": "Pali - 0384",
+    "Pali": "divā",
+    "Viettnamese": "ngày"
+  },
+  {
+    "id": "Pali - 0385",
+    "Pali": "ca",
+    "Viettnamese": "và"
+  },
+  {
+    "id": "Pali - 0386",
+    "Pali": "ratto",
+    "Viettnamese": "đêm"
+  },
+  {
+    "id": "Pali - 0387",
+    "Pali": "haranti",
+    "Viettnamese": "mang theo"
+  },
+  {
+    "id": "Pali - 0388",
+    "Pali": "ye",
+    "Viettnamese": "ai"
+  },
+  {
+    "id": "Pali - 0389",
+    "Pali": "baliṃ",
+    "Viettnamese": "hiến tặng"
+  },
+  {
+    "id": "Pali - 0390",
+    "Pali": "ne",
+    "Viettnamese": "họ"
+  },
+  {
+    "id": "Pali - 0391",
+    "Pali": "rakkhatha",
+    "Viettnamese": "bảo vệ"
+  },
+  {
+    "id": "Pali - 0392",
+    "Pali": "appamattā",
+    "Viettnamese": "chuyên cần"
+  },
+  {
+    "id": "Pali - 0393",
+    "Pali": "Yaṃ",
+    "Viettnamese": "cái gì, đó"
+  },
+  {
+    "id": "Pali - 0394",
+    "Pali": "kiñci",
+    "Viettnamese": "cái gì đó, bất cứ cái gì"
+  },
+  {
+    "id": "Pali - 0395",
+    "Pali": "vittaṃ",
+    "Viettnamese": "giàu có"
+  },
+  {
+    "id": "Pali - 0396",
+    "Pali": "idha",
+    "Viettnamese": "ở đây"
+  },
+  {
+    "id": "Pali - 0397",
+    "Pali": "huraṃ",
+    "Viettnamese": "vượt ra khỏi"
+  },
+  {
+    "id": "Pali - 0398",
+    "Pali": "saggesu",
+    "Viettnamese": "cõi trời (trên)"
+  },
+  {
+    "id": "Pali - 0399",
+    "Pali": "ratanaṃ",
+    "Viettnamese": "viên ngọc, ngọc quý"
+  },
+  {
+    "id": "Pali - 0400",
+    "Pali": "paṇītaṃ",
+    "Viettnamese": "xuất sắc, quý báu"
+  },
+  {
+    "id": "Pali - 0401",
+    "Pali": "na",
+    "Viettnamese": "không"
+  },
+  {
+    "id": "Pali - 0402",
+    "Pali": "no",
+    "Viettnamese": "không"
+  },
+  {
+    "id": "Pali - 0403",
+    "Pali": "samaṃ",
+    "Viettnamese": "tương đương với"
+  },
+  {
+    "id": "Pali - 0404",
+    "Pali": "atthi",
+    "Viettnamese": "là"
+  },
+  {
+    "id": "Pali - 0405",
+    "Pali": "tathāgatena",
+    "Viettnamese": "Đức Phật"
+  },
+  {
+    "id": "Pali - 0406",
+    "Pali": "idampi=idaṃ+pi",
+    "Viettnamese": "cái này nữa (cái này+cũng)"
+  },
+  {
+    "id": "Pali - 0407",
+    "Pali": "etena",
+    "Viettnamese": "bởi (năng lực của) điều này"
+  },
+  {
+    "id": "Pali - 0408",
+    "Pali": "saccena",
+    "Viettnamese": "(bởi) sự thật này"
+  },
+  {
+    "id": "Pali - 0409",
+    "Pali": "suvatthi",
+    "Viettnamese": "hạnh phúc"
+  },
+  {
+    "id": "Pali - 0410",
+    "Pali": "hotu",
+    "Viettnamese": "là (có thể có)"
+  },
+  {
+    "id": "Pali - 0411",
+    "Pali": "Khayaṃ",
+    "Viettnamese": "sự chấm dứt"
+  },
+  {
+    "id": "Pali - 0412",
+    "Pali": "virāgaṃ",
+    "Viettnamese": "xả ly, buông bỏ"
+  },
+  {
+    "id": "Pali - 0413",
+    "Pali": "amataṃ",
+    "Viettnamese": "trạng thái bất tử"
+  },
+  {
+    "id": "Pali - 0414",
+    "Pali": "yadajjhagā=yaṃ+ajjhagā",
+    "Viettnamese": "điểu mà+đạt được"
+  },
+  {
+    "id": "Pali - 0415",
+    "Pali": "sakyamunī =sakya+munī",
+    "Viettnamese": "vị thánh hiền dòng dõi Sakya (dòng dõi Sakya + thánh hiền)"
+  },
+  {
+    "id": "Pali - 0416",
+    "Pali": "samāhito",
+    "Viettnamese": "tập trung tốt"
+  },
+  {
+    "id": "Pali - 0417",
+    "Pali": "tena",
+    "Viettnamese": "này, đó"
+  },
+  {
+    "id": "Pali - 0418",
+    "Pali": "dhammena",
+    "Viettnamese": "trạng thái"
+  },
+  {
+    "id": "Pali - 0419",
+    "Pali": "samatthi=sama+atthi",
+    "Viettnamese": "tương đương với + là"
+  },
+  {
+    "id": "Pali - 0420",
+    "Pali": "dhamme",
+    "Viettnamese": "trong Dhamma"
+  },
+  {
+    "id": "Pali - 0421",
+    "Pali": "buddhasettho =Buddha+settho",
+    "Viettnamese": "Đức Phật + tối thượng, lỗi lạc nhất"
+  },
+  {
+    "id": "Pali - 0422",
+    "Pali": "parivaṇṇayī",
+    "Viettnamese": "được khen ngợi bởi"
+  },
+  {
+    "id": "Pali - 0423",
+    "Pali": "suciṃ",
+    "Viettnamese": "sự thuần khiết"
+  },
+  {
+    "id": "Pali - 0424",
+    "Pali": "samādhimānantarikaññamāhu =samādhiṃ+ānantarika+aññam+āhu",
+    "Viettnamese": "sự tập trung (đi kèm với ý thức về đạo lộ) được chư Phật mô tả là mang lại kết quả ngay lập tức (tập trung+ngay lập tức theo sau+khác+được gọi)"
+  },
+  {
+    "id": "Pali - 0425",
+    "Pali": "samo",
+    "Viettnamese": "ngang bằng"
+  },
+  {
+    "id": "Pali - 0426",
+    "Pali": "vijjati",
+    "Viettnamese": "là"
+  },
+  {
+    "id": "Pali - 0427",
+    "Pali": "puggalā",
+    "Viettnamese": "cá nhân"
+  },
+  {
+    "id": "Pali - 0428",
+    "Pali": "aṭṭha",
+    "Viettnamese": "tám"
+  },
+  {
+    "id": "Pali - 0429",
+    "Pali": "sataṃ",
+    "Viettnamese": "bởi bậc trí"
+  },
+  {
+    "id": "Pali - 0430",
+    "Pali": "pasatthā",
+    "Viettnamese": "khen ngợi"
+  },
+  {
+    "id": "Pali - 0431",
+    "Pali": "cattāri",
+    "Viettnamese": "bốn"
+  },
+  {
+    "id": "Pali - 0432",
+    "Pali": "etāni",
+    "Viettnamese": "những điều đó"
+  },
+  {
+    "id": "Pali - 0433",
+    "Pali": "yugāni",
+    "Viettnamese": "đôi"
+  },
+  {
+    "id": "Pali - 0434",
+    "Pali": "honti",
+    "Viettnamese": "là"
+  },
+  {
+    "id": "Pali - 0435",
+    "Pali": "Te",
+    "Viettnamese": "họ"
+  },
+  {
+    "id": "Pali - 0436",
+    "Pali": "dakkhiṇeyyā",
+    "Viettnamese": "xứng đáng cúng dường"
+  },
+  {
+    "id": "Pali - 0437",
+    "Pali": "sugatassa",
+    "Viettnamese": "của vị Phật"
+  },
+  {
+    "id": "Pali - 0438",
+    "Pali": "sāvakā",
+    "Viettnamese": "các đệ tử"
+  },
+  {
+    "id": "Pali - 0439",
+    "Pali": "etesu",
+    "Viettnamese": "đến những thứ này"
+  },
+  {
+    "id": "Pali - 0440",
+    "Pali": "dinnāni",
+    "Viettnamese": "bất kể thứ gì được cúng dường"
+  },
+  {
+    "id": "Pali - 0441",
+    "Pali": "mahapphalāni",
+    "Viettnamese": "quả lớn"
+  },
+  {
+    "id": "Pali - 0442",
+    "Pali": "saṅghe",
+    "Viettnamese": "trong Saṅgha/Tăng đoàn"
+  },
+  {
+    "id": "Pali - 0443",
+    "Pali": "suppayuttā",
+    "Viettnamese": "những người tham gia"
+  },
+  {
+    "id": "Pali - 0444",
+    "Pali": "manasā",
+    "Viettnamese": "tâm (với)"
+  },
+  {
+    "id": "Pali - 0445",
+    "Pali": "daḷhena",
+    "Viettnamese": "vững chắc"
+  },
+  {
+    "id": "Pali - 0446",
+    "Pali": "nikkāmino",
+    "Viettnamese": "những người thoát khỏi tham muốn"
+  },
+  {
+    "id": "Pali - 0447",
+    "Pali": "gotamasāsanamhi",
+    "Viettnamese": "trong giáo huấn của Đức Phật"
+  },
+  {
+    "id": "Pali - 0448",
+    "Pali": "pattipattā =patti+pattā",
+    "Viettnamese": "đạt được đích đến (để đạt được + đích đến)"
+  },
+  {
+    "id": "Pali - 0449",
+    "Pali": "vigayha",
+    "Viettnamese": "kinh nghiệm"
+  },
+  {
+    "id": "Pali - 0450",
+    "Pali": "laddhā",
+    "Viettnamese": "do đó thu được"
+  },
+  {
+    "id": "Pali - 0451",
+    "Pali": "mudhā",
+    "Viettnamese": "không tốn phí, miễn phí"
+  },
+  {
+    "id": "Pali - 0452",
+    "Pali": "nibbutiṃ",
+    "Viettnamese": "bình an"
+  },
+  {
+    "id": "Pali - 0453",
+    "Pali": "bhuñjamānā",
+    "Viettnamese": "tận hưởng"
+  },
+  {
+    "id": "Pali - 0454",
+    "Pali": "Yathindakhīlo =yathā+inda+khīlo",
+    "Viettnamese": "giống như+Indra (Vị thiên cao nhất)+trụ cột"
+  },
+  {
+    "id": "Pali - 0455",
+    "Pali": "paṭhavim",
+    "Viettnamese": "ở trái đất/ cõi trần"
+  },
+  {
+    "id": "Pali - 0456",
+    "Pali": "sito",
+    "Viettnamese": "trồng (cố định)"
+  },
+  {
+    "id": "Pali - 0457",
+    "Pali": "siyā",
+    "Viettnamese": "có lẽ"
+  },
+  {
+    "id": "Pali - 0458",
+    "Pali": "catubbhi",
+    "Viettnamese": "từ bốn (hướng)"
+  },
+  {
+    "id": "Pali - 0459",
+    "Pali": "vātehi",
+    "Viettnamese": "gió (bởi)"
+  },
+  {
+    "id": "Pali - 0460",
+    "Pali": "asampakampiyo",
+    "Viettnamese": "không thể bị lay động"
+  },
+  {
+    "id": "Pali - 0461",
+    "Pali": "tathūpamaṃ =tathā+upamam",
+    "Viettnamese": "tương tự+so sánh"
+  },
+  {
+    "id": "Pali - 0462",
+    "Pali": "sappurisaṃ",
+    "Viettnamese": "người có tâm trong sáng/thanh tịnh"
+  },
+  {
+    "id": "Pali - 0463",
+    "Pali": "vadāmi",
+    "Viettnamese": "Ta tuyên bố"
+  },
+  {
+    "id": "Pali - 0464",
+    "Pali": "yo",
+    "Viettnamese": "ai"
+  },
+  {
+    "id": "Pali - 0465",
+    "Pali": "ariyasaccāni",
+    "Viettnamese": "các sự thật thánh thiện"
+  },
+  {
+    "id": "Pali - 0466",
+    "Pali": "avecca",
+    "Viettnamese": "hoàn toàn"
+  },
+  {
+    "id": "Pali - 0467",
+    "Pali": "passati",
+    "Viettnamese": "nhận ra, chứng ngộ"
+  },
+  {
+    "id": "Pali - 0468",
+    "Pali": "vibhāvayanti",
+    "Viettnamese": "hiểu biết rõ ràng"
+  },
+  {
+    "id": "Pali - 0469",
+    "Pali": "gambhīrapaññena =gambhīra+paññena",
+    "Viettnamese": "trí tuệ sâu sắc (sâu sắc + bởi người được phú cho trí tuệ)"
+  },
+  {
+    "id": "Pali - 0470",
+    "Pali": "sudesitāni",
+    "Viettnamese": "giảng dạy giỏi"
+  },
+  {
+    "id": "Pali - 0471",
+    "Pali": "kiñcāpi",
+    "Viettnamese": "dù bao nhiêu, dù sao đi nữa"
+  },
+  {
+    "id": "Pali - 0472",
+    "Pali": "bhusappamattā =bhusa+pamattā",
+    "Viettnamese": "nhiều bất cẩn"
+  },
+  {
+    "id": "Pali - 0473",
+    "Pali": "bhavaṃ",
+    "Viettnamese": "sự sinh"
+  },
+  {
+    "id": "Pali - 0474",
+    "Pali": "aṭṭhamamādiyanti =aṭṭhamam+ādiyanti",
+    "Viettnamese": "tám + nắm lấy"
+  },
+  {
+    "id": "Pali - 0475",
+    "Pali": "Sahāvassa",
+    "Viettnamese": "đồng thời với"
+  },
+  {
+    "id": "Pali - 0476",
+    "Pali": "dassana-sampadāya",
+    "Viettnamese": "sự đạt được tuệ giác"
+  },
+  {
+    "id": "Pali - 0477",
+    "Pali": "tayassu",
+    "Viettnamese": "ba"
+  },
+  {
+    "id": "Pali - 0478",
+    "Pali": "dhammā",
+    "Viettnamese": "sự vật, yếu tố, phẩm chất (trong bối cảnh này là 3 kiết sử)"
+  },
+  {
+    "id": "Pali - 0479",
+    "Pali": "jahitā",
+    "Viettnamese": "bị bỏ ra, bị bỏ rơi"
+  },
+  {
+    "id": "Pali - 0480",
+    "Pali": "bhavanti",
+    "Viettnamese": "trở thành"
+  },
+  {
+    "id": "Pali - 0481",
+    "Pali": "sakkāyadiṭṭhi",
+    "Viettnamese": "(1) ảo tưởng về cái tôi (thân kiến)"
+  },
+  {
+    "id": "Pali - 0482",
+    "Pali": "vicikicchitaṃ",
+    "Viettnamese": "(2) hoài nghi"
+  },
+  {
+    "id": "Pali - 0483",
+    "Pali": "sīlabbataṃ =sīla+vata",
+    "Viettnamese": "(3) nghi lễ và nghi thức (luật lệ, giới điều+ lời thề, nghi thức) (giới cấm thủ)"
+  },
+  {
+    "id": "Pali - 0484",
+    "Pali": "pi",
+    "Viettnamese": "(fr. api) cũng vậy"
+  },
+  {
+    "id": "Pali - 0485",
+    "Pali": "yadatthi",
+    "Viettnamese": "nếu bất cứ điều gì"
+  },
+  {
+    "id": "Pali - 0486",
+    "Pali": "Catūhapāyehi =catūhi+apāyehi",
+    "Viettnamese": "4 cõi tồn tại bên dưới cõi người (từ bốn+từ thế giới thấp hơn)"
+  },
+  {
+    "id": "Pali - 0487",
+    "Pali": "vippamutto",
+    "Viettnamese": "hoàn toàn được giải thoát"
+  },
+  {
+    "id": "Pali - 0488",
+    "Pali": "chaccābhiṭhānāni =cha+ca+abhiṭhānāni",
+    "Viettnamese": "6 tội ác ghê tởm (6+và+tội ác ghê tởm)"
+  },
+  {
+    "id": "Pali - 0489",
+    "Pali": "abhabbo",
+    "Viettnamese": "không đủ khả năng"
+  },
+  {
+    "id": "Pali - 0490",
+    "Pali": "kātuṃ",
+    "Viettnamese": "đang làm, để làm"
+  },
+  {
+    "id": "Pali - 0491",
+    "Pali": "so",
+    "Viettnamese": "anh ấy"
+  },
+  {
+    "id": "Pali - 0492",
+    "Pali": "kammaṃ",
+    "Viettnamese": "việc làm, hành động"
+  },
+  {
+    "id": "Pali - 0493",
+    "Pali": "karoti",
+    "Viettnamese": "anh ấy cam kết"
+  },
+  {
+    "id": "Pali - 0494",
+    "Pali": "pāpakaṃ",
+    "Viettnamese": "bất thiện"
+  },
+  {
+    "id": "Pali - 0495",
+    "Pali": "kāyena",
+    "Viettnamese": "bằng thân"
+  },
+  {
+    "id": "Pali - 0496",
+    "Pali": "vācā",
+    "Viettnamese": "bằng lời/bằng khẩu"
+  },
+  {
+    "id": "Pali - 0497",
+    "Pali": "uda",
+    "Viettnamese": "hoặc"
+  },
+  {
+    "id": "Pali - 0498",
+    "Pali": "cetasā",
+    "Viettnamese": "bằng suy nghĩ/bằng ý (tâm)"
+  },
+  {
+    "id": "Pali - 0499",
+    "Pali": "paṭicchādāya",
+    "Viettnamese": "giấu diếm"
+  },
+  {
+    "id": "Pali - 0500",
+    "Pali": "abhabatā",
+    "Viettnamese": "sự không đủ khả năng"
+  },
+  {
+    "id": "Pali - 0501",
+    "Pali": "diṭṭhapadassa",
+    "Viettnamese": "của người đã thấy nơi ở (nibbāna)"
+  },
+  {
+    "id": "Pali - 0502",
+    "Pali": "vuttā",
+    "Viettnamese": "người ta nói"
+  },
+  {
+    "id": "Pali - 0503",
+    "Pali": "Vanappagumbe",
+    "Viettnamese": "bụi rừng, lùm cây"
+  },
+  {
+    "id": "Pali - 0504",
+    "Pali": "phussitagge",
+    "Viettnamese": "hoa"
+  },
+  {
+    "id": "Pali - 0505",
+    "Pali": "gimhānamāse =gimhāna+māse",
+    "Viettnamese": "trong tháng hè (mùa hè + trong tháng)"
+  },
+  {
+    "id": "Pali - 0506",
+    "Pali": "paṭhamasmiṃ",
+    "Viettnamese": "đầu tiên (trong)"
+  },
+  {
+    "id": "Pali - 0507",
+    "Pali": "gimhe",
+    "Viettnamese": "mùa nóng"
+  },
+  {
+    "id": "Pali - 0508",
+    "Pali": "dhammavararaṃ =dhammaṃ+varaṃ",
+    "Viettnamese": "Dhamma cao siêu/cao thượng (dhamma + cao siêu, cao thượng)"
+  },
+  {
+    "id": "Pali - 0509",
+    "Pali": "adesayi",
+    "Viettnamese": "giải thích"
+  },
+  {
+    "id": "Pali - 0510",
+    "Pali": "nibbānagāmiṃ",
+    "Viettnamese": "dẫn đến niết bàn"
+  },
+  {
+    "id": "Pali - 0511",
+    "Pali": "paramaṃ",
+    "Viettnamese": "vĩ đại nhất"
+  },
+  {
+    "id": "Pali - 0512",
+    "Pali": "hitāya",
+    "Viettnamese": "vì lợi lạc"
+  },
+  {
+    "id": "Pali - 0513",
+    "Pali": "Varo",
+    "Viettnamese": "bậc cao thượng"
+  },
+  {
+    "id": "Pali - 0514",
+    "Pali": "varaññū",
+    "Viettnamese": "bậc thấu hiểu sự cao thượng"
+  },
+  {
+    "id": "Pali - 0515",
+    "Pali": "varado",
+    "Viettnamese": "người ban tặng sự cao thượng"
+  },
+  {
+    "id": "Pali - 0516",
+    "Pali": "varāharo",
+    "Viettnamese": "người mang đến sự cao thượng"
+  },
+  {
+    "id": "Pali - 0517",
+    "Pali": "anuttaro",
+    "Viettnamese": "vượt trội"
+  },
+  {
+    "id": "Pali - 0518",
+    "Pali": "khīṇaṃ",
+    "Viettnamese": "phá hủy"
+  },
+  {
+    "id": "Pali - 0519",
+    "Pali": "purāṇaṃ",
+    "Viettnamese": "cũ"
+  },
+  {
+    "id": "Pali - 0520",
+    "Pali": "navaṃ",
+    "Viettnamese": "mới, tươi mới"
+  },
+  {
+    "id": "Pali - 0521",
+    "Pali": "natthi",
+    "Viettnamese": "không phải"
+  },
+  {
+    "id": "Pali - 0522",
+    "Pali": "sambhavaṃ",
+    "Viettnamese": "được tạo ra"
+  },
+  {
+    "id": "Pali - 0523",
+    "Pali": "virattacittāyatike =viratta+citta+āyatike",
+    "Viettnamese": "tâm tách rời khỏi tương lai (tách rời khỏi+tâm+tương lai)"
+  },
+  {
+    "id": "Pali - 0524",
+    "Pali": "bhavasmiṃ",
+    "Viettnamese": "sự sinh"
+  },
+  {
+    "id": "Pali - 0525",
+    "Pali": "khīṇabījā",
+    "Viettnamese": "hạt giống bị phá hủy"
+  },
+  {
+    "id": "Pali - 0526",
+    "Pali": "avirūḷhichandā =avirūḷhi+chandā",
+    "Viettnamese": "sự ngừng phát triển của tham muốn (không còn phát sinh nữa+tham muốn)"
+  },
+  {
+    "id": "Pali - 0527",
+    "Pali": "nibbanti",
+    "Viettnamese": "ngừng, dừng"
+  },
+  {
+    "id": "Pali - 0528",
+    "Pali": "dhīrā",
+    "Viettnamese": "những bậc trí"
+  },
+  {
+    "id": "Pali - 0529",
+    "Pali": "yathā'yaṃ =yathā+ayaṃ",
+    "Viettnamese": "giống như thế này"
+  },
+  {
+    "id": "Pali - 0530",
+    "Pali": "padīpo",
+    "Viettnamese": "ngọn lửa, đèn"
+  },
+  {
+    "id": "Pali - 0531",
+    "Pali": "Tathāgataṃ",
+    "Viettnamese": "Đức Phật"
+  },
+  {
+    "id": "Pali - 0532",
+    "Pali": "devamanussapūjitaṃ =devā+manussa+pūjitaṃ",
+    "Viettnamese": "được chư thiên và loài người tôn kính (chư thiên+người+được tôn kính)"
+  },
+  {
+    "id": "Pali - 0533",
+    "Pali": "namassāma",
+    "Viettnamese": "chúng con kính lễ"
+  },
+  {
+    "id": "Pali - 0534",
+    "Pali": "suvatthi",
+    "Viettnamese": "hạnh phúc"
+  },
+  {
+    "id": "Pali - 0535",
+    "Pali": "Karaṇīya",
+    "Viettnamese": "điều gì đó nên được thực hiện"
+  },
+  {
+    "id": "Pali - 0536",
+    "Pali": "Yassānubhāvato =Yassa+ānubhāvato",
+    "Viettnamese": "bởi của người mà+sức mạnh, sự vĩ đại, uy nghiêm"
+  },
+  {
+    "id": "Pali - 0537",
+    "Pali": "yakkhā",
+    "Viettnamese": "những chúng sinh vô hình, hầu hết đều không thân thiện nhưng một số lại giúp ích"
+  },
+  {
+    "id": "Pali - 0538",
+    "Pali": "neva=na+eva",
+    "Viettnamese": "không bao giờ (không+thậm chí)"
+  },
+  {
+    "id": "Pali - 0539",
+    "Pali": "dassenti",
+    "Viettnamese": "hiện ra"
+  },
+  {
+    "id": "Pali - 0540",
+    "Pali": "bhīsanaṃ",
+    "Viettnamese": "cảnh tượng khủng khiếp (hình thức)"
+  },
+  {
+    "id": "Pali - 0541",
+    "Pali": "yañhi",
+    "Viettnamese": "đó thực sự là"
+  },
+  {
+    "id": "Pali - 0542",
+    "Pali": "cevānuyuñjanto =ca+eva+anuyuñjanto",
+    "Viettnamese": "và+cũng+đang thực hành"
+  },
+  {
+    "id": "Pali - 0543",
+    "Pali": "sukhaṃ",
+    "Viettnamese": "hạnh phúc"
+  },
+  {
+    "id": "Pali - 0544",
+    "Pali": "rattindivamatandito =rattiṃ+divam+atandito",
+    "Viettnamese": "đêm và ngày, chuyên cần (ban đêm+ban ngày + không buồn ngủ)"
+  },
+  {
+    "id": "Pali - 0545",
+    "Pali": "supati",
+    "Viettnamese": "ngủ"
+  },
+  {
+    "id": "Pali - 0546",
+    "Pali": "sutto",
+    "Viettnamese": "đã ngủ"
+  },
+  {
+    "id": "Pali - 0547",
+    "Pali": "ca",
+    "Viettnamese": "và"
+  },
+  {
+    "id": "Pali - 0548",
+    "Pali": "pāpaṃ",
+    "Viettnamese": "ác độc"
+  },
+  {
+    "id": "Pali - 0549",
+    "Pali": "kiñci",
+    "Viettnamese": "bất kỳ điều gì"
+  },
+  {
+    "id": "Pali - 0550",
+    "Pali": "na",
+    "Viettnamese": "không"
+  },
+  {
+    "id": "Pali - 0551",
+    "Pali": "passati.",
+    "Viettnamese": "thấy"
+  },
+  {
+    "id": "Pali - 0552",
+    "Pali": "evamādi=evaṃ+ādi",
+    "Viettnamese": "như thế này + v.v."
+  },
+  {
+    "id": "Pali - 0553",
+    "Pali": "guṇūpetaṃ",
+    "Viettnamese": "được phú cho những phẩm chất tốt đẹp này"
+  },
+  {
+    "id": "Pali - 0554",
+    "Pali": "parittaṃ",
+    "Viettnamese": "sự bảo vệ"
+  },
+  {
+    "id": "Pali - 0555",
+    "Pali": "taṃ",
+    "Viettnamese": "đó"
+  },
+  {
+    "id": "Pali - 0556",
+    "Pali": "bhaṇāmahe",
+    "Viettnamese": "chúng ta hãy cùng tụng"
+  },
+  {
+    "id": "Pali - 0557",
+    "Pali": "Karaṇīyam-atthakusalena =Karaṇīyaṃ+attha+kusalena",
+    "Viettnamese": "một người biết rằng phúc lợi của mình phụ thuộc vào điều này thì người đó thành thạo. (có việc gì đó cần làm+phúc lợi/lợi ích+thành thạo)"
+  },
+  {
+    "id": "Pali - 0558",
+    "Pali": "yantam=yaṃ+taṃ",
+    "Viettnamese": "điều đó (điều mà + điều đó)"
+  },
+  {
+    "id": "Pali - 0559",
+    "Pali": "santaṃ",
+    "Viettnamese": "bình an"
+  },
+  {
+    "id": "Pali - 0560",
+    "Pali": "padaṃ",
+    "Viettnamese": "trạng thái"
+  },
+  {
+    "id": "Pali - 0561",
+    "Pali": "abhisamecca",
+    "Viettnamese": "sẽ đạt được"
+  },
+  {
+    "id": "Pali - 0562",
+    "Pali": "sakko",
+    "Viettnamese": "có năng lực"
+  },
+  {
+    "id": "Pali - 0563",
+    "Pali": "ujū",
+    "Viettnamese": "trung thực, thẳng thắn"
+  },
+  {
+    "id": "Pali - 0564",
+    "Pali": "suhujū",
+    "Viettnamese": "ngay thẳng"
+  },
+  {
+    "id": "Pali - 0565",
+    "Pali": "suvaco",
+    "Viettnamese": "nói năng nhẹ nhàng"
+  },
+  {
+    "id": "Pali - 0566",
+    "Pali": "cassa=ca+assa",
+    "Viettnamese": "cũng nên (và+có thể)"
+  },
+  {
+    "id": "Pali - 0567",
+    "Pali": "mudu",
+    "Viettnamese": "lịch sự"
+  },
+  {
+    "id": "Pali - 0568",
+    "Pali": "anatimānī",
+    "Viettnamese": "khiêm tốn"
+  },
+  {
+    "id": "Pali - 0569",
+    "Pali": "Santussako",
+    "Viettnamese": "hài lòng"
+  },
+  {
+    "id": "Pali - 0570",
+    "Pali": "subharo",
+    "Viettnamese": "sống khiêm tốn"
+  },
+  {
+    "id": "Pali - 0571",
+    "Pali": "appakicco",
+    "Viettnamese": "có ít bổn phận"
+  },
+  {
+    "id": "Pali - 0572",
+    "Pali": "sallahukavutti.",
+    "Viettnamese": "sinh kế đơn giản"
+  },
+  {
+    "id": "Pali - 0573",
+    "Pali": "santindriyo =santa+indriya",
+    "Viettnamese": "được kiểm soát bằng giác quan (bình an+năng lực/giác quan)"
+  },
+  {
+    "id": "Pali - 0574",
+    "Pali": "nipako",
+    "Viettnamese": "thận trọng, thông thái"
+  },
+  {
+    "id": "Pali - 0575",
+    "Pali": "appagabbho",
+    "Viettnamese": "khiêm tốn, không gây hấn"
+  },
+  {
+    "id": "Pali - 0576",
+    "Pali": "kulesvananugiddho =kulesu+ananugiddho",
+    "Viettnamese": "không luyến ái gia đình/quyến thuộc (gia đình/dòng dõi/hộ gia đình + không ham muốn, luyến ái, dính mắc)"
+  },
+  {
+    "id": "Pali - 0577",
+    "Pali": "khuddhaṃ samācare",
+    "Viettnamese": "nhỏ, thấp kém + làm, thực hiện"
+  },
+  {
+    "id": "Pali - 0578",
+    "Pali": "yena",
+    "Viettnamese": "nhờ đó mà"
+  },
+  {
+    "id": "Pali - 0579",
+    "Pali": "viññū",
+    "Viettnamese": "bậc trí"
+  },
+  {
+    "id": "Pali - 0580",
+    "Pali": "pare",
+    "Viettnamese": "sau đó"
+  },
+  {
+    "id": "Pali - 0581",
+    "Pali": "upavadeyyuṃ.",
+    "Viettnamese": "khiển trách"
+  },
+  {
+    "id": "Pali - 0582",
+    "Pali": "sukhino",
+    "Viettnamese": "hạnh phúc"
+  },
+  {
+    "id": "Pali - 0583",
+    "Pali": "vā",
+    "Viettnamese": "hoặc"
+  },
+  {
+    "id": "Pali - 0584",
+    "Pali": "khemino",
+    "Viettnamese": "an toàn"
+  },
+  {
+    "id": "Pali - 0585",
+    "Pali": "hontu",
+    "Viettnamese": "là"
+  },
+  {
+    "id": "Pali - 0586",
+    "Pali": "sabbe",
+    "Viettnamese": "tất cả"
+  },
+  {
+    "id": "Pali - 0587",
+    "Pali": "sattā",
+    "Viettnamese": "chúng sinh"
+  },
+  {
+    "id": "Pali - 0588",
+    "Pali": "bhavantu",
+    "Viettnamese": "là"
+  },
+  {
+    "id": "Pali - 0589",
+    "Pali": "sukhitattā=sukhita+attā",
+    "Viettnamese": "hạnh phúc+chính họ"
+  },
+  {
+    "id": "Pali - 0590",
+    "Pali": "Ye",
+    "Viettnamese": "ai"
+  },
+  {
+    "id": "Pali - 0591",
+    "Pali": "keci",
+    "Viettnamese": "bất cứ cái gì"
+  },
+  {
+    "id": "Pali - 0592",
+    "Pali": "pāṇabhūtatthi =pāṇabhūta+atthi",
+    "Viettnamese": "chúng sinh hữu (tình+có)"
+  },
+  {
+    "id": "Pali - 0593",
+    "Pali": "tasā",
+    "Viettnamese": "có thể di chuyển"
+  },
+  {
+    "id": "Pali - 0594",
+    "Pali": "thāvarā",
+    "Viettnamese": "không di chuyển, tĩnh lại"
+  },
+  {
+    "id": "Pali - 0595",
+    "Pali": "vanavasesā=vā+anavasesā",
+    "Viettnamese": "không loại trừ ai"
+  },
+  {
+    "id": "Pali - 0596",
+    "Pali": "dīghā",
+    "Viettnamese": "dài"
+  },
+  {
+    "id": "Pali - 0597",
+    "Pali": "vā",
+    "Viettnamese": "vì thế"
+  },
+  {
+    "id": "Pali - 0598",
+    "Pali": "ye",
+    "Viettnamese": "những người đó, bất cứ ai"
+  },
+  {
+    "id": "Pali - 0599",
+    "Pali": "mahantā",
+    "Viettnamese": "to lớn"
+  },
+  {
+    "id": "Pali - 0600",
+    "Pali": "majjhimā",
+    "Viettnamese": "trung bình"
+  },
+  {
+    "id": "Pali - 0601",
+    "Pali": "rassakā",
+    "Viettnamese": "ngắn"
+  },
+  {
+    "id": "Pali - 0602",
+    "Pali": "aṇukathūlā =aṇuka+thūla",
+    "Viettnamese": "vi tế hay thô thiển (vi tế+thô thiển)"
+  },
+  {
+    "id": "Pali - 0603",
+    "Pali": "Diṭṭhā",
+    "Viettnamese": "thấy"
+  },
+  {
+    "id": "Pali - 0604",
+    "Pali": "adiṭṭhā",
+    "Viettnamese": "không thấy"
+  },
+  {
+    "id": "Pali - 0605",
+    "Pali": "dūre",
+    "Viettnamese": "xa"
+  },
+  {
+    "id": "Pali - 0606",
+    "Pali": "vasanti",
+    "Viettnamese": "ở, trú ngụ"
+  },
+  {
+    "id": "Pali - 0607",
+    "Pali": "avidūre",
+    "Viettnamese": "gần"
+  },
+  {
+    "id": "Pali - 0608",
+    "Pali": "bhūtā",
+    "Viettnamese": "sinh"
+  },
+  {
+    "id": "Pali - 0609",
+    "Pali": "sambhavesī",
+    "Viettnamese": "tìm kiếm sự sinh ra, do được sinh ra"
+  },
+  {
+    "id": "Pali - 0610",
+    "Pali": "sattā",
+    "Viettnamese": "chúng sinh"
+  },
+  {
+    "id": "Pali - 0611",
+    "Pali": "paro",
+    "Viettnamese": "một"
+  },
+  {
+    "id": "Pali - 0612",
+    "Pali": "paraṃ",
+    "Viettnamese": "khác"
+  },
+  {
+    "id": "Pali - 0613",
+    "Pali": "nikubbetha",
+    "Viettnamese": "(có thể) lừa dối"
+  },
+  {
+    "id": "Pali - 0614",
+    "Pali": "nātimaññetha =na+atimaññetha",
+    "Viettnamese": "không xem thường (không+có thể xem thường)"
+  },
+  {
+    "id": "Pali - 0615",
+    "Pali": "katthaci",
+    "Viettnamese": "bất cứ đâu"
+  },
+  {
+    "id": "Pali - 0616",
+    "Pali": "na",
+    "Viettnamese": "không"
+  },
+  {
+    "id": "Pali - 0617",
+    "Pali": "kañci",
+    "Viettnamese": "bất cứ ai"
+  },
+  {
+    "id": "Pali - 0618",
+    "Pali": "byārosanā",
+    "Viettnamese": "bởi vì giận dữ"
+  },
+  {
+    "id": "Pali - 0619",
+    "Pali": "paṭighasaññā",
+    "Viettnamese": "(tức giận + cử chỉ/nhận thức)"
+  },
+  {
+    "id": "Pali - 0620",
+    "Pali": "nāññamaññassa =na+aññamaññassa",
+    "Viettnamese": "(không + của một ai khác)"
+  },
+  {
+    "id": "Pali - 0621",
+    "Pali": "dukkhamiccheyya =dukkhaṃ+ iccheyya",
+    "Viettnamese": "mong muốn đau khổ (đau khổ+ước muốn)"
+  },
+  {
+    "id": "Pali - 0622",
+    "Pali": "Mātā",
+    "Viettnamese": "mẹ"
+  },
+  {
+    "id": "Pali - 0623",
+    "Pali": "yathā",
+    "Viettnamese": "như là"
+  },
+  {
+    "id": "Pali - 0624",
+    "Pali": "niyam",
+    "Viettnamese": "của riêng mình (của một người)"
+  },
+  {
+    "id": "Pali - 0625",
+    "Pali": "puttam",
+    "Viettnamese": "đứa trẻ"
+  },
+  {
+    "id": "Pali - 0626",
+    "Pali": "āyusā",
+    "Viettnamese": "với cuộc sống của một người"
+  },
+  {
+    "id": "Pali - 0627",
+    "Pali": "ekaputtamanurakkhe =eka+puttaṃ+anurakkhe",
+    "Viettnamese": "(duy nhất+đứa trẻ+sẽ bảo vệ)"
+  },
+  {
+    "id": "Pali - 0628",
+    "Pali": "evampi=evaṃ+pi",
+    "Viettnamese": "thậm chí như vậy (vì vậy + cũng)"
+  },
+  {
+    "id": "Pali - 0629",
+    "Pali": "sabbabhūtesu =sabba+bhūtesu",
+    "Viettnamese": "đối với tất cả chúng sinh (tất cả+đối với chúng sinh)"
+  },
+  {
+    "id": "Pali - 0630",
+    "Pali": "mānasam",
+    "Viettnamese": "tâm"
+  },
+  {
+    "id": "Pali - 0631",
+    "Pali": "bhāvaye",
+    "Viettnamese": "nuôi dưỡng"
+  },
+  {
+    "id": "Pali - 0632",
+    "Pali": "aparimāṇaṃ",
+    "Viettnamese": "vô biên"
+  },
+  {
+    "id": "Pali - 0633",
+    "Pali": "Mettañca =mettaṃ+ca",
+    "Viettnamese": "thiện chí, lòng từ ái+và"
+  },
+  {
+    "id": "Pali - 0634",
+    "Pali": "sabba lokasmiṃ",
+    "Viettnamese": "trong toàn thể vũ trụ"
+  },
+  {
+    "id": "Pali - 0635",
+    "Pali": "uddhaṃ",
+    "Viettnamese": "ở trên"
+  },
+  {
+    "id": "Pali - 0636",
+    "Pali": "adho",
+    "Viettnamese": "ở dưới"
+  },
+  {
+    "id": "Pali - 0637",
+    "Pali": "tiriyañca",
+    "Viettnamese": "và ngang qua"
+  },
+  {
+    "id": "Pali - 0638",
+    "Pali": "asambādhaṃ",
+    "Viettnamese": "không bị cản trở"
+  },
+  {
+    "id": "Pali - 0639",
+    "Pali": "averamasapattaṃ =averaṃ+asapattaṃ",
+    "Viettnamese": "không có ghét bỏ + không có thù hận"
+  },
+  {
+    "id": "Pali - 0640",
+    "Pali": "Tiṭṭhaṃ",
+    "Viettnamese": "(trong khi) đứng"
+  },
+  {
+    "id": "Pali - 0641",
+    "Pali": "caraṃ",
+    "Viettnamese": "đi"
+  },
+  {
+    "id": "Pali - 0642",
+    "Pali": "nisinno",
+    "Viettnamese": "ngồi"
+  },
+  {
+    "id": "Pali - 0643",
+    "Pali": "sayāno",
+    "Viettnamese": "nằm"
+  },
+  {
+    "id": "Pali - 0644",
+    "Pali": "yāvatassa",
+    "Viettnamese": "miễn là"
+  },
+  {
+    "id": "Pali - 0645",
+    "Pali": "vigatamiddho =vigata+middho",
+    "Viettnamese": "người tỉnh thức (thoát khỏi+sự buồn ngủ, mê mờ)"
+  },
+  {
+    "id": "Pali - 0646",
+    "Pali": "etam",
+    "Viettnamese": "này"
+  },
+  {
+    "id": "Pali - 0647",
+    "Pali": "satiṃ",
+    "Viettnamese": "ý thức"
+  },
+  {
+    "id": "Pali - 0648",
+    "Pali": "adhiṭṭheyya",
+    "Viettnamese": "thực hành, tập trung sự chú ý của một người"
+  },
+  {
+    "id": "Pali - 0649",
+    "Pali": "brahmam-etaṃ",
+    "Viettnamese": "siêu phàm/có tính chất của Phạm Thiên+này"
+  },
+  {
+    "id": "Pali - 0650",
+    "Pali": "vihāramidhamāhu =vihāraṃ-idhaṃ-āhu",
+    "Viettnamese": "nơi ở+ở đây (trong giáo pháp của Đức Phật)+họ đã nói"
+  },
+  {
+    "id": "Pali - 0651",
+    "Pali": "Diṭṭhiñca=diṭṭhiṃ+ca",
+    "Viettnamese": "(tà) kiến/xem +và"
+  },
+  {
+    "id": "Pali - 0652",
+    "Pali": "anupaggamma =ana+upaggamma",
+    "Viettnamese": "không chịu khuất phục (không + rơi vào)"
+  },
+  {
+    "id": "Pali - 0653",
+    "Pali": "sīlavā",
+    "Viettnamese": "vững vàng trong hành vi đạo đức"
+  },
+  {
+    "id": "Pali - 0654",
+    "Pali": "dassanena",
+    "Viettnamese": "tuệ giác"
+  },
+  {
+    "id": "Pali - 0655",
+    "Pali": "sampanno",
+    "Viettnamese": "được phú cho"
+  },
+  {
+    "id": "Pali - 0656",
+    "Pali": "kāmesu",
+    "Viettnamese": "thuộc nhục dục"
+  },
+  {
+    "id": "Pali - 0657",
+    "Pali": "vineyya",
+    "Viettnamese": "đã loại bỏ"
+  },
+  {
+    "id": "Pali - 0658",
+    "Pali": "gedhaṃ",
+    "Viettnamese": "tham muốn"
+  },
+  {
+    "id": "Pali - 0659",
+    "Pali": "hi",
+    "Viettnamese": "phải, quả thực"
+  },
+  {
+    "id": "Pali - 0660",
+    "Pali": "jātu",
+    "Viettnamese": "chắc chắn, không bị hoài nghi"
+  },
+  {
+    "id": "Pali - 0661",
+    "Pali": "gabbhaseyyaṃ =gabbha+seyyaṃ",
+    "Viettnamese": "tử cung+nằm xuống"
+  },
+  {
+    "id": "Pali - 0662",
+    "Pali": "punareti",
+    "Viettnamese": "đi đến lần nữa"
+  },
+  {
+    "id": "Pali - 0663",
+    "Pali": "Bāhuṃ",
+    "Viettnamese": "cánh tay"
+  },
+  {
+    "id": "Pali - 0664",
+    "Pali": "Sahassamabhinimmitta =sahassaṃ+abhinimmitta",
+    "Viettnamese": "tạo ra (hình thức với) một nghìn (cánh tay) (nghìn+tạo ra)"
+  },
+  {
+    "id": "Pali - 0665",
+    "Pali": "sāvudhantaṃ",
+    "Viettnamese": "mang vũ khí"
+  },
+  {
+    "id": "Pali - 0666",
+    "Pali": "girimekhalaṃ",
+    "Viettnamese": "tên của một con voi"
+  },
+  {
+    "id": "Pali - 0667",
+    "Pali": "uditaghorasenamāraṃ= udita+ghora+ sasena+māraṃ",
+    "Viettnamese": "Māra hung dữ được bao quanh bởi đội quân của hắn (tấn công/trỗi dậy+ hung dữ+với đội quân+māra)"
+  },
+  {
+    "id": "Pali - 0668",
+    "Pali": "Dānādi-dhammavidhinā =Dāna+ādi+Dhamma+vidhinā",
+    "Viettnamese": "bằng những đức tính như sự rộng lượng (sự rộng lượng+như+phẩm chất+bằng cách)"
+  },
+  {
+    "id": "Pali - 0669",
+    "Pali": "jitavā",
+    "Viettnamese": "người chiến thắng"
+  },
+  {
+    "id": "Pali - 0670",
+    "Pali": "munindo",
+    "Viettnamese": "vị thánh nhân vĩ đại"
+  },
+  {
+    "id": "Pali - 0671",
+    "Pali": "tam",
+    "Viettnamese": "đó"
+  },
+  {
+    "id": "Pali - 0672",
+    "Pali": "tejasā",
+    "Viettnamese": "bởi sức mạnh của"
+  },
+  {
+    "id": "Pali - 0673",
+    "Pali": "bhavatu",
+    "Viettnamese": "có lẽ"
+  },
+  {
+    "id": "Pali - 0674",
+    "Pali": "jayamaṅgalāni",
+    "Viettnamese": "chiến thắng và hạnh phúc"
+  },
+  {
+    "id": "Pali - 0675",
+    "Pali": "Mārātirekamabhiyujjhita =Māra+atirekaṃ+abhiyujjhita",
+    "Viettnamese": "đã chiến đấu hăng hái hơn Māra (Māra+hơn+chiến đấu hăng hái)"
+  },
+  {
+    "id": "Pali - 0676",
+    "Pali": "sabbarattiṃ",
+    "Viettnamese": "cả đêm"
+  },
+  {
+    "id": "Pali - 0677",
+    "Pali": "yakkhaṃ",
+    "Viettnamese": "phi nhân, quỷ"
+  },
+  {
+    "id": "Pali - 0678",
+    "Pali": "ghorampanālavakamakkhama thaddha =ghoraṃ+pana+ālavakaṃ+ akkhama+thaddha",
+    "Viettnamese": "con quỷ cố chấp, cứng cỏi tên là Ālavaka (hung dữ + nhưng+tên của một Yakkha+cố chấp+cứng cỏi)"
+  },
+  {
+    "id": "Pali - 0679",
+    "Pali": "khantī",
+    "Viettnamese": "kiên nhẫn"
+  },
+  {
+    "id": "Pali - 0680",
+    "Pali": "sudantavidhinā",
+    "Viettnamese": "bằng sự tự kiểm soát mình"
+  },
+  {
+    "id": "Pali - 0681",
+    "Pali": "Nāḷāgiriṃ",
+    "Viettnamese": "tên một con voi"
+  },
+  {
+    "id": "Pali - 0682",
+    "Pali": "gajavaraṃ =gaja+varaṃ",
+    "Viettnamese": "voi hoàng gia/cao quý (voi+oai nghiêm)"
+  },
+  {
+    "id": "Pali - 0683",
+    "Pali": "atimattabhūtaṃ =ati+matta+bhūtaṃ",
+    "Viettnamese": "đã trở nên quá điên cuồng (rất+say+ đã trở thành)"
+  },
+  {
+    "id": "Pali - 0684",
+    "Pali": "dāvaggi-cakkamasānīva=dāva+ aggi+cakkaṃ+asanī+iva",
+    "Viettnamese": "như đám cháy rừng, đĩa bay hoặc sấm sét (rừng+lửa+đĩa+sấm sét+như là)"
+  },
+  {
+    "id": "Pali - 0685",
+    "Pali": "sudāruṇantaṃ",
+    "Viettnamese": "không thể lay chuyển được"
+  },
+  {
+    "id": "Pali - 0686",
+    "Pali": "mettambusekavidhinā=mettā+ambu+seka+vidhinā",
+    "Viettnamese": "bằng cách rải nước tâm từ (mettā+nước+ rải+bằng phương tiện)"
+  },
+  {
+    "id": "Pali - 0687",
+    "Pali": "Ukkhitta",
+    "Viettnamese": "khích lệ"
+  },
+  {
+    "id": "Pali - 0688",
+    "Pali": "khaggamatihattha =khaggaṃ+atihattha",
+    "Viettnamese": "thanh kiếm trong tay (kiếm + mang theo)"
+  },
+  {
+    "id": "Pali - 0689",
+    "Pali": "dhāvanti",
+    "Viettnamese": "đeo đuổi"
+  },
+  {
+    "id": "Pali - 0690",
+    "Pali": "iva",
+    "Viettnamese": "như thế"
+  },
+  {
+    "id": "Pali - 0691",
+    "Pali": "gabbhinīyā",
+    "Viettnamese": "phụ nữ mang thai"
+  },
+  {
+    "id": "Pali - 0692",
+    "Pali": "yojanapathāṅgulimālavantaṃ =yojanapatha+aṅgulimāla+vantaṃ",
+    "Viettnamese": "Angulimāla đeo đuổi Ngài trong 3 do tuần (khoảng 7 dặm + phạm vi + Angulimāla+ từ bỏ/bỏ lại phía sau)"
+  },
+  {
+    "id": "Pali - 0693",
+    "Pali": "iddhībhisaṅkhatamano=iddhībhi+saṅkhata+mano",
+    "Viettnamese": "với một chuyên gia tâm trí về những điều kỳ diệu (với sức mạnh ma thuật+chuyên gia+tâm trí)"
+  },
+  {
+    "id": "Pali - 0694",
+    "Pali": "Katvāna",
+    "Viettnamese": "đang làm"
+  },
+  {
+    "id": "Pali - 0695",
+    "Pali": "kaṭṭhamudaraṃ =kaṭṭhaṃ+udaraṃ",
+    "Viettnamese": "miếng gỗ+trên bụng"
+  },
+  {
+    "id": "Pali - 0696",
+    "Pali": "ciñcāya",
+    "Viettnamese": "của Ciñcā (tên cô gái)"
+  },
+  {
+    "id": "Pali - 0697",
+    "Pali": "duṭṭhavacanaṃ =duṭṭha+vacanaṃ",
+    "Viettnamese": "lời nói độc ác/tội lỗi (độc ác+lời nói)"
+  },
+  {
+    "id": "Pali - 0698",
+    "Pali": "janakāya",
+    "Viettnamese": "tập hợp người dân"
+  },
+  {
+    "id": "Pali - 0699",
+    "Pali": "majjhe",
+    "Viettnamese": "ở giữa"
+  },
+  {
+    "id": "Pali - 0700",
+    "Pali": "santena",
+    "Viettnamese": "bằng bình an"
+  },
+  {
+    "id": "Pali - 0701",
+    "Pali": "somavidhinā =somma+vidhinā",
+    "Viettnamese": "bằng cách làm hài lòng làm hài lòng+bằng một phương pháp"
+  },
+  {
+    "id": "Pali - 0702",
+    "Pali": "Saccaṃ",
+    "Viettnamese": "sự thật"
+  },
+  {
+    "id": "Pali - 0703",
+    "Pali": "vihāya",
+    "Viettnamese": "loại bỏ"
+  },
+  {
+    "id": "Pali - 0704",
+    "Pali": "matisaccakavādaketuṃ =mati+saccaka+vāda+ketuṃ",
+    "Viettnamese": "Saccaka quỷ quyệt (có ý giăng lên) lá cờ của học thuyết sai lầm của mình (thâm muốn+Saccaka+ học thuyết sai lầm+ngọn cờ)"
+  },
+  {
+    "id": "Pali - 0705",
+    "Pali": "vādābhiropitamanāṃ =vāda+abhiropita+manāṃ",
+    "Viettnamese": "với tâm muốn gây tranh cãi (tranh cãi+quyết tâm nâng cao+tâm trí)"
+  },
+  {
+    "id": "Pali - 0706",
+    "Pali": "ati-andhabhūtaṃ =ati+andhabhūtaṃ",
+    "Viettnamese": "bị mù hoàn toàn (cực+bị mù)"
+  },
+  {
+    "id": "Pali - 0707",
+    "Pali": "Paññāpadīpajalito =paññā+padīpa+jalito",
+    "Viettnamese": "bởi ngọn đèn trí tuệ tỏa sáng (trí tuệ+đèn+ bởi ánh sáng)"
+  },
+  {
+    "id": "Pali - 0708",
+    "Pali": "Nandopananda",
+    "Viettnamese": "tên của một nāga (con rắn)"
+  },
+  {
+    "id": "Pali - 0709",
+    "Pali": "bhujagaṃ",
+    "Viettnamese": "rắn"
+  },
+  {
+    "id": "Pali - 0710",
+    "Pali": "Vividhaṃ",
+    "Viettnamese": "của nhiều loại khác nhau"
+  },
+  {
+    "id": "Pali - 0711",
+    "Pali": "mahiddhiṃ =mahā+iddhi",
+    "Viettnamese": "sức mạnh tâm linh vĩ đại (sức mạnh+vĩ đại)"
+  },
+  {
+    "id": "Pali - 0712",
+    "Pali": "puttena",
+    "Viettnamese": "bởi người con trai"
+  },
+  {
+    "id": "Pali - 0713",
+    "Pali": "thera",
+    "Viettnamese": "thượng tọa/trưởng lão"
+  },
+  {
+    "id": "Pali - 0714",
+    "Pali": "bhujagena",
+    "Viettnamese": "bởi con rắn"
+  },
+  {
+    "id": "Pali - 0715",
+    "Pali": "damāpayanto",
+    "Viettnamese": "khiến bị thuần hóa"
+  },
+  {
+    "id": "Pali - 0716",
+    "Pali": "iddhūpadesavidhinā = iddhi+upadesa+vidhinā",
+    "Viettnamese": "bằng sức mạnh tâm linh và lời khuyên bảo (sức mạnh tâm linh+lời khuyên+bằng phương tiện)"
+  },
+  {
+    "id": "Pali - 0717",
+    "Pali": "duggāhadiṭṭhibhujagena= duggāha+diṭṭhi+bhujagena",
+    "Viettnamese": "bởi con rắn mang quan điểm mê lầm (nắm giữ sai trái/mê lầm+quan điểm+bởi con rắn)"
+  },
+  {
+    "id": "Pali - 0718",
+    "Pali": "sudaṭṭha-hatthaṃ =su+daṭṭha+hatthaṃ",
+    "Viettnamese": "với bàn tay bị cắn (hoàn toàn+bị cắn+tay)"
+  },
+  {
+    "id": "Pali - 0719",
+    "Pali": "brahmaṃ",
+    "Viettnamese": "brahmā/Phạm thiên"
+  },
+  {
+    "id": "Pali - 0720",
+    "Pali": "visuddhi-jutim-iddhi =visuddhi+jutiṃ+iddhi",
+    "Viettnamese": "(tinh khiết+rực rỡ+mạnh mẽ)"
+  },
+  {
+    "id": "Pali - 0721",
+    "Pali": "bakābhidhānaṃ =baka+abhidhānaṃ",
+    "Viettnamese": "tên là Baka (baka+tên)"
+  },
+  {
+    "id": "Pali - 0722",
+    "Pali": "ñāṇāgadena =ñāṇa+agadena",
+    "Viettnamese": "bởi kiến thức y học (kiến thức+ y học)"
+  },
+  {
+    "id": "Pali - 0723",
+    "Pali": "Paṭicca+samuppādo",
+    "Viettnamese": "phụ thuộc, kết quả từ + nguồn gốc, khởi sinh"
+  },
+  {
+    "id": "Pali - 0724",
+    "Pali": "Anulomaṃ",
+    "Viettnamese": "chiều thuận"
+  },
+  {
+    "id": "Pali - 0725",
+    "Pali": "Avijjā+paccayā",
+    "Viettnamese": "vô minh+cơ sở, nền tảng, nguyên nhân"
+  },
+  {
+    "id": "Pali - 0726",
+    "Pali": "saṅkhārā",
+    "Viettnamese": "các phản ứng"
+  },
+  {
+    "id": "Pali - 0727",
+    "Pali": "saṅkhārapaccayā",
+    "Viettnamese": "cơ sở của phản ứng"
+  },
+  {
+    "id": "Pali - 0728",
+    "Pali": "viññāṇaṃ",
+    "Viettnamese": "ý thức"
+  },
+  {
+    "id": "Pali - 0729",
+    "Pali": "nāma-rūpaṃ",
+    "Viettnamese": "tâm và thân"
+  },
+  {
+    "id": "Pali - 0730",
+    "Pali": "saḷāyatanaṃ",
+    "Viettnamese": "sáu cửa giác quan"
+  },
+  {
+    "id": "Pali - 0731",
+    "Pali": "phasso",
+    "Viettnamese": "tiếp xúc"
+  },
+  {
+    "id": "Pali - 0732",
+    "Pali": "vedanā",
+    "Viettnamese": "các cảm giác"
+  },
+  {
+    "id": "Pali - 0733",
+    "Pali": "taṇhā",
+    "Viettnamese": "tham muốn và ghét bỏ"
+  },
+  {
+    "id": "Pali - 0734",
+    "Pali": "upādānaṃ",
+    "Viettnamese": "dính mắc"
+  },
+  {
+    "id": "Pali - 0735",
+    "Pali": "bhavo",
+    "Viettnamese": "tiến trình trở thành"
+  },
+  {
+    "id": "Pali - 0736",
+    "Pali": "jāti",
+    "Viettnamese": "sinh"
+  },
+  {
+    "id": "Pali - 0737",
+    "Pali": "jarā-maraṇaṃ",
+    "Viettnamese": "già và chết"
+  },
+  {
+    "id": "Pali - 0738",
+    "Pali": "soka-parideva-dukkha-domanassupāyāsā",
+    "Viettnamese": "phiền muộn-than thở-đau khổ thể xác-khổ tâm, ưu sầu"
+  },
+  {
+    "id": "Pali - 0739",
+    "Pali": "sambhavanti",
+    "Viettnamese": "khởi sinh"
+  },
+  {
+    "id": "Pali - 0740",
+    "Pali": "Evametassa =evaṃ+etassa",
+    "Viettnamese": "như điều này (do đó+của điều này)"
+  },
+  {
+    "id": "Pali - 0741",
+    "Pali": "kevalassa",
+    "Viettnamese": "toàn bộ"
+  },
+  {
+    "id": "Pali - 0742",
+    "Pali": "Dukkhakkhandhassa =dukkha+khandha",
+    "Viettnamese": "khối khổ đau (đau khổ+khối)"
+  },
+  {
+    "id": "Pali - 0743",
+    "Pali": "samudayo",
+    "Viettnamese": "phát sinh"
+  },
+  {
+    "id": "Pali - 0744",
+    "Pali": "Paṭilomaṃ",
+    "Viettnamese": "theo chiều nghịch"
+  },
+  {
+    "id": "Pali - 0745",
+    "Pali": "Avijjāyatveva =Avijjāya+tveva",
+    "Viettnamese": "vô minh+tuy nhiên"
+  },
+  {
+    "id": "Pali - 0746",
+    "Pali": "asesa-virāga-nirodhā =asesa+virāga+ nirodhā",
+    "Viettnamese": "hoàn toàn+diệt trừ tham ái+ chấm dứt"
+  },
+  {
+    "id": "Pali - 0747",
+    "Pali": "Yadā",
+    "Viettnamese": "khi nào"
+  },
+  {
+    "id": "Pali - 0748",
+    "Pali": "have",
+    "Viettnamese": "chắc chắn, quả thực"
+  },
+  {
+    "id": "Pali - 0749",
+    "Pali": "pātubhavanti",
+    "Viettnamese": "trở nên rõ ràng"
+  },
+  {
+    "id": "Pali - 0750",
+    "Pali": "dhammā",
+    "Viettnamese": "các sự thật (bốn sự thật thánh thiện)"
+  },
+  {
+    "id": "Pali - 0751",
+    "Pali": "ātāpino",
+    "Viettnamese": "chuyên cần"
+  },
+  {
+    "id": "Pali - 0752",
+    "Pali": "jhāyato",
+    "Viettnamese": "hành thiền"
+  },
+  {
+    "id": "Pali - 0753",
+    "Pali": "brāhmaṇassa",
+    "Viettnamese": "một cuộc sống thuần khiết"
+  },
+  {
+    "id": "Pali - 0754",
+    "Pali": "athassa=atha+assa",
+    "Viettnamese": "thì của anh ấy"
+  },
+  {
+    "id": "Pali - 0755",
+    "Pali": "kaṅkhā",
+    "Viettnamese": "những nghi ngờ"
+  },
+  {
+    "id": "Pali - 0756",
+    "Pali": "vapayanti",
+    "Viettnamese": "biến mất"
+  },
+  {
+    "id": "Pali - 0757",
+    "Pali": "sabbā",
+    "Viettnamese": "tất cả"
+  },
+  {
+    "id": "Pali - 0758",
+    "Pali": "yato",
+    "Viettnamese": "bởi vì"
+  },
+  {
+    "id": "Pali - 0759",
+    "Pali": "pajānāti",
+    "Viettnamese": "Ngài hiểu ('pa' nghĩa là pañña, tuệ giác, trí tuệ)"
+  },
+  {
+    "id": "Pali - 0760",
+    "Pali": "sahetu",
+    "Viettnamese": "với lý do"
+  },
+  {
+    "id": "Pali - 0761",
+    "Pali": "khayaṃ",
+    "Viettnamese": "sự tiêu diệt"
+  },
+  {
+    "id": "Pali - 0762",
+    "Pali": "paccayānaṃ",
+    "Viettnamese": "của các duyên khởi sinh"
+  },
+  {
+    "id": "Pali - 0763",
+    "Pali": "avedi",
+    "Viettnamese": "Ngài kinh nghiệm"
+  },
+  {
+    "id": "Pali - 0764",
+    "Pali": "vidhūpayaṃ",
+    "Viettnamese": "đã phân tán"
+  },
+  {
+    "id": "Pali - 0765",
+    "Pali": "tiṭṭhati",
+    "Viettnamese": "Ngài đứng"
+  },
+  {
+    "id": "Pali - 0766",
+    "Pali": "mārasenaṃ",
+    "Viettnamese": "đội quân của Māra"
+  },
+  {
+    "id": "Pali - 0767",
+    "Pali": "sūriyova",
+    "Viettnamese": "giống như mặt trời"
+  },
+  {
+    "id": "Pali - 0768",
+    "Pali": "obhāsayamantalikkhaṃ",
+    "Viettnamese": "tỏa sáng trên bầu trời"
+  },
+  {
+    "id": "Pali - 0769",
+    "Pali": "Aneka",
+    "Viettnamese": "vô số"
+  },
+  {
+    "id": "Pali - 0770",
+    "Pali": "jāti",
+    "Viettnamese": "sự sinh"
+  },
+  {
+    "id": "Pali - 0771",
+    "Pali": "saṃsāraṃ",
+    "Viettnamese": "tiếp tục (chu kỳ tồn tại/vòng luân hồi)"
+  },
+  {
+    "id": "Pali - 0772",
+    "Pali": "sandhāvissaṃ",
+    "Viettnamese": "Ta đã chạy"
+  },
+  {
+    "id": "Pali - 0773",
+    "Pali": "anibbisaṃ",
+    "Viettnamese": "vô ích, không tìm thấy"
+  },
+  {
+    "id": "Pali - 0774",
+    "Pali": "Gahakāraṃ",
+    "Viettnamese": "người xây ngôi nhà này"
+  },
+  {
+    "id": "Pali - 0775",
+    "Pali": "gavesanto",
+    "Viettnamese": "đang tìm kiếm"
+  },
+  {
+    "id": "Pali - 0776",
+    "Pali": "dukkhā",
+    "Viettnamese": "khổ đau"
+  },
+  {
+    "id": "Pali - 0777",
+    "Pali": "punappunaṃ",
+    "Viettnamese": "lặp đi lặp lại"
+  },
+  {
+    "id": "Pali - 0778",
+    "Pali": "Gahakāraka",
+    "Viettnamese": "thợ xây nhà"
+  },
+  {
+    "id": "Pali - 0779",
+    "Pali": "diṭṭhosi",
+    "Viettnamese": "người đã được nhìn thấy"
+  },
+  {
+    "id": "Pali - 0780",
+    "Pali": "puna",
+    "Viettnamese": "lần nữa"
+  },
+  {
+    "id": "Pali - 0781",
+    "Pali": "gehaṃ",
+    "Viettnamese": "ngôi nhà"
+  },
+  {
+    "id": "Pali - 0782",
+    "Pali": "na",
+    "Viettnamese": "không"
+  },
+  {
+    "id": "Pali - 0783",
+    "Pali": "kāhasi",
+    "Viettnamese": "sẽ xây"
+  },
+  {
+    "id": "Pali - 0784",
+    "Pali": "te",
+    "Viettnamese": "của bạn"
+  },
+  {
+    "id": "Pali - 0785",
+    "Pali": "phāsukā",
+    "Viettnamese": "xà, dầm"
+  },
+  {
+    "id": "Pali - 0786",
+    "Pali": "bhaggā",
+    "Viettnamese": "đã gãy"
+  },
+  {
+    "id": "Pali - 0787",
+    "Pali": "gahakūṭaṃ",
+    "Viettnamese": "đầm nóc (cột trụ chính)"
+  },
+  {
+    "id": "Pali - 0788",
+    "Pali": "visañkhitaṃ",
+    "Viettnamese": "gãy vỡ"
+  },
+  {
+    "id": "Pali - 0789",
+    "Pali": "visañkhāragataṃ =visañkhāra+ gataṃ",
+    "Viettnamese": "thoát khỏi sự điều kiện hóa+đã đi đến nơi"
+  },
+  {
+    "id": "Pali - 0790",
+    "Pali": "cittaṃ",
+    "Viettnamese": "tâm"
+  },
+  {
+    "id": "Pali - 0791",
+    "Pali": "taṇhānaṃ",
+    "Viettnamese": "tham muốn (của)"
+  },
+  {
+    "id": "Pali - 0792",
+    "Pali": "khayamajjhagā =khayaṃ+ajjhagā",
+    "Viettnamese": "kết thúc/sự chấm dứt+đã đạt đến"
+  },
+  {
+    "id": "Pali - 0793",
+    "Pali": "Jayo",
+    "Viettnamese": "chiếm"
+  },
+  {
+    "id": "Pali - 0794",
+    "Pali": "hi",
+    "Viettnamese": "vâng, quả thực"
+  },
+  {
+    "id": "Pali - 0795",
+    "Pali": "buddhassa",
+    "Viettnamese": "của Đức Phật"
+  },
+  {
+    "id": "Pali - 0796",
+    "Pali": "sirīmato",
+    "Viettnamese": "huy hoàng"
+  },
+  {
+    "id": "Pali - 0797",
+    "Pali": "ayaṃ",
+    "Viettnamese": "này (người)"
+  },
+  {
+    "id": "Pali - 0798",
+    "Pali": "mārassa",
+    "Viettnamese": "của Māra"
+  },
+  {
+    "id": "Pali - 0799",
+    "Pali": "ca",
+    "Viettnamese": "và"
+  },
+  {
+    "id": "Pali - 0800",
+    "Pali": "pāpimato",
+    "Viettnamese": "đầy tội lỗi"
+  },
+  {
+    "id": "Pali - 0801",
+    "Pali": "parājayo",
+    "Viettnamese": "đánh thắng"
+  },
+  {
+    "id": "Pali - 0802",
+    "Pali": "ugghosayuṃ",
+    "Viettnamese": "những điều này đã được công bố"
+  },
+  {
+    "id": "Pali - 0803",
+    "Pali": "bodhimaṇḍe",
+    "Viettnamese": "từ nơi chỗ ngồi giác ngộ"
+  },
+  {
+    "id": "Pali - 0804",
+    "Pali": "pamoditā",
+    "Viettnamese": "vui mừng"
+  },
+  {
+    "id": "Pali - 0805",
+    "Pali": "jayaṃ",
+    "Viettnamese": "chiến thắng"
+  },
+  {
+    "id": "Pali - 0806",
+    "Pali": "tadā",
+    "Viettnamese": "vậy thì, vào thời điểm đó"
+  },
+  {
+    "id": "Pali - 0807",
+    "Pali": "nāga-gaṇā",
+    "Viettnamese": "chủ nhà, vô số nāga"
+  },
+  {
+    "id": "Pali - 0808",
+    "Pali": "mahesino",
+    "Viettnamese": "của bậc thánh nhân vĩ đại (Đức Phật)"
+  },
+  {
+    "id": "Pali - 0809",
+    "Pali": "supaṇṇa-gaṇā",
+    "Viettnamese": "chủ của garuda (loài chim thần thoại)"
+  },
+  {
+    "id": "Pali - 0810",
+    "Pali": "devagaṇā",
+    "Viettnamese": "chủ của chư thiên"
+  },
+  {
+    "id": "Pali - 0811",
+    "Pali": "brahma-gaṇā",
+    "Viettnamese": "chủ của phạm thiên"
+  },
+  {
+    "id": "Pali - 0812",
+    "Pali": "Saṃsāre",
+    "Viettnamese": "vòng sinh tử (trong thế gian này)"
+  },
+  {
+    "id": "Pali - 0813",
+    "Pali": "saṃsarantānaṃ",
+    "Viettnamese": "(đối với những chúng sinh đó) đang luân hồi"
+  },
+  {
+    "id": "Pali - 0814",
+    "Pali": "Sabbadukkhavināsake =sabba+dukkha+vināsake",
+    "Viettnamese": "diệt trừ mọi khổ đau (tất cả+đau khổ+ diệt trừ)"
+  },
+  {
+    "id": "Pali - 0815",
+    "Pali": "satta+dhamme",
+    "Viettnamese": "bảy+các nhân tố"
+  },
+  {
+    "id": "Pali - 0816",
+    "Pali": "ca",
+    "Viettnamese": "và"
+  },
+  {
+    "id": "Pali - 0817",
+    "Pali": "bojjhaṅge",
+    "Viettnamese": "các nhân tố giác ngộ"
+  },
+  {
+    "id": "Pali - 0818",
+    "Pali": "Mārasenappamaddane =māra+sena+pamaddane",
+    "Viettnamese": "đánh bại đội quân Māra (māra+ đội quân+đánh bại)"
+  },
+  {
+    "id": "Pali - 0819",
+    "Pali": "Bujjhitvā",
+    "Viettnamese": "nhận ra, chứng ngộ"
+  },
+  {
+    "id": "Pali - 0820",
+    "Pali": "ye cime=ye+ca+ime",
+    "Viettnamese": "điều nào+và+điều này"
+  },
+  {
+    "id": "Pali - 0821",
+    "Pali": "sattā",
+    "Viettnamese": "chúng sinh"
+  },
+  {
+    "id": "Pali - 0822",
+    "Pali": "tibhavā",
+    "Viettnamese": "ba loại hiện hữu (dục, sắc, vô sắc)"
+  },
+  {
+    "id": "Pali - 0823",
+    "Pali": "muttakuttamā =muttaka+uttamā",
+    "Viettnamese": "những bậc đã giải thoát+ưu tú"
+  },
+  {
+    "id": "Pali - 0824",
+    "Pali": "ajātīṃ",
+    "Viettnamese": "thoát khỏi sự sinh"
+  },
+  {
+    "id": "Pali - 0825",
+    "Pali": "ajarābyādhiṃ =ajarā+byādhiṃ",
+    "Viettnamese": "thoát khỏi suy tàn/tuổi già+ bệnh tật"
+  },
+  {
+    "id": "Pali - 0826",
+    "Pali": "amataṃ",
+    "Viettnamese": "bất tử"
+  },
+  {
+    "id": "Pali - 0827",
+    "Pali": "nibbhayaṃ",
+    "Viettnamese": "không sợ hãi"
+  },
+  {
+    "id": "Pali - 0828",
+    "Pali": "gatā",
+    "Viettnamese": "đã đi (giai đoạn đã kinh nghiệm)"
+  },
+  {
+    "id": "Pali - 0829",
+    "Pali": "guṇūpetaṃ =guṇa+upetaṃ",
+    "Viettnamese": "được phú cho những thuận lợi như vậy (công đức + phú cho)"
+  },
+  {
+    "id": "Pali - 0830",
+    "Pali": "anekaguṇasaṅgahaṃ =aneka+guṇa+saṅgahaṃ",
+    "Viettnamese": "vô số+công đức/lợi ích+sự góp nhặt"
+  },
+  {
+    "id": "Pali - 0831",
+    "Pali": "osadhañca",
+    "Viettnamese": "thuốc"
+  },
+  {
+    "id": "Pali - 0832",
+    "Pali": "imaṃ",
+    "Viettnamese": "này"
+  },
+  {
+    "id": "Pali - 0833",
+    "Pali": "mantaṃ",
+    "Viettnamese": "lời nói, câu thần chú"
+  },
+  {
+    "id": "Pali - 0834",
+    "Pali": "bhaṇāmahe",
+    "Viettnamese": "chúng ta hãy tụng"
+  },
+  {
+    "id": "Pali - 0835",
+    "Pali": "sati+saṅkhāto",
+    "Viettnamese": "nhận biết+cái gọi là/cụ thể là"
+  },
+  {
+    "id": "Pali - 0836",
+    "Pali": "dhammānaṃ-vicayo",
+    "Viettnamese": "phân tích nghiên cứu về Dhamma"
+  },
+  {
+    "id": "Pali - 0837",
+    "Pali": "vīriyaṃ",
+    "Viettnamese": "nỗ lực/tinh tấn"
+  },
+  {
+    "id": "Pali - 0838",
+    "Pali": "pīti",
+    "Viettnamese": "hỷ"
+  },
+  {
+    "id": "Pali - 0839",
+    "Pali": "passaddhi",
+    "Viettnamese": "tĩnh lặng/khinh an"
+  },
+  {
+    "id": "Pali - 0840",
+    "Pali": "pare",
+    "Viettnamese": "theo sau, những cái khác, phần còn lại"
+  },
+  {
+    "id": "Pali - 0841",
+    "Pali": "Samādhupekkhā =samādhi+upekkhā",
+    "Viettnamese": "sự tập trung + sự bình tâm"
+  },
+  {
+    "id": "Pali - 0842",
+    "Pali": "sattete=satta+ete",
+    "Viettnamese": "bảy cái này (bảy+cái này)"
+  },
+  {
+    "id": "Pali - 0843",
+    "Pali": "sabbadassinā",
+    "Viettnamese": "bởi người thấy tất cả"
+  },
+  {
+    "id": "Pali - 0844",
+    "Pali": "muninā",
+    "Viettnamese": "thánh nhân"
+  },
+  {
+    "id": "Pali - 0845",
+    "Pali": "sammadakkhātā",
+    "Viettnamese": "dạy giỏi, thuyết giảng"
+  },
+  {
+    "id": "Pali - 0846",
+    "Pali": "bhāvitā",
+    "Viettnamese": "tu dưỡng"
+  },
+  {
+    "id": "Pali - 0847",
+    "Pali": "bahulīkatā",
+    "Viettnamese": "thực hành thường xuyên"
+  },
+  {
+    "id": "Pali - 0848",
+    "Pali": "Saṃvattanti",
+    "Viettnamese": "dẫn đến, đưa đến"
+  },
+  {
+    "id": "Pali - 0849",
+    "Pali": "abhiññāya",
+    "Viettnamese": "kiến thức cao hơn, sức mạnh siêu nhiên (để)"
+  },
+  {
+    "id": "Pali - 0850",
+    "Pali": "nibbānāya",
+    "Viettnamese": "giải thoát (để)"
+  },
+  {
+    "id": "Pali - 0851",
+    "Pali": "bodhiyā",
+    "Viettnamese": "giác ngộ (để)"
+  },
+  {
+    "id": "Pali - 0852",
+    "Pali": "etena",
+    "Viettnamese": "bởi điều này"
+  },
+  {
+    "id": "Pali - 0853",
+    "Pali": "saccavajjena =sacca+vajja",
+    "Viettnamese": "nhờ lời chân thật này (sự thật+lời nói)"
+  },
+  {
+    "id": "Pali - 0854",
+    "Pali": "sotthi",
+    "Viettnamese": "hạnh phúc, thịnh vượng"
+  },
+  {
+    "id": "Pali - 0855",
+    "Pali": "te",
+    "Viettnamese": "của bạn"
+  },
+  {
+    "id": "Pali - 0856",
+    "Pali": "hote",
+    "Viettnamese": "có lẽ"
+  },
+  {
+    "id": "Pali - 0857",
+    "Pali": "sabbadā",
+    "Viettnamese": "luôn luôn"
+  },
+  {
+    "id": "Pali - 0858",
+    "Pali": "Ekasmiṃ",
+    "Viettnamese": "tại một"
+  },
+  {
+    "id": "Pali - 0859",
+    "Pali": "samaye",
+    "Viettnamese": "thời gian"
+  },
+  {
+    "id": "Pali - 0860",
+    "Pali": "nātho",
+    "Viettnamese": "ngài, người bảo vệ"
+  },
+  {
+    "id": "Pali - 0861",
+    "Pali": "moggalānañca =moggalāna+ca",
+    "Viettnamese": "Moggallāna và"
+  },
+  {
+    "id": "Pali - 0862",
+    "Pali": "kassapaṃ",
+    "Viettnamese": "Kassapa (Tên các đệ tử của Đức Phật)"
+  },
+  {
+    "id": "Pali - 0863",
+    "Pali": "gilāne",
+    "Viettnamese": "đau ốm"
+  },
+  {
+    "id": "Pali - 0864",
+    "Pali": "dukhite",
+    "Viettnamese": "khổ đau"
+  },
+  {
+    "id": "Pali - 0865",
+    "Pali": "disvā",
+    "Viettnamese": "nhìn thấy"
+  },
+  {
+    "id": "Pali - 0866",
+    "Pali": "desayī",
+    "Viettnamese": "thuyết giảng"
+  },
+  {
+    "id": "Pali - 0867",
+    "Pali": "taṃ",
+    "Viettnamese": "này, đó"
+  },
+  {
+    "id": "Pali - 0868",
+    "Pali": "abhinanditvā",
+    "Viettnamese": "sự vui mừng"
+  },
+  {
+    "id": "Pali - 0869",
+    "Pali": "rogā",
+    "Viettnamese": "khỏi bệnh tật"
+  },
+  {
+    "id": "Pali - 0870",
+    "Pali": "muccimsu",
+    "Viettnamese": "trở nên tự do"
+  },
+  {
+    "id": "Pali - 0871",
+    "Pali": "taṅkhaṇe",
+    "Viettnamese": "lúc đó"
+  },
+  {
+    "id": "Pali - 0872",
+    "Pali": "Ekadā",
+    "Viettnamese": "một lần"
+  },
+  {
+    "id": "Pali - 0873",
+    "Pali": "dhammarājāpi",
+    "Viettnamese": "vị vua của Dhamma cũng thế"
+  },
+  {
+    "id": "Pali - 0874",
+    "Pali": "gelaññenābhipīḷito =gelaññena+abhipīḷito",
+    "Viettnamese": "bị khổ sở bởi bệnh tật (bởi bệnh tật + đau khổ)"
+  },
+  {
+    "id": "Pali - 0875",
+    "Pali": "cundattherena",
+    "Viettnamese": "Trưởng lão Cunda (bởi)"
+  },
+  {
+    "id": "Pali - 0876",
+    "Pali": "tam yeva",
+    "Viettnamese": "giống nhau"
+  },
+  {
+    "id": "Pali - 0877",
+    "Pali": "bhaṇāpetvāna",
+    "Viettnamese": "nguyên nhân/lý do để đọc tụng"
+  },
+  {
+    "id": "Pali - 0878",
+    "Pali": "sādaraṃ",
+    "Viettnamese": "với sự tôn kính"
+  },
+  {
+    "id": "Pali - 0879",
+    "Pali": "Sammoditvāna",
+    "Viettnamese": "hoan hỷ"
+  },
+  {
+    "id": "Pali - 0880",
+    "Pali": "ābādhā",
+    "Viettnamese": "thoát khỏi bệnh tật"
+  },
+  {
+    "id": "Pali - 0881",
+    "Pali": "tamhā",
+    "Viettnamese": "từ đó"
+  },
+  {
+    "id": "Pali - 0882",
+    "Pali": "vuṭṭhāsi",
+    "Viettnamese": "vươn lên/nổi dậy"
+  },
+  {
+    "id": "Pali - 0883",
+    "Pali": "ṭhānaso",
+    "Viettnamese": "một cách nhân quả, có lý do"
+  },
+  {
+    "id": "Pali - 0884",
+    "Pali": "Pahīnā",
+    "Viettnamese": "bị loại bỏ"
+  },
+  {
+    "id": "Pali - 0885",
+    "Pali": "tiṇṇannampi",
+    "Viettnamese": "cho ba người này"
+  },
+  {
+    "id": "Pali - 0886",
+    "Pali": "mahesinaṃ.",
+    "Viettnamese": "của các vị thánh nhân vĩ đại"
+  },
+  {
+    "id": "Pali - 0887",
+    "Pali": "maggāhatā",
+    "Viettnamese": "con đường hủy diệt"
+  },
+  {
+    "id": "Pali - 0888",
+    "Pali": "kilesā’va",
+    "Viettnamese": "các ô nhiễm, bất tịnh"
+  },
+  {
+    "id": "Pali - 0889",
+    "Pali": "Pattānu-patti =patta+anupatti",
+    "Viettnamese": "đạt được/đạt đến+sự đạt được"
+  },
+  {
+    "id": "Pali - 0890",
+    "Pali": "dhammatāṃ",
+    "Viettnamese": "tự nhiên, luật"
+  },
+  {
+    "id": "Pali - 0891",
+    "Pali": "Pūrento",
+    "Viettnamese": "trong khi hoàn thành"
+  },
+  {
+    "id": "Pali - 0892",
+    "Pali": "bodhisambhāre",
+    "Viettnamese": "các điều kiện cần thiết để giác ngộ"
+  },
+  {
+    "id": "Pali - 0893",
+    "Pali": "nātho",
+    "Viettnamese": "thượng đế, ngài"
+  },
+  {
+    "id": "Pali - 0894",
+    "Pali": "Temiya",
+    "Viettnamese": "tên của hoàng tử"
+  },
+  {
+    "id": "Pali - 0895",
+    "Pali": "jātiyaṃ.",
+    "Viettnamese": "trong sự ra đời của anh ấy"
+  },
+  {
+    "id": "Pali - 0896",
+    "Pali": "mittānisaṃsaṃ =mitta+ānisaṃsaṃ",
+    "Viettnamese": "tình bạn+lợi ích, phần thưởng, công đức"
+  },
+  {
+    "id": "Pali - 0897",
+    "Pali": "yaṃ",
+    "Viettnamese": "điều nào"
+  },
+  {
+    "id": "Pali - 0898",
+    "Pali": "āha",
+    "Viettnamese": "đã nói"
+  },
+  {
+    "id": "Pali - 0899",
+    "Pali": "sunanda",
+    "Viettnamese": "tên người đánh xe"
+  },
+  {
+    "id": "Pali - 0900",
+    "Pali": "nāma",
+    "Viettnamese": "đặt tên"
+  },
+  {
+    "id": "Pali - 0901",
+    "Pali": "sārathiṃ",
+    "Viettnamese": "người đánh xe"
+  },
+  {
+    "id": "Pali - 0902",
+    "Pali": "sabbalokahitatthāya =Sabba+loka+hita+atthāya",
+    "Viettnamese": "vì lợi ích của tất cả thế giới (tất cả+thế giới+lợi ích+vì mục đích)"
+  },
+  {
+    "id": "Pali - 0903",
+    "Pali": "parittaṃ",
+    "Viettnamese": "kệ hộ trì"
+  },
+  {
+    "id": "Pali - 0904",
+    "Pali": "taṃ",
+    "Viettnamese": "đó"
+  },
+  {
+    "id": "Pali - 0905",
+    "Pali": "bhaṇāmahe",
+    "Viettnamese": "chúng ta hãy cùng tụng"
+  },
+  {
+    "id": "Pali - 0906",
+    "Pali": "Pahūtabhakkho",
+    "Viettnamese": "một người ăn uống đàng hoàng"
+  },
+  {
+    "id": "Pali - 0907",
+    "Pali": "bhavati",
+    "Viettnamese": "là"
+  },
+  {
+    "id": "Pali - 0908",
+    "Pali": "vippavutto",
+    "Viettnamese": "ra khỏi, vắng mặt"
+  },
+  {
+    "id": "Pali - 0909",
+    "Pali": "sakā",
+    "Viettnamese": "của riêng mình"
+  },
+  {
+    "id": "Pali - 0910",
+    "Pali": "gharā",
+    "Viettnamese": "(từ) nhà"
+  },
+  {
+    "id": "Pali - 0911",
+    "Pali": "bahūnaṃ",
+    "Viettnamese": "nhiều"
+  },
+  {
+    "id": "Pali - 0912",
+    "Pali": "upajīvanti",
+    "Viettnamese": "phụ thuộc vào anh ấy"
+  },
+  {
+    "id": "Pali - 0913",
+    "Pali": "yo",
+    "Viettnamese": "bất cứ ai"
+  },
+  {
+    "id": "Pali - 0914",
+    "Pali": "na",
+    "Viettnamese": "không"
+  },
+  {
+    "id": "Pali - 0915",
+    "Pali": "dūbhati (var. of dubbhati)",
+    "Viettnamese": "phản bội, lừa dối"
+  },
+  {
+    "id": "Pali - 0916",
+    "Pali": "Yaṃyaṃ",
+    "Viettnamese": "bất cứ điều nào (điều nào + điều đó/ điều nào)"
+  },
+  {
+    "id": "Pali - 0917",
+    "Pali": "janapadaṃ",
+    "Viettnamese": "đất, tỉnh"
+  },
+  {
+    "id": "Pali - 0918",
+    "Pali": "yāti",
+    "Viettnamese": "anh ấy đi"
+  },
+  {
+    "id": "Pali - 0919",
+    "Pali": "nigame",
+    "Viettnamese": "thị trấn nhỏ"
+  },
+  {
+    "id": "Pali - 0920",
+    "Pali": "rājadhāniyo",
+    "Viettnamese": "hay thành phố hoàng gia/kinh thành"
+  },
+  {
+    "id": "Pali - 0921",
+    "Pali": "sabbattha",
+    "Viettnamese": "mọi nơi"
+  },
+  {
+    "id": "Pali - 0922",
+    "Pali": "pūjito",
+    "Viettnamese": "tôn kính"
+  },
+  {
+    "id": "Pali - 0923",
+    "Pali": "hoti",
+    "Viettnamese": "là"
+  },
+  {
+    "id": "Pali - 0924",
+    "Pali": "Nāssa=Na+assa",
+    "Viettnamese": "không phải+anh ấy"
+  },
+  {
+    "id": "Pali - 0925",
+    "Pali": "corā",
+    "Viettnamese": "những kẻ trộm"
+  },
+  {
+    "id": "Pali - 0926",
+    "Pali": "pasahanti",
+    "Viettnamese": "khuất phục"
+  },
+  {
+    "id": "Pali - 0927",
+    "Pali": "nātimaññeti =na+atimaññeti",
+    "Viettnamese": "không bị khinh thường (đừng+khinh thường)"
+  },
+  {
+    "id": "Pali - 0928",
+    "Pali": "khattiyo",
+    "Viettnamese": "một chiến binh, hoàng tử, người cai trị"
+  },
+  {
+    "id": "Pali - 0929",
+    "Pali": "sabbe",
+    "Viettnamese": "tất cả"
+  },
+  {
+    "id": "Pali - 0930",
+    "Pali": "amitte",
+    "Viettnamese": "kẻ thù"
+  },
+  {
+    "id": "Pali - 0931",
+    "Pali": "tarati",
+    "Viettnamese": "chiến thắng, vượt qua"
+  },
+  {
+    "id": "Pali - 0932",
+    "Pali": "Akuddho",
+    "Viettnamese": "không giận dữ"
+  },
+  {
+    "id": "Pali - 0933",
+    "Pali": "sagharaṃ =sa+gharaṃ",
+    "Viettnamese": "đến nhà anh ấy (của chính mình+nhà)"
+  },
+  {
+    "id": "Pali - 0934",
+    "Pali": "eti",
+    "Viettnamese": "đến, trở về"
+  },
+  {
+    "id": "Pali - 0935",
+    "Pali": "sabhāya",
+    "Viettnamese": "cuộc hội nghị"
+  },
+  {
+    "id": "Pali - 0936",
+    "Pali": "paṭinandito",
+    "Viettnamese": "chào mừng"
+  },
+  {
+    "id": "Pali - 0937",
+    "Pali": "ñātīnaṃ",
+    "Viettnamese": "người thân"
+  },
+  {
+    "id": "Pali - 0938",
+    "Pali": "uttamo",
+    "Viettnamese": "nổi tiếng"
+  },
+  {
+    "id": "Pali - 0939",
+    "Pali": "Sakkatvā",
+    "Viettnamese": "hiếu khách"
+  },
+  {
+    "id": "Pali - 0940",
+    "Pali": "sakkato",
+    "Viettnamese": "người nhận lòng hiếu khách"
+  },
+  {
+    "id": "Pali - 0941",
+    "Pali": "garu",
+    "Viettnamese": "anh ấy được quý trọng"
+  },
+  {
+    "id": "Pali - 0942",
+    "Pali": "sagāravo",
+    "Viettnamese": "quý trọng người khác, tôn trọng"
+  },
+  {
+    "id": "Pali - 0943",
+    "Pali": "vaṇṇakittibhato =vaṇṇa+kitti+bhato",
+    "Viettnamese": "người nhận được lời khen ngợi và danh tiếng (khen ngợi+danh tiếng + mang)"
+  },
+  {
+    "id": "Pali - 0944",
+    "Pali": "Pūjako",
+    "Viettnamese": "tôn trọng người khác"
+  },
+  {
+    "id": "Pali - 0945",
+    "Pali": "labhate",
+    "Viettnamese": "nhận được, thu được"
+  },
+  {
+    "id": "Pali - 0946",
+    "Pali": "pūjaṃ",
+    "Viettnamese": "tôn trọng"
+  },
+  {
+    "id": "Pali - 0947",
+    "Pali": "vandako",
+    "Viettnamese": "tôn vinh người khác"
+  },
+  {
+    "id": "Pali - 0948",
+    "Pali": "paṭivandanaṃ =paṭi+vandanaṃ",
+    "Viettnamese": "anh ấy được vinh danh (đổi lại+[anh ấy nhận được] danh dự)"
+  },
+  {
+    "id": "Pali - 0949",
+    "Pali": "yaso",
+    "Viettnamese": "danh tiếng"
+  },
+  {
+    "id": "Pali - 0950",
+    "Pali": "kittiñca",
+    "Viettnamese": "danh tiếng"
+  },
+  {
+    "id": "Pali - 0951",
+    "Pali": "pappoti",
+    "Viettnamese": "đạt được"
+  },
+  {
+    "id": "Pali - 0952",
+    "Pali": "Aggi",
+    "Viettnamese": "lửa"
+  },
+  {
+    "id": "Pali - 0953",
+    "Pali": "yathā",
+    "Viettnamese": "giống như"
+  },
+  {
+    "id": "Pali - 0954",
+    "Pali": "pajjalati",
+    "Viettnamese": "tỏa sáng"
+  },
+  {
+    "id": "Pali - 0955",
+    "Pali": "devatāva=devatā+va",
+    "Viettnamese": "thiên thể + giống như"
+  },
+  {
+    "id": "Pali - 0956",
+    "Pali": "virocati",
+    "Viettnamese": "anh ấy rạng rỡ, anh ấy tỏa sáng"
+  },
+  {
+    "id": "Pali - 0957",
+    "Pali": "siriyā",
+    "Viettnamese": "may mắn"
+  },
+  {
+    "id": "Pali - 0958",
+    "Pali": "ajahito",
+    "Viettnamese": "không bị bỏ rơi"
+  },
+  {
+    "id": "Pali - 0959",
+    "Pali": "Gāvo",
+    "Viettnamese": "gia súc"
+  },
+  {
+    "id": "Pali - 0960",
+    "Pali": "tassa",
+    "Viettnamese": "của anh ấy"
+  },
+  {
+    "id": "Pali - 0961",
+    "Pali": "pajāyanti",
+    "Viettnamese": "nhân lên, tăng lên"
+  },
+  {
+    "id": "Pali - 0962",
+    "Pali": "khette",
+    "Viettnamese": "trên đồng ruộng"
+  },
+  {
+    "id": "Pali - 0963",
+    "Pali": "vuttaṃ",
+    "Viettnamese": "cái gì được gieo"
+  },
+  {
+    "id": "Pali - 0964",
+    "Pali": "virūhati",
+    "Viettnamese": "lớn lên"
+  },
+  {
+    "id": "Pali - 0965",
+    "Pali": "vuttānaṃ",
+    "Viettnamese": "bất kỳ cái gì được gieo"
+  },
+  {
+    "id": "Pali - 0966",
+    "Pali": "phalamasnāti (=phalaṃ+asnāti)",
+    "Viettnamese": "anh ấy thích trái cây (trái cây + ăn, thưởng thức)"
+  },
+  {
+    "id": "Pali - 0967",
+    "Pali": "Darito",
+    "Viettnamese": "từ khe hở (lỗ hổng)"
+  },
+  {
+    "id": "Pali - 0968",
+    "Pali": "pabbatato",
+    "Viettnamese": "từ ngọn núi"
+  },
+  {
+    "id": "Pali - 0969",
+    "Pali": "vā",
+    "Viettnamese": "hoặc"
+  },
+  {
+    "id": "Pali - 0970",
+    "Pali": "rukkhato",
+    "Viettnamese": "từ cái cây"
+  },
+  {
+    "id": "Pali - 0971",
+    "Pali": "patito",
+    "Viettnamese": "rụng xuống"
+  },
+  {
+    "id": "Pali - 0972",
+    "Pali": "naro",
+    "Viettnamese": "người đàn ông"
+  },
+  {
+    "id": "Pali - 0973",
+    "Pali": "cuto",
+    "Viettnamese": "khi rụng xuống"
+  },
+  {
+    "id": "Pali - 0974",
+    "Pali": "patiṭṭhaṃ",
+    "Viettnamese": "chỗ đứng vững chắc, giúp đỡ, hỗ trợ"
+  },
+  {
+    "id": "Pali - 0975",
+    "Pali": "labhati",
+    "Viettnamese": "tìm kiếm"
+  },
+  {
+    "id": "Pali - 0976",
+    "Pali": "Virūḷhamūlasantānaṃ (=Virūḷha+ mūla+santānaṃ)",
+    "Viettnamese": "có rễ lan xa (trưởng thành+rễ + kế thừa, lan rộng, liên tục)"
+  },
+  {
+    "id": "Pali - 0977",
+    "Pali": "nigrodhamiva (=nigrodham+iva)",
+    "Viettnamese": "giống như cây banyan (cây banyan+giống như)"
+  },
+  {
+    "id": "Pali - 0978",
+    "Pali": "māluto",
+    "Viettnamese": "từ ngọn gió"
+  },
+  {
+    "id": "Pali - 0979",
+    "Pali": "amittā",
+    "Viettnamese": "kẻ thù"
+  },
+  {
+    "id": "Pali - 0980",
+    "Pali": "pasahanti",
+    "Viettnamese": "khuất phục"
+  },
+  {
+    "id": "Pali - 0981",
+    "Pali": "Yaṃ",
+    "Viettnamese": "điều nào"
+  },
+  {
+    "id": "Pali - 0982",
+    "Pali": "maṅgalaṃ",
+    "Viettnamese": "phước lành, điềm lành, thịnh vượng"
+  },
+  {
+    "id": "Pali - 0983",
+    "Pali": "dvādasahi",
+    "Viettnamese": "trong mười hai (năm)"
+  },
+  {
+    "id": "Pali - 0984",
+    "Pali": "cintayiṃsu",
+    "Viettnamese": "đã suy nghĩ lại"
+  },
+  {
+    "id": "Pali - 0985",
+    "Pali": "sadevakā",
+    "Viettnamese": "cùng với chư thiên"
+  },
+  {
+    "id": "Pali - 0986",
+    "Pali": "sotthānaṃ",
+    "Viettnamese": "phước lành, thịnh vượng"
+  },
+  {
+    "id": "Pali - 0987",
+    "Pali": "nādhigacchanti (=na+adhigacchanti)",
+    "Viettnamese": "không đến được (không+đến được)"
+  },
+  {
+    "id": "Pali - 0988",
+    "Pali": "aṭṭhatiṃsañca",
+    "Viettnamese": "ba mươi tám"
+  },
+  {
+    "id": "Pali - 0989",
+    "Pali": "Desitaṃ",
+    "Viettnamese": "đã dạy"
+  },
+  {
+    "id": "Pali - 0990",
+    "Pali": "devadevena",
+    "Viettnamese": "chúng sinh cõi trời cao nhất (Đại phạm thiên)"
+  },
+  {
+    "id": "Pali - 0991",
+    "Pali": "sabbapāpavināsanaṃ (=sabba+pāpa+vināsanaṃ)",
+    "Viettnamese": "sẽ tiêu diệt tất cả điều ác (tất cả + điều ác + sự hủy diệt)"
+  },
+  {
+    "id": "Pali - 0992",
+    "Pali": "sabbaloka-hitatthāya (=sabba+loka+hita+atthāya)",
+    "Viettnamese": "vì lợi ích của tất cả thế giới (tất cả+thế giới+lợi ích+ vì mục đích)"
+  },
+  {
+    "id": "Pali - 0993",
+    "Pali": "taṃ",
+    "Viettnamese": "đó"
+  },
+  {
+    "id": "Pali - 0994",
+    "Pali": "bhaṇāmahe",
+    "Viettnamese": "hãy để chúng tôi tụng"
+  },
+  {
+    "id": "Pali - 0995",
+    "Pali": "Evaṃ",
+    "Viettnamese": "như vậy"
+  },
+  {
+    "id": "Pali - 0996",
+    "Pali": "me",
+    "Viettnamese": "bởi tôi"
+  },
+  {
+    "id": "Pali - 0997",
+    "Pali": "sutaṃ",
+    "Viettnamese": "đã được nghe"
+  },
+  {
+    "id": "Pali - 0998",
+    "Pali": "ekaṃ",
+    "Viettnamese": "một, chắc chắn"
+  },
+  {
+    "id": "Pali - 0999",
+    "Pali": "samayaṃ",
+    "Viettnamese": "thời gian, dịp"
+  },
+  {
+    "id": "Pali - 1000",
+    "Pali": "bhagavā",
+    "Viettnamese": "Đức Thế Tôn"
+  },
+  {
+    "id": "Pali - 1001",
+    "Pali": "sāvatthiyaṃ",
+    "Viettnamese": "tại Sāvatthi (một thành phố)"
+  },
+  {
+    "id": "Pali - 1002",
+    "Pali": "viharati",
+    "Viettnamese": "trú ngụ"
+  },
+  {
+    "id": "Pali - 1003",
+    "Pali": "jetavane",
+    "Viettnamese": "tại Jetavana (khu rừng của Jeta)"
+  },
+  {
+    "id": "Pali - 1004",
+    "Pali": "anāthapiṇḍikassa",
+    "Viettnamese": "của Anāthapiṇḍika (một đệ tử cư sĩ của Đức Phật)"
+  },
+  {
+    "id": "Pali - 1005",
+    "Pali": "ārāme",
+    "Viettnamese": "tu viện"
+  },
+  {
+    "id": "Pali - 1006",
+    "Pali": "atha",
+    "Viettnamese": "sau đó"
+  },
+  {
+    "id": "Pali - 1007",
+    "Pali": "kho",
+    "Viettnamese": "quả thực"
+  },
+  {
+    "id": "Pali - 1008",
+    "Pali": "aññatarā",
+    "Viettnamese": "một người nào đó, một số"
+  },
+  {
+    "id": "Pali - 1009",
+    "Pali": "devatā",
+    "Viettnamese": "(nữ) vị thần (nữ)"
+  },
+  {
+    "id": "Pali - 1010",
+    "Pali": "abhikkantāya",
+    "Viettnamese": "trình độ cao, tiến hóa"
+  },
+  {
+    "id": "Pali - 1011",
+    "Pali": "rattiyā",
+    "Viettnamese": "đêm"
+  },
+  {
+    "id": "Pali - 1012",
+    "Pali": "abhikkantavaṇṇā (=abhikkanta+vaṇṇā)",
+    "Viettnamese": "có nước da đẹp/ có đặc điểm tốt (vượt trội+vẻ đẹp)"
+  },
+  {
+    "id": "Pali - 1013",
+    "Pali": "kevalakappaṃ",
+    "Viettnamese": "toàn bộ của nó"
+  },
+  {
+    "id": "Pali - 1014",
+    "Pali": "jetavanaṃ",
+    "Viettnamese": "khu rừng Jeta"
+  },
+  {
+    "id": "Pali - 1015",
+    "Pali": "obhāsetvā",
+    "Viettnamese": "chiếu sáng"
+  },
+  {
+    "id": "Pali - 1016",
+    "Pali": "yena",
+    "Viettnamese": "ở đâu"
+  },
+  {
+    "id": "Pali - 1017",
+    "Pali": "tenupasaṅkami (=tena+upasaṅkami)",
+    "Viettnamese": "ở đó+đã đi/tiếp cận"
+  },
+  {
+    "id": "Pali - 1018",
+    "Pali": "upasaṅkamitvā",
+    "Viettnamese": "đã đến đó"
+  },
+  {
+    "id": "Pali - 1019",
+    "Pali": "bhagavantaṃ",
+    "Viettnamese": "Đức Thế Tôn"
+  },
+  {
+    "id": "Pali - 1020",
+    "Pali": "abhivādetvā",
+    "Viettnamese": "chào"
+  },
+  {
+    "id": "Pali - 1021",
+    "Pali": "ekamantaṃ",
+    "Viettnamese": "một bên"
+  },
+  {
+    "id": "Pali - 1022",
+    "Pali": "aṭṭhāsi",
+    "Viettnamese": "đã đứng lại"
+  },
+  {
+    "id": "Pali - 1023",
+    "Pali": "thitā",
+    "Viettnamese": "đang đứng"
+  },
+  {
+    "id": "Pali - 1024",
+    "Pali": "sā",
+    "Viettnamese": "cô ấy"
+  },
+  {
+    "id": "Pali - 1025",
+    "Pali": "gāthāya",
+    "Viettnamese": "trong câu kệ"
+  },
+  {
+    "id": "Pali - 1026",
+    "Pali": "ajjhabhāsi",
+    "Viettnamese": "đã gọi, đã lên tiếng"
+  },
+  {
+    "id": "Pali - 1027",
+    "Pali": "Bahū",
+    "Viettnamese": "nhiều"
+  },
+  {
+    "id": "Pali - 1028",
+    "Pali": "devā",
+    "Viettnamese": "chư thiên"
+  },
+  {
+    "id": "Pali - 1029",
+    "Pali": "manussā",
+    "Viettnamese": "con người"
+  },
+  {
+    "id": "Pali - 1030",
+    "Pali": "ca",
+    "Viettnamese": "cũng thế, cũng vậy"
+  },
+  {
+    "id": "Pali - 1031",
+    "Pali": "maṅgalāni",
+    "Viettnamese": "phước lành, phúc lợi, tốt lành"
+  },
+  {
+    "id": "Pali - 1032",
+    "Pali": "acintayuṃ",
+    "Viettnamese": "đã nghĩ đi nghĩ lại"
+  },
+  {
+    "id": "Pali - 1033",
+    "Pali": "ākaṅkhamānā",
+    "Viettnamese": "mong muốn cho"
+  },
+  {
+    "id": "Pali - 1034",
+    "Pali": "brūhi",
+    "Viettnamese": "bạn nói"
+  },
+  {
+    "id": "Pali - 1035",
+    "Pali": "maṅgalamuttamaṃ (=maṅgalaṃ+ uttamaṃ)",
+    "Viettnamese": "phước lành cao nhất (phước lành+cao nhất, tốt nhất)"
+  },
+  {
+    "id": "Pali - 1036",
+    "Pali": "Asevanā",
+    "Viettnamese": "tránh, không giao thiệp với"
+  },
+  {
+    "id": "Pali - 1037",
+    "Pali": "bālānaṃ",
+    "Viettnamese": "những kẻ ngu (của)"
+  },
+  {
+    "id": "Pali - 1038",
+    "Pali": "paṇḍitānaṃ",
+    "Viettnamese": "những bậc trí"
+  },
+  {
+    "id": "Pali - 1039",
+    "Pali": "sevanā",
+    "Viettnamese": "giao thiệp với"
+  },
+  {
+    "id": "Pali - 1040",
+    "Pali": "pūjā",
+    "Viettnamese": "tôn kính"
+  },
+  {
+    "id": "Pali - 1041",
+    "Pali": "pūjanīyānaṃ",
+    "Viettnamese": "người đáng được tôn kính"
+  },
+  {
+    "id": "Pali - 1042",
+    "Pali": "Patirūpa+desavāso",
+    "Viettnamese": "thích hợp, thích đáng+vùng, quốc gia"
+  },
+  {
+    "id": "Pali - 1043",
+    "Pali": "pubbe",
+    "Viettnamese": "quá khứ"
+  },
+  {
+    "id": "Pali - 1044",
+    "Pali": "katapuññatā (=kata+puññatā)",
+    "Viettnamese": "công đức của những việc làm tốt trong quá khứ (đã làm + việc tốt)"
+  },
+  {
+    "id": "Pali - 1045",
+    "Pali": "atta-sammāpaṇidhi (=atta+sammā+paṇidhi)",
+    "Viettnamese": "cái tôi+chánh+tâm nguyện"
+  },
+  {
+    "id": "Pali - 1046",
+    "Pali": "Bāhusaccañca (=Bāhu+saccaṃ+ca)",
+    "Viettnamese": "học rộng hiểu nhiều/kiến thức rộng (giỏi+sự thật+và)"
+  },
+  {
+    "id": "Pali - 1047",
+    "Pali": "sippaṃ",
+    "Viettnamese": "kỹ năng"
+  },
+  {
+    "id": "Pali - 1048",
+    "Pali": "vinayo",
+    "Viettnamese": "kỉ luật"
+  },
+  {
+    "id": "Pali - 1049",
+    "Pali": "susikkhito",
+    "Viettnamese": "làm chủ tốt"
+  },
+  {
+    "id": "Pali - 1050",
+    "Pali": "subhāsitā=su+bhāsitā",
+    "Viettnamese": "nói tốt (tốt + nói)"
+  },
+  {
+    "id": "Pali - 1051",
+    "Pali": "yā",
+    "Viettnamese": "đó"
+  },
+  {
+    "id": "Pali - 1052",
+    "Pali": "vācā",
+    "Viettnamese": "lời nói"
+  },
+  {
+    "id": "Pali - 1053",
+    "Pali": "Mātā-pitu",
+    "Viettnamese": "mẹ-cha"
+  },
+  {
+    "id": "Pali - 1054",
+    "Pali": "upaṭṭhānaṃ",
+    "Viettnamese": "phục vụ"
+  },
+  {
+    "id": "Pali - 1055",
+    "Pali": "puttadārassa",
+    "Viettnamese": "con cái và người phối ngẫu/vợ-chồng"
+  },
+  {
+    "id": "Pali - 1056",
+    "Pali": "saṅgaho",
+    "Viettnamese": "chăm sóc, chăm nom"
+  },
+  {
+    "id": "Pali - 1057",
+    "Pali": "anākulā=an+ākulā",
+    "Viettnamese": "đơn giản (không + rối rắm, xuyên tạc)"
+  },
+  {
+    "id": "Pali - 1058",
+    "Pali": "kammantā",
+    "Viettnamese": "nghề nghiệp"
+  },
+  {
+    "id": "Pali - 1059",
+    "Pali": "Dānaṃ+ca",
+    "Viettnamese": "hào phóng+và"
+  },
+  {
+    "id": "Pali - 1060",
+    "Pali": "dhammacariyā",
+    "Viettnamese": "cuộc đời Dhamma"
+  },
+  {
+    "id": "Pali - 1061",
+    "Pali": "ñātakānaṃ",
+    "Viettnamese": "họ hàng"
+  },
+  {
+    "id": "Pali - 1062",
+    "Pali": "anavajjāni",
+    "Viettnamese": "vô tội"
+  },
+  {
+    "id": "Pali - 1063",
+    "Pali": "kammāni",
+    "Viettnamese": "việc làm"
+  },
+  {
+    "id": "Pali - 1064",
+    "Pali": "Āratī",
+    "Viettnamese": "sự kiêng tránh"
+  },
+  {
+    "id": "Pali - 1065",
+    "Pali": "viratī",
+    "Viettnamese": "tránh"
+  },
+  {
+    "id": "Pali - 1066",
+    "Pali": "pāpā",
+    "Viettnamese": "xấu ác"
+  },
+  {
+    "id": "Pali - 1067",
+    "Pali": "majjapānā",
+    "Viettnamese": "uống rượu và chất say"
+  },
+  {
+    "id": "Pali - 1068",
+    "Pali": "samyamo",
+    "Viettnamese": "kiềm chế"
+  },
+  {
+    "id": "Pali - 1069",
+    "Pali": "appamādo",
+    "Viettnamese": "cảnh giác, thận trọng"
+  },
+  {
+    "id": "Pali - 1070",
+    "Pali": "dhammesu",
+    "Viettnamese": "trong Dhamma"
+  },
+  {
+    "id": "Pali - 1071",
+    "Pali": "Gāravo",
+    "Viettnamese": "sự kính cẩn"
+  },
+  {
+    "id": "Pali - 1072",
+    "Pali": "nivāto",
+    "Viettnamese": "khiêm tốn"
+  },
+  {
+    "id": "Pali - 1073",
+    "Pali": "santuṭṭhi",
+    "Viettnamese": "hài lòng"
+  },
+  {
+    "id": "Pali - 1074",
+    "Pali": "kataññutā",
+    "Viettnamese": "biết ơn"
+  },
+  {
+    "id": "Pali - 1075",
+    "Pali": "kālena",
+    "Viettnamese": "đúng thời"
+  },
+  {
+    "id": "Pali - 1076",
+    "Pali": "dhammassavanaṃ",
+    "Viettnamese": "lắng nghe Dhamma"
+  },
+  {
+    "id": "Pali - 1077",
+    "Pali": "Khantī",
+    "Viettnamese": "kham nhẫn, kiên nhẫn"
+  },
+  {
+    "id": "Pali - 1078",
+    "Pali": "sovacassatā",
+    "Viettnamese": "sự tuân theo sự hướng dẫn, sự quy thuận, sự vâng lời"
+  },
+  {
+    "id": "Pali - 1079",
+    "Pali": "samaṇānaṃ",
+    "Viettnamese": "bậc thánh"
+  },
+  {
+    "id": "Pali - 1080",
+    "Pali": "dassanaṃ",
+    "Viettnamese": "thăm quan, ngắm nhìn"
+  },
+  {
+    "id": "Pali - 1081",
+    "Pali": "dhammasākacchā",
+    "Viettnamese": "bàn luận về Dhamma"
+  },
+  {
+    "id": "Pali - 1082",
+    "Pali": "Tapo",
+    "Viettnamese": "thực hành chuyên cần"
+  },
+  {
+    "id": "Pali - 1083",
+    "Pali": "brahmacariyaṃ",
+    "Viettnamese": "đời sống thánh thiện, sự tiết chế"
+  },
+  {
+    "id": "Pali - 1084",
+    "Pali": "ariyasaccāna-dassanaṃ=ariya+saccānaṃ+dassanaṃ",
+    "Viettnamese": "thực chứng những sự thật cao quý (cao quý+của sự thật+ thực chứng)"
+  },
+  {
+    "id": "Pali - 1085",
+    "Pali": "nibbānasacchikiriyā (=nibbāna+ sacchikiriyā)",
+    "Viettnamese": "kinh nghiệm nibbāna (nibbāna+kinh nghiệm)"
+  },
+  {
+    "id": "Pali - 1086",
+    "Pali": "Phuṭṭhassa",
+    "Viettnamese": "đối mặt, đối diện với, tiếp xúc với"
+  },
+  {
+    "id": "Pali - 1087",
+    "Pali": "lokadhammehi (=loka+dhammehi)",
+    "Viettnamese": "các pháp của thế gian (thế gian+theo pháp/điều kiện)"
+  },
+  {
+    "id": "Pali - 1088",
+    "Pali": "cittaṃ",
+    "Viettnamese": "tâm"
+  },
+  {
+    "id": "Pali - 1089",
+    "Pali": "yassa",
+    "Viettnamese": "của người mà"
+  },
+  {
+    "id": "Pali - 1090",
+    "Pali": "na",
+    "Viettnamese": "không"
+  },
+  {
+    "id": "Pali - 1091",
+    "Pali": "kampati",
+    "Viettnamese": "run rẩy, rung chuyển"
+  },
+  {
+    "id": "Pali - 1092",
+    "Pali": "asokaṃ",
+    "Viettnamese": "thoát khỏi đau khổ"
+  },
+  {
+    "id": "Pali - 1093",
+    "Pali": "virajaṃ",
+    "Viettnamese": "thoát khỏi phiền não"
+  },
+  {
+    "id": "Pali - 1094",
+    "Pali": "khemaṃ",
+    "Viettnamese": "an toàn"
+  },
+  {
+    "id": "Pali - 1095",
+    "Pali": "Etādisāni",
+    "Viettnamese": "cách này"
+  },
+  {
+    "id": "Pali - 1096",
+    "Pali": "katvāna",
+    "Viettnamese": "đã hành động"
+  },
+  {
+    "id": "Pali - 1097",
+    "Pali": "sabbatthamaparājitā (=sabbathaṃ+aparājitā)",
+    "Viettnamese": "mọi nơi+bất bại"
+  },
+  {
+    "id": "Pali - 1098",
+    "Pali": "sabbatthasotthiṃ (=sabbatha+sotthiṃ)",
+    "Viettnamese": "mọi nơi+an toàn"
+  },
+  {
+    "id": "Pali - 1099",
+    "Pali": "gacchanti",
+    "Viettnamese": "họ đi"
+  },
+  {
+    "id": "Pali - 1100",
+    "Pali": "Ahaṃ",
+    "Viettnamese": "Tôi"
+  },
+  {
+    "id": "Pali - 1101",
+    "Pali": "avero",
+    "Viettnamese": "thoát khỏi sự hận thù"
+  },
+  {
+    "id": "Pali - 1102",
+    "Pali": "homi",
+    "Viettnamese": "nguyện cho tôi"
+  },
+  {
+    "id": "Pali - 1103",
+    "Pali": "abyāpajjho",
+    "Viettnamese": "thoát khỏi sự ghét bỏ"
+  },
+  {
+    "id": "Pali - 1104",
+    "Pali": "Anīgho (=an+īgha)",
+    "Viettnamese": "không bị xáo trộn (không+run sợ, bối rối)"
+  },
+  {
+    "id": "Pali - 1105",
+    "Pali": "sukhī",
+    "Viettnamese": "hạnh phúc"
+  },
+  {
+    "id": "Pali - 1106",
+    "Pali": "attānaṃ",
+    "Viettnamese": "chính tôi"
+  },
+  {
+    "id": "Pali - 1107",
+    "Pali": "pariharāmi",
+    "Viettnamese": "chăm sóc, bảo vệ, che chở"
+  },
+  {
+    "id": "Pali - 1108",
+    "Pali": "Mātā-pitu-ācariya-ñāti-samūhā",
+    "Viettnamese": "mẹ-cha-thầy tổ- thân quyến-vô số (số đông, sự tập hợp)"
+  },
+  {
+    "id": "Pali - 1109",
+    "Pali": "hontu",
+    "Viettnamese": "nguyện cho họ"
+  },
+  {
+    "id": "Pali - 1110",
+    "Pali": "Ārakkhadevatā",
+    "Viettnamese": "chư thiên hộ trì"
+  },
+  {
+    "id": "Pali - 1111",
+    "Pali": "bhūmaṭṭhadevatā",
+    "Viettnamese": "chư thiên trên trái đất"
+  },
+  {
+    "id": "Pali - 1112",
+    "Pali": "rukkhaṭṭhadevatā",
+    "Viettnamese": "chư thiên trên cây cối/thọ thần"
+  },
+  {
+    "id": "Pali - 1113",
+    "Pali": "ākāsaṭṭhadevatā",
+    "Viettnamese": "chư thiên trên hư không"
+  },
+  {
+    "id": "Pali - 1114",
+    "Pali": "Puratthimāya",
+    "Viettnamese": "hướng đông"
+  },
+  {
+    "id": "Pali - 1115",
+    "Pali": "disāya",
+    "Viettnamese": "phương hướng"
+  },
+  {
+    "id": "Pali - 1116",
+    "Pali": "anudisāya",
+    "Viettnamese": "ở giữa"
+  },
+  {
+    "id": "Pali - 1117",
+    "Pali": "Dakkhiṇāya",
+    "Viettnamese": "hướng nam"
+  },
+  {
+    "id": "Pali - 1118",
+    "Pali": "Pacchimāya",
+    "Viettnamese": "hướng tây"
+  },
+  {
+    "id": "Pali - 1119",
+    "Pali": "Uttarāya",
+    "Viettnamese": "hướng bắc"
+  },
+  {
+    "id": "Pali - 1120",
+    "Pali": "Uparimāya",
+    "Viettnamese": "phía trên"
+  },
+  {
+    "id": "Pali - 1121",
+    "Pali": "heṭṭhimāya",
+    "Viettnamese": "phía dưới"
+  },
+  {
+    "id": "Pali - 1122",
+    "Pali": "Sabbe",
+    "Viettnamese": "tất cả"
+  },
+  {
+    "id": "Pali - 1123",
+    "Pali": "sattā",
+    "Viettnamese": "chúng sinh"
+  },
+  {
+    "id": "Pali - 1124",
+    "Pali": "pāṇā",
+    "Viettnamese": "đang sống"
+  },
+  {
+    "id": "Pali - 1125",
+    "Pali": "bhūtā",
+    "Viettnamese": "loài vật"
+  },
+  {
+    "id": "Pali - 1126",
+    "Pali": "puggalā",
+    "Viettnamese": "cá nhân"
+  },
+  {
+    "id": "Pali - 1127",
+    "Pali": "attabhāvapariyāpannā",
+    "Viettnamese": "có bất kỳ hình thức sống nào"
+  },
+  {
+    "id": "Pali - 1128",
+    "Pali": "itthiyo",
+    "Viettnamese": "nữ, phụ nữ"
+  },
+  {
+    "id": "Pali - 1129",
+    "Pali": "purisā",
+    "Viettnamese": "nam, đàn ông"
+  },
+  {
+    "id": "Pali - 1130",
+    "Pali": "ariyā",
+    "Viettnamese": "người đã đạt được tâm thanh tịnh"
+  },
+  {
+    "id": "Pali - 1131",
+    "Pali": "anariyā",
+    "Viettnamese": "người chưa đạt được tâm thanh tịnh"
+  },
+  {
+    "id": "Pali - 1132",
+    "Pali": "manussā",
+    "Viettnamese": "đàn ông, nhân loại"
+  },
+  {
+    "id": "Pali - 1133",
+    "Pali": "amanussā",
+    "Viettnamese": "phi nhân"
+  },
+  {
+    "id": "Pali - 1134",
+    "Pali": "devā",
+    "Viettnamese": "chư thiên"
+  },
+  {
+    "id": "Pali - 1135",
+    "Pali": "vinipātikā",
+    "Viettnamese": "trong trạng thái khốn khổ (địa ngục)"
+  },
+  {
+    "id": "Pali - 1136",
+    "Pali": "ca",
+    "Viettnamese": "cũng thế, cũng vậy, và"
+  },
+  {
+    "id": "Pali - 1137",
+    "Pali": "khemino",
+    "Viettnamese": "an toàn"
+  },
+  {
+    "id": "Pali - 1138",
+    "Pali": "bhadrāṇi",
+    "Viettnamese": "sự may mắn, điềm lành"
+  },
+  {
+    "id": "Pali - 1139",
+    "Pali": "passantu",
+    "Viettnamese": "thấy"
+  },
+  {
+    "id": "Pali - 1140",
+    "Pali": "mā",
+    "Viettnamese": "đừng (tiểu từ không biến đổi chỉ sự ngăn cấm)"
+  },
+  {
+    "id": "Pali - 1141",
+    "Pali": "kiñci",
+    "Viettnamese": "một điều gì đó"
+  },
+  {
+    "id": "Pali - 1142",
+    "Pali": "pāpamāgamā",
+    "Viettnamese": "gặp ác quỷ"
+  },
+  {
+    "id": "Pali - 1143",
+    "Pali": "encounter",
+    "Viettnamese": "gặp đau buồn"
+  },
+  {
+    "id": "Pali - 1144",
+    "Pali": "Anicca",
+    "Viettnamese": "vô thường"
+  },
+  {
+    "id": "Pali - 1145",
+    "Pali": "vata",
+    "Viettnamese": "quả thực, thật vậy"
+  },
+  {
+    "id": "Pali - 1146",
+    "Pali": "saṅkhārā",
+    "Viettnamese": "sự vật/hiện tượng phức hợp (có điều kiện)"
+  },
+  {
+    "id": "Pali - 1147",
+    "Pali": "Uppādavayadhammino (=uppāda+vaya+dhammino)",
+    "Viettnamese": "có bản chất sinh và diệt (sinh+diệt+bản chất)"
+  },
+  {
+    "id": "Pali - 1148",
+    "Pali": "uppajjitvā",
+    "Viettnamese": "đã nhìn thấy"
+  },
+  {
+    "id": "Pali - 1149",
+    "Pali": "nirujjhanti",
+    "Viettnamese": "(họ) bị tiêu diệt, chấm dứt"
+  },
+  {
+    "id": "Pali - 1150",
+    "Pali": "tesaṃ",
+    "Viettnamese": "của họ"
+  },
+  {
+    "id": "Pali - 1151",
+    "Pali": "vūpasamo",
+    "Viettnamese": "sự chấm dứt"
+  },
+  {
+    "id": "Pali - 1152",
+    "Pali": "sukho",
+    "Viettnamese": "(là) hạnh phúc"
+  },
+  {
+    "id": "Pali - 1153",
+    "Pali": "Sabbe",
+    "Viettnamese": "tất cả"
+  },
+  {
+    "id": "Pali - 1154",
+    "Pali": "yadā",
+    "Viettnamese": "khi nào"
+  },
+  {
+    "id": "Pali - 1155",
+    "Pali": "paññāya",
+    "Viettnamese": "với trí tuệ/tuệ giác"
+  },
+  {
+    "id": "Pali - 1156",
+    "Pali": "passati",
+    "Viettnamese": "nhận ra, nhận thức"
+  },
+  {
+    "id": "Pali - 1157",
+    "Pali": "atha",
+    "Viettnamese": "sau đó"
+  },
+  {
+    "id": "Pali - 1158",
+    "Pali": "nibbindati",
+    "Viettnamese": "trở nên mệt mỏi/chán ghét"
+  },
+  {
+    "id": "Pali - 1159",
+    "Pali": "dukkhe",
+    "Viettnamese": "(hướng về) khổ đau"
+  },
+  {
+    "id": "Pali - 1160",
+    "Pali": "esa",
+    "Viettnamese": "đây (là)"
+  },
+  {
+    "id": "Pali - 1161",
+    "Pali": "maggo",
+    "Viettnamese": "con đường"
+  },
+  {
+    "id": "Pali - 1162",
+    "Pali": "visuddhiyā",
+    "Viettnamese": "(của) sự thanh lọc"
+  },
+  {
+    "id": "Pali - 1163",
+    "Pali": "Yato yato (yato)",
+    "Viettnamese": "bất cứ khi nào, bất cứ ở đâu (từ đó, từ đâu)"
+  },
+  {
+    "id": "Pali - 1164",
+    "Pali": "sammasati",
+    "Viettnamese": "nắm bắt/hiểu rõ/biết tường tận"
+  },
+  {
+    "id": "Pali - 1165",
+    "Pali": "khandhānaṃ",
+    "Viettnamese": "của những tập hợp"
+  },
+  {
+    "id": "Pali - 1166",
+    "Pali": "udayabbayaṃ",
+    "Viettnamese": "sinh và diệt, khởi sinh và diệt đi"
+  },
+  {
+    "id": "Pali - 1167",
+    "Pali": "labhatī",
+    "Viettnamese": "có được, kinh nghiệm được"
+  },
+  {
+    "id": "Pali - 1168",
+    "Pali": "pīti",
+    "Viettnamese": "sự sung sướng vô ngần, trạng thái nhập định (hỷ)"
+  },
+  {
+    "id": "Pali - 1169",
+    "Pali": "pāmojjaṃ",
+    "Viettnamese": "hạnh phúc, sự vui sướng"
+  },
+  {
+    "id": "Pali - 1170",
+    "Pali": "amataṃ",
+    "Viettnamese": "trạng thái bất tử (đối cách.)"
+  },
+  {
+    "id": "Pali - 1171",
+    "Pali": "taṃ",
+    "Viettnamese": "đó"
+  },
+  {
+    "id": "Pali - 1172",
+    "Pali": "vijānataṃ",
+    "Viettnamese": "đã hiểu"
+  },
+  {
+    "id": "Pali - 1173",
+    "Pali": "Puññānumodanaṃ (=puñña+anumodanaṃ)",
+    "Viettnamese": "sự chấp thuận/nhận, tạ ơn (công đức + sự chấp nhận)"
+  },
+  {
+    "id": "Pali - 1174",
+    "Pali": "Sabbesu",
+    "Viettnamese": "(trong) tất cả"
+  },
+  {
+    "id": "Pali - 1175",
+    "Pali": "cakkavāḷesu",
+    "Viettnamese": "hệ thống thế giới"
+  },
+  {
+    "id": "Pali - 1176",
+    "Pali": "yakkhā",
+    "Viettnamese": "phi nhân, ma quỷ (dạ xoa)"
+  },
+  {
+    "id": "Pali - 1177",
+    "Pali": "devā",
+    "Viettnamese": "chư thiên"
+  },
+  {
+    "id": "Pali - 1178",
+    "Pali": "ca",
+    "Viettnamese": "và"
+  },
+  {
+    "id": "Pali - 1179",
+    "Pali": "brahmuno",
+    "Viettnamese": "phạm thiên"
+  },
+  {
+    "id": "Pali - 1180",
+    "Pali": "Yaṃ",
+    "Viettnamese": "bất cứ điều gì"
+  },
+  {
+    "id": "Pali - 1181",
+    "Pali": "amhehi",
+    "Viettnamese": "bởi chúng tôi"
+  },
+  {
+    "id": "Pali - 1182",
+    "Pali": "kataṃ",
+    "Viettnamese": "hoàn thành"
+  },
+  {
+    "id": "Pali - 1183",
+    "Pali": "puññaṃ",
+    "Viettnamese": "công đức"
+  },
+  {
+    "id": "Pali - 1184",
+    "Pali": "sabbasampatti (=sabba+sampatti)",
+    "Viettnamese": "tất cả các loại thịnh vượng (tất cả + thịnh vượng)"
+  },
+  {
+    "id": "Pali - 1185",
+    "Pali": "sādhakaṃ",
+    "Viettnamese": "dẫn đến"
+  },
+  {
+    "id": "Pali - 1186",
+    "Pali": "Sabbe",
+    "Viettnamese": "tất cả"
+  },
+  {
+    "id": "Pali - 1187",
+    "Pali": "taṃ",
+    "Viettnamese": "đó"
+  },
+  {
+    "id": "Pali - 1188",
+    "Pali": "anumoditvā",
+    "Viettnamese": "đã hoan hỷ"
+  },
+  {
+    "id": "Pali - 1189",
+    "Pali": "samaggā",
+    "Viettnamese": "đoàn kết lại"
+  },
+  {
+    "id": "Pali - 1190",
+    "Pali": "sāsane",
+    "Viettnamese": "để giảng dạy"
+  },
+  {
+    "id": "Pali - 1191",
+    "Pali": "ratā",
+    "Viettnamese": "tận tâm"
+  },
+  {
+    "id": "Pali - 1192",
+    "Pali": "pamādarahitā (=pamāda+rahitā)",
+    "Viettnamese": "không phóng dật (phóng dật+không)"
+  },
+  {
+    "id": "Pali - 1193",
+    "Pali": "ārakkhāsu",
+    "Viettnamese": "trong việc cho đi sự bảo vệ"
+  },
+  {
+    "id": "Pali - 1194",
+    "Pali": "visesato",
+    "Viettnamese": "đặc biệt là"
+  },
+  {
+    "id": "Pali - 1195",
+    "Pali": "Puññabhāgamidaṃ (=Puñña+bhāgaṃ+idaṃ)",
+    "Viettnamese": "công đức+ phần+ này"
+  },
+  {
+    "id": "Pali - 1196",
+    "Pali": "c'aññam=ca+aññam",
+    "Viettnamese": "và trước đó (và+khác)"
+  },
+  {
+    "id": "Pali - 1197",
+    "Pali": "samaṃ",
+    "Viettnamese": "bằng nhau"
+  },
+  {
+    "id": "Pali - 1198",
+    "Pali": "dadāma",
+    "Viettnamese": "cho đi"
+  },
+  {
+    "id": "Pali - 1199",
+    "Pali": "kāritaṃ",
+    "Viettnamese": "Tôi đã làm"
+  },
+  {
+    "id": "Pali - 1200",
+    "Pali": "anumodantu",
+    "Viettnamese": "chấp nhận với niềm vui"
+  },
+  {
+    "id": "Pali - 1201",
+    "Pali": "medinī",
+    "Viettnamese": "trái đất"
+  },
+  {
+    "id": "Pali - 1202",
+    "Pali": "thātu",
+    "Viettnamese": "ở lại, vẫn, đứng vững"
+  },
+  {
+    "id": "Pali - 1203",
+    "Pali": "sakkhike",
+    "Viettnamese": "thực chứng"
+  },
+  {
+    "id": "Pali - 1204",
+    "Pali": "Tumhehi",
+    "Viettnamese": "bởi bạn"
+  },
+  {
+    "id": "Pali - 1205",
+    "Pali": "kiccaṃ",
+    "Viettnamese": "việc làm/phận sự"
+  },
+  {
+    "id": "Pali - 1206",
+    "Pali": "ātappaṃ",
+    "Viettnamese": "sự nỗ lực"
+  },
+  {
+    "id": "Pali - 1207",
+    "Pali": "akkhātāro",
+    "Viettnamese": "những người diễn giải, những người thuyết giảng"
+  },
+  {
+    "id": "Pali - 1208",
+    "Pali": "tathāgatā",
+    "Viettnamese": "Những bậc Giác ngộ"
+  },
+  {
+    "id": "Pali - 1209",
+    "Pali": "Sabba-pāpassa",
+    "Viettnamese": "(của) tất cả những hành động bất thiện/không có đạo đức"
+  },
+  {
+    "id": "Pali - 1210",
+    "Pali": "akaraṇaṃ",
+    "Viettnamese": "không làm, không làm"
+  },
+  {
+    "id": "Pali - 1211",
+    "Pali": "kusalassa",
+    "Viettnamese": "(của) hành động thiện/có đạo đức"
+  },
+  {
+    "id": "Pali - 1212",
+    "Pali": "upasampadā",
+    "Viettnamese": "đạt được/thu được"
+  },
+  {
+    "id": "Pali - 1213",
+    "Pali": "sa-citta",
+    "Viettnamese": "tâm của chính mình"
+  },
+  {
+    "id": "Pali - 1214",
+    "Pali": "pariyodapanaṃ",
+    "Viettnamese": "sự thanh lọc, làm cho tinh khiết"
+  },
+  {
+    "id": "Pali - 1215",
+    "Pali": "etaṃ",
+    "Viettnamese": "này"
+  },
+  {
+    "id": "Pali - 1216",
+    "Pali": "Buddhāna",
+    "Viettnamese": "của Chư Phật"
+  },
+  {
+    "id": "Pali - 1217",
+    "Pali": "sāsanaṃ",
+    "Viettnamese": "giáo huấn, giáo lý, luật lệ"
+  },
+  {
+    "id": "Pali - 1218",
+    "Pali": "Niccaṃ",
+    "Viettnamese": "luôn luôn/thường hằng"
+  },
+  {
+    "id": "Pali - 1219",
+    "Pali": "kāyagatā-sati (=kāyagatā+sati)",
+    "Viettnamese": "ý thức liên hệ tới thân thể (liên quan đến cơ thể + ý thức)"
+  },
+  {
+    "id": "Pali - 1220",
+    "Pali": "Mano",
+    "Viettnamese": "tâm"
+  },
+  {
+    "id": "Pali - 1221",
+    "Pali": "pubbaṅgamā",
+    "Viettnamese": "người báo hiệu, người đến báo trước"
+  },
+  {
+    "id": "Pali - 1222",
+    "Pali": "dhammā",
+    "Viettnamese": "(tất cả) hiện tượng"
+  },
+  {
+    "id": "Pali - 1223",
+    "Pali": "mano-seṭṭhā",
+    "Viettnamese": "tâm là chủ/đứng đầu"
+  },
+  {
+    "id": "Pali - 1224",
+    "Pali": "mano=mayā",
+    "Viettnamese": "tâm tạo tác"
+  },
+  {
+    "id": "Pali - 1225",
+    "Pali": "manasā",
+    "Viettnamese": "(với) tâm"
+  },
+  {
+    "id": "Pali - 1226",
+    "Pali": "ce",
+    "Viettnamese": "nếu"
+  },
+  {
+    "id": "Pali - 1227",
+    "Pali": "paduṭṭhena",
+    "Viettnamese": "(với) xấu/bất tịnh"
+  },
+  {
+    "id": "Pali - 1228",
+    "Pali": "bhāsati",
+    "Viettnamese": "nói"
+  },
+  {
+    "id": "Pali - 1229",
+    "Pali": "vā",
+    "Viettnamese": "hoặc"
+  },
+  {
+    "id": "Pali - 1230",
+    "Pali": "karoti",
+    "Viettnamese": "làm, hành động"
+  },
+  {
+    "id": "Pali - 1231",
+    "Pali": "tato",
+    "Viettnamese": "sau đó, từ đó"
+  },
+  {
+    "id": "Pali - 1232",
+    "Pali": "naṃ",
+    "Viettnamese": "của anh ấy/cô ấy"
+  },
+  {
+    "id": "Pali - 1233",
+    "Pali": "dukkhamanveti (=dukkhaṃ+anveti)",
+    "Viettnamese": "đau khổ theo sau (đau khổ + theo sau)"
+  },
+  {
+    "id": "Pali - 1234",
+    "Pali": "cakkaṃ'va (=cakkaṃ+va)",
+    "Viettnamese": "giống như một bánh xe (bánh xe+giống như)"
+  },
+  {
+    "id": "Pali - 1235",
+    "Pali": "vahato",
+    "Viettnamese": "súc vật kéo, người vận chuyển"
+  },
+  {
+    "id": "Pali - 1236",
+    "Pali": "padaṃ",
+    "Viettnamese": "bàn chân"
+  },
+  {
+    "id": "Pali - 1237",
+    "Pali": "pasannena",
+    "Viettnamese": "(với) tốt lành/tinh khiết"
+  },
+  {
+    "id": "Pali - 1238",
+    "Pali": "sukhamanveti (=sukhaṃ+anveti)",
+    "Viettnamese": "hạnh phúc theo sau (hạnh phúc+theo sau)"
+  },
+  {
+    "id": "Pali - 1239",
+    "Pali": "chāyā'va (=chāyā+va)",
+    "Viettnamese": "như một cái bóng (cái bóng+như)"
+  },
+  {
+    "id": "Pali - 1240",
+    "Pali": "anapāyinī (=an+apāyinī)",
+    "Viettnamese": "liên tục theo sau (không+đi xa)"
+  },
+  {
+    "id": "Pali - 1241",
+    "Pali": "Jāti",
+    "Viettnamese": "sự sinh"
+  },
+  {
+    "id": "Pali - 1242",
+    "Pali": "pi",
+    "Viettnamese": "cũng thế (tiểu từ nhấn mạnh)"
+  },
+  {
+    "id": "Pali - 1243",
+    "Pali": "dukkhā",
+    "Viettnamese": "đau khổ"
+  },
+  {
+    "id": "Pali - 1244",
+    "Pali": "jarā",
+    "Viettnamese": "suy tàn/tuổi già/lão"
+  },
+  {
+    "id": "Pali - 1245",
+    "Pali": "vyādhi",
+    "Viettnamese": "bệnh"
+  },
+  {
+    "id": "Pali - 1246",
+    "Pali": "maraṇaṃ",
+    "Viettnamese": "tử/chết"
+  },
+  {
+    "id": "Pali - 1247",
+    "Pali": "dukkhaṃ",
+    "Viettnamese": "khổ đau"
+  },
+  {
+    "id": "Pali - 1248",
+    "Pali": "appiyehi",
+    "Viettnamese": "(với) sự khó chịu"
+  },
+  {
+    "id": "Pali - 1249",
+    "Pali": "sampayogo",
+    "Viettnamese": "sự kết hợp"
+  },
+  {
+    "id": "Pali - 1250",
+    "Pali": "dukkho",
+    "Viettnamese": "khổ đau"
+  },
+  {
+    "id": "Pali - 1251",
+    "Pali": "piyehi",
+    "Viettnamese": "(khỏi) dễ chịu"
+  },
+  {
+    "id": "Pali - 1252",
+    "Pali": "vippayogo",
+    "Viettnamese": "sự phân ly/tách biệt"
+  },
+  {
+    "id": "Pali - 1253",
+    "Pali": "yam'p'icchaṃ (=yam+pi+icchaṃ)",
+    "Viettnamese": "điều người ta muốn/mong muốn (điều đó+cũng thế+điều mong muốn)"
+  },
+  {
+    "id": "Pali - 1254",
+    "Pali": "na",
+    "Viettnamese": "không"
+  },
+  {
+    "id": "Pali - 1255",
+    "Pali": "labhati",
+    "Viettnamese": "để có được, được"
+  },
+  {
+    "id": "Pali - 1256",
+    "Pali": "tam'pi=tam+pi",
+    "Viettnamese": "cũng là (cái đó+cũng)"
+  },
+  {
+    "id": "Pali - 1257",
+    "Pali": "saṅkhittena",
+    "Viettnamese": "tóm lại, ngắn gọn"
+  },
+  {
+    "id": "Pali - 1258",
+    "Pali": "pañc'upādānakkhandhā (=pañca+upādāna+khandhā)",
+    "Viettnamese": "sự dính mắc vào năm tập hợp/năm uẩn (năm+chấp thủ/dính mắc+uẩn)"
+  },
+  {
+    "id": "Pali - 1259",
+    "Pali": "Sabbadānaṃ",
+    "Viettnamese": "tất cả sự cho tặng/món quà"
+  },
+  {
+    "id": "Pali - 1260",
+    "Pali": "dhammadānaṃ",
+    "Viettnamese": "sự ban tặng/món quà dhamma"
+  },
+  {
+    "id": "Pali - 1261",
+    "Pali": "jināti",
+    "Viettnamese": "vượt trội, xuất sắc"
+  },
+  {
+    "id": "Pali - 1262",
+    "Pali": "sabbarasaṃ",
+    "Viettnamese": "tất cả hương vị"
+  },
+  {
+    "id": "Pali - 1263",
+    "Pali": "dhammaraso",
+    "Viettnamese": "hương vị dhamma"
+  },
+  {
+    "id": "Pali - 1264",
+    "Pali": "sabbaratiṃ",
+    "Viettnamese": "tất cả điều vui thích"
+  },
+  {
+    "id": "Pali - 1265",
+    "Pali": "dhammarati",
+    "Viettnamese": "hoan hỷ trong dhamma"
+  },
+  {
+    "id": "Pali - 1266",
+    "Pali": "taṇhakkhayo",
+    "Viettnamese": "sự tiêu diệt tham muốn"
+  },
+  {
+    "id": "Pali - 1267",
+    "Pali": "sabbadukkhaṃ",
+    "Viettnamese": "tất cả khổ đau"
+  },
+  {
+    "id": "Pali - 1268",
+    "Pali": "Pakārena",
+    "Viettnamese": "(bằng) những cách khác nhau"
+  },
+  {
+    "id": "Pali - 1269",
+    "Pali": "jānāti",
+    "Viettnamese": "hiểu biết"
+  },
+  {
+    "id": "Pali - 1270",
+    "Pali": "(i)ti",
+    "Viettnamese": "dấu ngoặc kép"
+  },
+  {
+    "id": "Pali - 1271",
+    "Pali": "paññā",
+    "Viettnamese": "trí tuệ"
+  },
+  {
+    "id": "Pali - 1272",
+    "Pali": "Atta-dīpā=atta+dīpa",
+    "Viettnamese": "hòn đảo tự thân"
+  },
+  {
+    "id": "Pali - 1273",
+    "Pali": "viharatha",
+    "Viettnamese": "cư ngụ"
+  },
+  {
+    "id": "Pali - 1274",
+    "Pali": "atta-saraṇā",
+    "Viettnamese": "nương tựa nơi chính mình"
+  },
+  {
+    "id": "Pali - 1275",
+    "Pali": "anaññasaraṇā (=an+añña+saraṇā)",
+    "Viettnamese": "không nơi nương tựa khác"
+  },
+  {
+    "id": "Pali - 1276",
+    "Pali": "dhamma-dīpā",
+    "Viettnamese": "hòn đảo Dhamma"
+  },
+  {
+    "id": "Pali - 1277",
+    "Pali": "dhamma-saraṇā",
+    "Viettnamese": "nương tựa Dhamma"
+  },
+  {
+    "id": "Pali - 1278",
+    "Pali": null,
+    "Viettnamese": null
+  },
+  {
+    "id": "Pali - 1279",
+    "Pali": "Ācariya",
+    "Viettnamese": "thầy/cô, thiền sư, người hướng dẫn."
+  },
+  {
+    "id": "Pali - 1280",
+    "Pali": "Adhiṭṭhāna",
+    "Viettnamese": "quyết tâm mạnh mẽ. Một trong mười pāramī, phẩm hạnh (Ba la Mật)."
+  },
+  {
+    "id": "Pali - 1281",
+    "Pali": "Akusala",
+    "Viettnamese": "bất thiện, có hại. Trái nghĩa kusala."
+  },
+  {
+    "id": "Pali - 1282",
+    "Pali": "Ānanda",
+    "Viettnamese": "vui sướng, hạnh phúc, hỷ."
+  },
+  {
+    "id": "Pali - 1283",
+    "Pali": "Ānāpāna",
+    "Viettnamese": "hô hấp, hơi thở. Ānāpāna-sati: ý thức về hơi thở, (niệm hơi thở)."
+  },
+  {
+    "id": "Pali - 1284",
+    "Pali": "Anattā",
+    "Viettnamese": "vô ngã, không có cái ta, không có thực chất, không có thực thể. Một trong ba đặc tính căn bản. Xem lakkhaṇa."
+  },
+  {
+    "id": "Pali - 1285",
+    "Pali": "Anicca",
+    "Viettnamese": "vô thường, phù du, thay đổi. Một trong ba đặc tính căn bản. Xem lakkhaṇa."
+  },
+  {
+    "id": "Pali - 1286",
+    "Pali": "Arahant",
+    "Viettnamese": "người đã giải thoát (A-la-hán); người đã diệt hết mọi bất tịnh trong tâm mình. Xem Buddha."
+  },
+  {
+    "id": "Pali - 1287",
+    "Pali": "Ariya",
+    "Viettnamese": "thánh thiện; bậc thánh, thánh nhân. Người đã thanh lọc tâm tới mức đã chứng nghiệm được sự thật tối hậu (nibbāna). Có bốn cấp độ ariya, từ sotāpanna (\"thánh nhập lưu\"), người sẽ tái sinh tối đa bảy kiếp, cho tới arahant, người sẽ không còn tái sinh sau kiếp hiện tại."
+  },
+  {
+    "id": "Pali - 1288",
+    "Pali": "Ariya Aṭṭhaṅgika Magga",
+    "Viettnamese": "Bát Chánh Đạo hay Bát Thánh Đạo. Xem magga."
+  },
+  {
+    "id": "Pali - 1289",
+    "Pali": "Ariya Sacca",
+    "Viettnamese": "Sự Thật Thánh Thiện (Diệu Đế). Xem Sacca."
+  },
+  {
+    "id": "Pali - 1290",
+    "Pali": "Asubha",
+    "Viettnamese": "bất tịnh, đáng ghê sợ, không đẹp. Trái nghĩa với subha, thanh tịnh, tinh khiết, đẹp."
+  },
+  {
+    "id": "Pali - 1291",
+    "Pali": "Assutavā/Assutavant",
+    "Viettnamese": "không được chỉ dạy, phàm phu; người chưa bao giờ được nghe dạy về chân lý, người thiếu ngay cả suta-mayā paññā, và do đó không thể dẫn bước trên con đường giải thoát. Trái nghĩa với sutavā."
+  },
+  {
+    "id": "Pali - 1292",
+    "Pali": "Avijjā",
+    "Viettnamese": "vô minh, ảo tưởng, lầm lạc. Mắt xích đầu tiên trong Chuỗi Duyên Khởi / Chuỗi Thập Nhị (12) Nhân Duyên / Lý Duyên Khởi (paṭicca samuppāda). Cùng với tham (rāga) và sân (dosa), si là một trong ba phiền não căn bản trong tâm. Ba loại phiền não này là nguyên nhân gốc rễ của mọi bất tịnh khác và do đó là nguyên nhân đưa đến khổ đau. Đồng nghĩa với moha."
+  },
+  {
+    "id": "Pali - 1293",
+    "Pali": "Āyatana",
+    "Viettnamese": "phạm vi, lĩnh vực, đặc biệt là sáu lĩnh vực cảm nhận (lục căn) (saḷāyatana), nghĩa là: năm giác quan cộng với tâm, và các đối tượng tương ứng của chúng (lục trần), cụ thể là: mắt (cakkhu) và cảnh sắc (rūpa); tai (sota) và âm thanh (sadda); mũi (ghāna) và mùi (gandha); lưỡi (jivhā) và vị (rasa); thân (kāya) và xúc chạm (phoṭṭhabba); tâm (mano) và đối tượng của tâm, nghĩa là các loại ý nghĩ (dhamma). Đây còn được gọi là sáu giác quan. Xem indriya."
+  },
+  {
+    "id": "Pali - 1294",
+    "Pali": "Bala",
+    "Viettnamese": "sức mạnh, hùng lực (lực). Năm sức mạnh tinh thần là niềm tin (saddhā), nỗ lực (viriya), ý thức (sati), định (samādhi), trí tuệ (paññā). Dưới hình thức phát triển thấp hơn, đây được gọi là năm khả năng/năng lực. Xem indriya."
+  },
+  {
+    "id": "Pali - 1295",
+    "Pali": "Bhanga",
+    "Viettnamese": "(trạng thái) tan rã. Một giai đoạn quan trọng trong sự tu tập Vipassana, chứng nghiệm được sự tan rã của trạng thái bề ngoài dường như chắc đặc của thân ra thành những rung động vi tế vốn luôn sinh và diệt."
+  },
+  {
+    "id": "Pali - 1296",
+    "Pali": "Bhava",
+    "Viettnamese": "(tiến trình) hình thành. Bhava-cakka: vòng luân hồi, bánh xe luân hồi. Xem cakka."
+  },
+  {
+    "id": "Pali - 1297",
+    "Pali": "Bhāvanā",
+    "Viettnamese": "phát triển trí tuệ, thiền. Hai phần được chia ra của bhāvanā là sự phát triển trạng thái tĩnh lặng / thiền tĩnh lặng, (samatha-bhāvanā), tương ứng với định tâm, (samādhi) (thiền chỉ, thiền định), và sự phát triển tuệ giác (vipassanā-bhāvanā) (thiền quán/thiền tuệ), tương ứng với trí tuệ (paññā). Việc phát triển samatha sẽ đưa tới các trạng thái nhập định jhāna; việc phát triển vipassanā sẽ đưa tới giải thoát. Xem jhāna, paññā, samādhi, vipassanā."
+  },
+  {
+    "id": "Pali - 1298",
+    "Pali": "Bhāvanā-Mayā Paññā",
+    "Viettnamese": "trí tuệ phát triển nhờ kinh nghiệm trực tiếp của bản thân, tuệ giác, tuệ thực chứng (tu tuệ). Xem paññā."
+  },
+  {
+    "id": "Pali - 1299",
+    "Pali": "Bhavatu Sabba Maṅgalaṃ",
+    "Viettnamese": "\"Nguyện cho tất cả chúng sinh được hạnh phúc\". Một câu nói truyền thống dùng để diễn tả thiện ý đối với người khác. (Nghĩa đen, \"Nguyện cho luôn có hạnh phúc ở mọi nơi\")"
+  },
+  {
+    "id": "Pali - 1300",
+    "Pali": "Bhikkhu",
+    "Viettnamese": "(Phật giáo) tăng sĩ; thiền giả, tỳ kheo. Bhikkhunī: tỳ kheo ni, ni, sư cô."
+  },
+  {
+    "id": "Pali - 1301",
+    "Pali": "Bodhi",
+    "Viettnamese": "sự giác ngộ."
+  },
+  {
+    "id": "Pali - 1302",
+    "Pali": "Bodhisatta",
+    "Viettnamese": "nghĩa đen, \"Bậc đang giác ngộ\" (Bồ Tát). Người đang tu tập để trở thành Phật. Dùng để chỉ Siddhattha Gotama trong khoảng thời gian trước khi Ngài đạt đến sự giác ngộ hoàn toàn. Tiếng Sanskrit: bodhisattva."
+  },
+  {
+    "id": "Pali - 1303",
+    "Pali": "Bojjhaṅga",
+    "Viettnamese": "nhân tố giác ngộ (thất giác chi), nghĩa là phẩm chất/tổ chất giúp ta đạt được sự giác ngộ. Bảy nhân tố này là ý thức (niệm) (sati), nghiên cứu thấu triệt về Dhamma (Dhamma-vicaya) (trạch pháp), tinh tấn (viriya), vui mừng (hỷ) (pīti), an tĩnh (khinh an) (passadhi), định tâm (samādhi), tâm xả (upekkhā)."
+  },
+  {
+    "id": "Pali - 1304",
+    "Pali": "Brahmacariya",
+    "Viettnamese": "độc thân/tịnh thân/không quan hệ tình dục; một cuộc sống trong sạch và thánh thiện."
+  },
+  {
+    "id": "Pali - 1305",
+    "Pali": "Brahmā",
+    "Viettnamese": "sinh linh cư trú ở những cõi trời cao hơn, phạm thiên; từ dùng trong Ấn giáo để chỉ chúng sinh cao nhất trong mọi loài chúng sinh, thường để chỉ Đấng Tạo Hóa - Thượng đế toàn năng, nhưng Đức Phật nêu rõ là họ cũng chịu sự suy thoái và cái chết như mọi chúng sinh."
+  },
+  {
+    "id": "Pali - 1306",
+    "Pali": "Brahma-Vihāra",
+    "Viettnamese": "bản chất của brahmā, đó là trạng thái tâm siêu phàm hay thánh thiện, trong đó có bốn phẩm chất thanh tịnh hiện diện là: tâm từ (từ) (mettā), thương xót (bi) (karuṇā), mừng vui với hạnh phúc của người khác (hỷ) (muditā), buông xả trong mọi hoàn cảnh (xả) (upekkhā); sự tu dưỡng có phương pháp bốn phẩm chất này bằng cách thực hành thiền."
+  },
+  {
+    "id": "Pali - 1307",
+    "Pali": "Brāhmaṇa",
+    "Viettnamese": "nghĩa đen, một người trong sạch (Bà-la-môn). Thời xưa dùng để chỉ một người thuộc tầng lớp tu sĩ tại Ấn Độ. Người đó dựa vào một vị thần (Brahmā) để được \"cứu rỗi\" hoặc giải thoát cho mình; theo đường lối này họ khác với samaṇa. Đức Phật định rõ một brāhmaṇa đúng nghĩa là người đã thanh lọc được tâm mình, nghĩa là bậc arahant."
+  },
+  {
+    "id": "Pali - 1308",
+    "Pali": "Buddha",
+    "Viettnamese": "bậc giác ngộ, Đức Phật, người đã khám phá ra con đường giải thoát, đã thực hành, và đã đạt đến đích bằng nỗ lực của bản thân. Có hai hạng Phật: 1) pacceka-buddha, Phật Độc Giác, vị Phật \"đơn độc\" hay \"thầm lặng\", vị không thể chỉ dạy cho người khác con đường mình đã tìm thấy. 2) sammā-sambuddha, Phật Toàn Giác, vị Phật \"hoàn chỉnh\" hay \"hoàn hảo\", vị có thể chỉ dạy cho người khác."
+  },
+  {
+    "id": "Pali - 1309",
+    "Pali": "Cakka",
+    "Viettnamese": "bánh xe, Bhava-cakka, bánh xe luân hồi (nghĩa là tiến trình khổ đau), tương đương với saṃsāra. Dhamma-cakka, bánh xe Dhamma (nghĩa là giáo pháp hoặc tiến trình giải thoát). Bhava-cakka tương ứng với Chuỗi Duyên Khởi theo chiều thuận. Dhamma-cakka tương ứng với Chuỗi này theo chiều ngược lại, đưa tới diệt trừ thay vì gia tăng khổ đau."
+  },
+  {
+    "id": "Pali - 1310",
+    "Pali": "Cintā-Mayā-Paññā",
+    "Viettnamese": "trí tuệ đạt được nhờ suy luận, tuệ tư duy (tư tuệ). Xem paññā."
+  },
+  {
+    "id": "Pali - 1311",
+    "Pali": "Citta",
+    "Viettnamese": "tâm. Cittānupassanā, quan sát tâm. Xem satipaṭṭhāna."
+  },
+  {
+    "id": "Pali - 1312",
+    "Pali": "Dāna",
+    "Viettnamese": "hiến tặng, sự hào phóng, đóng góp thiện nguyện, (cúng dường). Một trong mười pāramī."
+  },
+  {
+    "id": "Pali - 1313",
+    "Pali": "Dhamma",
+    "Viettnamese": "hiện tượng, đối tượng của tâm (pháp); tự nhiên, luật tự nhiên, luật giải thoát, nghĩa là giáo pháp của bậc giác ngộ. Dhammānupassanā, quan sát nội dung của tâm. Xem satipaṭṭhāna. (Tiếng Sanskrit dharma)."
+  },
+  {
+    "id": "Pali - 1314",
+    "Pali": "Dhātu / Dhatu",
+    "Viettnamese": "nguyên tố (xem mahā-bhūtāni); điều kiện tự nhiên, tính chất."
+  },
+  {
+    "id": "Pali - 1315",
+    "Pali": "Dosa",
+    "Viettnamese": "tâm sân, không ưa thích, ghét. Cùng với rāga và moha, một trong ba phiền não chính của tâm."
+  },
+  {
+    "id": "Pali - 1316",
+    "Pali": "Dukkha",
+    "Viettnamese": "khổ, sự không hài lòng. Một trong ba đặc tính căn bản (xem lakkhaṇa). Sự Thật Thánh Thiện Thứ Nhất (Khổ Đế) (xem sacca)."
+  },
+  {
+    "id": "Pali - 1317",
+    "Pali": "Gotama",
+    "Viettnamese": "họ của vị Phật có trong lịch sử. (Tiếng Sanskrit Gautama)."
+  },
+  {
+    "id": "Pali - 1318",
+    "Pali": "Hīnayāna",
+    "Viettnamese": "nghĩa đen, \"chiếc xe nhỏ\" (tiểu thừa). Từ của những người theo tông phái khác dùng để chỉ Phật giáo Theravāda. Hàm ý chê bai."
+  },
+  {
+    "id": "Pali - 1319",
+    "Pali": "Indriya",
+    "Viettnamese": "năng lực, khả năng. Dùng trong bài này để chỉ sáu lĩnh vực cảm nhận (xem āyatana) và năm sức mạnh của tâm (ngũ lực) (xem bala)."
+  },
+  {
+    "id": "Pali - 1320",
+    "Pali": "Jāti",
+    "Viettnamese": "sinh ra, tồn tại, hiện hữu (hữu)."
+  },
+  {
+    "id": "Pali - 1321",
+    "Pali": "Jhāna",
+    "Viettnamese": "trạng thái nhập định, tầng thiền định. Có tám trạng thái như vậy có thể đạt được nhờ thực hành samādhi hoặc samatha-bhāvanā (xem bhāvanā). Trau dồi định mang tới sự an tĩnh và hỷ lạc, nhưng không diệt trừ được những ô nhiễm đã cắm rễ sâu trong tâm."
+  },
+  {
+    "id": "Pali - 1322",
+    "Pali": "Kalāpa / Aṭṭha-Kalāpa",
+    "Viettnamese": "vi tử, đơn vị nhỏ nhất, không thể chia cắt của vật chất, được cấu thành từ bốn nguyên tố cùng những đặc tính của chúng. Xem mahā-bhūtāni."
+  },
+  {
+    "id": "Pali - 1323",
+    "Pali": "Kalyāṇa-Mitta",
+    "Viettnamese": "nghĩa đen, \"người bạn giúp đỡ cho ai đó được tốt lành\", do đó là người hướng dẫn một người tới sự giải thoát, nghĩa là người hướng dẫn tâm linh (thiện hữu)."
+  },
+  {
+    "id": "Pali - 1324",
+    "Pali": "Kamma",
+    "Viettnamese": "hành động, đặc biệt là một hành động nào đó được thực hiện bởi một người mà nó sẽ có ảnh hưởng đến tương lai của người ấy (nghiệp). Xem saṅkhāra. (Tiếng Sanskrit karma)."
+  },
+  {
+    "id": "Pali - 1325",
+    "Pali": "Kāya",
+    "Viettnamese": "thân, cơ thể. Kāyānupassanā, quan sát thân (quán thân). Xem satipaṭṭhāna."
+  },
+  {
+    "id": "Pali - 1326",
+    "Pali": "Khandha",
+    "Viettnamese": "khối, nhóm, tập hợp (uẩn). Con người được hợp thành từ năm tập hợp (ngũ uẩn): vật chất (sắc) (rūpa), hay biết (thức) (viññāṇa), nhận biết (tưởng) (saññā), cảm nhận / cảm giác (thọ) (vedanā), phản ứng (hành) (saṅkhāra)."
+  },
+  {
+    "id": "Pali - 1327",
+    "Pali": "Kilesa",
+    "Viettnamese": "phiền não, tiêu cực, bất tịnh trong tâm, ô nhiễm. Anusaya kilesa, phiền não tiềm ẩn, bất tịnh nằm im trong vô thức."
+  },
+  {
+    "id": "Pali - 1328",
+    "Pali": "Kusala",
+    "Viettnamese": "thiện, hữu ích. Trái nghĩa với akusala."
+  },
+  {
+    "id": "Pali - 1329",
+    "Pali": "Lakkhaṇa",
+    "Viettnamese": "dấu hiệu, đặc điểm phân biệt, đặc trưng, đặc tính. Ba đặc tính (ti-lakkhaṇa) là anicca, dukkha, anattā. Hai đặc tính đầu có ở mọi hiện tượng bị điều kiện hóa (pháp hữu vi). Đặc tính thứ ba có ở mọi hiện tượng, bị điều kiện hóa (pháp hữu vi) hay không bị điều kiện hóa (pháp vô vi)."
+  },
+  {
+    "id": "Pali - 1330",
+    "Pali": "Lobha",
+    "Viettnamese": "tâm tham. Đồng nghĩa với rāga."
+  },
+  {
+    "id": "Pali - 1331",
+    "Pali": "Loka",
+    "Viettnamese": "1. thế giới vĩ mô, nghĩa là vũ trụ, thế gian, cõi có sự sống; 2. thế giới vi mô, nghĩa là cấu trúc tinh thần-vật chất. Loka-dhamma, chông gai của cuộc đời, thăng trầm trong cuộc sống mà ai cũng gặp phải, đó là được hay mất, thắng hay thua, khen hay chê, sướng hay khổ."
+  },
+  {
+    "id": "Pali - 1332",
+    "Pali": "Mahā-Bhūtāni",
+    "Viettnamese": "bốn nguyên tố có trong mọi vật chất: Pathavī-dhātu-nguyên tố đất (sức nặng). Āpo-dhātu-nguyên tố nước (sự kết dính). Tejo-dhātu-nguyên tố lửa (nhiệt độ). Vāyo-dhātu-nguyên tố khí (chuyển động)."
+  },
+  {
+    "id": "Pali - 1333",
+    "Pali": "Maṅgala",
+    "Viettnamese": "phúc lợi, an vui, phước lành, hạnh phúc."
+  },
+  {
+    "id": "Pali - 1334",
+    "Pali": "Māra",
+    "Viettnamese": "cái chết, ma lực / quyền lực tiêu cực, ma vương."
+  },
+  {
+    "id": "Pali - 1335",
+    "Pali": "Magga",
+    "Viettnamese": "đường lối, con đường (Đạo). Ariya Aṭṭhaṅgika Magga, Bát Chánh Đạo đưa đến giải thoát khỏi khổ đau. Bát Chánh Đạo chia ra làm ba giai đoạn hay sự tu tập: I. Sīla, giới, đạo đức, sự trong sạch của lời nói và việc làm: i. sammā-vācā, lời nói chân chính (Chánh ngữ); ii. sammā-kammanta, hành động chân chính (Chánh nghiệp); iii. sammā-ājīva, nghề nghiệp chân chính (Chánh mạng). II. Samādhi, định, sự làm chủ tâm: iv. sammā-vāyāma, nỗ lực chân chính (Chánh tinh tấn); v. sammā-sati, ý thức chân chính (Chánh niệm); vi. sammā-samādhi, định chân chính (Chánh định). III. Paññā, trí tuệ, tuệ giác hoàn toàn thanh lọc được tâm: vii. sammā-saṅkappa, suy nghĩ chân chính (Chánh tư duy); viii. sammā-diṭṭhi, sự hiểu biết chân chính (Chánh kiến). Magga là Sự Thật Thánh Thiện Thứ Tư (Đạo Đế) trong Bốn Sự Thật Thánh Thiện. Xem sacca."
+  },
+  {
+    "id": "Pali - 1336",
+    "Pali": "Mahāyāna",
+    "Viettnamese": "nghĩa đen, “chiếc xe lớn” (đại thừa). Tông phái Phật giáo phát triển tại Ấn Độ vài thế kỷ sau thời của Đức Phật và truyền sang phía bắc như Tây Tạng, Trung Quốc, Việt Nam, Mông Cổ, Hàn Quốc, và Nhật Bản."
+  },
+  {
+    "id": "Pali - 1337",
+    "Pali": "Mettā",
+    "Viettnamese": "tâm từ, tình thương vô vị lợi và thiện chí. Một trong những phẩm chất của một tâm thanh tịnh (xem Brahma-vihāra); một trong các pāramī. Mettā-bhāvanā, sự trau dồi Mettā một cách hệ thống bằng phương pháp thiền (từ bi quán)."
+  },
+  {
+    "id": "Pali - 1338",
+    "Pali": "Moha",
+    "Viettnamese": "si, mê lầm, ảo tưởng. Đồng nghĩa với avijjā. Cùng với rāga và dosa, một trong ba phiền não chính trong tâm."
+  },
+  {
+    "id": "Pali - 1339",
+    "Pali": "Nāma",
+    "Viettnamese": "tâm, tinh thần (danh). Nāma-rūpa, tâm và thân, thể thống nhất thân-tâm (danh sắc). Nāma-rūpa viccheda, sự tách rời của thân và tâm khi chết, hay khi chứng nghiệm được nibbāna."
+  },
+  {
+    "id": "Pali - 1340",
+    "Pali": "Nibbāna",
+    "Viettnamese": "tịch diệt; giải thoát; sự thật tối hậu; diệt hết các nhân duyên (Niết bàn). (Sanskrit nirvāṇa)"
+  },
+  {
+    "id": "Pali - 1341",
+    "Pali": "Nīvaraṇa",
+    "Viettnamese": "chướng ngại, trở ngại (triền cái). Năm trở ngại trong việc phát triển tâm trí là tham (kāmacchanda), sân (vyāpāda), uể oải về thể xác và tinh thần (hôn trầm, thụy miên) (thīna-middha), bồn chồn, bất an (trạo hối/trạo cử) (uddhacca-kukkucca), nghi ngờ (nghi) (vicikicchā)."
+  },
+  {
+    "id": "Pali - 1342",
+    "Pali": "Oḷārika",
+    "Viettnamese": "thô thiển, thô. Trái nghĩa sukkuma."
+  },
+  {
+    "id": "Pali - 1343",
+    "Pali": "Pāli",
+    "Viettnamese": "câu chữ, bản văn; kinh sách ghi lại giáo huấn của Đức Phật; do đó là ngôn ngữ trong những kinh sách này. Chứng tích về mặt lịch sử, ngôn ngữ, khảo cổ cho thấy đó là một ngôn ngữ đích thực được nói ở miền bắc Ấn Độ vào thời hoặc gần thời của Đức Phật. Sau đó những kinh sách này được dịch sang tiếng Sanskrit là ngôn ngữ chỉ dùng trong văn chương."
+  },
+  {
+    "id": "Pali - 1344",
+    "Pali": "Paññā",
+    "Viettnamese": "trí tuệ, tuệ. Phần thứ ba trong ba sự rèn luyện khi tu tập Bát Chánh Đạo (xem magga). Có ba loại trí tuệ: Tuệ thụ nhận, trí tuệ do nghe, đọc từ người khác (Văn tuệ) (suta-mayā paññā); Tuệ tư duy, trí tuệ do lý luận (Tư tuệ) (cintā-mayā paññā); Tuệ giác, tuệ thực chứng, trí tuệ do tự chứng nghiệm (Tu tuệ) (bhāvanā-mayā paññā). Trong ba tuệ này, chỉ có tuệ cuối cùng mới có thể hoàn toàn thanh lọc được tâm; nó được trau dồi nhờ tu tập vipassanā-bhāvanā. Trí tuệ là một trong năm sức mạnh của tâm (xem bala), một trong bảy nhân tố giác ngộ (xem bojjhaṅga), và là một trong mười pāramī."
+  },
+  {
+    "id": "Pali - 1345",
+    "Pali": "Pāramī / pāramitā",
+    "Viettnamese": "sự hoàn hảo, phẩm hạnh (ba la mật); phẩm chất toàn thiện trong tâm giúp làm tan rã bản ngã và do đó đưa tới sự giải thoát. Mười pāramī/ phẩm hạnh là: hiến tặng (dāna), giới (sīla), xuất ly / xuất gia (nekkhamma), trí tuệ (paññā), nỗ lực / tinh tấn (viriya), kham nhẫn (khanti), chân thật (sacca), quyết tâm (adhiṭṭhāna), tâm từ (mettā), tâm xả (upekkhā)."
+  },
+  {
+    "id": "Pali - 1346",
+    "Pali": "Paṭicca samuppāda",
+    "Viettnamese": "Chuỗi Duyên Khởi / Lý Duyên Khởi / Chuỗi 12 Nhân Duyên; nguồn gốc nhân quả. Tiến trình này, bắt đầu bằng vô minh, làm ta tiếp tục làm cho mình khổ đau hết kiếp này sang kiếp khác."
+  },
+  {
+    "id": "Pali - 1347",
+    "Pali": "Pūjā",
+    "Viettnamese": "tôn kính, tôn thờ, nghi thức hoặc nghi lễ tôn giáo. Đức Phật dạy rằng chỉ có một pūjā đúng cách duy nhất để tôn vinh Ngài là thực sự thực hành những lời dạy của Ngài, từ bước đầu tiên cho đến đích cuối cùng."
+  },
+  {
+    "id": "Pali - 1348",
+    "Pali": "Puññā",
+    "Viettnamese": "đức hạnh; hành động mang lại công đức, nhờ thực hành điều này ta đạt được hạnh phúc trong hiện tại và trong tương lai. Đối với một cư sĩ, puññā gồm có sự hiến tặng / cúng dường (dāna), sống một cuộc sống có giới hạnh (sīla), và thực hành thiền (bhāvanā)."
+  },
+  {
+    "id": "Pali - 1349",
+    "Pali": "Rāga",
+    "Viettnamese": "tâm tham. Cùng với dosa và moha, một trong ba phiền não chính trong tâm. Đồng nghĩa với lobha."
+  },
+  {
+    "id": "Pali - 1350",
+    "Pali": "Ratana",
+    "Viettnamese": "châu bảo, châu báu. Ti-ratana: Tam bảo Phật, Pháp, Tăng."
+  },
+  {
+    "id": "Pali - 1351",
+    "Pali": "Rūpa",
+    "Viettnamese": "1. vật chất (sắc); 2. đối tượng của mắt. Xem āyatana, khandha."
+  },
+  {
+    "id": "Pali - 1352",
+    "Pali": "Sacca",
+    "Viettnamese": "chân lý, sự thật. Bốn Sự Thật Thánh Thiện (Tứ Diệu Đế) (ariya-sacca) là: Sự Thật về khổ (dukkha-sacca); (Khổ Đế) Sự Thật về nguyên nhân của khổ (samudaya-sacca); (Tập Đế) Sự Thật về sự đoạn diệt khổ (nirodha-sacca); (Diệt Đế) Sự Thật về con đường dẫn đến sự đoạn diệt khổ (magga-sacca) (Đạo Đế)"
+  },
+  {
+    "id": "Pali - 1353",
+    "Pali": "Sādhu",
+    "Viettnamese": "“lành thay!”, làm giỏi; nói hay. Một cách diễn đạt sự đồng ý, tán đồng."
+  },
+  {
+    "id": "Pali - 1354",
+    "Pali": "Samatha",
+    "Viettnamese": "sự an tĩnh, sự tĩnh lặng. Samatha-bhāvanā, sự phát triển tâm tĩnh lặng, đồng nghĩa với samādhi. Xem bhāvanā."
+  },
+  {
+    "id": "Pali - 1355",
+    "Pali": "Sampajāna",
+    "Viettnamese": "có sampajañña. Xem dưới đây."
+  },
+  {
+    "id": "Pali - 1356",
+    "Pali": "Sampajañña",
+    "Viettnamese": "hiểu biết về toàn thể hiện tượng thân và tâm, có nghĩa là có tuệ giác về tính chất vô thường của hiện tượng này ở mức độ cảm giác."
+  },
+  {
+    "id": "Pali - 1357",
+    "Pali": "Samādhi",
+    "Viettnamese": "định, sự kiểm soát được tâm mình. Phần thứ hai trong ba phần rèn luyện để thực hành Bát Chánh Đạo (xem magga). Khi lấy phần này làm đích đến để tu tập sẽ đưa tới trạng thái nhập định (jhāna), nhưng không phải là sự giải thoát hoàn toàn của tâm. Ba loại samādhi là: 1. khaṇika samādhi, định trong khoảnh khắc, định được duy trì từ khoảnh khắc này sang khoảnh khắc khác (sát na định); 2. upacāra samādhi, sự định tâm ở một mức độ tiếp cận (đi dần đến) trạng thái nhập định (cận định); 3. appanā samādhi, sự tập trung hoàn toàn, trạng thái nhập định (jhāna). Trong những loại định này, khaṇika samādhi là sự chuẩn bị vừa đủ để có thể bắt đầu tu tập Vipassana"
+  },
+  {
+    "id": "Pali - 1358",
+    "Pali": "Saṃsāra",
+    "Viettnamese": "vòng luân hồi, tái sinh; thế giới hữu vi; thế giới khổ đau."
+  },
+  {
+    "id": "Pali - 1359",
+    "Pali": "Samudaya",
+    "Viettnamese": "nảy sinh, nguồn gốc. Samudaya-dhamma, hiện tượng nảy sinh. Samudaya-sacca, Sự Thật về nguồn gốc của khổ, Sự Thật Thứ Hai (Tập Đế) trong Bốn Sự Thật Thánh Thiện (Tứ Diệu Đế)."
+  },
+  {
+    "id": "Pali - 1360",
+    "Pali": "Saraṇa",
+    "Viettnamese": "sự trú ẩn, nương tựa, bảo vệ (quy y). Ti-sarana: nương tựa hay quy y Tam bảo, có nghĩa là nương tựa vào Phật, Pháp, Tăng."
+  },
+  {
+    "id": "Pali - 1361",
+    "Pali": "Saṅgha",
+    "Viettnamese": "nhóm; cộng đồng của ariyā, ví dụ như là những người đã chứng nghiệm được nibbāna; cộng đồng Tăng, Ni Phật giáo; một thành viên của ariya-saṅgha, bhikkhu-saṅgha hoặc bhikkhunī-saṅgha."
+  },
+  {
+    "id": "Pali - 1362",
+    "Pali": "Saṅkhāra",
+    "Viettnamese": "sự hình thành (trong tâm), (hành); hành động có dụng ý; phản ứng của tâm; sự điều kiện hóa tâm. Một trong năm tập hợp (khandha), cũng là mắt xích thứ hai trong Chuỗi Duyên Khởi (paṭicca samuppāda). Saṅkhāra là kamma, hành động mang lại hậu quả trong tương lai và do đó thực sự có trách nhiệm tạo nên cuộc đời mai sau. (Sanskrit saṃskāra)."
+  },
+  {
+    "id": "Pali - 1363",
+    "Pali": "Saṅkhārupekkhā",
+    "Viettnamese": "nghĩa đen, tâm xả đối với saṅkhārā. Một giai đoạn trong sự tu tập Vipassana, xảy ra sau việc kinh nghiệm được bhaṅga, giai đoạn khi những bất tịnh lâu đời ẩn sâu trong vô thức nổi lên bề mặt của tâm và thể hiện ra bằng những cảm giác. Bằng cách duy trì được tâm xả (upekkhā) trước những cảm giác này, thiền giả không tạo ra saṅkhārā mới và để cho những saṅkhārā cũ diệt đi. Do đó tiến trình này dần dần đưa đến sự diệt trừ hết mọi saṅkhārā."
+  },
+  {
+    "id": "Pali - 1364",
+    "Pali": "Sato",
+    "Viettnamese": "ý thức, nhận biết. Sato sampajāno: ý thức với sự hiểu biết về bản chất vô thường của toàn thể cấu trúc tinh thần-vật chất, bằng cách quan sát cảm giác."
+  },
+  {
+    "id": "Pali - 1365",
+    "Pali": "Saññā",
+    "Viettnamese": "(trong samyutta-ñāṇā, sự hiểu biết đã bị điều kiện hóa) nhận định, nhận biết, tri giác, tưởng. Một trong năm tập hợp (khandha). Nó thường bị chi phối bởi saṅkhārā trong quá khứ của ta và do đó đưa đến một hình ảnh lệch lạc về sự thật. Trong khi tu tập Vipassana, saññā được chuyển thành paññā, sự hiểu biết thực tại đúng như thật. Nó trở thành anicca-saññā, dukkha-saññā, asubha-saññā — đó là, sự nhận định về vô thường, khổ, vô ngã, và tính chất hư ảo của vẻ đẹp vật chất."
+  },
+  {
+    "id": "Pali - 1366",
+    "Pali": "Sati",
+    "Viettnamese": "ý thức, nhận biết (niệm). Một phần trong Bát Chánh Đạo (xem magga), cũng là một trong năm sức mạnh của tâm (xem bala) và bảy nhân tố giác ngộ (xem bojjhaṅga). Ānāpāna-Sati, ý thức về hơi thở. (quán hơi thở)"
+  },
+  {
+    "id": "Pali - 1367",
+    "Pali": "Siddhattha",
+    "Viettnamese": "nghĩa đen, ‘người đã hoàn thành nhiệm vụ của mình’. Tên riêng của vị Phật lịch sử. (Sanskrit Siddhārtha)."
+  },
+  {
+    "id": "Pali - 1368",
+    "Pali": "Sīla",
+    "Viettnamese": "đạo đức, giới; tránh những hành động bằng lời nói và việc làm gây hại cho mình và cho người khác. Phần đầu trong ba sự tập luyện trong sự thực hành Bát Thánh Đạo (xem magga). Đối với một cư sĩ, sīla được thực hành trong đời sống hằng ngày bằng cách giữ Năm Giới."
+  },
+  {
+    "id": "Pali - 1369",
+    "Pali": "Satipaṭṭhāna",
+    "Viettnamese": "Sự Thiết Lập Vững Chắc Ý Thức (Tứ Niệm Xứ, bốn lĩnh vực chú tâm để phát triển vững chắc sự nhận biết). Có bốn lĩnh vực tương quan của satipaṭṭhāna: 1. quan sát thân (quán thân) (kāyānupassanā); 2. quan sát cảm giác nảy sinh trên thân (quán thọ) (vedanānupassanā); 3. quan sát tâm (quán tâm) (cittānupassanā); 4. quan sát nội dung của tâm (quán pháp) (dhammānupassanā). Cả bốn phần đều bao gồm quan sát cảm giác, bởi vì cảm giác liên quan trực tiếp đến thân cũng như tâm. Mahā-Satipaṭṭhāna Suttanta (Dīgha Nikāya, 22), Trường Kinh về Sự Thiết Lập Vững Chắc Ý Thức (Đại Niệm Xứ), là nguồn tư liệu chính mà trong đó lý thuyết căn bản cho việc tu tập vipassanā-bhāvanā được giảng giải."
+  },
+  {
+    "id": "Pali - 1370",
+    "Pali": "Sotāpanna",
+    "Viettnamese": "người đã đạt đến giai đoạn đầu của bậc thánh, và đã chứng nghiệm được Nibbāna. Xem ariya."
+  },
+  {
+    "id": "Pali - 1371",
+    "Pali": "Sukha",
+    "Viettnamese": "niềm vui sướng, hạnh phúc. Trái nghĩa với dukkha."
+  },
+  {
+    "id": "Pali - 1372",
+    "Pali": "Sukhuma",
+    "Viettnamese": "vi tế, tinh tế. Trái nghĩa oḷārika."
+  },
+  {
+    "id": "Pali - 1373",
+    "Pali": "Suta-Mayā Paññā",
+    "Viettnamese": "nghĩa đen, trí tuệ đạt được nhờ nghe từ người khác. Tuệ thụ nhận, trí tuệ do học hỏi (văn tuệ). Xem paññā."
+  },
+  {
+    "id": "Pali - 1374",
+    "Pali": "Sutavā / Sutavant",
+    "Viettnamese": "được chỉ dạy, người đã được nghe dạy về sự thật (thanh văn), người có suta-mayā-paññā. Trái nghĩa assutavā."
+  },
+  {
+    "id": "Pali - 1375",
+    "Pali": "Sutta",
+    "Viettnamese": "kinh Phật / bài giảng của Đức Phật hoặc của một trong những đệ tử chính của Ngài. (Sanskrit sutra)."
+  },
+  {
+    "id": "Pali - 1376",
+    "Pali": "Taṇhā",
+    "Viettnamese": "nghĩa đen, ‘sự khát / thèm khát’, tham ái. Bao gồm cả tham lẫn sân là mặt trái của tham. Đức Phật chỉ rõ taṇhā là nguồn gốc của khổ (samudaya-sacca) trong bài giảng đầu tiên, “Kinh Chuyển Bánh Xe Dhamma” (Kinh Chuyển Pháp Luân) (Dhammacakkappavattana Sutta). Trong Chuỗi Duyên Khởi (paṭicca Samuppāda) Ngài giải thích rằng taṇhā phát nguồn từ một sự phản ứng nào đó đối với cảm giác trên thân."
+  },
+  {
+    "id": "Pali - 1377",
+    "Pali": "Tathāgata",
+    "Viettnamese": "nghĩa đen, ‘đi như thế’ hoặc ‘đến như thế’ (Như lai). Người nhờ đi trên con đường sự thật đã đạt được sự thật tối hậu, có nghĩa là một người giác ngộ. Danh xưng Đức Phật thường dùng để chỉ về bản thân."
+  },
+  {
+    "id": "Pali - 1378",
+    "Pali": "Theravāda",
+    "Viettnamese": "nghĩa đen, ‘giáo huấn của bậc trưởng lão’. Giáo huấn của Đức Phật, theo thể thức đã được bảo tồn tại các nước ở Nam Á (Myanmar, Sri Lanka, Thái Lan, Lào, Cam-pu-chia). Thường được công nhận là thể thức cổ xưa nhất của giáo pháp (Phật Giáo Nguyên Thủy)."
+  },
+  {
+    "id": "Pali - 1379",
+    "Pali": "Ti-lakkhaṇa",
+    "Viettnamese": "Xem lakkhaṇa."
+  },
+  {
+    "id": "Pali - 1380",
+    "Pali": "Tipiṭaka",
+    "Viettnamese": "nghĩa đen, ba giỏ chứa (tam tạng). Ba bộ sưu tập về giáo lý của Đức Phật là: 1. Vinaya-piṭaka, bộ luật, bộ sưu tập về giới luật cho Tăng, Ni; 2. Sutta piṭaka, bộ kinh, bộ sưu tập những bài giảng; 3. Abhidhamma-piṭaka, bộ luận, bộ sưu tập những giáo lý cao hơn, nghĩa là sự bình luận về Dhamma một cách triết lý và có hệ thống. (Sanskrit Tripiṭaka)"
+  },
+  {
+    "id": "Pali - 1381",
+    "Pali": "Ti-Ratana",
+    "Viettnamese": "xem ratana"
+  },
+  {
+    "id": "Pali - 1382",
+    "Pali": "Udaya",
+    "Viettnamese": "nảy sinh, sinh, khởi. Udayabbaya, sinh và diệt, nghĩa là vô thường (cũng là udaya-vaya). Sự hiểu biết bằng kinh nghiệm về sự thật này đạt được bằng cách quan sát các cảm giác thay đổi không ngừng nơi chính mình."
+  },
+  {
+    "id": "Pali - 1383",
+    "Pali": "Upādāna",
+    "Viettnamese": "dính mắc, ràng buộc, bám víu, giữ chặt (thủ)."
+  },
+  {
+    "id": "Pali - 1384",
+    "Pali": "Upekkha",
+    "Viettnamese": "tâm xả (xả); trạng thái của tâm không có tham, sân, si. Một trong bốn trạng thái thuần khiết của tâm. (xem Brahma-vihāra), trong bảy nhân tố giác ngộ (xem bojjhaṅga), và mười pāramī."
+  },
+  {
+    "id": "Pali - 1385",
+    "Pali": "Uppāda",
+    "Viettnamese": "xuất hiện, nảy sinh, sinh. Uppāda-vaya, sinh và diệt. Uppāda-vaya-dhammino, có bản chất của sinh và diệt."
+  },
+  {
+    "id": "Pali - 1386",
+    "Pali": "Vaya / Vyaya",
+    "Viettnamese": "diệt đi / diệt mất, suy tàn. Vaya-dhamma hiện tượng tan diệt mất."
+  },
+  {
+    "id": "Pali - 1387",
+    "Pali": "Vedanā",
+    "Viettnamese": "cảm nhận / cảm giác (thọ). Một trong năm tập hợp (khandha). Vedanā được Đức Phật mô tả là có 2 lĩnh vực thuộc về tinh thần và vật chất; do đó vedanā cho ta phương tiện khảo sát toàn thể hiện tượng tinh thần-vật chất. Trong Chuỗi Duyên Khởi (paṭicca-samuppāda), Đức Phật giải thích rằng taṇhā, nguồn gốc của khổ, nảy sinh là do phản ứng đối với vedanā. Bằng cách tập quan sát vedanā một cách khách quan ta có thể tránh khỏi bất cứ phản ứng mới nào, và có thể kinh nghiệm trực tiếp trong bản thân sự thật về vô thường (anicca). Kinh nghiệm này là thiết yếu để phát triển sự xa lìa những dính mắc, đưa đến sự giải thoát cho tâm."
+  },
+  {
+    "id": "Pali - 1388",
+    "Pali": "Vedanānupassanā",
+    "Viettnamese": "quan sát cảm giác trên thân. Xem satipaṭṭhāna."
+  },
+  {
+    "id": "Pali - 1389",
+    "Pali": "Viññāṇa",
+    "Viettnamese": "thức, sự hay biết. Một trong năm tập hợp (khandha)."
+  },
+  {
+    "id": "Pali - 1390",
+    "Pali": "Viveka",
+    "Viettnamese": "sự không dính mắc / sự vô tư; tuệ phân biệt."
+  },
+  {
+    "id": "Pali - 1391",
+    "Pali": "Yathā-Bhūta",
+    "Viettnamese": "nghĩa đen, ‘đúng như thật’. Thực tại đang hiện hữu. Yathā-bhūta-ñāna-dassana, sự hiểu biết (tri kiến) sự thật đúng như thật."
+  },
+  {
+    "id": "Pali - 1392",
+    "Pali": "Vipassana",
+    "Viettnamese": "quan sát nội tâm, tuệ giác giúp thanh lọc được tâm; đặc biệt tuệ giác về bản chất vô thường, khổ, vô ngã của cấu trúc tinh thần-vật chất này. Vipassanā-bhāvanā, sự phát triển tuệ giác có hệ thống nhờ phương pháp thiền quan sát thực tại về bản thân mình bằng cách quan sát cảm giác trên thân."
+  }
+]

@@ -1,0 +1,6962 @@
+[
+  {
+    "Tiếng Pali": "Namo",
+    "Tiếng Việt": "Sự tôn kính, kính lễ",
+    "id": "Pali - 0001"
+  },
+  {
+    "Tiếng Pali": "tassa",
+    "Tiếng Việt": "Ngài",
+    "id": "Pali - 0002"
+  },
+  {
+    "Tiếng Pali": "bhagavato",
+    "Tiếng Việt": "(nói đến) Đức Thế Tôn",
+    "id": "Pali - 0003"
+  },
+  {
+    "Tiếng Pali": "arahato",
+    "Tiếng Việt": "(nói đến) Bậc A La hán",
+    "id": "Pali - 0004"
+  },
+  {
+    "Tiếng Pali": "sammāsambuddhassa",
+    "Tiếng Việt": "Bậc tự giác ngộ hoàn toàn, Bậc Chánh Đẳng Giác.",
+    "id": "Pali - 0005"
+  },
+  {
+    "Tiếng Pali": "Ti+saraṇa+gamanam (gamanam=đi đến)",
+    "Tiếng Việt": "tam+nương tựa+đi đến",
+    "id": "Pali - 0006"
+  },
+  {
+    "Tiếng Pali": "Buddhaṃ",
+    "Tiếng Việt": "Buddha",
+    "id": "Pali - 0007"
+  },
+  {
+    "Tiếng Pali": "saraṇaṃ",
+    "Tiếng Việt": "sự nương tựa, sự bảo vệ",
+    "id": "Pali - 0008"
+  },
+  {
+    "Tiếng Pali": "gacchāmi",
+    "Tiếng Việt": "Tôi đi đến",
+    "id": "Pali - 0009"
+  },
+  {
+    "Tiếng Pali": "Dhammaṃ",
+    "Tiếng Việt": "Dhamma",
+    "id": "Pali - 0010"
+  },
+  {
+    "Tiếng Pali": "Saṅghaṃ",
+    "Tiếng Việt": "Saṅgha",
+    "id": "Pali - 0011"
+  },
+  {
+    "Tiếng Pali": "Pañca+sīla",
+    "Tiếng Việt": "(Năm + giới)",
+    "id": "Pali - 0012"
+  },
+  {
+    "Tiếng Pali": "pāṇātipātā (pāṇa+atipāta)",
+    "Tiếng Việt": "(tránh khỏi) sát sinh (chúng sinh hữu tình+sự hủy diệt đời sống, sự giết hại)",
+    "id": "Pali - 0013"
+  },
+  {
+    "Tiếng Pali": "veramaṇī",
+    "Tiếng Việt": "sự kiêng tránh",
+    "id": "Pali - 0014"
+  },
+  {
+    "Tiếng Pali": "sikkhāpadaṃ",
+    "Tiếng Việt": "quy tắc rèn luyện (về đạo đức), giới",
+    "id": "Pali - 0015"
+  },
+  {
+    "Tiếng Pali": "samādiyāmi",
+    "Tiếng Việt": "(Tôi) cam kết",
+    "id": "Pali - 0016"
+  },
+  {
+    "Tiếng Pali": "adinnādānā (=adinna+ādāna)",
+    "Tiếng Việt": "(tránh khỏi) việc lấy những gì không được cho (thứ mà không được cho + việc lấy/việc chiếm đoạt)",
+    "id": "Pali - 0017"
+  },
+  {
+    "Tiếng Pali": "kāmesu",
+    "Tiếng Việt": "(trong) ham muốn tình dục",
+    "id": "Pali - 0018"
+  },
+  {
+    "Tiếng Pali": "micchācārā (= micchā+cāra)",
+    "Tiếng Việt": "(tránh khỏi) hành vi sai trái (sai trái + hành vi)",
+    "id": "Pali - 0019"
+  },
+  {
+    "Tiếng Pali": "Musā-vādā (=Musā+vāda)",
+    "Tiếng Việt": "(tránh khỏi) lời nói sai trái/dối trá (dối trá + lời nói)",
+    "id": "Pali - 0020"
+  },
+  {
+    "Tiếng Pali": "Surā",
+    "Tiếng Việt": "rượu nấu",
+    "id": "Pali - 0021"
+  },
+  {
+    "Tiếng Pali": "Meraya",
+    "Tiếng Việt": "rượu men",
+    "id": "Pali - 0022"
+  },
+  {
+    "Tiếng Pali": "Majja",
+    "Tiếng Việt": "chất làm say",
+    "id": "Pali - 0023"
+  },
+  {
+    "Tiếng Pali": "pamādaṭṭhānā",
+    "Tiếng Việt": "(tránh khỏi) nguyên nhân của sự thiếu chú ý/hành vi quá khích",
+    "id": "Pali - 0024"
+  },
+  {
+    "Tiếng Pali": "Aṭṭha + aṅga + sīla",
+    "Tiếng Việt": "(tám+ thành phần (của) + hành vi đạo đức)",
+    "id": "Pali - 0025"
+  },
+  {
+    "Tiếng Pali": "abrahmacariyā",
+    "Tiếng Việt": "(tránh khỏi) không tịnh thân/ không độc thân",
+    "id": "Pali - 0026"
+  },
+  {
+    "Tiếng Pali": "vikālabhojanā (= vikāla+bhojana)",
+    "Tiếng Việt": "(tránh khỏi) ăn sai giờ (thời gian sai trái/không đúng đắn + bữa ăn)",
+    "id": "Pali - 0027"
+  },
+  {
+    "Tiếng Pali": "nacca",
+    "Tiếng Việt": "nhảy múa",
+    "id": "Pali - 0028"
+  },
+  {
+    "Tiếng Pali": "gīta",
+    "Tiếng Việt": "ca hát",
+    "id": "Pali - 0029"
+  },
+  {
+    "Tiếng Pali": "vādita",
+    "Tiếng Việt": "âm nhạc",
+    "id": "Pali - 0030"
+  },
+  {
+    "Tiếng Pali": "visūkadassanā",
+    "Tiếng Việt": "xem biểu diễn/ triển lãm",
+    "id": "Pali - 0031"
+  },
+  {
+    "Tiếng Pali": "mālā",
+    "Tiếng Việt": "vòng hoa",
+    "id": "Pali - 0032"
+  },
+  {
+    "Tiếng Pali": "gandha",
+    "Tiếng Việt": "hương thơm, nước hoa",
+    "id": "Pali - 0033"
+  },
+  {
+    "Tiếng Pali": "vilepana",
+    "Tiếng Việt": "mỹ phẩm",
+    "id": "Pali - 0034"
+  },
+  {
+    "Tiếng Pali": "dhāraṇa",
+    "Tiếng Việt": "mang/mặc",
+    "id": "Pali - 0035"
+  },
+  {
+    "Tiếng Pali": "maṇḍana",
+    "Tiếng Việt": "đồ trang điểm, quần áo lộng lẫy",
+    "id": "Pali - 0036"
+  },
+  {
+    "Tiếng Pali": "vibhūsanaṭṭhānā",
+    "Tiếng Việt": "(tránh khỏi những thứ dùng để) trang trí/làm đẹp",
+    "id": "Pali - 0037"
+  },
+  {
+    "Tiếng Pali": "uccāsayana",
+    "Tiếng Việt": "giường cao",
+    "id": "Pali - 0038"
+  },
+  {
+    "Tiếng Pali": "mahāsayanā",
+    "Tiếng Việt": "(tránh khỏi việc sử dụng) giường lớn/ xa hoa",
+    "id": "Pali - 0039"
+  },
+  {
+    "Tiếng Pali": "Pariccajāmi",
+    "Tiếng Việt": "quy phục, quy thuận",
+    "id": "Pali - 0040"
+  },
+  {
+    "Tiếng Pali": "Imāhaṃ",
+    "Tiếng Việt": "này + Tôi",
+    "id": "Pali - 0041"
+  },
+  {
+    "Tiếng Pali": "bhante",
+    "Tiếng Việt": "bạch Ngài/bạch Thế Tôn",
+    "id": "Pali - 0042"
+  },
+  {
+    "Tiếng Pali": "attabhāvaṃ",
+    "Tiếng Việt": "cá nhân, cá tính, bản sắc",
+    "id": "Pali - 0043"
+  },
+  {
+    "Tiếng Pali": "jīvitaṃ",
+    "Tiếng Việt": "cuộc đời",
+    "id": "Pali - 0044"
+  },
+  {
+    "Tiếng Pali": "bhagavato",
+    "Tiếng Việt": "đến Đức Thế Tôn",
+    "id": "Pali - 0045"
+  },
+  {
+    "Tiếng Pali": "pariccajāmi",
+    "Tiếng Việt": "(Tôi) quy thuận/từ bỏ",
+    "id": "Pali - 0046"
+  },
+  {
+    "Tiếng Pali": "ācariyassa",
+    "Tiếng Việt": "đến vị thầy",
+    "id": "Pali - 0047"
+  },
+  {
+    "Tiếng Pali": "Nibbānassa",
+    "Tiếng Việt": "(của) niết bàn",
+    "id": "Pali - 0048"
+  },
+  {
+    "Tiếng Pali": "sacchikaraṇatthāya",
+    "Tiếng Việt": "(vì mục đích của) sự nhận thức rõ/ kinh nghiệm (đối với) tôi",
+    "id": "Pali - 0049"
+  },
+  {
+    "Tiếng Pali": "ānāpāna=āna+apāna",
+    "Tiếng Việt": "hơi thở vào, hơi thở ra",
+    "id": "Pali - 0050"
+  },
+  {
+    "Tiếng Pali": "kammaṭṭhānaṃ",
+    "Tiếng Việt": "đối tượng thiền",
+    "id": "Pali - 0051"
+  },
+  {
+    "Tiếng Pali": "dehi",
+    "Tiếng Việt": "ban cho",
+    "id": "Pali - 0052"
+  },
+  {
+    "Tiếng Pali": "Bhavatu sabba",
+    "Tiếng Việt": "nguyện tất cả (có) được",
+    "id": "Pali - 0053"
+  },
+  {
+    "Tiếng Pali": "maṅgalaṃ",
+    "Tiếng Việt": "hạnh phúc, phúc lành",
+    "id": "Pali - 0054"
+  },
+  {
+    "Tiếng Pali": "Deva-āhvānasuttaṃ",
+    "Tiếng Việt": "thỉnh chư thiên",
+    "id": "Pali - 0055"
+  },
+  {
+    "Tiếng Pali": "Samantā",
+    "Tiếng Việt": "từ mọi phía/hướng",
+    "id": "Pali - 0056"
+  },
+  {
+    "Tiếng Pali": "cakkavāḷesu",
+    "Tiếng Việt": "trong thế giới, vũ trụ",
+    "id": "Pali - 0057"
+  },
+  {
+    "Tiếng Pali": "atragacchantu (= atra+āgacchantu)",
+    "Tiếng Việt": "ở đây + mời gọi đến",
+    "id": "Pali - 0058"
+  },
+  {
+    "Tiếng Pali": "devatā",
+    "Tiếng Việt": "chư thiên",
+    "id": "Pali - 0059"
+  },
+  {
+    "Tiếng Pali": "Saddhammaṃ",
+    "Tiếng Việt": "Dhamma thuần khiết/chân thật",
+    "id": "Pali - 0060"
+  },
+  {
+    "Tiếng Pali": "munirājassa",
+    "Tiếng Việt": "của vị vua hiền thánh",
+    "id": "Pali - 0061"
+  },
+  {
+    "Tiếng Pali": "suṇantu",
+    "Tiếng Việt": "hãy lắng nghe",
+    "id": "Pali - 0062"
+  },
+  {
+    "Tiếng Pali": "saggamokkhadaṃ",
+    "Tiếng Việt": "dẫn đến cõi trời và giải thoát",
+    "id": "Pali - 0063"
+  },
+  {
+    "Tiếng Pali": "Dhammassavana-kālo (=Dhamma+savana+kālo)",
+    "Tiếng Việt": "thời gian để lắng nghe Dhamma (Dhamma+lắng nghe+thời gian)",
+    "id": "Pali - 0064"
+  },
+  {
+    "Tiếng Pali": "ayaṃ",
+    "Tiếng Việt": "này",
+    "id": "Pali - 0065"
+  },
+  {
+    "Tiếng Pali": "bhadantā",
+    "Tiếng Việt": "những bậc đáng kính",
+    "id": "Pali - 0066"
+  },
+  {
+    "Tiếng Pali": "Ye",
+    "Tiếng Việt": "những thứ đó",
+    "id": "Pali - 0067"
+  },
+  {
+    "Tiếng Pali": "santā",
+    "Tiếng Việt": "những người bình an",
+    "id": "Pali - 0068"
+  },
+  {
+    "Tiếng Pali": "santa-cittā",
+    "Tiếng Việt": "của tâm bình an",
+    "id": "Pali - 0069"
+  },
+  {
+    "Tiếng Pali": "tisaraṇa-saraṇā",
+    "Tiếng Việt": "nơi nương tựa của họ là tam bảo",
+    "id": "Pali - 0070"
+  },
+  {
+    "Tiếng Pali": "ettha",
+    "Tiếng Việt": "ở đây, trong thế giới này",
+    "id": "Pali - 0071"
+  },
+  {
+    "Tiếng Pali": "lokantare",
+    "Tiếng Việt": "thế giới khác",
+    "id": "Pali - 0072"
+  },
+  {
+    "Tiếng Pali": "vā",
+    "Tiếng Việt": "hoặc",
+    "id": "Pali - 0073"
+  },
+  {
+    "Tiếng Pali": "Bhummābhummā (=bhummā+abhummā)",
+    "Tiếng Việt": "cư ngụ trên trái đất hay nơi nào khác (cõi trần+phi cõi trần)",
+    "id": "Pali - 0074"
+  },
+  {
+    "Tiếng Pali": "ca",
+    "Tiếng Việt": "cũng vậy",
+    "id": "Pali - 0075"
+  },
+  {
+    "Tiếng Pali": "guṇa-gaṇa-gahanā",
+    "Tiếng Việt": "những công đức-vô số-thu được",
+    "id": "Pali - 0076"
+  },
+  {
+    "Tiếng Pali": "byāvaṭā",
+    "Tiếng Việt": "bận rộn",
+    "id": "Pali - 0077"
+  },
+  {
+    "Tiếng Pali": "sabbakālaṃ",
+    "Tiếng Việt": "mọi lúc",
+    "id": "Pali - 0078"
+  },
+  {
+    "Tiếng Pali": "ete",
+    "Tiếng Việt": "những cái này",
+    "id": "Pali - 0079"
+  },
+  {
+    "Tiếng Pali": "āyantu",
+    "Tiếng Việt": "hãy đến",
+    "id": "Pali - 0080"
+  },
+  {
+    "Tiếng Pali": "Vara-kanakamaye",
+    "Tiếng Việt": "vàng rực rỡ",
+    "id": "Pali - 0081"
+  },
+  {
+    "Tiếng Pali": "merurāje",
+    "Tiếng Việt": "trên núi Meru (một ngọn núi thần thoại)",
+    "id": "Pali - 0082"
+  },
+  {
+    "Tiếng Pali": "vasanto",
+    "Tiếng Việt": "đang cư ngụ",
+    "id": "Pali - 0083"
+  },
+  {
+    "Tiếng Pali": "santo",
+    "Tiếng Việt": "bình an",
+    "id": "Pali - 0084"
+  },
+  {
+    "Tiếng Pali": "santosahetuṃ (=santosa+hetuṃ)",
+    "Tiếng Việt": "hài lòng+vì/cho",
+    "id": "Pali - 0085"
+  },
+  {
+    "Tiếng Pali": "munivara-vacanaṃ (=muni+vara+vacanaṃ)",
+    "Tiếng Việt": "những lời của bậc thánh nhân vĩ đại (thánh nhân+vĩ đại+những lời)",
+    "id": "Pali - 0086"
+  },
+  {
+    "Tiếng Pali": "sotumaggaṃ (=sotuṃ+aggaṃ)",
+    "Tiếng Việt": "để lắng nghe + cái tốt nhất",
+    "id": "Pali - 0087"
+  },
+  {
+    "Tiếng Pali": "samaggaṃ",
+    "Tiếng Việt": "cùng nhau, đoàn kết lại",
+    "id": "Pali - 0088"
+  },
+  {
+    "Tiếng Pali": "Imāya",
+    "Tiếng Việt": "(nhờ) điều này/cái này",
+    "id": "Pali - 0089"
+  },
+  {
+    "Tiếng Pali": "Dhammānudhamma (=Dhamma+anudhamma)",
+    "Tiếng Việt": "từ bước đầu tiên đến đích cuối (quy luật trong hình thức đầy đủ) (dhamma+phù hợp với luật/dhamma)",
+    "id": "Pali - 0090"
+  },
+  {
+    "Tiếng Pali": "paṭipattiyā",
+    "Tiếng Việt": "(nhờ) thực hành",
+    "id": "Pali - 0091"
+  },
+  {
+    "Tiếng Pali": "Buddhaṃ",
+    "Tiếng Việt": "Buddha",
+    "id": "Pali - 0092"
+  },
+  {
+    "Tiếng Pali": "pūjemi",
+    "Tiếng Việt": "(Tôi) thành kính/kính lễ",
+    "id": "Pali - 0093"
+  },
+  {
+    "Tiếng Pali": "Dhammaṃ",
+    "Tiếng Việt": "Dhamma",
+    "id": "Pali - 0094"
+  },
+  {
+    "Tiếng Pali": "Saṅghaṃ",
+    "Tiếng Việt": "saṅgha",
+    "id": "Pali - 0095"
+  },
+  {
+    "Tiếng Pali": "Buddhā",
+    "Tiếng Việt": "số nhiều của Buddha",
+    "id": "Pali - 0096"
+  },
+  {
+    "Tiếng Pali": "atītā",
+    "Tiếng Việt": "quá khứ",
+    "id": "Pali - 0097"
+  },
+  {
+    "Tiếng Pali": "anāgatā",
+    "Tiếng Việt": "tương lai (vẫn chưa đến)",
+    "id": "Pali - 0098"
+  },
+  {
+    "Tiếng Pali": "paccuppannā",
+    "Tiếng Việt": "hiện tại, hiện nay",
+    "id": "Pali - 0099"
+  },
+  {
+    "Tiếng Pali": "ahaṃ",
+    "Tiếng Việt": "Tôi",
+    "id": "Pali - 0100"
+  },
+  {
+    "Tiếng Pali": "vandāmi",
+    "Tiếng Việt": "thành kính/đánh lễ",
+    "id": "Pali - 0101"
+  },
+  {
+    "Tiếng Pali": "sabbadā",
+    "Tiếng Việt": "luôn luôn",
+    "id": "Pali - 0102"
+  },
+  {
+    "Tiếng Pali": "Dhammā",
+    "Tiếng Việt": "số nhiều của dhamma",
+    "id": "Pali - 0103"
+  },
+  {
+    "Tiếng Pali": "Saṅghā",
+    "Tiếng Việt": "số nhiều của saṅgha",
+    "id": "Pali - 0104"
+  },
+  {
+    "Tiếng Pali": "Natthi",
+    "Tiếng Việt": "không, không có",
+    "id": "Pali - 0105"
+  },
+  {
+    "Tiếng Pali": "me",
+    "Tiếng Việt": "của tôi",
+    "id": "Pali - 0106"
+  },
+  {
+    "Tiếng Pali": "aññaṃ",
+    "Tiếng Việt": "bất kỳ cái nào khác",
+    "id": "Pali - 0107"
+  },
+  {
+    "Tiếng Pali": "Buddho (Dhamma, Saṅgho)",
+    "Tiếng Việt": "Buddha (Dhamma, Saṅgha)",
+    "id": "Pali - 0108"
+  },
+  {
+    "Tiếng Pali": "varaṃ",
+    "Tiếng Việt": "tối cao, xuất sắc",
+    "id": "Pali - 0109"
+  },
+  {
+    "Tiếng Pali": "etena",
+    "Tiếng Việt": "nhờ điều này",
+    "id": "Pali - 0110"
+  },
+  {
+    "Tiếng Pali": "saccavajjena (=sacca+vajja)",
+    "Tiếng Việt": "nhờ lời chân thật này (sự thật+lời nói)",
+    "id": "Pali - 0111"
+  },
+  {
+    "Tiếng Pali": "jayassu",
+    "Tiếng Việt": "nguyện có được chiến thắng",
+    "id": "Pali - 0112"
+  },
+  {
+    "Tiếng Pali": "jayamangalaṃ (=jaya+maṅgalaṃ)",
+    "Tiếng Việt": "chiến thắng và hạnh phúc (chiến thắng+hạnh phúc)",
+    "id": "Pali - 0113"
+  },
+  {
+    "Tiếng Pali": "bhavatu",
+    "Tiếng Việt": "nguyện cho, được",
+    "id": "Pali - 0114"
+  },
+  {
+    "Tiếng Pali": "te",
+    "Tiếng Việt": "của bạn",
+    "id": "Pali - 0115"
+  },
+  {
+    "Tiếng Pali": "sabba maṅgalaṃ (= sabba+maṅgalaṃ)",
+    "Tiếng Việt": "hạnh phúc, lợi lạc của tất cả (tất cả hạnh phúc)",
+    "id": "Pali - 0116"
+  },
+  {
+    "Tiếng Pali": "Ti+ratana+vandanā",
+    "Tiếng Việt": "(số nhiều) ba + viên ngọc + thành kính, đảnh lễ",
+    "id": "Pali - 0117"
+  },
+  {
+    "Tiếng Pali": "Itipi = iti+pi",
+    "Tiếng Việt": "Như vậy cũng (như vậy + cũng)",
+    "id": "Pali - 0118"
+  },
+  {
+    "Tiếng Pali": "so",
+    "Tiếng Việt": "anh ấy/vị ấy",
+    "id": "Pali - 0119"
+  },
+  {
+    "Tiếng Pali": "bhagavā",
+    "Tiếng Việt": "Đức Thế Tôn, đã thoát khỏi các bất tịnh",
+    "id": "Pali - 0120"
+  },
+  {
+    "Tiếng Pali": "arahaṃ",
+    "Tiếng Việt": "A-la-hán, Vị xứng đáng, bậc đã tiêu diệt các kẻ thù của ngài",
+    "id": "Pali - 0121"
+  },
+  {
+    "Tiếng Pali": "sammāsambuddho",
+    "Tiếng Việt": "Bậc hoàn toàn giải thoát bằng nỗ lực của chính mình (Chánh đẳng giác)",
+    "id": "Pali - 0122"
+  },
+  {
+    "Tiếng Pali": "vijjācaraṇasampanno (=vijjā+ācaraṇa+sampanno)",
+    "Tiếng Việt": "hoàn hảo trong lý thuyết và thực hành (lý thuyết + thực hành + được phú cho) (minh hạnh túc)",
+    "id": "Pali - 0123"
+  },
+  {
+    "Tiếng Pali": "sugato",
+    "Tiếng Việt": "làm tốt, đã đạt được đích cuối cùng (Thiện thệ)",
+    "id": "Pali - 0124"
+  },
+  {
+    "Tiếng Pali": "lokavidū",
+    "Tiếng Việt": "người biết về toàn vũ trụ",
+    "id": "Pali - 0125"
+  },
+  {
+    "Tiếng Pali": "anuttaro",
+    "Tiếng Việt": "không thể so sánh (vô song)",
+    "id": "Pali - 0126"
+  },
+  {
+    "Tiếng Pali": "purisa-damma-sārathi",
+    "Tiếng Việt": "vị thầy của loài người (người đánh xe)",
+    "id": "Pali - 0127"
+  },
+  {
+    "Tiếng Pali": "satthā",
+    "Tiếng Việt": "vị thầy",
+    "id": "Pali - 0128"
+  },
+  {
+    "Tiếng Pali": "devamanussānaṃ",
+    "Tiếng Việt": "của Chư thiên và loài người",
+    "id": "Pali - 0129"
+  },
+  {
+    "Tiếng Pali": "Svākkhāto (=su+akkhāto)",
+    "Tiếng Việt": "giải thích rõ ràng (rõ ràng + tuyên bố)",
+    "id": "Pali - 0130"
+  },
+  {
+    "Tiếng Pali": "sandiṭṭhiko",
+    "Tiếng Việt": "được kinh nghiệm trực tiếp",
+    "id": "Pali - 0131"
+  },
+  {
+    "Tiếng Pali": "akāliko",
+    "Tiếng Việt": "mang đến kết quả tại đây và bây giờ",
+    "id": "Pali - 0132"
+  },
+  {
+    "Tiếng Pali": "ehipassiko",
+    "Tiếng Việt": "mời gọi người đến và xem",
+    "id": "Pali - 0133"
+  },
+  {
+    "Tiếng Pali": "paccattaṃ",
+    "Tiếng Việt": "cá nhân, cho chính mình",
+    "id": "Pali - 0134"
+  },
+  {
+    "Tiếng Pali": "veditabbo",
+    "Tiếng Việt": "được nhận thức rõ, giác ngộ",
+    "id": "Pali - 0135"
+  },
+  {
+    "Tiếng Pali": "viññūhi",
+    "Tiếng Việt": "bởi bất kỳ bậc trí, người thông thái",
+    "id": "Pali - 0136"
+  },
+  {
+    "Tiếng Pali": "Suppaṭipanno",
+    "Tiếng Việt": "người đã thực hành tốt",
+    "id": "Pali - 0137"
+  },
+  {
+    "Tiếng Pali": "sāvakasaṅgho",
+    "Tiếng Việt": "đệ tử (Đức Phật)",
+    "id": "Pali - 0138"
+  },
+  {
+    "Tiếng Pali": "ujuppaṭipanno",
+    "Tiếng Việt": "người hành trì nghiêm chỉnh",
+    "id": "Pali - 0139"
+  },
+  {
+    "Tiếng Pali": "ñāyappaṭipanno",
+    "Tiếng Việt": "người hành trì trí tuệ",
+    "id": "Pali - 0140"
+  },
+  {
+    "Tiếng Pali": "sāmīcippaṭipanno",
+    "Tiếng Việt": "người hành trì đúng đắn",
+    "id": "Pali - 0141"
+  },
+  {
+    "Tiếng Pali": "yadidaṃ",
+    "Tiếng Việt": "đó là",
+    "id": "Pali - 0142"
+  },
+  {
+    "Tiếng Pali": "cattāri",
+    "Tiếng Việt": "bốn",
+    "id": "Pali - 0143"
+  },
+  {
+    "Tiếng Pali": "purisayugāni (=purisa+yugāni)",
+    "Tiếng Việt": "cặp người (người+cặp)",
+    "id": "Pali - 0144"
+  },
+  {
+    "Tiếng Pali": "aṭṭhapurisapuggalā",
+    "Tiếng Việt": "tám loại người",
+    "id": "Pali - 0145"
+  },
+  {
+    "Tiếng Pali": "esa",
+    "Tiếng Việt": "này",
+    "id": "Pali - 0146"
+  },
+  {
+    "Tiếng Pali": "āhuneyyo",
+    "Tiếng Việt": "xứng đáng thọ nhận, được quý kính",
+    "id": "Pali - 0147"
+  },
+  {
+    "Tiếng Pali": "pāhuneyyo",
+    "Tiếng Việt": "xứng đáng để thiết đãi",
+    "id": "Pali - 0148"
+  },
+  {
+    "Tiếng Pali": "dakkhiṇeyyo",
+    "Tiếng Việt": "xứng đáng được cúng dường",
+    "id": "Pali - 0149"
+  },
+  {
+    "Tiếng Pali": "añjalikaraṇīyo",
+    "Tiếng Việt": "xứng đáng được tôn kính với đôi bàn tay chắp lại",
+    "id": "Pali - 0150"
+  },
+  {
+    "Tiếng Pali": "anuttaraṃ",
+    "Tiếng Việt": "vô song, không vượt qua được",
+    "id": "Pali - 0151"
+  },
+  {
+    "Tiếng Pali": "puññakkhettaṃ (= puñña+khettaṃ)",
+    "Tiếng Việt": "ruộng công đức (công đức+ruộng)",
+    "id": "Pali - 0152"
+  },
+  {
+    "Tiếng Pali": "lokassa",
+    "Tiếng Việt": "cho thế gian",
+    "id": "Pali - 0153"
+  },
+  {
+    "Tiếng Pali": "Āṭānāṭiya",
+    "Tiếng Việt": "tên thị trấn",
+    "id": "Pali - 0154"
+  },
+  {
+    "Tiếng Pali": "Appasannehi",
+    "Tiếng Việt": "không hạnh phúc, không tin tưởng, không hài lòng",
+    "id": "Pali - 0155"
+  },
+  {
+    "Tiếng Pali": "nāthassa",
+    "Tiếng Việt": "thượng đế (của, hướng về)",
+    "id": "Pali - 0156"
+  },
+  {
+    "Tiếng Pali": "sāsane",
+    "Tiếng Việt": "giáo huấn",
+    "id": "Pali - 0157"
+  },
+  {
+    "Tiếng Pali": "sādhu",
+    "Tiếng Việt": "người tốt",
+    "id": "Pali - 0158"
+  },
+  {
+    "Tiếng Pali": "sammate",
+    "Tiếng Việt": "được đồng ý bởi",
+    "id": "Pali - 0159"
+  },
+  {
+    "Tiếng Pali": "amanussehi",
+    "Tiếng Việt": "không phải loài người",
+    "id": "Pali - 0160"
+  },
+  {
+    "Tiếng Pali": "caṇḍehi",
+    "Tiếng Việt": "tức giận, phẫn nộ",
+    "id": "Pali - 0161"
+  },
+  {
+    "Tiếng Pali": "sadā",
+    "Tiếng Việt": "luôn luôn",
+    "id": "Pali - 0162"
+  },
+  {
+    "Tiếng Pali": "kibbisakāribhi",
+    "Tiếng Việt": "kẻ làm ác",
+    "id": "Pali - 0163"
+  },
+  {
+    "Tiếng Pali": "Parisānaṃ",
+    "Tiếng Việt": "quy tụ, tập hợp",
+    "id": "Pali - 0164"
+  },
+  {
+    "Tiếng Pali": "catassannaṃ",
+    "Tiếng Việt": "bốn",
+    "id": "Pali - 0165"
+  },
+  {
+    "Tiếng Pali": "ahiṃsāya",
+    "Tiếng Việt": "không gây tổn thương",
+    "id": "Pali - 0166"
+  },
+  {
+    "Tiếng Pali": "ca",
+    "Tiếng Việt": "và, cũng thế, cũng",
+    "id": "Pali - 0167"
+  },
+  {
+    "Tiếng Pali": "guttiyā",
+    "Tiếng Việt": "sự bảo vệ, hộ trì",
+    "id": "Pali - 0168"
+  },
+  {
+    "Tiếng Pali": "yaṃ",
+    "Tiếng Việt": "cái mà, cái đó",
+    "id": "Pali - 0169"
+  },
+  {
+    "Tiếng Pali": "desesi",
+    "Tiếng Việt": "đã dạy",
+    "id": "Pali - 0170"
+  },
+  {
+    "Tiếng Pali": "mahāvīro",
+    "Tiếng Việt": "của sự dũng cảm vĩ đại (Đức Phật)",
+    "id": "Pali - 0171"
+  },
+  {
+    "Tiếng Pali": "parittaṃ",
+    "Tiếng Việt": "những lời hộ trì",
+    "id": "Pali - 0172"
+  },
+  {
+    "Tiếng Pali": "taṃ",
+    "Tiếng Việt": "đó",
+    "id": "Pali - 0173"
+  },
+  {
+    "Tiếng Pali": "bhaṇāmahe",
+    "Tiếng Việt": "chúng ta hãy cùng tụng",
+    "id": "Pali - 0174"
+  },
+  {
+    "Tiếng Pali": "Vipassī",
+    "Tiếng Việt": "tên vị Phật trước đây",
+    "id": "Pali - 0175"
+  },
+  {
+    "Tiếng Pali": "sabbabhūtānukampino (=sabba+bhūta+anukampino)",
+    "Tiếng Việt": "bi mẫn đến muôn loài (tất cả + chúng sinh + bi mẫn)",
+    "id": "Pali - 0176"
+  },
+  {
+    "Tiếng Pali": "Vesabhū",
+    "Tiếng Việt": "tên vị Phật trước đây",
+    "id": "Pali - 0177"
+  },
+  {
+    "Tiếng Pali": "nhātakassa",
+    "Tiếng Việt": "vị đã gột sạch tất cả bất tịnh",
+    "id": "Pali - 0178"
+  },
+  {
+    "Tiếng Pali": "tapassino",
+    "Tiếng Việt": "vị hành giả nhiệt thành",
+    "id": "Pali - 0179"
+  },
+  {
+    "Tiếng Pali": "Kakusandha",
+    "Tiếng Việt": "tên vị Phật trước đây",
+    "id": "Pali - 0180"
+  },
+  {
+    "Tiếng Pali": "mārasenāpamaddino (=māra+senā+pamaddino)",
+    "Tiếng Việt": "vị chiến thắng đội quân của Māra (Māra + đội quân + người chiến thắng)",
+    "id": "Pali - 0181"
+  },
+  {
+    "Tiếng Pali": "Koṇāgamana",
+    "Tiếng Việt": "tên vị Phật trước đây",
+    "id": "Pali - 0182"
+  },
+  {
+    "Tiếng Pali": "brāhmaṇassa",
+    "Tiếng Việt": "của đời sống thuần khiết, đời sống vô tội",
+    "id": "Pali - 0183"
+  },
+  {
+    "Tiếng Pali": "vusīmato",
+    "Tiếng Việt": "bậc toàn hảo",
+    "id": "Pali - 0184"
+  },
+  {
+    "Tiếng Pali": "Kassapa",
+    "Tiếng Việt": "tên vị Phật trước đây",
+    "id": "Pali - 0185"
+  },
+  {
+    "Tiếng Pali": "vippamuttassa",
+    "Tiếng Việt": "được tự do hoàn toàn",
+    "id": "Pali - 0186"
+  },
+  {
+    "Tiếng Pali": "sabbadhi",
+    "Tiếng Việt": "trong mọi khía cạnh",
+    "id": "Pali - 0187"
+  },
+  {
+    "Tiếng Pali": "Aṅgīrasa",
+    "Tiếng Việt": "bậc rực rỡ, huy hoàng",
+    "id": "Pali - 0188"
+  },
+  {
+    "Tiếng Pali": "caññe=ca+aññe",
+    "Tiếng Việt": "và những người khác",
+    "id": "Pali - 0189"
+  },
+  {
+    "Tiếng Pali": "sambuddhā",
+    "Tiếng Việt": "hoàn toàn giải thoát bằng chính nỗ lực của vị ấy",
+    "id": "Pali - 0190"
+  },
+  {
+    "Tiếng Pali": "anekasatakoṭiyo (=aneka+sata+koṭiyo)",
+    "Tiếng Việt": "hàng trăm crore (một crore = mười triệu)",
+    "id": "Pali - 0191"
+  },
+  {
+    "Tiếng Pali": "sabbe",
+    "Tiếng Việt": "tất cả",
+    "id": "Pali - 0192"
+  },
+  {
+    "Tiếng Pali": "Buddhā",
+    "Tiếng Việt": "Bậc Giác Ngộ",
+    "id": "Pali - 0193"
+  },
+  {
+    "Tiếng Pali": "samasamā",
+    "Tiếng Việt": "ngang bằng, bình đẳng",
+    "id": "Pali - 0194"
+  },
+  {
+    "Tiếng Pali": "mahiddhikā",
+    "Tiếng Việt": "sở hữu sức mạnh siêu nhiên to lớn",
+    "id": "Pali - 0195"
+  },
+  {
+    "Tiếng Pali": "dasabalūpetā (=dasa+bala+upetā)",
+    "Tiếng Việt": "được ban cho mười loại sức mạnh (mười+sức mạnh+được ban cho)",
+    "id": "Pali - 0196"
+  },
+  {
+    "Tiếng Pali": "vesārajjehupāgatā",
+    "Tiếng Việt": "đạt được 4 lĩnh vực tự tin",
+    "id": "Pali - 0197"
+  },
+  {
+    "Tiếng Pali": "paṭijānanti",
+    "Tiếng Việt": "biết",
+    "id": "Pali - 0198"
+  },
+  {
+    "Tiếng Pali": "āsabhaṭṭhānamuttamaṃ (=āsabha+ṭhānaṃ+uttamaṃ)",
+    "Tiếng Việt": "nơi ở của con bò đực hay nơi nổi bật (bò đực+vị trí+nhất)",
+    "id": "Pali - 0199"
+  },
+  {
+    "Tiếng Pali": "Sīhanādaṃ=sīhā+nādaṃ",
+    "Tiếng Việt": "tiếng rống sư tử (sư tử + rống)",
+    "id": "Pali - 0200"
+  },
+  {
+    "Tiếng Pali": "nadante",
+    "Tiếng Việt": "âm thanh",
+    "id": "Pali - 0201"
+  },
+  {
+    "Tiếng Pali": "parisāsu",
+    "Tiếng Việt": "trong các hội đồng, hội chúng",
+    "id": "Pali - 0202"
+  },
+  {
+    "Tiếng Pali": "visāradā",
+    "Tiếng Việt": "có kỹ năng, tự tin, thông thái",
+    "id": "Pali - 0203"
+  },
+  {
+    "Tiếng Pali": "brahmacakkaṃ",
+    "Tiếng Việt": "bánh xe Dhamma",
+    "id": "Pali - 0204"
+  },
+  {
+    "Tiếng Pali": "pavattenti",
+    "Tiếng Việt": "chúng lăn, bắt đầu",
+    "id": "Pali - 0205"
+  },
+  {
+    "Tiếng Pali": "loke",
+    "Tiếng Việt": "trong thế gian",
+    "id": "Pali - 0206"
+  },
+  {
+    "Tiếng Pali": "sakyaputtassa",
+    "Tiếng Việt": "con trai dòng Sakyā (dòng dõi)",
+    "id": "Pali - 0207"
+  },
+  {
+    "Tiếng Pali": "Yo",
+    "Tiếng Việt": "ai, người nào",
+    "id": "Pali - 0208"
+  },
+  {
+    "Tiếng Pali": "imaṃ",
+    "Tiếng Việt": "này",
+    "id": "Pali - 0209"
+  },
+  {
+    "Tiếng Pali": "sabbadukkhāpanūdanaṃ (=sabba+dukkhā+panūdanaṃ)",
+    "Tiếng Việt": "xua tan mọi đau khổ (tất cả + đau khổ + xua tan)",
+    "id": "Pali - 0210"
+  },
+  {
+    "Tiếng Pali": "Ye",
+    "Tiếng Việt": "ai, người nào",
+    "id": "Pali - 0211"
+  },
+  {
+    "Tiếng Pali": "cāpi = ca + api",
+    "Tiếng Việt": "và cũng",
+    "id": "Pali - 0212"
+  },
+  {
+    "Tiếng Pali": "nibbutā",
+    "Tiếng Việt": "dập tắt tham ái thế gian, được giải thoát",
+    "id": "Pali - 0213"
+  },
+  {
+    "Tiếng Pali": "loke",
+    "Tiếng Việt": "trong thế gian",
+    "id": "Pali - 0214"
+  },
+  {
+    "Tiếng Pali": "yathābhūtaṃ",
+    "Tiếng Việt": "sự thực như nó là",
+    "id": "Pali - 0215"
+  },
+  {
+    "Tiếng Pali": "vipassisum",
+    "Tiếng Việt": "tuệ giác",
+    "id": "Pali - 0216"
+  },
+  {
+    "Tiếng Pali": "Te",
+    "Tiếng Việt": "họ, này",
+    "id": "Pali - 0217"
+  },
+  {
+    "Tiếng Pali": "janā",
+    "Tiếng Việt": "mọi người",
+    "id": "Pali - 0218"
+  },
+  {
+    "Tiếng Pali": "apisuṇātha",
+    "Tiếng Việt": "không nói xấu",
+    "id": "Pali - 0219"
+  },
+  {
+    "Tiếng Pali": "mahantā",
+    "Tiếng Việt": "hùng mạnh, hùng vĩ",
+    "id": "Pali - 0220"
+  },
+  {
+    "Tiếng Pali": "vītasāradā",
+    "Tiếng Việt": "không thiếu kinh nghiệm, khôn ngoan",
+    "id": "Pali - 0221"
+  },
+  {
+    "Tiếng Pali": "Hitaṃ",
+    "Tiếng Việt": "ân nhân",
+    "id": "Pali - 0222"
+  },
+  {
+    "Tiếng Pali": "devamanussānaṃ",
+    "Tiếng Việt": "chư thiên và loài người",
+    "id": "Pali - 0223"
+  },
+  {
+    "Tiếng Pali": "yaṃ",
+    "Tiếng Việt": "người mà",
+    "id": "Pali - 0224"
+  },
+  {
+    "Tiếng Pali": "namassanti",
+    "Tiếng Việt": "người mà mọi người kính trọng",
+    "id": "Pali - 0225"
+  },
+  {
+    "Tiếng Pali": "Vijjācaraṇasampannaṃ",
+    "Tiếng Việt": "toàn hảo trí tuệ và giới hạnh",
+    "id": "Pali - 0226"
+  },
+  {
+    "Tiếng Pali": "mahantaṃ",
+    "Tiếng Việt": "hùng mạnh",
+    "id": "Pali - 0227"
+  },
+  {
+    "Tiếng Pali": "Ete",
+    "Tiếng Việt": "này",
+    "id": "Pali - 0228"
+  },
+  {
+    "Tiếng Pali": "appaṭivattiyaṃ",
+    "Tiếng Việt": "chuyển động không thể quay trở lại",
+    "id": "Pali - 0229"
+  },
+  {
+    "Tiếng Pali": "Upetā",
+    "Tiếng Việt": "được phú cho",
+    "id": "Pali - 0230"
+  },
+  {
+    "Tiếng Pali": "Buddhadhammehi",
+    "Tiếng Việt": "(với ) những phẩm hạnh của một vị Phật",
+    "id": "Pali - 0231"
+  },
+  {
+    "Tiếng Pali": "aṭṭhārasahi",
+    "Tiếng Việt": "18 loại (phẩm hạnh phi thường)",
+    "id": "Pali - 0232"
+  },
+  {
+    "Tiếng Pali": "nāyakā",
+    "Tiếng Việt": "những nhà lãnh đạo, người dẫn đầu",
+    "id": "Pali - 0233"
+  },
+  {
+    "Tiếng Pali": "battimsa-lakkhaṇūpetā (=battimsa+lakkhaṇa+upetā)",
+    "Tiếng Việt": "được phú cho 32 hảo tướng (32 + tướng + được phú cho)",
+    "id": "Pali - 0234"
+  },
+  {
+    "Tiếng Pali": "sītānubyañjanādharā",
+    "Tiếng Việt": "có 80 điểm đặc trưng nhỏ hơn",
+    "id": "Pali - 0235"
+  },
+  {
+    "Tiếng Pali": "Byāmappabhāya (=byāma+pabhāya)",
+    "Tiếng Việt": "sải + vầng hào quang (với)",
+    "id": "Pali - 0236"
+  },
+  {
+    "Tiếng Pali": "suppabhā",
+    "Tiếng Việt": "rực rỡ sáng ngời",
+    "id": "Pali - 0237"
+  },
+  {
+    "Tiếng Pali": "muni + kuñjarā",
+    "Tiếng Việt": "(thánh nhân + voi xuất chúng)",
+    "id": "Pali - 0238"
+  },
+  {
+    "Tiếng Pali": "sabbaññuno",
+    "Tiếng Việt": "thông suốt mọi sự, toàn tri, toàn giác",
+    "id": "Pali - 0239"
+  },
+  {
+    "Tiếng Pali": "khīṇāsavā (=khīṇa+āsavā)",
+    "Tiếng Việt": "vị A la hán, người đã diệt trừ mọi phiền não (đã cạn kiệt + dòng chảy ô nhiễm tinh thần)",
+    "id": "Pali - 0240"
+  },
+  {
+    "Tiếng Pali": "jinā",
+    "Tiếng Việt": "những bậc chiến thắng",
+    "id": "Pali - 0241"
+  },
+  {
+    "Tiếng Pali": "Mahāpabhā",
+    "Tiếng Việt": "có đại hào quang",
+    "id": "Pali - 0242"
+  },
+  {
+    "Tiếng Pali": "mahātejā",
+    "Tiếng Việt": "có đại năng lực",
+    "id": "Pali - 0243"
+  },
+  {
+    "Tiếng Pali": "mahāpaññā",
+    "Tiếng Việt": "có đại trí tuệ",
+    "id": "Pali - 0244"
+  },
+  {
+    "Tiếng Pali": "mahabbalā",
+    "Tiếng Việt": "có đại oai lực",
+    "id": "Pali - 0245"
+  },
+  {
+    "Tiếng Pali": "mahākāruṇikā",
+    "Tiếng Việt": "có đại bi mẫn",
+    "id": "Pali - 0246"
+  },
+  {
+    "Tiếng Pali": "dhīrā",
+    "Tiếng Việt": "cương quyết",
+    "id": "Pali - 0247"
+  },
+  {
+    "Tiếng Pali": "sabbesānaṃ",
+    "Tiếng Việt": "cho tất cả",
+    "id": "Pali - 0248"
+  },
+  {
+    "Tiếng Pali": "sukhāvahā",
+    "Tiếng Việt": "mang lại hạnh phúc",
+    "id": "Pali - 0249"
+  },
+  {
+    "Tiếng Pali": "Dīpā",
+    "Tiếng Việt": "nơi nương tựa, hòn đảo",
+    "id": "Pali - 0250"
+  },
+  {
+    "Tiếng Pali": "nāthā",
+    "Tiếng Việt": "những vị hộ trì, các Thượng Đế",
+    "id": "Pali - 0251"
+  },
+  {
+    "Tiếng Pali": "patiṭṭhā",
+    "Tiếng Việt": "sự giúp đỡ, nơi trú tạm, nơi nương tựa",
+    "id": "Pali - 0252"
+  },
+  {
+    "Tiếng Pali": "tāṇā",
+    "Tiếng Việt": "sự hộ trì",
+    "id": "Pali - 0253"
+  },
+  {
+    "Tiếng Pali": "leṇā",
+    "Tiếng Việt": "nơi an toàn",
+    "id": "Pali - 0254"
+  },
+  {
+    "Tiếng Pali": "pāṇinam",
+    "Tiếng Việt": "cho chúng sinh hữu tình",
+    "id": "Pali - 0255"
+  },
+  {
+    "Tiếng Pali": "gatī",
+    "Tiếng Việt": "những nơi trú ẩn/nương tựa",
+    "id": "Pali - 0256"
+  },
+  {
+    "Tiếng Pali": "bandhū",
+    "Tiếng Việt": "dòng dõi, người thân",
+    "id": "Pali - 0257"
+  },
+  {
+    "Tiếng Pali": "mahessāsā (mahā+assāsa)",
+    "Tiếng Việt": "lớn lao + nguồn an ủi",
+    "id": "Pali - 0258"
+  },
+  {
+    "Tiếng Pali": "saraṇā",
+    "Tiếng Việt": "nơi nương tựa",
+    "id": "Pali - 0259"
+  },
+  {
+    "Tiếng Pali": "hitesino",
+    "Tiếng Việt": "những lời chúc tốt lành",
+    "id": "Pali - 0260"
+  },
+  {
+    "Tiếng Pali": "Sadevakassa",
+    "Tiếng Việt": "với tất cả chư thiên",
+    "id": "Pali - 0261"
+  },
+  {
+    "Tiếng Pali": "lokassa",
+    "Tiếng Việt": "của thế gian này",
+    "id": "Pali - 0262"
+  },
+  {
+    "Tiếng Pali": "parāyaṇā",
+    "Tiếng Việt": "hỗ trợ",
+    "id": "Pali - 0263"
+  },
+  {
+    "Tiếng Pali": "sirasā",
+    "Tiếng Việt": "với cái đầu",
+    "id": "Pali - 0264"
+  },
+  {
+    "Tiếng Pali": "pāde",
+    "Tiếng Việt": "dưới chân",
+    "id": "Pali - 0265"
+  },
+  {
+    "Tiếng Pali": "vandāmi",
+    "Tiếng Việt": "Tôi/con đảnh lễ",
+    "id": "Pali - 0266"
+  },
+  {
+    "Tiếng Pali": "purisuttame",
+    "Tiếng Việt": "những con người xuất sắc, những chúng sinh vĩ đại",
+    "id": "Pali - 0267"
+  },
+  {
+    "Tiếng Pali": "Vacasā",
+    "Tiếng Việt": "trong lời nói",
+    "id": "Pali - 0268"
+  },
+  {
+    "Tiếng Pali": "manasā",
+    "Tiếng Việt": "trong suy nghĩ",
+    "id": "Pali - 0269"
+  },
+  {
+    "Tiếng Pali": "ceva=ca+eva",
+    "Tiếng Việt": "và cũng (và + cũng)",
+    "id": "Pali - 0270"
+  },
+  {
+    "Tiếng Pali": "vandāmete (=vandāmi+ete)",
+    "Tiếng Việt": "Tôi/con kính lễ tới những vị này (Tôi/con đảnh lễ tới + những vị này)",
+    "id": "Pali - 0271"
+  },
+  {
+    "Tiếng Pali": "tathāgate",
+    "Tiếng Việt": "Chư Phật",
+    "id": "Pali - 0272"
+  },
+  {
+    "Tiếng Pali": "sayane",
+    "Tiếng Việt": "trong khi nằm",
+    "id": "Pali - 0273"
+  },
+  {
+    "Tiếng Pali": "āsane",
+    "Tiếng Việt": "trong khi ngồi",
+    "id": "Pali - 0274"
+  },
+  {
+    "Tiếng Pali": "ṭhāne",
+    "Tiếng Việt": "trong khi đứng",
+    "id": "Pali - 0275"
+  },
+  {
+    "Tiếng Pali": "gamane",
+    "Tiếng Việt": "trong khi đi",
+    "id": "Pali - 0276"
+  },
+  {
+    "Tiếng Pali": "sabbadā",
+    "Tiếng Việt": "mọi lúc",
+    "id": "Pali - 0277"
+  },
+  {
+    "Tiếng Pali": "Sadā",
+    "Tiếng Việt": "luôn luôn",
+    "id": "Pali - 0278"
+  },
+  {
+    "Tiếng Pali": "sukhena",
+    "Tiếng Việt": "một cách hạnh phúc",
+    "id": "Pali - 0279"
+  },
+  {
+    "Tiếng Pali": "rakkhantu",
+    "Tiếng Việt": "gìn giữ, bảo vệ",
+    "id": "Pali - 0280"
+  },
+  {
+    "Tiếng Pali": "santikarā",
+    "Tiếng Việt": "người chỉ đường đến (đề xướng) bình an",
+    "id": "Pali - 0281"
+  },
+  {
+    "Tiếng Pali": "tehi",
+    "Tiếng Việt": "bởi họ",
+    "id": "Pali - 0282"
+  },
+  {
+    "Tiếng Pali": "tvaṃ",
+    "Tiếng Việt": "bạn",
+    "id": "Pali - 0283"
+  },
+  {
+    "Tiếng Pali": "rakkhito",
+    "Tiếng Việt": "được bảo vệ",
+    "id": "Pali - 0284"
+  },
+  {
+    "Tiếng Pali": "santo",
+    "Tiếng Việt": "bình an, an vui",
+    "id": "Pali - 0285"
+  },
+  {
+    "Tiếng Pali": "mutto",
+    "Tiếng Việt": "tự do",
+    "id": "Pali - 0286"
+  },
+  {
+    "Tiếng Pali": "sabbabhayehi (=sabba+bhayehi)",
+    "Tiếng Việt": "khỏi mọi nỗi sợ (tất cả + khỏi những nỗi sợ)",
+    "id": "Pali - 0287"
+  },
+  {
+    "Tiếng Pali": "Sabbarogā",
+    "Tiếng Việt": "khỏi mọi bệnh tật",
+    "id": "Pali - 0288"
+  },
+  {
+    "Tiếng Pali": "vinimutto",
+    "Tiếng Việt": "hoàn toàn tự do, giải thoát",
+    "id": "Pali - 0289"
+  },
+  {
+    "Tiếng Pali": "sabbasantāpavajjito (=sabba+santāpa+vajjito)",
+    "Tiếng Việt": "thoát khỏi mọi đau khổ (tất cả+đau khổ+ thoát khỏi)",
+    "id": "Pali - 0290"
+  },
+  {
+    "Tiếng Pali": "sabbaveramatikkanto",
+    "Tiếng Việt": "vượt qua mọi hận thù",
+    "id": "Pali - 0291"
+  },
+  {
+    "Tiếng Pali": "nibbuto",
+    "Tiếng Việt": "tiêu diệt, dập tắt, để có được niềm hạnh phúc cuối cùng",
+    "id": "Pali - 0292"
+  },
+  {
+    "Tiếng Pali": "bhava",
+    "Tiếng Việt": "trở nên, trở thành",
+    "id": "Pali - 0293"
+  },
+  {
+    "Tiếng Pali": "Tesaṃ",
+    "Tiếng Việt": "của họ",
+    "id": "Pali - 0294"
+  },
+  {
+    "Tiếng Pali": "saccena",
+    "Tiếng Việt": "sự thật",
+    "id": "Pali - 0295"
+  },
+  {
+    "Tiếng Pali": "sīlena",
+    "Tiếng Việt": "đức hạnh",
+    "id": "Pali - 0296"
+  },
+  {
+    "Tiếng Pali": "khanti",
+    "Tiếng Việt": "khảm nhẫn",
+    "id": "Pali - 0297"
+  },
+  {
+    "Tiếng Pali": "mettā",
+    "Tiếng Việt": "lòng từ ái",
+    "id": "Pali - 0298"
+  },
+  {
+    "Tiếng Pali": "balena",
+    "Tiếng Việt": "sức mạnh",
+    "id": "Pali - 0299"
+  },
+  {
+    "Tiếng Pali": "tepi=te+pi",
+    "Tiếng Việt": "họ cũng (họ+cũng)",
+    "id": "Pali - 0300"
+  },
+  {
+    "Tiếng Pali": "tvaṃ",
+    "Tiếng Việt": "bạn",
+    "id": "Pali - 0301"
+  },
+  {
+    "Tiếng Pali": "anurakkhantu",
+    "Tiếng Việt": "nguyện họ hộ trì, nguyện họ gìn giữ",
+    "id": "Pali - 0302"
+  },
+  {
+    "Tiếng Pali": "arogena",
+    "Tiếng Việt": "lành mạnh",
+    "id": "Pali - 0303"
+  },
+  {
+    "Tiếng Pali": "sukhena",
+    "Tiếng Việt": "hạnh phúc",
+    "id": "Pali - 0304"
+  },
+  {
+    "Tiếng Pali": "Puratthimasmiṃ",
+    "Tiếng Việt": "ở hướng đông",
+    "id": "Pali - 0305"
+  },
+  {
+    "Tiếng Pali": "disābhāge",
+    "Tiếng Việt": "các hướng",
+    "id": "Pali - 0306"
+  },
+  {
+    "Tiếng Pali": "santi",
+    "Tiếng Việt": "có",
+    "id": "Pali - 0307"
+  },
+  {
+    "Tiếng Pali": "bhūtā",
+    "Tiếng Việt": "chúng sinh",
+    "id": "Pali - 0308"
+  },
+  {
+    "Tiếng Pali": "Dakkhiṇasmiṃ",
+    "Tiếng Việt": "ở hướng nam",
+    "id": "Pali - 0309"
+  },
+  {
+    "Tiếng Pali": "Pacchimasmiṃ",
+    "Tiếng Việt": "ở hướng tây",
+    "id": "Pali - 0310"
+  },
+  {
+    "Tiếng Pali": "nāgā",
+    "Tiếng Việt": "con rắn",
+    "id": "Pali - 0311"
+  },
+  {
+    "Tiếng Pali": "Uttarasmiṃ",
+    "Tiếng Việt": "ở hướng bắc",
+    "id": "Pali - 0312"
+  },
+  {
+    "Tiếng Pali": "yakkhā",
+    "Tiếng Việt": "không phải loài người, quỷ /dạ xoa",
+    "id": "Pali - 0313"
+  },
+  {
+    "Tiếng Pali": "Dhataraṭṭho",
+    "Tiếng Việt": "vua phương đông (tên)",
+    "id": "Pali - 0314"
+  },
+  {
+    "Tiếng Pali": "Virūḷhako",
+    "Tiếng Việt": "vua phương nam (tên)",
+    "id": "Pali - 0315"
+  },
+  {
+    "Tiếng Pali": "Virūpakkho",
+    "Tiếng Việt": "vua phương tây (tên)",
+    "id": "Pali - 0316"
+  },
+  {
+    "Tiếng Pali": "Kuvero",
+    "Tiếng Việt": "vua phương bắc (tên)",
+    "id": "Pali - 0317"
+  },
+  {
+    "Tiếng Pali": "Cattāro",
+    "Tiếng Việt": "bốn",
+    "id": "Pali - 0318"
+  },
+  {
+    "Tiếng Pali": "mahārājā",
+    "Tiếng Việt": "những vị vua vĩ đại",
+    "id": "Pali - 0319"
+  },
+  {
+    "Tiếng Pali": "lokapālā (=loka+pāla)",
+    "Tiếng Việt": "những người bảo vệ thế giới này (thế giới + những người bảo vệ)",
+    "id": "Pali - 0320"
+  },
+  {
+    "Tiếng Pali": "yasassino",
+    "Tiếng Việt": "có danh tiếng",
+    "id": "Pali - 0321"
+  },
+  {
+    "Tiếng Pali": "Ākāsaṭṭhā",
+    "Tiếng Việt": "trú trên cõi trời",
+    "id": "Pali - 0322"
+  },
+  {
+    "Tiếng Pali": "bhūmmaṭṭhā",
+    "Tiếng Việt": "trú trên trái đất/cõi trần",
+    "id": "Pali - 0323"
+  },
+  {
+    "Tiếng Pali": "Iddhimanto",
+    "Tiếng Việt": "những vị hùng mạnh/hùng cường",
+    "id": "Pali - 0324"
+  },
+  {
+    "Tiếng Pali": "ye",
+    "Tiếng Việt": "của họ",
+    "id": "Pali - 0325"
+  },
+  {
+    "Tiếng Pali": "vasantā",
+    "Tiếng Việt": "sống",
+    "id": "Pali - 0326"
+  },
+  {
+    "Tiếng Pali": "idha",
+    "Tiếng Việt": "ở đây",
+    "id": "Pali - 0327"
+  },
+  {
+    "Tiếng Pali": "sāsane",
+    "Tiếng Việt": "trong giáo huấn/giáo pháp",
+    "id": "Pali - 0328"
+  },
+  {
+    "Tiếng Pali": "Sabbītiyo=sabba+iti",
+    "Tiếng Việt": "tất cả tai ương",
+    "id": "Pali - 0329"
+  },
+  {
+    "Tiếng Pali": "vivajjantu",
+    "Tiếng Việt": "(nguyện cho) rời đi",
+    "id": "Pali - 0330"
+  },
+  {
+    "Tiếng Pali": "soko",
+    "Tiếng Việt": "nỗi đau khổ",
+    "id": "Pali - 0331"
+  },
+  {
+    "Tiếng Pali": "rogo",
+    "Tiếng Việt": "bệnh tật",
+    "id": "Pali - 0332"
+  },
+  {
+    "Tiếng Pali": "vinassatu",
+    "Tiếng Việt": "nguyện cho bị phá hủy, diệt vong",
+    "id": "Pali - 0333"
+  },
+  {
+    "Tiếng Pali": "mā",
+    "Tiếng Việt": "không",
+    "id": "Pali - 0334"
+  },
+  {
+    "Tiếng Pali": "bhavatvantarāyo (=bhavatu+antarāyo)",
+    "Tiếng Việt": "gây hại đến (gây+hại)",
+    "id": "Pali - 0335"
+  },
+  {
+    "Tiếng Pali": "sukhī",
+    "Tiếng Việt": "hạnh phúc",
+    "id": "Pali - 0336"
+  },
+  {
+    "Tiếng Pali": "dīghāyuko",
+    "Tiếng Việt": "sống thọ",
+    "id": "Pali - 0337"
+  },
+  {
+    "Tiếng Pali": "Abhivādanasīlassa",
+    "Tiếng Việt": "thói quen chào hỏi kính cẩn",
+    "id": "Pali - 0338"
+  },
+  {
+    "Tiếng Pali": "niccaṃ",
+    "Tiếng Việt": "luôn luôn, thường hằng",
+    "id": "Pali - 0339"
+  },
+  {
+    "Tiếng Pali": "Vuḍḍhāpacāyino (=vuḍḍhā+ apacāyino)",
+    "Tiếng Việt": "kính trọng bậc lớn tuổi (lớn tuổi+người kính trọng)",
+    "id": "Pali - 0340"
+  },
+  {
+    "Tiếng Pali": "dhammā",
+    "Tiếng Việt": "phẩm hạnh",
+    "id": "Pali - 0341"
+  },
+  {
+    "Tiếng Pali": "vaḍḍhanti",
+    "Tiếng Việt": "tăng, gia tăng",
+    "id": "Pali - 0342"
+  },
+  {
+    "Tiếng Pali": "āyu",
+    "Tiếng Việt": "tuổi tác, sống thọ",
+    "id": "Pali - 0343"
+  },
+  {
+    "Tiếng Pali": "vaṇṇo",
+    "Tiếng Việt": "nhan sắc, nước da",
+    "id": "Pali - 0344"
+  },
+  {
+    "Tiếng Pali": "sukhaṃ",
+    "Tiếng Việt": "hạnh phúc",
+    "id": "Pali - 0345"
+  },
+  {
+    "Tiếng Pali": "balaṃ",
+    "Tiếng Việt": "sức mạnh",
+    "id": "Pali - 0346"
+  },
+  {
+    "Tiếng Pali": "Koṭisatasahassesu (=Koṭi+sata+sahassa)",
+    "Tiếng Việt": "con số cực cao (crore+trăm+ngàn)",
+    "id": "Pali - 0347"
+  },
+  {
+    "Tiếng Pali": "cakkavāḷesu",
+    "Tiếng Việt": "trong hệ thống thế gian này",
+    "id": "Pali - 0348"
+  },
+  {
+    "Tiếng Pali": "devatā",
+    "Tiếng Việt": "chư thiên",
+    "id": "Pali - 0349"
+  },
+  {
+    "Tiếng Pali": "Yassānaṃ (=yassa+āṇaṃ)",
+    "Tiếng Việt": "mệnh lệnh của người ai đó (của người ai đó +mệnh lệnh)",
+    "id": "Pali - 0350"
+  },
+  {
+    "Tiếng Pali": "paṭigaṇhanti",
+    "Tiếng Việt": "chấp nhận",
+    "id": "Pali - 0351"
+  },
+  {
+    "Tiếng Pali": "yañca=yaṃ+ca",
+    "Tiếng Việt": "và cái nào (cái nào + và)",
+    "id": "Pali - 0352"
+  },
+  {
+    "Tiếng Pali": "vesāliyā",
+    "Tiếng Việt": "ở Vesālī (một thành phố)",
+    "id": "Pali - 0353"
+  },
+  {
+    "Tiếng Pali": "pure",
+    "Tiếng Việt": "trước đây",
+    "id": "Pali - 0354"
+  },
+  {
+    "Tiếng Pali": "rogāmanussa-dubbhikkhaṃ (=roga+amanussa+dubbhikkhaṃ)",
+    "Tiếng Việt": "bệnh tật + phi nhân + nạn đói",
+    "id": "Pali - 0355"
+  },
+  {
+    "Tiếng Pali": "sambūtaṃ",
+    "Tiếng Việt": "khởi sinh từ điều này",
+    "id": "Pali - 0356"
+  },
+  {
+    "Tiếng Pali": "tividhaṃ",
+    "Tiếng Việt": "3 loại",
+    "id": "Pali - 0357"
+  },
+  {
+    "Tiếng Pali": "bhayaṃ",
+    "Tiếng Việt": "nỗi sợ",
+    "id": "Pali - 0358"
+  },
+  {
+    "Tiếng Pali": "Khippamantaradhāpesi (=Khippaṃ+antaradhāpesi)",
+    "Tiếng Việt": "nguyên nhân biến mất một cách nhanh chóng (một cách nhanh chóng+nguyên nhân biến mất)",
+    "id": "Pali - 0359"
+  },
+  {
+    "Tiếng Pali": "parittaṃ",
+    "Tiếng Việt": "lời kệ hộ trì",
+    "id": "Pali - 0360"
+  },
+  {
+    "Tiếng Pali": "taṃ",
+    "Tiếng Việt": "đó",
+    "id": "Pali - 0361"
+  },
+  {
+    "Tiếng Pali": "bhaṇāmahe",
+    "Tiếng Việt": "chúng ta hãy cùng tụng",
+    "id": "Pali - 0362"
+  },
+  {
+    "Tiếng Pali": "Yānīdha=yāni+idha",
+    "Tiếng Việt": "dù thế nào + ở đây",
+    "id": "Pali - 0363"
+  },
+  {
+    "Tiếng Pali": "bhūtāni",
+    "Tiếng Việt": "sinh vật sống",
+    "id": "Pali - 0364"
+  },
+  {
+    "Tiếng Pali": "samāgatāni",
+    "Tiếng Việt": "được tập hợp lại",
+    "id": "Pali - 0365"
+  },
+  {
+    "Tiếng Pali": "bhummāni",
+    "Tiếng Việt": "ở trên mặt đất",
+    "id": "Pali - 0366"
+  },
+  {
+    "Tiếng Pali": "vā",
+    "Tiếng Việt": "hoặc, có...không",
+    "id": "Pali - 0367"
+  },
+  {
+    "Tiếng Pali": "antalikkhe",
+    "Tiếng Việt": "cõi trời (bầu trời)",
+    "id": "Pali - 0368"
+  },
+  {
+    "Tiếng Pali": "sabbeva",
+    "Tiếng Việt": "tất cả",
+    "id": "Pali - 0369"
+  },
+  {
+    "Tiếng Pali": "bhūtā",
+    "Tiếng Việt": "chúng sinh",
+    "id": "Pali - 0370"
+  },
+  {
+    "Tiếng Pali": "sumanā",
+    "Tiếng Việt": "hạnh phúc",
+    "id": "Pali - 0371"
+  },
+  {
+    "Tiếng Pali": "bhavantu",
+    "Tiếng Việt": "được",
+    "id": "Pali - 0372"
+  },
+  {
+    "Tiếng Pali": "athopi=atho+api",
+    "Tiếng Việt": "và (sau đó cũng)",
+    "id": "Pali - 0373"
+  },
+  {
+    "Tiếng Pali": "sakkacca",
+    "Tiếng Việt": "một cách kính trọng, cẩn thận",
+    "id": "Pali - 0374"
+  },
+  {
+    "Tiếng Pali": "suṇantu",
+    "Tiếng Việt": "hãy lắng nghe",
+    "id": "Pali - 0375"
+  },
+  {
+    "Tiếng Pali": "bhāsitaṃ",
+    "Tiếng Việt": "những lời này, những gì được nói ra",
+    "id": "Pali - 0376"
+  },
+  {
+    "Tiếng Pali": "Tasmā",
+    "Tiếng Việt": "vì vậy",
+    "id": "Pali - 0377"
+  },
+  {
+    "Tiếng Pali": "nisāmetha",
+    "Tiếng Việt": "lắng nghe",
+    "id": "Pali - 0378"
+  },
+  {
+    "Tiếng Pali": "sabbe",
+    "Tiếng Việt": "tất cả",
+    "id": "Pali - 0379"
+  },
+  {
+    "Tiếng Pali": "mettaṃ mettā",
+    "Tiếng Việt": "(tâm từ)",
+    "id": "Pali - 0380"
+  },
+  {
+    "Tiếng Pali": "karotha",
+    "Tiếng Việt": "thực hành",
+    "id": "Pali - 0381"
+  },
+  {
+    "Tiếng Pali": "mānusiyā",
+    "Tiếng Việt": "hướng đến loài người",
+    "id": "Pali - 0382"
+  },
+  {
+    "Tiếng Pali": "pajāya",
+    "Tiếng Việt": "chúng sinh",
+    "id": "Pali - 0383"
+  },
+  {
+    "Tiếng Pali": "divā",
+    "Tiếng Việt": "ngày",
+    "id": "Pali - 0384"
+  },
+  {
+    "Tiếng Pali": "ca",
+    "Tiếng Việt": "và",
+    "id": "Pali - 0385"
+  },
+  {
+    "Tiếng Pali": "ratto",
+    "Tiếng Việt": "đêm",
+    "id": "Pali - 0386"
+  },
+  {
+    "Tiếng Pali": "haranti",
+    "Tiếng Việt": "mang theo",
+    "id": "Pali - 0387"
+  },
+  {
+    "Tiếng Pali": "ye",
+    "Tiếng Việt": "ai",
+    "id": "Pali - 0388"
+  },
+  {
+    "Tiếng Pali": "baliṃ",
+    "Tiếng Việt": "hiến tặng",
+    "id": "Pali - 0389"
+  },
+  {
+    "Tiếng Pali": "ne",
+    "Tiếng Việt": "họ",
+    "id": "Pali - 0390"
+  },
+  {
+    "Tiếng Pali": "rakkhatha",
+    "Tiếng Việt": "bảo vệ",
+    "id": "Pali - 0391"
+  },
+  {
+    "Tiếng Pali": "appamattā",
+    "Tiếng Việt": "chuyên cần",
+    "id": "Pali - 0392"
+  },
+  {
+    "Tiếng Pali": "Yaṃ",
+    "Tiếng Việt": "cái gì, đó",
+    "id": "Pali - 0393"
+  },
+  {
+    "Tiếng Pali": "kiñci",
+    "Tiếng Việt": "cái gì đó, bất cứ cái gì",
+    "id": "Pali - 0394"
+  },
+  {
+    "Tiếng Pali": "vittaṃ",
+    "Tiếng Việt": "giàu có",
+    "id": "Pali - 0395"
+  },
+  {
+    "Tiếng Pali": "idha",
+    "Tiếng Việt": "ở đây",
+    "id": "Pali - 0396"
+  },
+  {
+    "Tiếng Pali": "huraṃ",
+    "Tiếng Việt": "vượt ra khỏi",
+    "id": "Pali - 0397"
+  },
+  {
+    "Tiếng Pali": "saggesu",
+    "Tiếng Việt": "cõi trời (trên)",
+    "id": "Pali - 0398"
+  },
+  {
+    "Tiếng Pali": "ratanaṃ",
+    "Tiếng Việt": "viên ngọc, ngọc quý",
+    "id": "Pali - 0399"
+  },
+  {
+    "Tiếng Pali": "paṇītaṃ",
+    "Tiếng Việt": "xuất sắc, quý báu",
+    "id": "Pali - 0400"
+  },
+  {
+    "Tiếng Pali": "na",
+    "Tiếng Việt": "không",
+    "id": "Pali - 0401"
+  },
+  {
+    "Tiếng Pali": "no",
+    "Tiếng Việt": "không",
+    "id": "Pali - 0402"
+  },
+  {
+    "Tiếng Pali": "samaṃ",
+    "Tiếng Việt": "tương đương với",
+    "id": "Pali - 0403"
+  },
+  {
+    "Tiếng Pali": "atthi",
+    "Tiếng Việt": "là",
+    "id": "Pali - 0404"
+  },
+  {
+    "Tiếng Pali": "tathāgatena",
+    "Tiếng Việt": "Đức Phật",
+    "id": "Pali - 0405"
+  },
+  {
+    "Tiếng Pali": "idampi=idaṃ+pi",
+    "Tiếng Việt": "cái này nữa (cái này+cũng)",
+    "id": "Pali - 0406"
+  },
+  {
+    "Tiếng Pali": "etena",
+    "Tiếng Việt": "bởi (năng lực của) điều này",
+    "id": "Pali - 0407"
+  },
+  {
+    "Tiếng Pali": "saccena",
+    "Tiếng Việt": "(bởi) sự thật này",
+    "id": "Pali - 0408"
+  },
+  {
+    "Tiếng Pali": "suvatthi",
+    "Tiếng Việt": "hạnh phúc",
+    "id": "Pali - 0409"
+  },
+  {
+    "Tiếng Pali": "hotu",
+    "Tiếng Việt": "là (có thể có)",
+    "id": "Pali - 0410"
+  },
+  {
+    "Tiếng Pali": "Khayaṃ",
+    "Tiếng Việt": "sự chấm dứt",
+    "id": "Pali - 0411"
+  },
+  {
+    "Tiếng Pali": "virāgaṃ",
+    "Tiếng Việt": "xả ly, buông bỏ",
+    "id": "Pali - 0412"
+  },
+  {
+    "Tiếng Pali": "amataṃ",
+    "Tiếng Việt": "trạng thái bất tử",
+    "id": "Pali - 0413"
+  },
+  {
+    "Tiếng Pali": "yadajjhagā=yaṃ+ajjhagā",
+    "Tiếng Việt": "điểu mà+đạt được",
+    "id": "Pali - 0414"
+  },
+  {
+    "Tiếng Pali": "sakyamunī =sakya+munī",
+    "Tiếng Việt": "vị thánh hiền dòng dõi Sakya (dòng dõi Sakya + thánh hiền)",
+    "id": "Pali - 0415"
+  },
+  {
+    "Tiếng Pali": "samāhito",
+    "Tiếng Việt": "tập trung tốt",
+    "id": "Pali - 0416"
+  },
+  {
+    "Tiếng Pali": "tena",
+    "Tiếng Việt": "này, đó",
+    "id": "Pali - 0417"
+  },
+  {
+    "Tiếng Pali": "dhammena",
+    "Tiếng Việt": "trạng thái",
+    "id": "Pali - 0418"
+  },
+  {
+    "Tiếng Pali": "samatthi=sama+atthi",
+    "Tiếng Việt": "tương đương với + là",
+    "id": "Pali - 0419"
+  },
+  {
+    "Tiếng Pali": "dhamme",
+    "Tiếng Việt": "trong Dhamma",
+    "id": "Pali - 0420"
+  },
+  {
+    "Tiếng Pali": "buddhasettho =Buddha+settho",
+    "Tiếng Việt": "Đức Phật + tối thượng, lỗi lạc nhất",
+    "id": "Pali - 0421"
+  },
+  {
+    "Tiếng Pali": "parivaṇṇayī",
+    "Tiếng Việt": "được khen ngợi bởi",
+    "id": "Pali - 0422"
+  },
+  {
+    "Tiếng Pali": "suciṃ",
+    "Tiếng Việt": "sự thuần khiết",
+    "id": "Pali - 0423"
+  },
+  {
+    "Tiếng Pali": "samādhimānantarikaññamāhu =samādhiṃ+ānantarika+aññam+āhu",
+    "Tiếng Việt": "sự tập trung (đi kèm với ý thức về đạo lộ) được chư Phật mô tả là mang lại kết quả ngay lập tức (tập trung+ngay lập tức theo sau+khác+được gọi)",
+    "id": "Pali - 0424"
+  },
+  {
+    "Tiếng Pali": "samo",
+    "Tiếng Việt": "ngang bằng",
+    "id": "Pali - 0425"
+  },
+  {
+    "Tiếng Pali": "vijjati",
+    "Tiếng Việt": "là",
+    "id": "Pali - 0426"
+  },
+  {
+    "Tiếng Pali": "puggalā",
+    "Tiếng Việt": "cá nhân",
+    "id": "Pali - 0427"
+  },
+  {
+    "Tiếng Pali": "aṭṭha",
+    "Tiếng Việt": "tám",
+    "id": "Pali - 0428"
+  },
+  {
+    "Tiếng Pali": "sataṃ",
+    "Tiếng Việt": "bởi bậc trí",
+    "id": "Pali - 0429"
+  },
+  {
+    "Tiếng Pali": "pasatthā",
+    "Tiếng Việt": "khen ngợi",
+    "id": "Pali - 0430"
+  },
+  {
+    "Tiếng Pali": "cattāri",
+    "Tiếng Việt": "bốn",
+    "id": "Pali - 0431"
+  },
+  {
+    "Tiếng Pali": "etāni",
+    "Tiếng Việt": "những điều đó",
+    "id": "Pali - 0432"
+  },
+  {
+    "Tiếng Pali": "yugāni",
+    "Tiếng Việt": "đôi",
+    "id": "Pali - 0433"
+  },
+  {
+    "Tiếng Pali": "honti",
+    "Tiếng Việt": "là",
+    "id": "Pali - 0434"
+  },
+  {
+    "Tiếng Pali": "Te",
+    "Tiếng Việt": "họ",
+    "id": "Pali - 0435"
+  },
+  {
+    "Tiếng Pali": "dakkhiṇeyyā",
+    "Tiếng Việt": "xứng đáng cúng dường",
+    "id": "Pali - 0436"
+  },
+  {
+    "Tiếng Pali": "sugatassa",
+    "Tiếng Việt": "của vị Phật",
+    "id": "Pali - 0437"
+  },
+  {
+    "Tiếng Pali": "sāvakā",
+    "Tiếng Việt": "các đệ tử",
+    "id": "Pali - 0438"
+  },
+  {
+    "Tiếng Pali": "etesu",
+    "Tiếng Việt": "đến những thứ này",
+    "id": "Pali - 0439"
+  },
+  {
+    "Tiếng Pali": "dinnāni",
+    "Tiếng Việt": "bất kể thứ gì được cúng dường",
+    "id": "Pali - 0440"
+  },
+  {
+    "Tiếng Pali": "mahapphalāni",
+    "Tiếng Việt": "quả lớn",
+    "id": "Pali - 0441"
+  },
+  {
+    "Tiếng Pali": "saṅghe",
+    "Tiếng Việt": "trong Saṅgha/Tăng đoàn",
+    "id": "Pali - 0442"
+  },
+  {
+    "Tiếng Pali": "suppayuttā",
+    "Tiếng Việt": "những người tham gia",
+    "id": "Pali - 0443"
+  },
+  {
+    "Tiếng Pali": "manasā",
+    "Tiếng Việt": "tâm (với)",
+    "id": "Pali - 0444"
+  },
+  {
+    "Tiếng Pali": "daḷhena",
+    "Tiếng Việt": "vững chắc",
+    "id": "Pali - 0445"
+  },
+  {
+    "Tiếng Pali": "nikkāmino",
+    "Tiếng Việt": "những người thoát khỏi tham muốn",
+    "id": "Pali - 0446"
+  },
+  {
+    "Tiếng Pali": "gotamasāsanamhi",
+    "Tiếng Việt": "trong giáo huấn của Đức Phật",
+    "id": "Pali - 0447"
+  },
+  {
+    "Tiếng Pali": "pattipattā =patti+pattā",
+    "Tiếng Việt": "đạt được đích đến (để đạt được + đích đến)",
+    "id": "Pali - 0448"
+  },
+  {
+    "Tiếng Pali": "vigayha",
+    "Tiếng Việt": "kinh nghiệm",
+    "id": "Pali - 0449"
+  },
+  {
+    "Tiếng Pali": "laddhā",
+    "Tiếng Việt": "do đó thu được",
+    "id": "Pali - 0450"
+  },
+  {
+    "Tiếng Pali": "mudhā",
+    "Tiếng Việt": "không tốn phí, miễn phí",
+    "id": "Pali - 0451"
+  },
+  {
+    "Tiếng Pali": "nibbutiṃ",
+    "Tiếng Việt": "bình an",
+    "id": "Pali - 0452"
+  },
+  {
+    "Tiếng Pali": "bhuñjamānā",
+    "Tiếng Việt": "tận hưởng",
+    "id": "Pali - 0453"
+  },
+  {
+    "Tiếng Pali": "Yathindakhīlo =yathā+inda+khīlo",
+    "Tiếng Việt": "giống như+Indra (Vị thiên cao nhất)+trụ cột",
+    "id": "Pali - 0454"
+  },
+  {
+    "Tiếng Pali": "paṭhavim",
+    "Tiếng Việt": "ở trái đất/ cõi trần",
+    "id": "Pali - 0455"
+  },
+  {
+    "Tiếng Pali": "sito",
+    "Tiếng Việt": "trồng (cố định)",
+    "id": "Pali - 0456"
+  },
+  {
+    "Tiếng Pali": "siyā",
+    "Tiếng Việt": "có lẽ",
+    "id": "Pali - 0457"
+  },
+  {
+    "Tiếng Pali": "catubbhi",
+    "Tiếng Việt": "từ bốn (hướng)",
+    "id": "Pali - 0458"
+  },
+  {
+    "Tiếng Pali": "vātehi",
+    "Tiếng Việt": "gió (bởi)",
+    "id": "Pali - 0459"
+  },
+  {
+    "Tiếng Pali": "asampakampiyo",
+    "Tiếng Việt": "không thể bị lay động",
+    "id": "Pali - 0460"
+  },
+  {
+    "Tiếng Pali": "tathūpamaṃ =tathā+upamam",
+    "Tiếng Việt": "tương tự+so sánh",
+    "id": "Pali - 0461"
+  },
+  {
+    "Tiếng Pali": "sappurisaṃ",
+    "Tiếng Việt": "người có tâm trong sáng/thanh tịnh",
+    "id": "Pali - 0462"
+  },
+  {
+    "Tiếng Pali": "vadāmi",
+    "Tiếng Việt": "Ta tuyên bố",
+    "id": "Pali - 0463"
+  },
+  {
+    "Tiếng Pali": "yo",
+    "Tiếng Việt": "ai",
+    "id": "Pali - 0464"
+  },
+  {
+    "Tiếng Pali": "ariyasaccāni",
+    "Tiếng Việt": "các sự thật thánh thiện",
+    "id": "Pali - 0465"
+  },
+  {
+    "Tiếng Pali": "avecca",
+    "Tiếng Việt": "hoàn toàn",
+    "id": "Pali - 0466"
+  },
+  {
+    "Tiếng Pali": "passati",
+    "Tiếng Việt": "nhận ra, chứng ngộ",
+    "id": "Pali - 0467"
+  },
+  {
+    "Tiếng Pali": "vibhāvayanti",
+    "Tiếng Việt": "hiểu biết rõ ràng",
+    "id": "Pali - 0468"
+  },
+  {
+    "Tiếng Pali": "gambhīrapaññena =gambhīra+paññena",
+    "Tiếng Việt": "trí tuệ sâu sắc (sâu sắc + bởi người được phú cho trí tuệ)",
+    "id": "Pali - 0469"
+  },
+  {
+    "Tiếng Pali": "sudesitāni",
+    "Tiếng Việt": "giảng dạy giỏi",
+    "id": "Pali - 0470"
+  },
+  {
+    "Tiếng Pali": "kiñcāpi",
+    "Tiếng Việt": "dù bao nhiêu, dù sao đi nữa",
+    "id": "Pali - 0471"
+  },
+  {
+    "Tiếng Pali": "bhusappamattā =bhusa+pamattā",
+    "Tiếng Việt": "nhiều bất cẩn",
+    "id": "Pali - 0472"
+  },
+  {
+    "Tiếng Pali": "bhavaṃ",
+    "Tiếng Việt": "sự sinh",
+    "id": "Pali - 0473"
+  },
+  {
+    "Tiếng Pali": "aṭṭhamamādiyanti =aṭṭhamam+ādiyanti",
+    "Tiếng Việt": "tám + nắm lấy",
+    "id": "Pali - 0474"
+  },
+  {
+    "Tiếng Pali": "Sahāvassa",
+    "Tiếng Việt": "đồng thời với",
+    "id": "Pali - 0475"
+  },
+  {
+    "Tiếng Pali": "dassana-sampadāya",
+    "Tiếng Việt": "sự đạt được tuệ giác",
+    "id": "Pali - 0476"
+  },
+  {
+    "Tiếng Pali": "tayassu",
+    "Tiếng Việt": "ba",
+    "id": "Pali - 0477"
+  },
+  {
+    "Tiếng Pali": "dhammā",
+    "Tiếng Việt": "sự vật, yếu tố, phẩm chất (trong bối cảnh này là 3 kiết sử)",
+    "id": "Pali - 0478"
+  },
+  {
+    "Tiếng Pali": "jahitā",
+    "Tiếng Việt": "bị bỏ ra, bị bỏ rơi",
+    "id": "Pali - 0479"
+  },
+  {
+    "Tiếng Pali": "bhavanti",
+    "Tiếng Việt": "trở thành",
+    "id": "Pali - 0480"
+  },
+  {
+    "Tiếng Pali": "sakkāyadiṭṭhi",
+    "Tiếng Việt": "(1) ảo tưởng về cái tôi (thân kiến)",
+    "id": "Pali - 0481"
+  },
+  {
+    "Tiếng Pali": "vicikicchitaṃ",
+    "Tiếng Việt": "(2) hoài nghi",
+    "id": "Pali - 0482"
+  },
+  {
+    "Tiếng Pali": "sīlabbataṃ =sīla+vata",
+    "Tiếng Việt": "(3) nghi lễ và nghi thức (luật lệ, giới điều+ lời thề, nghi thức) (giới cấm thủ)",
+    "id": "Pali - 0483"
+  },
+  {
+    "Tiếng Pali": "pi",
+    "Tiếng Việt": "(fr. api) cũng vậy",
+    "id": "Pali - 0484"
+  },
+  {
+    "Tiếng Pali": "yadatthi",
+    "Tiếng Việt": "nếu bất cứ điều gì",
+    "id": "Pali - 0485"
+  },
+  {
+    "Tiếng Pali": "Catūhapāyehi =catūhi+apāyehi",
+    "Tiếng Việt": "4 cõi tồn tại bên dưới cõi người (từ bốn+từ thế giới thấp hơn)",
+    "id": "Pali - 0486"
+  },
+  {
+    "Tiếng Pali": "vippamutto",
+    "Tiếng Việt": "hoàn toàn được giải thoát",
+    "id": "Pali - 0487"
+  },
+  {
+    "Tiếng Pali": "chaccābhiṭhānāni =cha+ca+abhiṭhānāni",
+    "Tiếng Việt": "6 tội ác ghê tởm (6+và+tội ác ghê tởm)",
+    "id": "Pali - 0488"
+  },
+  {
+    "Tiếng Pali": "abhabbo",
+    "Tiếng Việt": "không đủ khả năng",
+    "id": "Pali - 0489"
+  },
+  {
+    "Tiếng Pali": "kātuṃ",
+    "Tiếng Việt": "đang làm, để làm",
+    "id": "Pali - 0490"
+  },
+  {
+    "Tiếng Pali": "so",
+    "Tiếng Việt": "anh ấy",
+    "id": "Pali - 0491"
+  },
+  {
+    "Tiếng Pali": "kammaṃ",
+    "Tiếng Việt": "việc làm, hành động",
+    "id": "Pali - 0492"
+  },
+  {
+    "Tiếng Pali": "karoti",
+    "Tiếng Việt": "anh ấy cam kết",
+    "id": "Pali - 0493"
+  },
+  {
+    "Tiếng Pali": "pāpakaṃ",
+    "Tiếng Việt": "bất thiện",
+    "id": "Pali - 0494"
+  },
+  {
+    "Tiếng Pali": "kāyena",
+    "Tiếng Việt": "bằng thân",
+    "id": "Pali - 0495"
+  },
+  {
+    "Tiếng Pali": "vācā",
+    "Tiếng Việt": "bằng lời/bằng khẩu",
+    "id": "Pali - 0496"
+  },
+  {
+    "Tiếng Pali": "uda",
+    "Tiếng Việt": "hoặc",
+    "id": "Pali - 0497"
+  },
+  {
+    "Tiếng Pali": "cetasā",
+    "Tiếng Việt": "bằng suy nghĩ/bằng ý (tâm)",
+    "id": "Pali - 0498"
+  },
+  {
+    "Tiếng Pali": "paṭicchādāya",
+    "Tiếng Việt": "giấu diếm",
+    "id": "Pali - 0499"
+  },
+  {
+    "Tiếng Pali": "abhabatā",
+    "Tiếng Việt": "sự không đủ khả năng",
+    "id": "Pali - 0500"
+  },
+  {
+    "Tiếng Pali": "diṭṭhapadassa",
+    "Tiếng Việt": "của người đã thấy nơi ở (nibbāna)",
+    "id": "Pali - 0501"
+  },
+  {
+    "Tiếng Pali": "vuttā",
+    "Tiếng Việt": "người ta nói",
+    "id": "Pali - 0502"
+  },
+  {
+    "Tiếng Pali": "Vanappagumbe",
+    "Tiếng Việt": "bụi rừng, lùm cây",
+    "id": "Pali - 0503"
+  },
+  {
+    "Tiếng Pali": "phussitagge",
+    "Tiếng Việt": "hoa",
+    "id": "Pali - 0504"
+  },
+  {
+    "Tiếng Pali": "gimhānamāse =gimhāna+māse",
+    "Tiếng Việt": "trong tháng hè (mùa hè + trong tháng)",
+    "id": "Pali - 0505"
+  },
+  {
+    "Tiếng Pali": "paṭhamasmiṃ",
+    "Tiếng Việt": "đầu tiên (trong)",
+    "id": "Pali - 0506"
+  },
+  {
+    "Tiếng Pali": "gimhe",
+    "Tiếng Việt": "mùa nóng",
+    "id": "Pali - 0507"
+  },
+  {
+    "Tiếng Pali": "dhammavararaṃ =dhammaṃ+varaṃ",
+    "Tiếng Việt": "Dhamma cao siêu/cao thượng (dhamma + cao siêu, cao thượng)",
+    "id": "Pali - 0508"
+  },
+  {
+    "Tiếng Pali": "adesayi",
+    "Tiếng Việt": "giải thích",
+    "id": "Pali - 0509"
+  },
+  {
+    "Tiếng Pali": "nibbānagāmiṃ",
+    "Tiếng Việt": "dẫn đến niết bàn",
+    "id": "Pali - 0510"
+  },
+  {
+    "Tiếng Pali": "paramaṃ",
+    "Tiếng Việt": "vĩ đại nhất",
+    "id": "Pali - 0511"
+  },
+  {
+    "Tiếng Pali": "hitāya",
+    "Tiếng Việt": "vì lợi lạc",
+    "id": "Pali - 0512"
+  },
+  {
+    "Tiếng Pali": "Varo",
+    "Tiếng Việt": "bậc cao thượng",
+    "id": "Pali - 0513"
+  },
+  {
+    "Tiếng Pali": "varaññū",
+    "Tiếng Việt": "bậc thấu hiểu sự cao thượng",
+    "id": "Pali - 0514"
+  },
+  {
+    "Tiếng Pali": "varado",
+    "Tiếng Việt": "người ban tặng sự cao thượng",
+    "id": "Pali - 0515"
+  },
+  {
+    "Tiếng Pali": "varāharo",
+    "Tiếng Việt": "người mang đến sự cao thượng",
+    "id": "Pali - 0516"
+  },
+  {
+    "Tiếng Pali": "anuttaro",
+    "Tiếng Việt": "vượt trội",
+    "id": "Pali - 0517"
+  },
+  {
+    "Tiếng Pali": "khīṇaṃ",
+    "Tiếng Việt": "phá hủy",
+    "id": "Pali - 0518"
+  },
+  {
+    "Tiếng Pali": "purāṇaṃ",
+    "Tiếng Việt": "cũ",
+    "id": "Pali - 0519"
+  },
+  {
+    "Tiếng Pali": "navaṃ",
+    "Tiếng Việt": "mới, tươi mới",
+    "id": "Pali - 0520"
+  },
+  {
+    "Tiếng Pali": "natthi",
+    "Tiếng Việt": "không phải",
+    "id": "Pali - 0521"
+  },
+  {
+    "Tiếng Pali": "sambhavaṃ",
+    "Tiếng Việt": "được tạo ra",
+    "id": "Pali - 0522"
+  },
+  {
+    "Tiếng Pali": "virattacittāyatike =viratta+citta+āyatike",
+    "Tiếng Việt": "tâm tách rời khỏi tương lai (tách rời khỏi+tâm+tương lai)",
+    "id": "Pali - 0523"
+  },
+  {
+    "Tiếng Pali": "bhavasmiṃ",
+    "Tiếng Việt": "sự sinh",
+    "id": "Pali - 0524"
+  },
+  {
+    "Tiếng Pali": "khīṇabījā",
+    "Tiếng Việt": "hạt giống bị phá hủy",
+    "id": "Pali - 0525"
+  },
+  {
+    "Tiếng Pali": "avirūḷhichandā =avirūḷhi+chandā",
+    "Tiếng Việt": "sự ngừng phát triển của tham muốn (không còn phát sinh nữa+tham muốn)",
+    "id": "Pali - 0526"
+  },
+  {
+    "Tiếng Pali": "nibbanti",
+    "Tiếng Việt": "ngừng, dừng",
+    "id": "Pali - 0527"
+  },
+  {
+    "Tiếng Pali": "dhīrā",
+    "Tiếng Việt": "những bậc trí",
+    "id": "Pali - 0528"
+  },
+  {
+    "Tiếng Pali": "yathā'yaṃ =yathā+ayaṃ",
+    "Tiếng Việt": "giống như thế này",
+    "id": "Pali - 0529"
+  },
+  {
+    "Tiếng Pali": "padīpo",
+    "Tiếng Việt": "ngọn lửa, đèn",
+    "id": "Pali - 0530"
+  },
+  {
+    "Tiếng Pali": "Tathāgataṃ",
+    "Tiếng Việt": "Đức Phật",
+    "id": "Pali - 0531"
+  },
+  {
+    "Tiếng Pali": "devamanussapūjitaṃ =devā+manussa+pūjitaṃ",
+    "Tiếng Việt": "được chư thiên và loài người tôn kính (chư thiên+người+được tôn kính)",
+    "id": "Pali - 0532"
+  },
+  {
+    "Tiếng Pali": "namassāma",
+    "Tiếng Việt": "chúng con kính lễ",
+    "id": "Pali - 0533"
+  },
+  {
+    "Tiếng Pali": "suvatthi",
+    "Tiếng Việt": "hạnh phúc",
+    "id": "Pali - 0534"
+  },
+  {
+    "Tiếng Pali": "Karaṇīya",
+    "Tiếng Việt": "điều gì đó nên được thực hiện",
+    "id": "Pali - 0535"
+  },
+  {
+    "Tiếng Pali": "Yassānubhāvato =Yassa+ānubhāvato",
+    "Tiếng Việt": "bởi của người mà+sức mạnh, sự vĩ đại, uy nghiêm",
+    "id": "Pali - 0536"
+  },
+  {
+    "Tiếng Pali": "yakkhā",
+    "Tiếng Việt": "những chúng sinh vô hình, hầu hết đều không thân thiện nhưng một số lại giúp ích",
+    "id": "Pali - 0537"
+  },
+  {
+    "Tiếng Pali": "neva=na+eva",
+    "Tiếng Việt": "không bao giờ (không+thậm chí)",
+    "id": "Pali - 0538"
+  },
+  {
+    "Tiếng Pali": "dassenti",
+    "Tiếng Việt": "hiện ra",
+    "id": "Pali - 0539"
+  },
+  {
+    "Tiếng Pali": "bhīsanaṃ",
+    "Tiếng Việt": "cảnh tượng khủng khiếp (hình thức)",
+    "id": "Pali - 0540"
+  },
+  {
+    "Tiếng Pali": "yañhi",
+    "Tiếng Việt": "đó thực sự là",
+    "id": "Pali - 0541"
+  },
+  {
+    "Tiếng Pali": "cevānuyuñjanto =ca+eva+anuyuñjanto",
+    "Tiếng Việt": "và+cũng+đang thực hành",
+    "id": "Pali - 0542"
+  },
+  {
+    "Tiếng Pali": "sukhaṃ",
+    "Tiếng Việt": "hạnh phúc",
+    "id": "Pali - 0543"
+  },
+  {
+    "Tiếng Pali": "rattindivamatandito =rattiṃ+divam+atandito",
+    "Tiếng Việt": "đêm và ngày, chuyên cần (ban đêm+ban ngày + không buồn ngủ)",
+    "id": "Pali - 0544"
+  },
+  {
+    "Tiếng Pali": "supati",
+    "Tiếng Việt": "ngủ",
+    "id": "Pali - 0545"
+  },
+  {
+    "Tiếng Pali": "sutto",
+    "Tiếng Việt": "đã ngủ",
+    "id": "Pali - 0546"
+  },
+  {
+    "Tiếng Pali": "ca",
+    "Tiếng Việt": "và",
+    "id": "Pali - 0547"
+  },
+  {
+    "Tiếng Pali": "pāpaṃ",
+    "Tiếng Việt": "ác độc",
+    "id": "Pali - 0548"
+  },
+  {
+    "Tiếng Pali": "kiñci",
+    "Tiếng Việt": "bất kỳ điều gì",
+    "id": "Pali - 0549"
+  },
+  {
+    "Tiếng Pali": "na",
+    "Tiếng Việt": "không",
+    "id": "Pali - 0550"
+  },
+  {
+    "Tiếng Pali": "passati.",
+    "Tiếng Việt": "thấy",
+    "id": "Pali - 0551"
+  },
+  {
+    "Tiếng Pali": "evamādi=evaṃ+ādi",
+    "Tiếng Việt": "như thế này + v.v.",
+    "id": "Pali - 0552"
+  },
+  {
+    "Tiếng Pali": "guṇūpetaṃ",
+    "Tiếng Việt": "được phú cho những phẩm chất tốt đẹp này",
+    "id": "Pali - 0553"
+  },
+  {
+    "Tiếng Pali": "parittaṃ",
+    "Tiếng Việt": "sự bảo vệ",
+    "id": "Pali - 0554"
+  },
+  {
+    "Tiếng Pali": "taṃ",
+    "Tiếng Việt": "đó",
+    "id": "Pali - 0555"
+  },
+  {
+    "Tiếng Pali": "bhaṇāmahe",
+    "Tiếng Việt": "chúng ta hãy cùng tụng",
+    "id": "Pali - 0556"
+  },
+  {
+    "Tiếng Pali": "Karaṇīyam-atthakusalena =Karaṇīyaṃ+attha+kusalena",
+    "Tiếng Việt": "một người biết rằng phúc lợi của mình phụ thuộc vào điều này thì người đó thành thạo. (có việc gì đó cần làm+phúc lợi/lợi ích+thành thạo)",
+    "id": "Pali - 0557"
+  },
+  {
+    "Tiếng Pali": "yantam=yaṃ+taṃ",
+    "Tiếng Việt": "điều đó (điều mà + điều đó)",
+    "id": "Pali - 0558"
+  },
+  {
+    "Tiếng Pali": "santaṃ",
+    "Tiếng Việt": "bình an",
+    "id": "Pali - 0559"
+  },
+  {
+    "Tiếng Pali": "padaṃ",
+    "Tiếng Việt": "trạng thái",
+    "id": "Pali - 0560"
+  },
+  {
+    "Tiếng Pali": "abhisamecca",
+    "Tiếng Việt": "sẽ đạt được",
+    "id": "Pali - 0561"
+  },
+  {
+    "Tiếng Pali": "sakko",
+    "Tiếng Việt": "có năng lực",
+    "id": "Pali - 0562"
+  },
+  {
+    "Tiếng Pali": "ujū",
+    "Tiếng Việt": "trung thực, thẳng thắn",
+    "id": "Pali - 0563"
+  },
+  {
+    "Tiếng Pali": "suhujū",
+    "Tiếng Việt": "ngay thẳng",
+    "id": "Pali - 0564"
+  },
+  {
+    "Tiếng Pali": "suvaco",
+    "Tiếng Việt": "nói năng nhẹ nhàng",
+    "id": "Pali - 0565"
+  },
+  {
+    "Tiếng Pali": "cassa=ca+assa",
+    "Tiếng Việt": "cũng nên (và+có thể)",
+    "id": "Pali - 0566"
+  },
+  {
+    "Tiếng Pali": "mudu",
+    "Tiếng Việt": "lịch sự",
+    "id": "Pali - 0567"
+  },
+  {
+    "Tiếng Pali": "anatimānī",
+    "Tiếng Việt": "khiêm tốn",
+    "id": "Pali - 0568"
+  },
+  {
+    "Tiếng Pali": "Santussako",
+    "Tiếng Việt": "hài lòng",
+    "id": "Pali - 0569"
+  },
+  {
+    "Tiếng Pali": "subharo",
+    "Tiếng Việt": "sống khiêm tốn",
+    "id": "Pali - 0570"
+  },
+  {
+    "Tiếng Pali": "appakicco",
+    "Tiếng Việt": "có ít bổn phận",
+    "id": "Pali - 0571"
+  },
+  {
+    "Tiếng Pali": "sallahukavutti.",
+    "Tiếng Việt": "sinh kế đơn giản",
+    "id": "Pali - 0572"
+  },
+  {
+    "Tiếng Pali": "santindriyo =santa+indriya",
+    "Tiếng Việt": "được kiểm soát bằng giác quan (bình an+năng lực/giác quan)",
+    "id": "Pali - 0573"
+  },
+  {
+    "Tiếng Pali": "nipako",
+    "Tiếng Việt": "thận trọng, thông thái",
+    "id": "Pali - 0574"
+  },
+  {
+    "Tiếng Pali": "appagabbho",
+    "Tiếng Việt": "khiêm tốn, không gây hấn",
+    "id": "Pali - 0575"
+  },
+  {
+    "Tiếng Pali": "kulesvananugiddho =kulesu+ananugiddho",
+    "Tiếng Việt": "không luyến ái gia đình/quyến thuộc (gia đình/dòng dõi/hộ gia đình + không ham muốn, luyến ái, dính mắc)",
+    "id": "Pali - 0576"
+  },
+  {
+    "Tiếng Pali": "khuddhaṃ samācare",
+    "Tiếng Việt": "nhỏ, thấp kém + làm, thực hiện",
+    "id": "Pali - 0577"
+  },
+  {
+    "Tiếng Pali": "yena",
+    "Tiếng Việt": "nhờ đó mà",
+    "id": "Pali - 0578"
+  },
+  {
+    "Tiếng Pali": "viññū",
+    "Tiếng Việt": "bậc trí",
+    "id": "Pali - 0579"
+  },
+  {
+    "Tiếng Pali": "pare",
+    "Tiếng Việt": "sau đó",
+    "id": "Pali - 0580"
+  },
+  {
+    "Tiếng Pali": "upavadeyyuṃ.",
+    "Tiếng Việt": "khiển trách",
+    "id": "Pali - 0581"
+  },
+  {
+    "Tiếng Pali": "sukhino",
+    "Tiếng Việt": "hạnh phúc",
+    "id": "Pali - 0582"
+  },
+  {
+    "Tiếng Pali": "vā",
+    "Tiếng Việt": "hoặc",
+    "id": "Pali - 0583"
+  },
+  {
+    "Tiếng Pali": "khemino",
+    "Tiếng Việt": "an toàn",
+    "id": "Pali - 0584"
+  },
+  {
+    "Tiếng Pali": "hontu",
+    "Tiếng Việt": "là",
+    "id": "Pali - 0585"
+  },
+  {
+    "Tiếng Pali": "sabbe",
+    "Tiếng Việt": "tất cả",
+    "id": "Pali - 0586"
+  },
+  {
+    "Tiếng Pali": "sattā",
+    "Tiếng Việt": "chúng sinh",
+    "id": "Pali - 0587"
+  },
+  {
+    "Tiếng Pali": "bhavantu",
+    "Tiếng Việt": "là",
+    "id": "Pali - 0588"
+  },
+  {
+    "Tiếng Pali": "sukhitattā=sukhita+attā",
+    "Tiếng Việt": "hạnh phúc+chính họ",
+    "id": "Pali - 0589"
+  },
+  {
+    "Tiếng Pali": "Ye",
+    "Tiếng Việt": "ai",
+    "id": "Pali - 0590"
+  },
+  {
+    "Tiếng Pali": "keci",
+    "Tiếng Việt": "bất cứ cái gì",
+    "id": "Pali - 0591"
+  },
+  {
+    "Tiếng Pali": "pāṇabhūtatthi =pāṇabhūta+atthi",
+    "Tiếng Việt": "chúng sinh hữu (tình+có)",
+    "id": "Pali - 0592"
+  },
+  {
+    "Tiếng Pali": "tasā",
+    "Tiếng Việt": "có thể di chuyển",
+    "id": "Pali - 0593"
+  },
+  {
+    "Tiếng Pali": "thāvarā",
+    "Tiếng Việt": "không di chuyển, tĩnh lại",
+    "id": "Pali - 0594"
+  },
+  {
+    "Tiếng Pali": "vanavasesā=vā+anavasesā",
+    "Tiếng Việt": "không loại trừ ai",
+    "id": "Pali - 0595"
+  },
+  {
+    "Tiếng Pali": "dīghā",
+    "Tiếng Việt": "dài",
+    "id": "Pali - 0596"
+  },
+  {
+    "Tiếng Pali": "vā",
+    "Tiếng Việt": "vì thế",
+    "id": "Pali - 0597"
+  },
+  {
+    "Tiếng Pali": "ye",
+    "Tiếng Việt": "những người đó, bất cứ ai",
+    "id": "Pali - 0598"
+  },
+  {
+    "Tiếng Pali": "mahantā",
+    "Tiếng Việt": "to lớn",
+    "id": "Pali - 0599"
+  },
+  {
+    "Tiếng Pali": "majjhimā",
+    "Tiếng Việt": "trung bình",
+    "id": "Pali - 0600"
+  },
+  {
+    "Tiếng Pali": "rassakā",
+    "Tiếng Việt": "ngắn",
+    "id": "Pali - 0601"
+  },
+  {
+    "Tiếng Pali": "aṇukathūlā =aṇuka+thūla",
+    "Tiếng Việt": "vi tế hay thô thiển (vi tế+thô thiển)",
+    "id": "Pali - 0602"
+  },
+  {
+    "Tiếng Pali": "Diṭṭhā",
+    "Tiếng Việt": "thấy",
+    "id": "Pali - 0603"
+  },
+  {
+    "Tiếng Pali": "adiṭṭhā",
+    "Tiếng Việt": "không thấy",
+    "id": "Pali - 0604"
+  },
+  {
+    "Tiếng Pali": "dūre",
+    "Tiếng Việt": "xa",
+    "id": "Pali - 0605"
+  },
+  {
+    "Tiếng Pali": "vasanti",
+    "Tiếng Việt": "ở, trú ngụ",
+    "id": "Pali - 0606"
+  },
+  {
+    "Tiếng Pali": "avidūre",
+    "Tiếng Việt": "gần",
+    "id": "Pali - 0607"
+  },
+  {
+    "Tiếng Pali": "bhūtā",
+    "Tiếng Việt": "sinh",
+    "id": "Pali - 0608"
+  },
+  {
+    "Tiếng Pali": "sambhavesī",
+    "Tiếng Việt": "tìm kiếm sự sinh ra, do được sinh ra",
+    "id": "Pali - 0609"
+  },
+  {
+    "Tiếng Pali": "sattā",
+    "Tiếng Việt": "chúng sinh",
+    "id": "Pali - 0610"
+  },
+  {
+    "Tiếng Pali": "paro",
+    "Tiếng Việt": "một",
+    "id": "Pali - 0611"
+  },
+  {
+    "Tiếng Pali": "paraṃ",
+    "Tiếng Việt": "khác",
+    "id": "Pali - 0612"
+  },
+  {
+    "Tiếng Pali": "nikubbetha",
+    "Tiếng Việt": "(có thể) lừa dối",
+    "id": "Pali - 0613"
+  },
+  {
+    "Tiếng Pali": "nātimaññetha =na+atimaññetha",
+    "Tiếng Việt": "không xem thường (không+có thể xem thường)",
+    "id": "Pali - 0614"
+  },
+  {
+    "Tiếng Pali": "katthaci",
+    "Tiếng Việt": "bất cứ đâu",
+    "id": "Pali - 0615"
+  },
+  {
+    "Tiếng Pali": "na",
+    "Tiếng Việt": "không",
+    "id": "Pali - 0616"
+  },
+  {
+    "Tiếng Pali": "kañci",
+    "Tiếng Việt": "bất cứ ai",
+    "id": "Pali - 0617"
+  },
+  {
+    "Tiếng Pali": "byārosanā",
+    "Tiếng Việt": "bởi vì giận dữ",
+    "id": "Pali - 0618"
+  },
+  {
+    "Tiếng Pali": "paṭighasaññā",
+    "Tiếng Việt": "(tức giận + cử chỉ/nhận thức)",
+    "id": "Pali - 0619"
+  },
+  {
+    "Tiếng Pali": "nāññamaññassa =na+aññamaññassa",
+    "Tiếng Việt": "(không + của một ai khác)",
+    "id": "Pali - 0620"
+  },
+  {
+    "Tiếng Pali": "dukkhamiccheyya =dukkhaṃ+ iccheyya",
+    "Tiếng Việt": "mong muốn đau khổ (đau khổ+ước muốn)",
+    "id": "Pali - 0621"
+  },
+  {
+    "Tiếng Pali": "Mātā",
+    "Tiếng Việt": "mẹ",
+    "id": "Pali - 0622"
+  },
+  {
+    "Tiếng Pali": "yathā",
+    "Tiếng Việt": "như là",
+    "id": "Pali - 0623"
+  },
+  {
+    "Tiếng Pali": "niyam",
+    "Tiếng Việt": "của riêng mình (của một người)",
+    "id": "Pali - 0624"
+  },
+  {
+    "Tiếng Pali": "puttam",
+    "Tiếng Việt": "đứa trẻ",
+    "id": "Pali - 0625"
+  },
+  {
+    "Tiếng Pali": "āyusā",
+    "Tiếng Việt": "với cuộc sống của một người",
+    "id": "Pali - 0626"
+  },
+  {
+    "Tiếng Pali": "ekaputtamanurakkhe =eka+puttaṃ+anurakkhe",
+    "Tiếng Việt": "(duy nhất+đứa trẻ+sẽ bảo vệ)",
+    "id": "Pali - 0627"
+  },
+  {
+    "Tiếng Pali": "evampi=evaṃ+pi",
+    "Tiếng Việt": "thậm chí như vậy (vì vậy + cũng)",
+    "id": "Pali - 0628"
+  },
+  {
+    "Tiếng Pali": "sabbabhūtesu =sabba+bhūtesu",
+    "Tiếng Việt": "đối với tất cả chúng sinh (tất cả+đối với chúng sinh)",
+    "id": "Pali - 0629"
+  },
+  {
+    "Tiếng Pali": "mānasam",
+    "Tiếng Việt": "tâm",
+    "id": "Pali - 0630"
+  },
+  {
+    "Tiếng Pali": "bhāvaye",
+    "Tiếng Việt": "nuôi dưỡng",
+    "id": "Pali - 0631"
+  },
+  {
+    "Tiếng Pali": "aparimāṇaṃ",
+    "Tiếng Việt": "vô biên",
+    "id": "Pali - 0632"
+  },
+  {
+    "Tiếng Pali": "Mettañca =mettaṃ+ca",
+    "Tiếng Việt": "thiện chí, lòng từ ái+và",
+    "id": "Pali - 0633"
+  },
+  {
+    "Tiếng Pali": "sabba lokasmiṃ",
+    "Tiếng Việt": "trong toàn thể vũ trụ",
+    "id": "Pali - 0634"
+  },
+  {
+    "Tiếng Pali": "uddhaṃ",
+    "Tiếng Việt": "ở trên",
+    "id": "Pali - 0635"
+  },
+  {
+    "Tiếng Pali": "adho",
+    "Tiếng Việt": "ở dưới",
+    "id": "Pali - 0636"
+  },
+  {
+    "Tiếng Pali": "tiriyañca",
+    "Tiếng Việt": "và ngang qua",
+    "id": "Pali - 0637"
+  },
+  {
+    "Tiếng Pali": "asambādhaṃ",
+    "Tiếng Việt": "không bị cản trở",
+    "id": "Pali - 0638"
+  },
+  {
+    "Tiếng Pali": "averamasapattaṃ =averaṃ+asapattaṃ",
+    "Tiếng Việt": "không có ghét bỏ + không có thù hận",
+    "id": "Pali - 0639"
+  },
+  {
+    "Tiếng Pali": "Tiṭṭhaṃ",
+    "Tiếng Việt": "(trong khi) đứng",
+    "id": "Pali - 0640"
+  },
+  {
+    "Tiếng Pali": "caraṃ",
+    "Tiếng Việt": "đi",
+    "id": "Pali - 0641"
+  },
+  {
+    "Tiếng Pali": "nisinno",
+    "Tiếng Việt": "ngồi",
+    "id": "Pali - 0642"
+  },
+  {
+    "Tiếng Pali": "sayāno",
+    "Tiếng Việt": "nằm",
+    "id": "Pali - 0643"
+  },
+  {
+    "Tiếng Pali": "yāvatassa",
+    "Tiếng Việt": "miễn là",
+    "id": "Pali - 0644"
+  },
+  {
+    "Tiếng Pali": "vigatamiddho =vigata+middho",
+    "Tiếng Việt": "người tỉnh thức (thoát khỏi+sự buồn ngủ, mê mờ)",
+    "id": "Pali - 0645"
+  },
+  {
+    "Tiếng Pali": "etam",
+    "Tiếng Việt": "này",
+    "id": "Pali - 0646"
+  },
+  {
+    "Tiếng Pali": "satiṃ",
+    "Tiếng Việt": "ý thức",
+    "id": "Pali - 0647"
+  },
+  {
+    "Tiếng Pali": "adhiṭṭheyya",
+    "Tiếng Việt": "thực hành, tập trung sự chú ý của một người",
+    "id": "Pali - 0648"
+  },
+  {
+    "Tiếng Pali": "brahmam-etaṃ",
+    "Tiếng Việt": "siêu phàm/có tính chất của Phạm Thiên+này",
+    "id": "Pali - 0649"
+  },
+  {
+    "Tiếng Pali": "vihāramidhamāhu =vihāraṃ-idhaṃ-āhu",
+    "Tiếng Việt": "nơi ở+ở đây (trong giáo pháp của Đức Phật)+họ đã nói",
+    "id": "Pali - 0650"
+  },
+  {
+    "Tiếng Pali": "Diṭṭhiñca=diṭṭhiṃ+ca",
+    "Tiếng Việt": "(tà) kiến/xem +và",
+    "id": "Pali - 0651"
+  },
+  {
+    "Tiếng Pali": "anupaggamma =ana+upaggamma",
+    "Tiếng Việt": "không chịu khuất phục (không + rơi vào)",
+    "id": "Pali - 0652"
+  },
+  {
+    "Tiếng Pali": "sīlavā",
+    "Tiếng Việt": "vững vàng trong hành vi đạo đức",
+    "id": "Pali - 0653"
+  },
+  {
+    "Tiếng Pali": "dassanena",
+    "Tiếng Việt": "tuệ giác",
+    "id": "Pali - 0654"
+  },
+  {
+    "Tiếng Pali": "sampanno",
+    "Tiếng Việt": "được phú cho",
+    "id": "Pali - 0655"
+  },
+  {
+    "Tiếng Pali": "kāmesu",
+    "Tiếng Việt": "thuộc nhục dục",
+    "id": "Pali - 0656"
+  },
+  {
+    "Tiếng Pali": "vineyya",
+    "Tiếng Việt": "đã loại bỏ",
+    "id": "Pali - 0657"
+  },
+  {
+    "Tiếng Pali": "gedhaṃ",
+    "Tiếng Việt": "tham muốn",
+    "id": "Pali - 0658"
+  },
+  {
+    "Tiếng Pali": "hi",
+    "Tiếng Việt": "phải, quả thực",
+    "id": "Pali - 0659"
+  },
+  {
+    "Tiếng Pali": "jātu",
+    "Tiếng Việt": "chắc chắn, không bị hoài nghi",
+    "id": "Pali - 0660"
+  },
+  {
+    "Tiếng Pali": "gabbhaseyyaṃ =gabbha+seyyaṃ",
+    "Tiếng Việt": "tử cung+nằm xuống",
+    "id": "Pali - 0661"
+  },
+  {
+    "Tiếng Pali": "punareti",
+    "Tiếng Việt": "đi đến lần nữa",
+    "id": "Pali - 0662"
+  },
+  {
+    "Tiếng Pali": "Bāhuṃ",
+    "Tiếng Việt": "cánh tay",
+    "id": "Pali - 0663"
+  },
+  {
+    "Tiếng Pali": "Sahassamabhinimmitta =sahassaṃ+abhinimmitta",
+    "Tiếng Việt": "tạo ra (hình thức với) một nghìn (cánh tay) (nghìn+tạo ra)",
+    "id": "Pali - 0664"
+  },
+  {
+    "Tiếng Pali": "sāvudhantaṃ",
+    "Tiếng Việt": "mang vũ khí",
+    "id": "Pali - 0665"
+  },
+  {
+    "Tiếng Pali": "girimekhalaṃ",
+    "Tiếng Việt": "tên của một con voi",
+    "id": "Pali - 0666"
+  },
+  {
+    "Tiếng Pali": "uditaghorasenamāraṃ= udita+ghora+ sasena+māraṃ",
+    "Tiếng Việt": "Māra hung dữ được bao quanh bởi đội quân của hắn (tấn công/trỗi dậy+ hung dữ+với đội quân+māra)",
+    "id": "Pali - 0667"
+  },
+  {
+    "Tiếng Pali": "Dānādi-dhammavidhinā =Dāna+ādi+Dhamma+vidhinā",
+    "Tiếng Việt": "bằng những đức tính như sự rộng lượng (sự rộng lượng+như+phẩm chất+bằng cách)",
+    "id": "Pali - 0668"
+  },
+  {
+    "Tiếng Pali": "jitavā",
+    "Tiếng Việt": "người chiến thắng",
+    "id": "Pali - 0669"
+  },
+  {
+    "Tiếng Pali": "munindo",
+    "Tiếng Việt": "vị thánh nhân vĩ đại",
+    "id": "Pali - 0670"
+  },
+  {
+    "Tiếng Pali": "tam",
+    "Tiếng Việt": "đó",
+    "id": "Pali - 0671"
+  },
+  {
+    "Tiếng Pali": "tejasā",
+    "Tiếng Việt": "bởi sức mạnh của",
+    "id": "Pali - 0672"
+  },
+  {
+    "Tiếng Pali": "bhavatu",
+    "Tiếng Việt": "có lẽ",
+    "id": "Pali - 0673"
+  },
+  {
+    "Tiếng Pali": "jayamaṅgalāni",
+    "Tiếng Việt": "chiến thắng và hạnh phúc",
+    "id": "Pali - 0674"
+  },
+  {
+    "Tiếng Pali": "Mārātirekamabhiyujjhita =Māra+atirekaṃ+abhiyujjhita",
+    "Tiếng Việt": "đã chiến đấu hăng hái hơn Māra (Māra+hơn+chiến đấu hăng hái)",
+    "id": "Pali - 0675"
+  },
+  {
+    "Tiếng Pali": "sabbarattiṃ",
+    "Tiếng Việt": "cả đêm",
+    "id": "Pali - 0676"
+  },
+  {
+    "Tiếng Pali": "yakkhaṃ",
+    "Tiếng Việt": "phi nhân, quỷ",
+    "id": "Pali - 0677"
+  },
+  {
+    "Tiếng Pali": "ghorampanālavakamakkhama thaddha =ghoraṃ+pana+ālavakaṃ+ akkhama+thaddha",
+    "Tiếng Việt": "con quỷ cố chấp, cứng cỏi tên là Ālavaka (hung dữ + nhưng+tên của một Yakkha+cố chấp+cứng cỏi)",
+    "id": "Pali - 0678"
+  },
+  {
+    "Tiếng Pali": "khantī",
+    "Tiếng Việt": "kiên nhẫn",
+    "id": "Pali - 0679"
+  },
+  {
+    "Tiếng Pali": "sudantavidhinā",
+    "Tiếng Việt": "bằng sự tự kiểm soát mình",
+    "id": "Pali - 0680"
+  },
+  {
+    "Tiếng Pali": "Nāḷāgiriṃ",
+    "Tiếng Việt": "tên một con voi",
+    "id": "Pali - 0681"
+  },
+  {
+    "Tiếng Pali": "gajavaraṃ =gaja+varaṃ",
+    "Tiếng Việt": "voi hoàng gia/cao quý (voi+oai nghiêm)",
+    "id": "Pali - 0682"
+  },
+  {
+    "Tiếng Pali": "atimattabhūtaṃ =ati+matta+bhūtaṃ",
+    "Tiếng Việt": "đã trở nên quá điên cuồng (rất+say+ đã trở thành)",
+    "id": "Pali - 0683"
+  },
+  {
+    "Tiếng Pali": "dāvaggi-cakkamasānīva=dāva+ aggi+cakkaṃ+asanī+iva",
+    "Tiếng Việt": "như đám cháy rừng, đĩa bay hoặc sấm sét (rừng+lửa+đĩa+sấm sét+như là)",
+    "id": "Pali - 0684"
+  },
+  {
+    "Tiếng Pali": "sudāruṇantaṃ",
+    "Tiếng Việt": "không thể lay chuyển được",
+    "id": "Pali - 0685"
+  },
+  {
+    "Tiếng Pali": "mettambusekavidhinā=mettā+ambu+seka+vidhinā",
+    "Tiếng Việt": "bằng cách rải nước tâm từ (mettā+nước+ rải+bằng phương tiện)",
+    "id": "Pali - 0686"
+  },
+  {
+    "Tiếng Pali": "Ukkhitta",
+    "Tiếng Việt": "khích lệ",
+    "id": "Pali - 0687"
+  },
+  {
+    "Tiếng Pali": "khaggamatihattha =khaggaṃ+atihattha",
+    "Tiếng Việt": "thanh kiếm trong tay (kiếm + mang theo)",
+    "id": "Pali - 0688"
+  },
+  {
+    "Tiếng Pali": "dhāvanti",
+    "Tiếng Việt": "đeo đuổi",
+    "id": "Pali - 0689"
+  },
+  {
+    "Tiếng Pali": "iva",
+    "Tiếng Việt": "như thế",
+    "id": "Pali - 0690"
+  },
+  {
+    "Tiếng Pali": "gabbhinīyā",
+    "Tiếng Việt": "phụ nữ mang thai",
+    "id": "Pali - 0691"
+  },
+  {
+    "Tiếng Pali": "yojanapathāṅgulimālavantaṃ =yojanapatha+aṅgulimāla+vantaṃ",
+    "Tiếng Việt": "Angulimāla đeo đuổi Ngài trong 3 do tuần (khoảng 7 dặm + phạm vi + Angulimāla+ từ bỏ/bỏ lại phía sau)",
+    "id": "Pali - 0692"
+  },
+  {
+    "Tiếng Pali": "iddhībhisaṅkhatamano=iddhībhi+saṅkhata+mano",
+    "Tiếng Việt": "với một chuyên gia tâm trí về những điều kỳ diệu (với sức mạnh ma thuật+chuyên gia+tâm trí)",
+    "id": "Pali - 0693"
+  },
+  {
+    "Tiếng Pali": "Katvāna",
+    "Tiếng Việt": "đang làm",
+    "id": "Pali - 0694"
+  },
+  {
+    "Tiếng Pali": "kaṭṭhamudaraṃ =kaṭṭhaṃ+udaraṃ",
+    "Tiếng Việt": "miếng gỗ+trên bụng",
+    "id": "Pali - 0695"
+  },
+  {
+    "Tiếng Pali": "ciñcāya",
+    "Tiếng Việt": "của Ciñcā (tên cô gái)",
+    "id": "Pali - 0696"
+  },
+  {
+    "Tiếng Pali": "duṭṭhavacanaṃ =duṭṭha+vacanaṃ",
+    "Tiếng Việt": "lời nói độc ác/tội lỗi (độc ác+lời nói)",
+    "id": "Pali - 0697"
+  },
+  {
+    "Tiếng Pali": "janakāya",
+    "Tiếng Việt": "tập hợp người dân",
+    "id": "Pali - 0698"
+  },
+  {
+    "Tiếng Pali": "majjhe",
+    "Tiếng Việt": "ở giữa",
+    "id": "Pali - 0699"
+  },
+  {
+    "Tiếng Pali": "santena",
+    "Tiếng Việt": "bằng bình an",
+    "id": "Pali - 0700"
+  },
+  {
+    "Tiếng Pali": "somavidhinā =somma+vidhinā",
+    "Tiếng Việt": "bằng cách làm hài lòng làm hài lòng+bằng một phương pháp",
+    "id": "Pali - 0701"
+  },
+  {
+    "Tiếng Pali": "Saccaṃ",
+    "Tiếng Việt": "sự thật",
+    "id": "Pali - 0702"
+  },
+  {
+    "Tiếng Pali": "vihāya",
+    "Tiếng Việt": "loại bỏ",
+    "id": "Pali - 0703"
+  },
+  {
+    "Tiếng Pali": "matisaccakavādaketuṃ =mati+saccaka+vāda+ketuṃ",
+    "Tiếng Việt": "Saccaka quỷ quyệt (có ý giăng lên) lá cờ của học thuyết sai lầm của mình (thâm muốn+Saccaka+ học thuyết sai lầm+ngọn cờ)",
+    "id": "Pali - 0704"
+  },
+  {
+    "Tiếng Pali": "vādābhiropitamanāṃ =vāda+abhiropita+manāṃ",
+    "Tiếng Việt": "với tâm muốn gây tranh cãi (tranh cãi+quyết tâm nâng cao+tâm trí)",
+    "id": "Pali - 0705"
+  },
+  {
+    "Tiếng Pali": "ati-andhabhūtaṃ =ati+andhabhūtaṃ",
+    "Tiếng Việt": "bị mù hoàn toàn (cực+bị mù)",
+    "id": "Pali - 0706"
+  },
+  {
+    "Tiếng Pali": "Paññāpadīpajalito =paññā+padīpa+jalito",
+    "Tiếng Việt": "bởi ngọn đèn trí tuệ tỏa sáng (trí tuệ+đèn+ bởi ánh sáng)",
+    "id": "Pali - 0707"
+  },
+  {
+    "Tiếng Pali": "Nandopananda",
+    "Tiếng Việt": "tên của một nāga (con rắn)",
+    "id": "Pali - 0708"
+  },
+  {
+    "Tiếng Pali": "bhujagaṃ",
+    "Tiếng Việt": "rắn",
+    "id": "Pali - 0709"
+  },
+  {
+    "Tiếng Pali": "Vividhaṃ",
+    "Tiếng Việt": "của nhiều loại khác nhau",
+    "id": "Pali - 0710"
+  },
+  {
+    "Tiếng Pali": "mahiddhiṃ =mahā+iddhi",
+    "Tiếng Việt": "sức mạnh tâm linh vĩ đại (sức mạnh+vĩ đại)",
+    "id": "Pali - 0711"
+  },
+  {
+    "Tiếng Pali": "puttena",
+    "Tiếng Việt": "bởi người con trai",
+    "id": "Pali - 0712"
+  },
+  {
+    "Tiếng Pali": "thera",
+    "Tiếng Việt": "thượng tọa/trưởng lão",
+    "id": "Pali - 0713"
+  },
+  {
+    "Tiếng Pali": "bhujagena",
+    "Tiếng Việt": "bởi con rắn",
+    "id": "Pali - 0714"
+  },
+  {
+    "Tiếng Pali": "damāpayanto",
+    "Tiếng Việt": "khiến bị thuần hóa",
+    "id": "Pali - 0715"
+  },
+  {
+    "Tiếng Pali": "iddhūpadesavidhinā = iddhi+upadesa+vidhinā",
+    "Tiếng Việt": "bằng sức mạnh tâm linh và lời khuyên bảo (sức mạnh tâm linh+lời khuyên+bằng phương tiện)",
+    "id": "Pali - 0716"
+  },
+  {
+    "Tiếng Pali": "duggāhadiṭṭhibhujagena= duggāha+diṭṭhi+bhujagena",
+    "Tiếng Việt": "bởi con rắn mang quan điểm mê lầm (nắm giữ sai trái/mê lầm+quan điểm+bởi con rắn)",
+    "id": "Pali - 0717"
+  },
+  {
+    "Tiếng Pali": "sudaṭṭha-hatthaṃ =su+daṭṭha+hatthaṃ",
+    "Tiếng Việt": "với bàn tay bị cắn (hoàn toàn+bị cắn+tay)",
+    "id": "Pali - 0718"
+  },
+  {
+    "Tiếng Pali": "brahmaṃ",
+    "Tiếng Việt": "brahmā/Phạm thiên",
+    "id": "Pali - 0719"
+  },
+  {
+    "Tiếng Pali": "visuddhi-jutim-iddhi =visuddhi+jutiṃ+iddhi",
+    "Tiếng Việt": "(tinh khiết+rực rỡ+mạnh mẽ)",
+    "id": "Pali - 0720"
+  },
+  {
+    "Tiếng Pali": "bakābhidhānaṃ =baka+abhidhānaṃ",
+    "Tiếng Việt": "tên là Baka (baka+tên)",
+    "id": "Pali - 0721"
+  },
+  {
+    "Tiếng Pali": "ñāṇāgadena =ñāṇa+agadena",
+    "Tiếng Việt": "bởi kiến thức y học (kiến thức+ y học)",
+    "id": "Pali - 0722"
+  },
+  {
+    "Tiếng Pali": "Paṭicca+samuppādo",
+    "Tiếng Việt": "phụ thuộc, kết quả từ + nguồn gốc, khởi sinh",
+    "id": "Pali - 0723"
+  },
+  {
+    "Tiếng Pali": "Anulomaṃ",
+    "Tiếng Việt": "chiều thuận",
+    "id": "Pali - 0724"
+  },
+  {
+    "Tiếng Pali": "Avijjā+paccayā",
+    "Tiếng Việt": "vô minh+cơ sở, nền tảng, nguyên nhân",
+    "id": "Pali - 0725"
+  },
+  {
+    "Tiếng Pali": "saṅkhārā",
+    "Tiếng Việt": "các phản ứng",
+    "id": "Pali - 0726"
+  },
+  {
+    "Tiếng Pali": "saṅkhārapaccayā",
+    "Tiếng Việt": "cơ sở của phản ứng",
+    "id": "Pali - 0727"
+  },
+  {
+    "Tiếng Pali": "viññāṇaṃ",
+    "Tiếng Việt": "ý thức",
+    "id": "Pali - 0728"
+  },
+  {
+    "Tiếng Pali": "nāma-rūpaṃ",
+    "Tiếng Việt": "tâm và thân",
+    "id": "Pali - 0729"
+  },
+  {
+    "Tiếng Pali": "saḷāyatanaṃ",
+    "Tiếng Việt": "sáu cửa giác quan",
+    "id": "Pali - 0730"
+  },
+  {
+    "Tiếng Pali": "phasso",
+    "Tiếng Việt": "tiếp xúc",
+    "id": "Pali - 0731"
+  },
+  {
+    "Tiếng Pali": "vedanā",
+    "Tiếng Việt": "các cảm giác",
+    "id": "Pali - 0732"
+  },
+  {
+    "Tiếng Pali": "taṇhā",
+    "Tiếng Việt": "tham muốn và ghét bỏ",
+    "id": "Pali - 0733"
+  },
+  {
+    "Tiếng Pali": "upādānaṃ",
+    "Tiếng Việt": "dính mắc",
+    "id": "Pali - 0734"
+  },
+  {
+    "Tiếng Pali": "bhavo",
+    "Tiếng Việt": "tiến trình trở thành",
+    "id": "Pali - 0735"
+  },
+  {
+    "Tiếng Pali": "jāti",
+    "Tiếng Việt": "sinh",
+    "id": "Pali - 0736"
+  },
+  {
+    "Tiếng Pali": "jarā-maraṇaṃ",
+    "Tiếng Việt": "già và chết",
+    "id": "Pali - 0737"
+  },
+  {
+    "Tiếng Pali": "soka-parideva-dukkha-domanassupāyāsā",
+    "Tiếng Việt": "phiền muộn-than thở-đau khổ thể xác-khổ tâm, ưu sầu",
+    "id": "Pali - 0738"
+  },
+  {
+    "Tiếng Pali": "sambhavanti",
+    "Tiếng Việt": "khởi sinh",
+    "id": "Pali - 0739"
+  },
+  {
+    "Tiếng Pali": "Evametassa =evaṃ+etassa",
+    "Tiếng Việt": "như điều này (do đó+của điều này)",
+    "id": "Pali - 0740"
+  },
+  {
+    "Tiếng Pali": "kevalassa",
+    "Tiếng Việt": "toàn bộ",
+    "id": "Pali - 0741"
+  },
+  {
+    "Tiếng Pali": "Dukkhakkhandhassa =dukkha+khandha",
+    "Tiếng Việt": "khối khổ đau (đau khổ+khối)",
+    "id": "Pali - 0742"
+  },
+  {
+    "Tiếng Pali": "samudayo",
+    "Tiếng Việt": "phát sinh",
+    "id": "Pali - 0743"
+  },
+  {
+    "Tiếng Pali": "Paṭilomaṃ",
+    "Tiếng Việt": "theo chiều nghịch",
+    "id": "Pali - 0744"
+  },
+  {
+    "Tiếng Pali": "Avijjāyatveva =Avijjāya+tveva",
+    "Tiếng Việt": "vô minh+tuy nhiên",
+    "id": "Pali - 0745"
+  },
+  {
+    "Tiếng Pali": "asesa-virāga-nirodhā =asesa+virāga+ nirodhā",
+    "Tiếng Việt": "hoàn toàn+diệt trừ tham ái+ chấm dứt",
+    "id": "Pali - 0746"
+  },
+  {
+    "Tiếng Pali": "Yadā",
+    "Tiếng Việt": "khi nào",
+    "id": "Pali - 0747"
+  },
+  {
+    "Tiếng Pali": "have",
+    "Tiếng Việt": "chắc chắn, quả thực",
+    "id": "Pali - 0748"
+  },
+  {
+    "Tiếng Pali": "pātubhavanti",
+    "Tiếng Việt": "trở nên rõ ràng",
+    "id": "Pali - 0749"
+  },
+  {
+    "Tiếng Pali": "dhammā",
+    "Tiếng Việt": "các sự thật (bốn sự thật thánh thiện)",
+    "id": "Pali - 0750"
+  },
+  {
+    "Tiếng Pali": "ātāpino",
+    "Tiếng Việt": "chuyên cần",
+    "id": "Pali - 0751"
+  },
+  {
+    "Tiếng Pali": "jhāyato",
+    "Tiếng Việt": "hành thiền",
+    "id": "Pali - 0752"
+  },
+  {
+    "Tiếng Pali": "brāhmaṇassa",
+    "Tiếng Việt": "một cuộc sống thuần khiết",
+    "id": "Pali - 0753"
+  },
+  {
+    "Tiếng Pali": "athassa=atha+assa",
+    "Tiếng Việt": "thì của anh ấy",
+    "id": "Pali - 0754"
+  },
+  {
+    "Tiếng Pali": "kaṅkhā",
+    "Tiếng Việt": "những nghi ngờ",
+    "id": "Pali - 0755"
+  },
+  {
+    "Tiếng Pali": "vapayanti",
+    "Tiếng Việt": "biến mất",
+    "id": "Pali - 0756"
+  },
+  {
+    "Tiếng Pali": "sabbā",
+    "Tiếng Việt": "tất cả",
+    "id": "Pali - 0757"
+  },
+  {
+    "Tiếng Pali": "yato",
+    "Tiếng Việt": "bởi vì",
+    "id": "Pali - 0758"
+  },
+  {
+    "Tiếng Pali": "pajānāti",
+    "Tiếng Việt": "Ngài hiểu ('pa' nghĩa là pañña, tuệ giác, trí tuệ)",
+    "id": "Pali - 0759"
+  },
+  {
+    "Tiếng Pali": "sahetu",
+    "Tiếng Việt": "với lý do",
+    "id": "Pali - 0760"
+  },
+  {
+    "Tiếng Pali": "khayaṃ",
+    "Tiếng Việt": "sự tiêu diệt",
+    "id": "Pali - 0761"
+  },
+  {
+    "Tiếng Pali": "paccayānaṃ",
+    "Tiếng Việt": "của các duyên khởi sinh",
+    "id": "Pali - 0762"
+  },
+  {
+    "Tiếng Pali": "avedi",
+    "Tiếng Việt": "Ngài kinh nghiệm",
+    "id": "Pali - 0763"
+  },
+  {
+    "Tiếng Pali": "vidhūpayaṃ",
+    "Tiếng Việt": "đã phân tán",
+    "id": "Pali - 0764"
+  },
+  {
+    "Tiếng Pali": "tiṭṭhati",
+    "Tiếng Việt": "Ngài đứng",
+    "id": "Pali - 0765"
+  },
+  {
+    "Tiếng Pali": "mārasenaṃ",
+    "Tiếng Việt": "đội quân của Māra",
+    "id": "Pali - 0766"
+  },
+  {
+    "Tiếng Pali": "sūriyova",
+    "Tiếng Việt": "giống như mặt trời",
+    "id": "Pali - 0767"
+  },
+  {
+    "Tiếng Pali": "obhāsayamantalikkhaṃ",
+    "Tiếng Việt": "tỏa sáng trên bầu trời",
+    "id": "Pali - 0768"
+  },
+  {
+    "Tiếng Pali": "Aneka",
+    "Tiếng Việt": "vô số",
+    "id": "Pali - 0769"
+  },
+  {
+    "Tiếng Pali": "jāti",
+    "Tiếng Việt": "sự sinh",
+    "id": "Pali - 0770"
+  },
+  {
+    "Tiếng Pali": "saṃsāraṃ",
+    "Tiếng Việt": "tiếp tục (chu kỳ tồn tại/vòng luân hồi)",
+    "id": "Pali - 0771"
+  },
+  {
+    "Tiếng Pali": "sandhāvissaṃ",
+    "Tiếng Việt": "Ta đã chạy",
+    "id": "Pali - 0772"
+  },
+  {
+    "Tiếng Pali": "anibbisaṃ",
+    "Tiếng Việt": "vô ích, không tìm thấy",
+    "id": "Pali - 0773"
+  },
+  {
+    "Tiếng Pali": "Gahakāraṃ",
+    "Tiếng Việt": "người xây ngôi nhà này",
+    "id": "Pali - 0774"
+  },
+  {
+    "Tiếng Pali": "gavesanto",
+    "Tiếng Việt": "đang tìm kiếm",
+    "id": "Pali - 0775"
+  },
+  {
+    "Tiếng Pali": "dukkhā",
+    "Tiếng Việt": "khổ đau",
+    "id": "Pali - 0776"
+  },
+  {
+    "Tiếng Pali": "punappunaṃ",
+    "Tiếng Việt": "lặp đi lặp lại",
+    "id": "Pali - 0777"
+  },
+  {
+    "Tiếng Pali": "Gahakāraka",
+    "Tiếng Việt": "thợ xây nhà",
+    "id": "Pali - 0778"
+  },
+  {
+    "Tiếng Pali": "diṭṭhosi",
+    "Tiếng Việt": "người đã được nhìn thấy",
+    "id": "Pali - 0779"
+  },
+  {
+    "Tiếng Pali": "puna",
+    "Tiếng Việt": "lần nữa",
+    "id": "Pali - 0780"
+  },
+  {
+    "Tiếng Pali": "gehaṃ",
+    "Tiếng Việt": "ngôi nhà",
+    "id": "Pali - 0781"
+  },
+  {
+    "Tiếng Pali": "na",
+    "Tiếng Việt": "không",
+    "id": "Pali - 0782"
+  },
+  {
+    "Tiếng Pali": "kāhasi",
+    "Tiếng Việt": "sẽ xây",
+    "id": "Pali - 0783"
+  },
+  {
+    "Tiếng Pali": "te",
+    "Tiếng Việt": "của bạn",
+    "id": "Pali - 0784"
+  },
+  {
+    "Tiếng Pali": "phāsukā",
+    "Tiếng Việt": "xà, dầm",
+    "id": "Pali - 0785"
+  },
+  {
+    "Tiếng Pali": "bhaggā",
+    "Tiếng Việt": "đã gãy",
+    "id": "Pali - 0786"
+  },
+  {
+    "Tiếng Pali": "gahakūṭaṃ",
+    "Tiếng Việt": "đầm nóc (cột trụ chính)",
+    "id": "Pali - 0787"
+  },
+  {
+    "Tiếng Pali": "visañkhitaṃ",
+    "Tiếng Việt": "gãy vỡ",
+    "id": "Pali - 0788"
+  },
+  {
+    "Tiếng Pali": "visañkhāragataṃ =visañkhāra+ gataṃ",
+    "Tiếng Việt": "thoát khỏi sự điều kiện hóa+đã đi đến nơi",
+    "id": "Pali - 0789"
+  },
+  {
+    "Tiếng Pali": "cittaṃ",
+    "Tiếng Việt": "tâm",
+    "id": "Pali - 0790"
+  },
+  {
+    "Tiếng Pali": "taṇhānaṃ",
+    "Tiếng Việt": "tham muốn (của)",
+    "id": "Pali - 0791"
+  },
+  {
+    "Tiếng Pali": "khayamajjhagā =khayaṃ+ajjhagā",
+    "Tiếng Việt": "kết thúc/sự chấm dứt+đã đạt đến",
+    "id": "Pali - 0792"
+  },
+  {
+    "Tiếng Pali": "Jayo",
+    "Tiếng Việt": "chiếm",
+    "id": "Pali - 0793"
+  },
+  {
+    "Tiếng Pali": "hi",
+    "Tiếng Việt": "vâng, quả thực",
+    "id": "Pali - 0794"
+  },
+  {
+    "Tiếng Pali": "buddhassa",
+    "Tiếng Việt": "của Đức Phật",
+    "id": "Pali - 0795"
+  },
+  {
+    "Tiếng Pali": "sirīmato",
+    "Tiếng Việt": "huy hoàng",
+    "id": "Pali - 0796"
+  },
+  {
+    "Tiếng Pali": "ayaṃ",
+    "Tiếng Việt": "này (người)",
+    "id": "Pali - 0797"
+  },
+  {
+    "Tiếng Pali": "mārassa",
+    "Tiếng Việt": "của Māra",
+    "id": "Pali - 0798"
+  },
+  {
+    "Tiếng Pali": "ca",
+    "Tiếng Việt": "và",
+    "id": "Pali - 0799"
+  },
+  {
+    "Tiếng Pali": "pāpimato",
+    "Tiếng Việt": "đầy tội lỗi",
+    "id": "Pali - 0800"
+  },
+  {
+    "Tiếng Pali": "parājayo",
+    "Tiếng Việt": "đánh thắng",
+    "id": "Pali - 0801"
+  },
+  {
+    "Tiếng Pali": "ugghosayuṃ",
+    "Tiếng Việt": "những điều này đã được công bố",
+    "id": "Pali - 0802"
+  },
+  {
+    "Tiếng Pali": "bodhimaṇḍe",
+    "Tiếng Việt": "từ nơi chỗ ngồi giác ngộ",
+    "id": "Pali - 0803"
+  },
+  {
+    "Tiếng Pali": "pamoditā",
+    "Tiếng Việt": "vui mừng",
+    "id": "Pali - 0804"
+  },
+  {
+    "Tiếng Pali": "jayaṃ",
+    "Tiếng Việt": "chiến thắng",
+    "id": "Pali - 0805"
+  },
+  {
+    "Tiếng Pali": "tadā",
+    "Tiếng Việt": "vậy thì, vào thời điểm đó",
+    "id": "Pali - 0806"
+  },
+  {
+    "Tiếng Pali": "nāga-gaṇā",
+    "Tiếng Việt": "chủ nhà, vô số nāga",
+    "id": "Pali - 0807"
+  },
+  {
+    "Tiếng Pali": "mahesino",
+    "Tiếng Việt": "của bậc thánh nhân vĩ đại (Đức Phật)",
+    "id": "Pali - 0808"
+  },
+  {
+    "Tiếng Pali": "supaṇṇa-gaṇā",
+    "Tiếng Việt": "chủ của garuda (loài chim thần thoại)",
+    "id": "Pali - 0809"
+  },
+  {
+    "Tiếng Pali": "devagaṇā",
+    "Tiếng Việt": "chủ của chư thiên",
+    "id": "Pali - 0810"
+  },
+  {
+    "Tiếng Pali": "brahma-gaṇā",
+    "Tiếng Việt": "chủ của phạm thiên",
+    "id": "Pali - 0811"
+  },
+  {
+    "Tiếng Pali": "Saṃsāre",
+    "Tiếng Việt": "vòng sinh tử (trong thế gian này)",
+    "id": "Pali - 0812"
+  },
+  {
+    "Tiếng Pali": "saṃsarantānaṃ",
+    "Tiếng Việt": "(đối với những chúng sinh đó) đang luân hồi",
+    "id": "Pali - 0813"
+  },
+  {
+    "Tiếng Pali": "Sabbadukkhavināsake =sabba+dukkha+vināsake",
+    "Tiếng Việt": "diệt trừ mọi khổ đau (tất cả+đau khổ+ diệt trừ)",
+    "id": "Pali - 0814"
+  },
+  {
+    "Tiếng Pali": "satta+dhamme",
+    "Tiếng Việt": "bảy+các nhân tố",
+    "id": "Pali - 0815"
+  },
+  {
+    "Tiếng Pali": "ca",
+    "Tiếng Việt": "và",
+    "id": "Pali - 0816"
+  },
+  {
+    "Tiếng Pali": "bojjhaṅge",
+    "Tiếng Việt": "các nhân tố giác ngộ",
+    "id": "Pali - 0817"
+  },
+  {
+    "Tiếng Pali": "Mārasenappamaddane =māra+sena+pamaddane",
+    "Tiếng Việt": "đánh bại đội quân Māra (māra+ đội quân+đánh bại)",
+    "id": "Pali - 0818"
+  },
+  {
+    "Tiếng Pali": "Bujjhitvā",
+    "Tiếng Việt": "nhận ra, chứng ngộ",
+    "id": "Pali - 0819"
+  },
+  {
+    "Tiếng Pali": "ye cime=ye+ca+ime",
+    "Tiếng Việt": "điều nào+và+điều này",
+    "id": "Pali - 0820"
+  },
+  {
+    "Tiếng Pali": "sattā",
+    "Tiếng Việt": "chúng sinh",
+    "id": "Pali - 0821"
+  },
+  {
+    "Tiếng Pali": "tibhavā",
+    "Tiếng Việt": "ba loại hiện hữu (dục, sắc, vô sắc)",
+    "id": "Pali - 0822"
+  },
+  {
+    "Tiếng Pali": "muttakuttamā =muttaka+uttamā",
+    "Tiếng Việt": "những bậc đã giải thoát+ưu tú",
+    "id": "Pali - 0823"
+  },
+  {
+    "Tiếng Pali": "ajātīṃ",
+    "Tiếng Việt": "thoát khỏi sự sinh",
+    "id": "Pali - 0824"
+  },
+  {
+    "Tiếng Pali": "ajarābyādhiṃ =ajarā+byādhiṃ",
+    "Tiếng Việt": "thoát khỏi suy tàn/tuổi già+ bệnh tật",
+    "id": "Pali - 0825"
+  },
+  {
+    "Tiếng Pali": "amataṃ",
+    "Tiếng Việt": "bất tử",
+    "id": "Pali - 0826"
+  },
+  {
+    "Tiếng Pali": "nibbhayaṃ",
+    "Tiếng Việt": "không sợ hãi",
+    "id": "Pali - 0827"
+  },
+  {
+    "Tiếng Pali": "gatā",
+    "Tiếng Việt": "đã đi (giai đoạn đã kinh nghiệm)",
+    "id": "Pali - 0828"
+  },
+  {
+    "Tiếng Pali": "guṇūpetaṃ =guṇa+upetaṃ",
+    "Tiếng Việt": "được phú cho những thuận lợi như vậy (công đức + phú cho)",
+    "id": "Pali - 0829"
+  },
+  {
+    "Tiếng Pali": "anekaguṇasaṅgahaṃ =aneka+guṇa+saṅgahaṃ",
+    "Tiếng Việt": "vô số+công đức/lợi ích+sự góp nhặt",
+    "id": "Pali - 0830"
+  },
+  {
+    "Tiếng Pali": "osadhañca",
+    "Tiếng Việt": "thuốc",
+    "id": "Pali - 0831"
+  },
+  {
+    "Tiếng Pali": "imaṃ",
+    "Tiếng Việt": "này",
+    "id": "Pali - 0832"
+  },
+  {
+    "Tiếng Pali": "mantaṃ",
+    "Tiếng Việt": "lời nói, câu thần chú",
+    "id": "Pali - 0833"
+  },
+  {
+    "Tiếng Pali": "bhaṇāmahe",
+    "Tiếng Việt": "chúng ta hãy tụng",
+    "id": "Pali - 0834"
+  },
+  {
+    "Tiếng Pali": "sati+saṅkhāto",
+    "Tiếng Việt": "nhận biết+cái gọi là/cụ thể là",
+    "id": "Pali - 0835"
+  },
+  {
+    "Tiếng Pali": "dhammānaṃ-vicayo",
+    "Tiếng Việt": "phân tích nghiên cứu về Dhamma",
+    "id": "Pali - 0836"
+  },
+  {
+    "Tiếng Pali": "vīriyaṃ",
+    "Tiếng Việt": "nỗ lực/tinh tấn",
+    "id": "Pali - 0837"
+  },
+  {
+    "Tiếng Pali": "pīti",
+    "Tiếng Việt": "hỷ",
+    "id": "Pali - 0838"
+  },
+  {
+    "Tiếng Pali": "passaddhi",
+    "Tiếng Việt": "tĩnh lặng/khinh an",
+    "id": "Pali - 0839"
+  },
+  {
+    "Tiếng Pali": "pare",
+    "Tiếng Việt": "theo sau, những cái khác, phần còn lại",
+    "id": "Pali - 0840"
+  },
+  {
+    "Tiếng Pali": "Samādhupekkhā =samādhi+upekkhā",
+    "Tiếng Việt": "sự tập trung + sự bình tâm",
+    "id": "Pali - 0841"
+  },
+  {
+    "Tiếng Pali": "sattete=satta+ete",
+    "Tiếng Việt": "bảy cái này (bảy+cái này)",
+    "id": "Pali - 0842"
+  },
+  {
+    "Tiếng Pali": "sabbadassinā",
+    "Tiếng Việt": "bởi người thấy tất cả",
+    "id": "Pali - 0843"
+  },
+  {
+    "Tiếng Pali": "muninā",
+    "Tiếng Việt": "thánh nhân",
+    "id": "Pali - 0844"
+  },
+  {
+    "Tiếng Pali": "sammadakkhātā",
+    "Tiếng Việt": "dạy giỏi, thuyết giảng",
+    "id": "Pali - 0845"
+  },
+  {
+    "Tiếng Pali": "bhāvitā",
+    "Tiếng Việt": "tu dưỡng",
+    "id": "Pali - 0846"
+  },
+  {
+    "Tiếng Pali": "bahulīkatā",
+    "Tiếng Việt": "thực hành thường xuyên",
+    "id": "Pali - 0847"
+  },
+  {
+    "Tiếng Pali": "Saṃvattanti",
+    "Tiếng Việt": "dẫn đến, đưa đến",
+    "id": "Pali - 0848"
+  },
+  {
+    "Tiếng Pali": "abhiññāya",
+    "Tiếng Việt": "kiến thức cao hơn, sức mạnh siêu nhiên (để)",
+    "id": "Pali - 0849"
+  },
+  {
+    "Tiếng Pali": "nibbānāya",
+    "Tiếng Việt": "giải thoát (để)",
+    "id": "Pali - 0850"
+  },
+  {
+    "Tiếng Pali": "bodhiyā",
+    "Tiếng Việt": "giác ngộ (để)",
+    "id": "Pali - 0851"
+  },
+  {
+    "Tiếng Pali": "etena",
+    "Tiếng Việt": "bởi điều này",
+    "id": "Pali - 0852"
+  },
+  {
+    "Tiếng Pali": "saccavajjena =sacca+vajja",
+    "Tiếng Việt": "nhờ lời chân thật này (sự thật+lời nói)",
+    "id": "Pali - 0853"
+  },
+  {
+    "Tiếng Pali": "sotthi",
+    "Tiếng Việt": "hạnh phúc, thịnh vượng",
+    "id": "Pali - 0854"
+  },
+  {
+    "Tiếng Pali": "te",
+    "Tiếng Việt": "của bạn",
+    "id": "Pali - 0855"
+  },
+  {
+    "Tiếng Pali": "hote",
+    "Tiếng Việt": "có lẽ",
+    "id": "Pali - 0856"
+  },
+  {
+    "Tiếng Pali": "sabbadā",
+    "Tiếng Việt": "luôn luôn",
+    "id": "Pali - 0857"
+  },
+  {
+    "Tiếng Pali": "Ekasmiṃ",
+    "Tiếng Việt": "tại một",
+    "id": "Pali - 0858"
+  },
+  {
+    "Tiếng Pali": "samaye",
+    "Tiếng Việt": "thời gian",
+    "id": "Pali - 0859"
+  },
+  {
+    "Tiếng Pali": "nātho",
+    "Tiếng Việt": "ngài, người bảo vệ",
+    "id": "Pali - 0860"
+  },
+  {
+    "Tiếng Pali": "moggalānañca =moggalāna+ca",
+    "Tiếng Việt": "Moggallāna và",
+    "id": "Pali - 0861"
+  },
+  {
+    "Tiếng Pali": "kassapaṃ",
+    "Tiếng Việt": "Kassapa (Tên các đệ tử của Đức Phật)",
+    "id": "Pali - 0862"
+  },
+  {
+    "Tiếng Pali": "gilāne",
+    "Tiếng Việt": "đau ốm",
+    "id": "Pali - 0863"
+  },
+  {
+    "Tiếng Pali": "dukhite",
+    "Tiếng Việt": "khổ đau",
+    "id": "Pali - 0864"
+  },
+  {
+    "Tiếng Pali": "disvā",
+    "Tiếng Việt": "nhìn thấy",
+    "id": "Pali - 0865"
+  },
+  {
+    "Tiếng Pali": "desayī",
+    "Tiếng Việt": "thuyết giảng",
+    "id": "Pali - 0866"
+  },
+  {
+    "Tiếng Pali": "taṃ",
+    "Tiếng Việt": "này, đó",
+    "id": "Pali - 0867"
+  },
+  {
+    "Tiếng Pali": "abhinanditvā",
+    "Tiếng Việt": "sự vui mừng",
+    "id": "Pali - 0868"
+  },
+  {
+    "Tiếng Pali": "rogā",
+    "Tiếng Việt": "khỏi bệnh tật",
+    "id": "Pali - 0869"
+  },
+  {
+    "Tiếng Pali": "muccimsu",
+    "Tiếng Việt": "trở nên tự do",
+    "id": "Pali - 0870"
+  },
+  {
+    "Tiếng Pali": "taṅkhaṇe",
+    "Tiếng Việt": "lúc đó",
+    "id": "Pali - 0871"
+  },
+  {
+    "Tiếng Pali": "Ekadā",
+    "Tiếng Việt": "một lần",
+    "id": "Pali - 0872"
+  },
+  {
+    "Tiếng Pali": "dhammarājāpi",
+    "Tiếng Việt": "vị vua của Dhamma cũng thế",
+    "id": "Pali - 0873"
+  },
+  {
+    "Tiếng Pali": "gelaññenābhipīḷito =gelaññena+abhipīḷito",
+    "Tiếng Việt": "bị khổ sở bởi bệnh tật (bởi bệnh tật + đau khổ)",
+    "id": "Pali - 0874"
+  },
+  {
+    "Tiếng Pali": "cundattherena",
+    "Tiếng Việt": "Trưởng lão Cunda (bởi)",
+    "id": "Pali - 0875"
+  },
+  {
+    "Tiếng Pali": "tam yeva",
+    "Tiếng Việt": "giống nhau",
+    "id": "Pali - 0876"
+  },
+  {
+    "Tiếng Pali": "bhaṇāpetvāna",
+    "Tiếng Việt": "nguyên nhân/lý do để đọc tụng",
+    "id": "Pali - 0877"
+  },
+  {
+    "Tiếng Pali": "sādaraṃ",
+    "Tiếng Việt": "với sự tôn kính",
+    "id": "Pali - 0878"
+  },
+  {
+    "Tiếng Pali": "Sammoditvāna",
+    "Tiếng Việt": "hoan hỷ",
+    "id": "Pali - 0879"
+  },
+  {
+    "Tiếng Pali": "ābādhā",
+    "Tiếng Việt": "thoát khỏi bệnh tật",
+    "id": "Pali - 0880"
+  },
+  {
+    "Tiếng Pali": "tamhā",
+    "Tiếng Việt": "từ đó",
+    "id": "Pali - 0881"
+  },
+  {
+    "Tiếng Pali": "vuṭṭhāsi",
+    "Tiếng Việt": "vươn lên/nổi dậy",
+    "id": "Pali - 0882"
+  },
+  {
+    "Tiếng Pali": "ṭhānaso",
+    "Tiếng Việt": "một cách nhân quả, có lý do",
+    "id": "Pali - 0883"
+  },
+  {
+    "Tiếng Pali": "Pahīnā",
+    "Tiếng Việt": "bị loại bỏ",
+    "id": "Pali - 0884"
+  },
+  {
+    "Tiếng Pali": "tiṇṇannampi",
+    "Tiếng Việt": "cho ba người này",
+    "id": "Pali - 0885"
+  },
+  {
+    "Tiếng Pali": "mahesinaṃ.",
+    "Tiếng Việt": "của các vị thánh nhân vĩ đại",
+    "id": "Pali - 0886"
+  },
+  {
+    "Tiếng Pali": "maggāhatā",
+    "Tiếng Việt": "con đường hủy diệt",
+    "id": "Pali - 0887"
+  },
+  {
+    "Tiếng Pali": "kilesā’va",
+    "Tiếng Việt": "các ô nhiễm, bất tịnh",
+    "id": "Pali - 0888"
+  },
+  {
+    "Tiếng Pali": "Pattānu-patti =patta+anupatti",
+    "Tiếng Việt": "đạt được/đạt đến+sự đạt được",
+    "id": "Pali - 0889"
+  },
+  {
+    "Tiếng Pali": "dhammatāṃ",
+    "Tiếng Việt": "tự nhiên, luật",
+    "id": "Pali - 0890"
+  },
+  {
+    "Tiếng Pali": "Pūrento",
+    "Tiếng Việt": "trong khi hoàn thành",
+    "id": "Pali - 0891"
+  },
+  {
+    "Tiếng Pali": "bodhisambhāre",
+    "Tiếng Việt": "các điều kiện cần thiết để giác ngộ",
+    "id": "Pali - 0892"
+  },
+  {
+    "Tiếng Pali": "nātho",
+    "Tiếng Việt": "thượng đế, ngài",
+    "id": "Pali - 0893"
+  },
+  {
+    "Tiếng Pali": "Temiya",
+    "Tiếng Việt": "tên của hoàng tử",
+    "id": "Pali - 0894"
+  },
+  {
+    "Tiếng Pali": "jātiyaṃ.",
+    "Tiếng Việt": "trong sự ra đời của anh ấy",
+    "id": "Pali - 0895"
+  },
+  {
+    "Tiếng Pali": "mittānisaṃsaṃ =mitta+ānisaṃsaṃ",
+    "Tiếng Việt": "tình bạn+lợi ích, phần thưởng, công đức",
+    "id": "Pali - 0896"
+  },
+  {
+    "Tiếng Pali": "yaṃ",
+    "Tiếng Việt": "điều nào",
+    "id": "Pali - 0897"
+  },
+  {
+    "Tiếng Pali": "āha",
+    "Tiếng Việt": "đã nói",
+    "id": "Pali - 0898"
+  },
+  {
+    "Tiếng Pali": "sunanda",
+    "Tiếng Việt": "tên người đánh xe",
+    "id": "Pali - 0899"
+  },
+  {
+    "Tiếng Pali": "nāma",
+    "Tiếng Việt": "đặt tên",
+    "id": "Pali - 0900"
+  },
+  {
+    "Tiếng Pali": "sārathiṃ",
+    "Tiếng Việt": "người đánh xe",
+    "id": "Pali - 0901"
+  },
+  {
+    "Tiếng Pali": "sabbalokahitatthāya =Sabba+loka+hita+atthāya",
+    "Tiếng Việt": "vì lợi ích của tất cả thế giới (tất cả+thế giới+lợi ích+vì mục đích)",
+    "id": "Pali - 0902"
+  },
+  {
+    "Tiếng Pali": "parittaṃ",
+    "Tiếng Việt": "kệ hộ trì",
+    "id": "Pali - 0903"
+  },
+  {
+    "Tiếng Pali": "taṃ",
+    "Tiếng Việt": "đó",
+    "id": "Pali - 0904"
+  },
+  {
+    "Tiếng Pali": "bhaṇāmahe",
+    "Tiếng Việt": "chúng ta hãy cùng tụng",
+    "id": "Pali - 0905"
+  },
+  {
+    "Tiếng Pali": "Pahūtabhakkho",
+    "Tiếng Việt": "một người ăn uống đàng hoàng",
+    "id": "Pali - 0906"
+  },
+  {
+    "Tiếng Pali": "bhavati",
+    "Tiếng Việt": "là",
+    "id": "Pali - 0907"
+  },
+  {
+    "Tiếng Pali": "vippavutto",
+    "Tiếng Việt": "ra khỏi, vắng mặt",
+    "id": "Pali - 0908"
+  },
+  {
+    "Tiếng Pali": "sakā",
+    "Tiếng Việt": "của riêng mình",
+    "id": "Pali - 0909"
+  },
+  {
+    "Tiếng Pali": "gharā",
+    "Tiếng Việt": "(từ) nhà",
+    "id": "Pali - 0910"
+  },
+  {
+    "Tiếng Pali": "bahūnaṃ",
+    "Tiếng Việt": "nhiều",
+    "id": "Pali - 0911"
+  },
+  {
+    "Tiếng Pali": "upajīvanti",
+    "Tiếng Việt": "phụ thuộc vào anh ấy",
+    "id": "Pali - 0912"
+  },
+  {
+    "Tiếng Pali": "yo",
+    "Tiếng Việt": "bất cứ ai",
+    "id": "Pali - 0913"
+  },
+  {
+    "Tiếng Pali": "na",
+    "Tiếng Việt": "không",
+    "id": "Pali - 0914"
+  },
+  {
+    "Tiếng Pali": "dūbhati (var. of dubbhati)",
+    "Tiếng Việt": "phản bội, lừa dối",
+    "id": "Pali - 0915"
+  },
+  {
+    "Tiếng Pali": "Yaṃyaṃ",
+    "Tiếng Việt": "bất cứ điều nào (điều nào + điều đó/ điều nào)",
+    "id": "Pali - 0916"
+  },
+  {
+    "Tiếng Pali": "janapadaṃ",
+    "Tiếng Việt": "đất, tỉnh",
+    "id": "Pali - 0917"
+  },
+  {
+    "Tiếng Pali": "yāti",
+    "Tiếng Việt": "anh ấy đi",
+    "id": "Pali - 0918"
+  },
+  {
+    "Tiếng Pali": "nigame",
+    "Tiếng Việt": "thị trấn nhỏ",
+    "id": "Pali - 0919"
+  },
+  {
+    "Tiếng Pali": "rājadhāniyo",
+    "Tiếng Việt": "hay thành phố hoàng gia/kinh thành",
+    "id": "Pali - 0920"
+  },
+  {
+    "Tiếng Pali": "sabbattha",
+    "Tiếng Việt": "mọi nơi",
+    "id": "Pali - 0921"
+  },
+  {
+    "Tiếng Pali": "pūjito",
+    "Tiếng Việt": "tôn kính",
+    "id": "Pali - 0922"
+  },
+  {
+    "Tiếng Pali": "hoti",
+    "Tiếng Việt": "là",
+    "id": "Pali - 0923"
+  },
+  {
+    "Tiếng Pali": "Nāssa=Na+assa",
+    "Tiếng Việt": "không phải+anh ấy",
+    "id": "Pali - 0924"
+  },
+  {
+    "Tiếng Pali": "corā",
+    "Tiếng Việt": "những kẻ trộm",
+    "id": "Pali - 0925"
+  },
+  {
+    "Tiếng Pali": "pasahanti",
+    "Tiếng Việt": "khuất phục",
+    "id": "Pali - 0926"
+  },
+  {
+    "Tiếng Pali": "nātimaññeti =na+atimaññeti",
+    "Tiếng Việt": "không bị khinh thường (đừng+khinh thường)",
+    "id": "Pali - 0927"
+  },
+  {
+    "Tiếng Pali": "khattiyo",
+    "Tiếng Việt": "một chiến binh, hoàng tử, người cai trị",
+    "id": "Pali - 0928"
+  },
+  {
+    "Tiếng Pali": "sabbe",
+    "Tiếng Việt": "tất cả",
+    "id": "Pali - 0929"
+  },
+  {
+    "Tiếng Pali": "amitte",
+    "Tiếng Việt": "kẻ thù",
+    "id": "Pali - 0930"
+  },
+  {
+    "Tiếng Pali": "tarati",
+    "Tiếng Việt": "chiến thắng, vượt qua",
+    "id": "Pali - 0931"
+  },
+  {
+    "Tiếng Pali": "Akuddho",
+    "Tiếng Việt": "không giận dữ",
+    "id": "Pali - 0932"
+  },
+  {
+    "Tiếng Pali": "sagharaṃ =sa+gharaṃ",
+    "Tiếng Việt": "đến nhà anh ấy (của chính mình+nhà)",
+    "id": "Pali - 0933"
+  },
+  {
+    "Tiếng Pali": "eti",
+    "Tiếng Việt": "đến, trở về",
+    "id": "Pali - 0934"
+  },
+  {
+    "Tiếng Pali": "sabhāya",
+    "Tiếng Việt": "cuộc hội nghị",
+    "id": "Pali - 0935"
+  },
+  {
+    "Tiếng Pali": "paṭinandito",
+    "Tiếng Việt": "chào mừng",
+    "id": "Pali - 0936"
+  },
+  {
+    "Tiếng Pali": "ñātīnaṃ",
+    "Tiếng Việt": "người thân",
+    "id": "Pali - 0937"
+  },
+  {
+    "Tiếng Pali": "uttamo",
+    "Tiếng Việt": "nổi tiếng",
+    "id": "Pali - 0938"
+  },
+  {
+    "Tiếng Pali": "Sakkatvā",
+    "Tiếng Việt": "hiếu khách",
+    "id": "Pali - 0939"
+  },
+  {
+    "Tiếng Pali": "sakkato",
+    "Tiếng Việt": "người nhận lòng hiếu khách",
+    "id": "Pali - 0940"
+  },
+  {
+    "Tiếng Pali": "garu",
+    "Tiếng Việt": "anh ấy được quý trọng",
+    "id": "Pali - 0941"
+  },
+  {
+    "Tiếng Pali": "sagāravo",
+    "Tiếng Việt": "quý trọng người khác, tôn trọng",
+    "id": "Pali - 0942"
+  },
+  {
+    "Tiếng Pali": "vaṇṇakittibhato =vaṇṇa+kitti+bhato",
+    "Tiếng Việt": "người nhận được lời khen ngợi và danh tiếng (khen ngợi+danh tiếng + mang)",
+    "id": "Pali - 0943"
+  },
+  {
+    "Tiếng Pali": "Pūjako",
+    "Tiếng Việt": "tôn trọng người khác",
+    "id": "Pali - 0944"
+  },
+  {
+    "Tiếng Pali": "labhate",
+    "Tiếng Việt": "nhận được, thu được",
+    "id": "Pali - 0945"
+  },
+  {
+    "Tiếng Pali": "pūjaṃ",
+    "Tiếng Việt": "tôn trọng",
+    "id": "Pali - 0946"
+  },
+  {
+    "Tiếng Pali": "vandako",
+    "Tiếng Việt": "tôn vinh người khác",
+    "id": "Pali - 0947"
+  },
+  {
+    "Tiếng Pali": "paṭivandanaṃ =paṭi+vandanaṃ",
+    "Tiếng Việt": "anh ấy được vinh danh (đổi lại+[anh ấy nhận được] danh dự)",
+    "id": "Pali - 0948"
+  },
+  {
+    "Tiếng Pali": "yaso",
+    "Tiếng Việt": "danh tiếng",
+    "id": "Pali - 0949"
+  },
+  {
+    "Tiếng Pali": "kittiñca",
+    "Tiếng Việt": "danh tiếng",
+    "id": "Pali - 0950"
+  },
+  {
+    "Tiếng Pali": "pappoti",
+    "Tiếng Việt": "đạt được",
+    "id": "Pali - 0951"
+  },
+  {
+    "Tiếng Pali": "Aggi",
+    "Tiếng Việt": "lửa",
+    "id": "Pali - 0952"
+  },
+  {
+    "Tiếng Pali": "yathā",
+    "Tiếng Việt": "giống như",
+    "id": "Pali - 0953"
+  },
+  {
+    "Tiếng Pali": "pajjalati",
+    "Tiếng Việt": "tỏa sáng",
+    "id": "Pali - 0954"
+  },
+  {
+    "Tiếng Pali": "devatāva=devatā+va",
+    "Tiếng Việt": "thiên thể + giống như",
+    "id": "Pali - 0955"
+  },
+  {
+    "Tiếng Pali": "virocati",
+    "Tiếng Việt": "anh ấy rạng rỡ, anh ấy tỏa sáng",
+    "id": "Pali - 0956"
+  },
+  {
+    "Tiếng Pali": "siriyā",
+    "Tiếng Việt": "may mắn",
+    "id": "Pali - 0957"
+  },
+  {
+    "Tiếng Pali": "ajahito",
+    "Tiếng Việt": "không bị bỏ rơi",
+    "id": "Pali - 0958"
+  },
+  {
+    "Tiếng Pali": "Gāvo",
+    "Tiếng Việt": "gia súc",
+    "id": "Pali - 0959"
+  },
+  {
+    "Tiếng Pali": "tassa",
+    "Tiếng Việt": "của anh ấy",
+    "id": "Pali - 0960"
+  },
+  {
+    "Tiếng Pali": "pajāyanti",
+    "Tiếng Việt": "nhân lên, tăng lên",
+    "id": "Pali - 0961"
+  },
+  {
+    "Tiếng Pali": "khette",
+    "Tiếng Việt": "trên đồng ruộng",
+    "id": "Pali - 0962"
+  },
+  {
+    "Tiếng Pali": "vuttaṃ",
+    "Tiếng Việt": "cái gì được gieo",
+    "id": "Pali - 0963"
+  },
+  {
+    "Tiếng Pali": "virūhati",
+    "Tiếng Việt": "lớn lên",
+    "id": "Pali - 0964"
+  },
+  {
+    "Tiếng Pali": "vuttānaṃ",
+    "Tiếng Việt": "bất kỳ cái gì được gieo",
+    "id": "Pali - 0965"
+  },
+  {
+    "Tiếng Pali": "phalamasnāti (=phalaṃ+asnāti)",
+    "Tiếng Việt": "anh ấy thích trái cây (trái cây + ăn, thưởng thức)",
+    "id": "Pali - 0966"
+  },
+  {
+    "Tiếng Pali": "Darito",
+    "Tiếng Việt": "từ khe hở (lỗ hổng)",
+    "id": "Pali - 0967"
+  },
+  {
+    "Tiếng Pali": "pabbatato",
+    "Tiếng Việt": "từ ngọn núi",
+    "id": "Pali - 0968"
+  },
+  {
+    "Tiếng Pali": "vā",
+    "Tiếng Việt": "hoặc",
+    "id": "Pali - 0969"
+  },
+  {
+    "Tiếng Pali": "rukkhato",
+    "Tiếng Việt": "từ cái cây",
+    "id": "Pali - 0970"
+  },
+  {
+    "Tiếng Pali": "patito",
+    "Tiếng Việt": "rụng xuống",
+    "id": "Pali - 0971"
+  },
+  {
+    "Tiếng Pali": "naro",
+    "Tiếng Việt": "người đàn ông",
+    "id": "Pali - 0972"
+  },
+  {
+    "Tiếng Pali": "cuto",
+    "Tiếng Việt": "khi rụng xuống",
+    "id": "Pali - 0973"
+  },
+  {
+    "Tiếng Pali": "patiṭṭhaṃ",
+    "Tiếng Việt": "chỗ đứng vững chắc, giúp đỡ, hỗ trợ",
+    "id": "Pali - 0974"
+  },
+  {
+    "Tiếng Pali": "labhati",
+    "Tiếng Việt": "tìm kiếm",
+    "id": "Pali - 0975"
+  },
+  {
+    "Tiếng Pali": "Virūḷhamūlasantānaṃ (=Virūḷha+ mūla+santānaṃ)",
+    "Tiếng Việt": "có rễ lan xa (trưởng thành+rễ + kế thừa, lan rộng, liên tục)",
+    "id": "Pali - 0976"
+  },
+  {
+    "Tiếng Pali": "nigrodhamiva (=nigrodham+iva)",
+    "Tiếng Việt": "giống như cây banyan (cây banyan+giống như)",
+    "id": "Pali - 0977"
+  },
+  {
+    "Tiếng Pali": "māluto",
+    "Tiếng Việt": "từ ngọn gió",
+    "id": "Pali - 0978"
+  },
+  {
+    "Tiếng Pali": "amittā",
+    "Tiếng Việt": "kẻ thù",
+    "id": "Pali - 0979"
+  },
+  {
+    "Tiếng Pali": "pasahanti",
+    "Tiếng Việt": "khuất phục",
+    "id": "Pali - 0980"
+  },
+  {
+    "Tiếng Pali": "Yaṃ",
+    "Tiếng Việt": "điều nào",
+    "id": "Pali - 0981"
+  },
+  {
+    "Tiếng Pali": "maṅgalaṃ",
+    "Tiếng Việt": "phước lành, điềm lành, thịnh vượng",
+    "id": "Pali - 0982"
+  },
+  {
+    "Tiếng Pali": "dvādasahi",
+    "Tiếng Việt": "trong mười hai (năm)",
+    "id": "Pali - 0983"
+  },
+  {
+    "Tiếng Pali": "cintayiṃsu",
+    "Tiếng Việt": "đã suy nghĩ lại",
+    "id": "Pali - 0984"
+  },
+  {
+    "Tiếng Pali": "sadevakā",
+    "Tiếng Việt": "cùng với chư thiên",
+    "id": "Pali - 0985"
+  },
+  {
+    "Tiếng Pali": "sotthānaṃ",
+    "Tiếng Việt": "phước lành, thịnh vượng",
+    "id": "Pali - 0986"
+  },
+  {
+    "Tiếng Pali": "nādhigacchanti (=na+adhigacchanti)",
+    "Tiếng Việt": "không đến được (không+đến được)",
+    "id": "Pali - 0987"
+  },
+  {
+    "Tiếng Pali": "aṭṭhatiṃsañca",
+    "Tiếng Việt": "ba mươi tám",
+    "id": "Pali - 0988"
+  },
+  {
+    "Tiếng Pali": "Desitaṃ",
+    "Tiếng Việt": "đã dạy",
+    "id": "Pali - 0989"
+  },
+  {
+    "Tiếng Pali": "devadevena",
+    "Tiếng Việt": "chúng sinh cõi trời cao nhất (Đại phạm thiên)",
+    "id": "Pali - 0990"
+  },
+  {
+    "Tiếng Pali": "sabbapāpavināsanaṃ (=sabba+pāpa+vināsanaṃ)",
+    "Tiếng Việt": "sẽ tiêu diệt tất cả điều ác (tất cả + điều ác + sự hủy diệt)",
+    "id": "Pali - 0991"
+  },
+  {
+    "Tiếng Pali": "sabbaloka-hitatthāya (=sabba+loka+hita+atthāya)",
+    "Tiếng Việt": "vì lợi ích của tất cả thế giới (tất cả+thế giới+lợi ích+ vì mục đích)",
+    "id": "Pali - 0992"
+  },
+  {
+    "Tiếng Pali": "taṃ",
+    "Tiếng Việt": "đó",
+    "id": "Pali - 0993"
+  },
+  {
+    "Tiếng Pali": "bhaṇāmahe",
+    "Tiếng Việt": "hãy để chúng tôi tụng",
+    "id": "Pali - 0994"
+  },
+  {
+    "Tiếng Pali": "Evaṃ",
+    "Tiếng Việt": "như vậy",
+    "id": "Pali - 0995"
+  },
+  {
+    "Tiếng Pali": "me",
+    "Tiếng Việt": "bởi tôi",
+    "id": "Pali - 0996"
+  },
+  {
+    "Tiếng Pali": "sutaṃ",
+    "Tiếng Việt": "đã được nghe",
+    "id": "Pali - 0997"
+  },
+  {
+    "Tiếng Pali": "ekaṃ",
+    "Tiếng Việt": "một, chắc chắn",
+    "id": "Pali - 0998"
+  },
+  {
+    "Tiếng Pali": "samayaṃ",
+    "Tiếng Việt": "thời gian, dịp",
+    "id": "Pali - 0999"
+  },
+  {
+    "Tiếng Pali": "bhagavā",
+    "Tiếng Việt": "Đức Thế Tôn",
+    "id": "Pali - 1000"
+  },
+  {
+    "Tiếng Pali": "sāvatthiyaṃ",
+    "Tiếng Việt": "tại Sāvatthi (một thành phố)",
+    "id": "Pali - 1001"
+  },
+  {
+    "Tiếng Pali": "viharati",
+    "Tiếng Việt": "trú ngụ",
+    "id": "Pali - 1002"
+  },
+  {
+    "Tiếng Pali": "jetavane",
+    "Tiếng Việt": "tại Jetavana (khu rừng của Jeta)",
+    "id": "Pali - 1003"
+  },
+  {
+    "Tiếng Pali": "anāthapiṇḍikassa",
+    "Tiếng Việt": "của Anāthapiṇḍika (một đệ tử cư sĩ của Đức Phật)",
+    "id": "Pali - 1004"
+  },
+  {
+    "Tiếng Pali": "ārāme",
+    "Tiếng Việt": "tu viện",
+    "id": "Pali - 1005"
+  },
+  {
+    "Tiếng Pali": "atha",
+    "Tiếng Việt": "sau đó",
+    "id": "Pali - 1006"
+  },
+  {
+    "Tiếng Pali": "kho",
+    "Tiếng Việt": "quả thực",
+    "id": "Pali - 1007"
+  },
+  {
+    "Tiếng Pali": "aññatarā",
+    "Tiếng Việt": "một người nào đó, một số",
+    "id": "Pali - 1008"
+  },
+  {
+    "Tiếng Pali": "devatā",
+    "Tiếng Việt": "(nữ) vị thần (nữ)",
+    "id": "Pali - 1009"
+  },
+  {
+    "Tiếng Pali": "abhikkantāya",
+    "Tiếng Việt": "trình độ cao, tiến hóa",
+    "id": "Pali - 1010"
+  },
+  {
+    "Tiếng Pali": "rattiyā",
+    "Tiếng Việt": "đêm",
+    "id": "Pali - 1011"
+  },
+  {
+    "Tiếng Pali": "abhikkantavaṇṇā (=abhikkanta+vaṇṇā)",
+    "Tiếng Việt": "có nước da đẹp/ có đặc điểm tốt (vượt trội+vẻ đẹp)",
+    "id": "Pali - 1012"
+  },
+  {
+    "Tiếng Pali": "kevalakappaṃ",
+    "Tiếng Việt": "toàn bộ của nó",
+    "id": "Pali - 1013"
+  },
+  {
+    "Tiếng Pali": "jetavanaṃ",
+    "Tiếng Việt": "khu rừng Jeta",
+    "id": "Pali - 1014"
+  },
+  {
+    "Tiếng Pali": "obhāsetvā",
+    "Tiếng Việt": "chiếu sáng",
+    "id": "Pali - 1015"
+  },
+  {
+    "Tiếng Pali": "yena",
+    "Tiếng Việt": "ở đâu",
+    "id": "Pali - 1016"
+  },
+  {
+    "Tiếng Pali": "tenupasaṅkami (=tena+upasaṅkami)",
+    "Tiếng Việt": "ở đó+đã đi/tiếp cận",
+    "id": "Pali - 1017"
+  },
+  {
+    "Tiếng Pali": "upasaṅkamitvā",
+    "Tiếng Việt": "đã đến đó",
+    "id": "Pali - 1018"
+  },
+  {
+    "Tiếng Pali": "bhagavantaṃ",
+    "Tiếng Việt": "Đức Thế Tôn",
+    "id": "Pali - 1019"
+  },
+  {
+    "Tiếng Pali": "abhivādetvā",
+    "Tiếng Việt": "chào",
+    "id": "Pali - 1020"
+  },
+  {
+    "Tiếng Pali": "ekamantaṃ",
+    "Tiếng Việt": "một bên",
+    "id": "Pali - 1021"
+  },
+  {
+    "Tiếng Pali": "aṭṭhāsi",
+    "Tiếng Việt": "đã đứng lại",
+    "id": "Pali - 1022"
+  },
+  {
+    "Tiếng Pali": "thitā",
+    "Tiếng Việt": "đang đứng",
+    "id": "Pali - 1023"
+  },
+  {
+    "Tiếng Pali": "sā",
+    "Tiếng Việt": "cô ấy",
+    "id": "Pali - 1024"
+  },
+  {
+    "Tiếng Pali": "gāthāya",
+    "Tiếng Việt": "trong câu kệ",
+    "id": "Pali - 1025"
+  },
+  {
+    "Tiếng Pali": "ajjhabhāsi",
+    "Tiếng Việt": "đã gọi, đã lên tiếng",
+    "id": "Pali - 1026"
+  },
+  {
+    "Tiếng Pali": "Bahū",
+    "Tiếng Việt": "nhiều",
+    "id": "Pali - 1027"
+  },
+  {
+    "Tiếng Pali": "devā",
+    "Tiếng Việt": "chư thiên",
+    "id": "Pali - 1028"
+  },
+  {
+    "Tiếng Pali": "manussā",
+    "Tiếng Việt": "con người",
+    "id": "Pali - 1029"
+  },
+  {
+    "Tiếng Pali": "ca",
+    "Tiếng Việt": "cũng thế, cũng vậy",
+    "id": "Pali - 1030"
+  },
+  {
+    "Tiếng Pali": "maṅgalāni",
+    "Tiếng Việt": "phước lành, phúc lợi, tốt lành",
+    "id": "Pali - 1031"
+  },
+  {
+    "Tiếng Pali": "acintayuṃ",
+    "Tiếng Việt": "đã nghĩ đi nghĩ lại",
+    "id": "Pali - 1032"
+  },
+  {
+    "Tiếng Pali": "ākaṅkhamānā",
+    "Tiếng Việt": "mong muốn cho",
+    "id": "Pali - 1033"
+  },
+  {
+    "Tiếng Pali": "brūhi",
+    "Tiếng Việt": "bạn nói",
+    "id": "Pali - 1034"
+  },
+  {
+    "Tiếng Pali": "maṅgalamuttamaṃ (=maṅgalaṃ+ uttamaṃ)",
+    "Tiếng Việt": "phước lành cao nhất (phước lành+cao nhất, tốt nhất)",
+    "id": "Pali - 1035"
+  },
+  {
+    "Tiếng Pali": "Asevanā",
+    "Tiếng Việt": "tránh, không giao thiệp với",
+    "id": "Pali - 1036"
+  },
+  {
+    "Tiếng Pali": "bālānaṃ",
+    "Tiếng Việt": "những kẻ ngu (của)",
+    "id": "Pali - 1037"
+  },
+  {
+    "Tiếng Pali": "paṇḍitānaṃ",
+    "Tiếng Việt": "những bậc trí",
+    "id": "Pali - 1038"
+  },
+  {
+    "Tiếng Pali": "sevanā",
+    "Tiếng Việt": "giao thiệp với",
+    "id": "Pali - 1039"
+  },
+  {
+    "Tiếng Pali": "pūjā",
+    "Tiếng Việt": "tôn kính",
+    "id": "Pali - 1040"
+  },
+  {
+    "Tiếng Pali": "pūjanīyānaṃ",
+    "Tiếng Việt": "người đáng được tôn kính",
+    "id": "Pali - 1041"
+  },
+  {
+    "Tiếng Pali": "Patirūpa+desavāso",
+    "Tiếng Việt": "thích hợp, thích đáng+vùng, quốc gia",
+    "id": "Pali - 1042"
+  },
+  {
+    "Tiếng Pali": "pubbe",
+    "Tiếng Việt": "quá khứ",
+    "id": "Pali - 1043"
+  },
+  {
+    "Tiếng Pali": "katapuññatā (=kata+puññatā)",
+    "Tiếng Việt": "công đức của những việc làm tốt trong quá khứ (đã làm + việc tốt)",
+    "id": "Pali - 1044"
+  },
+  {
+    "Tiếng Pali": "atta-sammāpaṇidhi (=atta+sammā+paṇidhi)",
+    "Tiếng Việt": "cái tôi+chánh+tâm nguyện",
+    "id": "Pali - 1045"
+  },
+  {
+    "Tiếng Pali": "Bāhusaccañca (=Bāhu+saccaṃ+ca)",
+    "Tiếng Việt": "học rộng hiểu nhiều/kiến thức rộng (giỏi+sự thật+và)",
+    "id": "Pali - 1046"
+  },
+  {
+    "Tiếng Pali": "sippaṃ",
+    "Tiếng Việt": "kỹ năng",
+    "id": "Pali - 1047"
+  },
+  {
+    "Tiếng Pali": "vinayo",
+    "Tiếng Việt": "kỉ luật",
+    "id": "Pali - 1048"
+  },
+  {
+    "Tiếng Pali": "susikkhito",
+    "Tiếng Việt": "làm chủ tốt",
+    "id": "Pali - 1049"
+  },
+  {
+    "Tiếng Pali": "subhāsitā=su+bhāsitā",
+    "Tiếng Việt": "nói tốt (tốt + nói)",
+    "id": "Pali - 1050"
+  },
+  {
+    "Tiếng Pali": "yā",
+    "Tiếng Việt": "đó",
+    "id": "Pali - 1051"
+  },
+  {
+    "Tiếng Pali": "vācā",
+    "Tiếng Việt": "lời nói",
+    "id": "Pali - 1052"
+  },
+  {
+    "Tiếng Pali": "Mātā-pitu",
+    "Tiếng Việt": "mẹ-cha",
+    "id": "Pali - 1053"
+  },
+  {
+    "Tiếng Pali": "upaṭṭhānaṃ",
+    "Tiếng Việt": "phục vụ",
+    "id": "Pali - 1054"
+  },
+  {
+    "Tiếng Pali": "puttadārassa",
+    "Tiếng Việt": "con cái và người phối ngẫu/vợ-chồng",
+    "id": "Pali - 1055"
+  },
+  {
+    "Tiếng Pali": "saṅgaho",
+    "Tiếng Việt": "chăm sóc, chăm nom",
+    "id": "Pali - 1056"
+  },
+  {
+    "Tiếng Pali": "anākulā=an+ākulā",
+    "Tiếng Việt": "đơn giản (không + rối rắm, xuyên tạc)",
+    "id": "Pali - 1057"
+  },
+  {
+    "Tiếng Pali": "kammantā",
+    "Tiếng Việt": "nghề nghiệp",
+    "id": "Pali - 1058"
+  },
+  {
+    "Tiếng Pali": "Dānaṃ+ca",
+    "Tiếng Việt": "hào phóng+và",
+    "id": "Pali - 1059"
+  },
+  {
+    "Tiếng Pali": "dhammacariyā",
+    "Tiếng Việt": "cuộc đời Dhamma",
+    "id": "Pali - 1060"
+  },
+  {
+    "Tiếng Pali": "ñātakānaṃ",
+    "Tiếng Việt": "họ hàng",
+    "id": "Pali - 1061"
+  },
+  {
+    "Tiếng Pali": "anavajjāni",
+    "Tiếng Việt": "vô tội",
+    "id": "Pali - 1062"
+  },
+  {
+    "Tiếng Pali": "kammāni",
+    "Tiếng Việt": "việc làm",
+    "id": "Pali - 1063"
+  },
+  {
+    "Tiếng Pali": "Āratī",
+    "Tiếng Việt": "sự kiêng tránh",
+    "id": "Pali - 1064"
+  },
+  {
+    "Tiếng Pali": "viratī",
+    "Tiếng Việt": "tránh",
+    "id": "Pali - 1065"
+  },
+  {
+    "Tiếng Pali": "pāpā",
+    "Tiếng Việt": "xấu ác",
+    "id": "Pali - 1066"
+  },
+  {
+    "Tiếng Pali": "majjapānā",
+    "Tiếng Việt": "uống rượu và chất say",
+    "id": "Pali - 1067"
+  },
+  {
+    "Tiếng Pali": "samyamo",
+    "Tiếng Việt": "kiềm chế",
+    "id": "Pali - 1068"
+  },
+  {
+    "Tiếng Pali": "appamādo",
+    "Tiếng Việt": "cảnh giác, thận trọng",
+    "id": "Pali - 1069"
+  },
+  {
+    "Tiếng Pali": "dhammesu",
+    "Tiếng Việt": "trong Dhamma",
+    "id": "Pali - 1070"
+  },
+  {
+    "Tiếng Pali": "Gāravo",
+    "Tiếng Việt": "sự kính cẩn",
+    "id": "Pali - 1071"
+  },
+  {
+    "Tiếng Pali": "nivāto",
+    "Tiếng Việt": "khiêm tốn",
+    "id": "Pali - 1072"
+  },
+  {
+    "Tiếng Pali": "santuṭṭhi",
+    "Tiếng Việt": "hài lòng",
+    "id": "Pali - 1073"
+  },
+  {
+    "Tiếng Pali": "kataññutā",
+    "Tiếng Việt": "biết ơn",
+    "id": "Pali - 1074"
+  },
+  {
+    "Tiếng Pali": "kālena",
+    "Tiếng Việt": "đúng thời",
+    "id": "Pali - 1075"
+  },
+  {
+    "Tiếng Pali": "dhammassavanaṃ",
+    "Tiếng Việt": "lắng nghe Dhamma",
+    "id": "Pali - 1076"
+  },
+  {
+    "Tiếng Pali": "Khantī",
+    "Tiếng Việt": "kham nhẫn, kiên nhẫn",
+    "id": "Pali - 1077"
+  },
+  {
+    "Tiếng Pali": "sovacassatā",
+    "Tiếng Việt": "sự tuân theo sự hướng dẫn, sự quy thuận, sự vâng lời",
+    "id": "Pali - 1078"
+  },
+  {
+    "Tiếng Pali": "samaṇānaṃ",
+    "Tiếng Việt": "bậc thánh",
+    "id": "Pali - 1079"
+  },
+  {
+    "Tiếng Pali": "dassanaṃ",
+    "Tiếng Việt": "thăm quan, ngắm nhìn",
+    "id": "Pali - 1080"
+  },
+  {
+    "Tiếng Pali": "dhammasākacchā",
+    "Tiếng Việt": "bàn luận về Dhamma",
+    "id": "Pali - 1081"
+  },
+  {
+    "Tiếng Pali": "Tapo",
+    "Tiếng Việt": "thực hành chuyên cần",
+    "id": "Pali - 1082"
+  },
+  {
+    "Tiếng Pali": "brahmacariyaṃ",
+    "Tiếng Việt": "đời sống thánh thiện, sự tiết chế",
+    "id": "Pali - 1083"
+  },
+  {
+    "Tiếng Pali": "ariyasaccāna-dassanaṃ=ariya+saccānaṃ+dassanaṃ",
+    "Tiếng Việt": "thực chứng những sự thật cao quý (cao quý+của sự thật+ thực chứng)",
+    "id": "Pali - 1084"
+  },
+  {
+    "Tiếng Pali": "nibbānasacchikiriyā (=nibbāna+ sacchikiriyā)",
+    "Tiếng Việt": "kinh nghiệm nibbāna (nibbāna+kinh nghiệm)",
+    "id": "Pali - 1085"
+  },
+  {
+    "Tiếng Pali": "Phuṭṭhassa",
+    "Tiếng Việt": "đối mặt, đối diện với, tiếp xúc với",
+    "id": "Pali - 1086"
+  },
+  {
+    "Tiếng Pali": "lokadhammehi (=loka+dhammehi)",
+    "Tiếng Việt": "các pháp của thế gian (thế gian+theo pháp/điều kiện)",
+    "id": "Pali - 1087"
+  },
+  {
+    "Tiếng Pali": "cittaṃ",
+    "Tiếng Việt": "tâm",
+    "id": "Pali - 1088"
+  },
+  {
+    "Tiếng Pali": "yassa",
+    "Tiếng Việt": "của người mà",
+    "id": "Pali - 1089"
+  },
+  {
+    "Tiếng Pali": "na",
+    "Tiếng Việt": "không",
+    "id": "Pali - 1090"
+  },
+  {
+    "Tiếng Pali": "kampati",
+    "Tiếng Việt": "run rẩy, rung chuyển",
+    "id": "Pali - 1091"
+  },
+  {
+    "Tiếng Pali": "asokaṃ",
+    "Tiếng Việt": "thoát khỏi đau khổ",
+    "id": "Pali - 1092"
+  },
+  {
+    "Tiếng Pali": "virajaṃ",
+    "Tiếng Việt": "thoát khỏi phiền não",
+    "id": "Pali - 1093"
+  },
+  {
+    "Tiếng Pali": "khemaṃ",
+    "Tiếng Việt": "an toàn",
+    "id": "Pali - 1094"
+  },
+  {
+    "Tiếng Pali": "Etādisāni",
+    "Tiếng Việt": "cách này",
+    "id": "Pali - 1095"
+  },
+  {
+    "Tiếng Pali": "katvāna",
+    "Tiếng Việt": "đã hành động",
+    "id": "Pali - 1096"
+  },
+  {
+    "Tiếng Pali": "sabbatthamaparājitā (=sabbathaṃ+aparājitā)",
+    "Tiếng Việt": "mọi nơi+bất bại",
+    "id": "Pali - 1097"
+  },
+  {
+    "Tiếng Pali": "sabbatthasotthiṃ (=sabbatha+sotthiṃ)",
+    "Tiếng Việt": "mọi nơi+an toàn",
+    "id": "Pali - 1098"
+  },
+  {
+    "Tiếng Pali": "gacchanti",
+    "Tiếng Việt": "họ đi",
+    "id": "Pali - 1099"
+  },
+  {
+    "Tiếng Pali": "Ahaṃ",
+    "Tiếng Việt": "Tôi",
+    "id": "Pali - 1100"
+  },
+  {
+    "Tiếng Pali": "avero",
+    "Tiếng Việt": "thoát khỏi sự hận thù",
+    "id": "Pali - 1101"
+  },
+  {
+    "Tiếng Pali": "homi",
+    "Tiếng Việt": "nguyện cho tôi",
+    "id": "Pali - 1102"
+  },
+  {
+    "Tiếng Pali": "abyāpajjho",
+    "Tiếng Việt": "thoát khỏi sự ghét bỏ",
+    "id": "Pali - 1103"
+  },
+  {
+    "Tiếng Pali": "Anīgho (=an+īgha)",
+    "Tiếng Việt": "không bị xáo trộn (không+run sợ, bối rối)",
+    "id": "Pali - 1104"
+  },
+  {
+    "Tiếng Pali": "sukhī",
+    "Tiếng Việt": "hạnh phúc",
+    "id": "Pali - 1105"
+  },
+  {
+    "Tiếng Pali": "attānaṃ",
+    "Tiếng Việt": "chính tôi",
+    "id": "Pali - 1106"
+  },
+  {
+    "Tiếng Pali": "pariharāmi",
+    "Tiếng Việt": "chăm sóc, bảo vệ, che chở",
+    "id": "Pali - 1107"
+  },
+  {
+    "Tiếng Pali": "Mātā-pitu-ācariya-ñāti-samūhā",
+    "Tiếng Việt": "mẹ-cha-thầy tổ- thân quyến-vô số (số đông, sự tập hợp)",
+    "id": "Pali - 1108"
+  },
+  {
+    "Tiếng Pali": "hontu",
+    "Tiếng Việt": "nguyện cho họ",
+    "id": "Pali - 1109"
+  },
+  {
+    "Tiếng Pali": "Ārakkhadevatā",
+    "Tiếng Việt": "chư thiên hộ trì",
+    "id": "Pali - 1110"
+  },
+  {
+    "Tiếng Pali": "bhūmaṭṭhadevatā",
+    "Tiếng Việt": "chư thiên trên trái đất",
+    "id": "Pali - 1111"
+  },
+  {
+    "Tiếng Pali": "rukkhaṭṭhadevatā",
+    "Tiếng Việt": "chư thiên trên cây cối/thọ thần",
+    "id": "Pali - 1112"
+  },
+  {
+    "Tiếng Pali": "ākāsaṭṭhadevatā",
+    "Tiếng Việt": "chư thiên trên hư không",
+    "id": "Pali - 1113"
+  },
+  {
+    "Tiếng Pali": "Puratthimāya",
+    "Tiếng Việt": "hướng đông",
+    "id": "Pali - 1114"
+  },
+  {
+    "Tiếng Pali": "disāya",
+    "Tiếng Việt": "phương hướng",
+    "id": "Pali - 1115"
+  },
+  {
+    "Tiếng Pali": "anudisāya",
+    "Tiếng Việt": "ở giữa",
+    "id": "Pali - 1116"
+  },
+  {
+    "Tiếng Pali": "Dakkhiṇāya",
+    "Tiếng Việt": "hướng nam",
+    "id": "Pali - 1117"
+  },
+  {
+    "Tiếng Pali": "Pacchimāya",
+    "Tiếng Việt": "hướng tây",
+    "id": "Pali - 1118"
+  },
+  {
+    "Tiếng Pali": "Uttarāya",
+    "Tiếng Việt": "hướng bắc",
+    "id": "Pali - 1119"
+  },
+  {
+    "Tiếng Pali": "Uparimāya",
+    "Tiếng Việt": "phía trên",
+    "id": "Pali - 1120"
+  },
+  {
+    "Tiếng Pali": "heṭṭhimāya",
+    "Tiếng Việt": "phía dưới",
+    "id": "Pali - 1121"
+  },
+  {
+    "Tiếng Pali": "Sabbe",
+    "Tiếng Việt": "tất cả",
+    "id": "Pali - 1122"
+  },
+  {
+    "Tiếng Pali": "sattā",
+    "Tiếng Việt": "chúng sinh",
+    "id": "Pali - 1123"
+  },
+  {
+    "Tiếng Pali": "pāṇā",
+    "Tiếng Việt": "đang sống",
+    "id": "Pali - 1124"
+  },
+  {
+    "Tiếng Pali": "bhūtā",
+    "Tiếng Việt": "loài vật",
+    "id": "Pali - 1125"
+  },
+  {
+    "Tiếng Pali": "puggalā",
+    "Tiếng Việt": "cá nhân",
+    "id": "Pali - 1126"
+  },
+  {
+    "Tiếng Pali": "attabhāvapariyāpannā",
+    "Tiếng Việt": "có bất kỳ hình thức sống nào",
+    "id": "Pali - 1127"
+  },
+  {
+    "Tiếng Pali": "itthiyo",
+    "Tiếng Việt": "nữ, phụ nữ",
+    "id": "Pali - 1128"
+  },
+  {
+    "Tiếng Pali": "purisā",
+    "Tiếng Việt": "nam, đàn ông",
+    "id": "Pali - 1129"
+  },
+  {
+    "Tiếng Pali": "ariyā",
+    "Tiếng Việt": "người đã đạt được tâm thanh tịnh",
+    "id": "Pali - 1130"
+  },
+  {
+    "Tiếng Pali": "anariyā",
+    "Tiếng Việt": "người chưa đạt được tâm thanh tịnh",
+    "id": "Pali - 1131"
+  },
+  {
+    "Tiếng Pali": "manussā",
+    "Tiếng Việt": "đàn ông, nhân loại",
+    "id": "Pali - 1132"
+  },
+  {
+    "Tiếng Pali": "amanussā",
+    "Tiếng Việt": "phi nhân",
+    "id": "Pali - 1133"
+  },
+  {
+    "Tiếng Pali": "devā",
+    "Tiếng Việt": "chư thiên",
+    "id": "Pali - 1134"
+  },
+  {
+    "Tiếng Pali": "vinipātikā",
+    "Tiếng Việt": "trong trạng thái khốn khổ (địa ngục)",
+    "id": "Pali - 1135"
+  },
+  {
+    "Tiếng Pali": "ca",
+    "Tiếng Việt": "cũng thế, cũng vậy, và",
+    "id": "Pali - 1136"
+  },
+  {
+    "Tiếng Pali": "khemino",
+    "Tiếng Việt": "an toàn",
+    "id": "Pali - 1137"
+  },
+  {
+    "Tiếng Pali": "bhadrāṇi",
+    "Tiếng Việt": "sự may mắn, điềm lành",
+    "id": "Pali - 1138"
+  },
+  {
+    "Tiếng Pali": "passantu",
+    "Tiếng Việt": "thấy",
+    "id": "Pali - 1139"
+  },
+  {
+    "Tiếng Pali": "mā",
+    "Tiếng Việt": "đừng (tiểu từ không biến đổi chỉ sự ngăn cấm)",
+    "id": "Pali - 1140"
+  },
+  {
+    "Tiếng Pali": "kiñci",
+    "Tiếng Việt": "một điều gì đó",
+    "id": "Pali - 1141"
+  },
+  {
+    "Tiếng Pali": "pāpamāgamā",
+    "Tiếng Việt": "gặp ác quỷ",
+    "id": "Pali - 1142"
+  },
+  {
+    "Tiếng Pali": "encounter",
+    "Tiếng Việt": "gặp đau buồn",
+    "id": "Pali - 1143"
+  },
+  {
+    "Tiếng Pali": "Anicca",
+    "Tiếng Việt": "vô thường",
+    "id": "Pali - 1144"
+  },
+  {
+    "Tiếng Pali": "vata",
+    "Tiếng Việt": "quả thực, thật vậy",
+    "id": "Pali - 1145"
+  },
+  {
+    "Tiếng Pali": "saṅkhārā",
+    "Tiếng Việt": "sự vật/hiện tượng phức hợp (có điều kiện)",
+    "id": "Pali - 1146"
+  },
+  {
+    "Tiếng Pali": "Uppādavayadhammino (=uppāda+vaya+dhammino)",
+    "Tiếng Việt": "có bản chất sinh và diệt (sinh+diệt+bản chất)",
+    "id": "Pali - 1147"
+  },
+  {
+    "Tiếng Pali": "uppajjitvā",
+    "Tiếng Việt": "đã nhìn thấy",
+    "id": "Pali - 1148"
+  },
+  {
+    "Tiếng Pali": "nirujjhanti",
+    "Tiếng Việt": "(họ) bị tiêu diệt, chấm dứt",
+    "id": "Pali - 1149"
+  },
+  {
+    "Tiếng Pali": "tesaṃ",
+    "Tiếng Việt": "của họ",
+    "id": "Pali - 1150"
+  },
+  {
+    "Tiếng Pali": "vūpasamo",
+    "Tiếng Việt": "sự chấm dứt",
+    "id": "Pali - 1151"
+  },
+  {
+    "Tiếng Pali": "sukho",
+    "Tiếng Việt": "(là) hạnh phúc",
+    "id": "Pali - 1152"
+  },
+  {
+    "Tiếng Pali": "Sabbe",
+    "Tiếng Việt": "tất cả",
+    "id": "Pali - 1153"
+  },
+  {
+    "Tiếng Pali": "yadā",
+    "Tiếng Việt": "khi nào",
+    "id": "Pali - 1154"
+  },
+  {
+    "Tiếng Pali": "paññāya",
+    "Tiếng Việt": "với trí tuệ/tuệ giác",
+    "id": "Pali - 1155"
+  },
+  {
+    "Tiếng Pali": "passati",
+    "Tiếng Việt": "nhận ra, nhận thức",
+    "id": "Pali - 1156"
+  },
+  {
+    "Tiếng Pali": "atha",
+    "Tiếng Việt": "sau đó",
+    "id": "Pali - 1157"
+  },
+  {
+    "Tiếng Pali": "nibbindati",
+    "Tiếng Việt": "trở nên mệt mỏi/chán ghét",
+    "id": "Pali - 1158"
+  },
+  {
+    "Tiếng Pali": "dukkhe",
+    "Tiếng Việt": "(hướng về) khổ đau",
+    "id": "Pali - 1159"
+  },
+  {
+    "Tiếng Pali": "esa",
+    "Tiếng Việt": "đây (là)",
+    "id": "Pali - 1160"
+  },
+  {
+    "Tiếng Pali": "maggo",
+    "Tiếng Việt": "con đường",
+    "id": "Pali - 1161"
+  },
+  {
+    "Tiếng Pali": "visuddhiyā",
+    "Tiếng Việt": "(của) sự thanh lọc",
+    "id": "Pali - 1162"
+  },
+  {
+    "Tiếng Pali": "Yato yato (yato)",
+    "Tiếng Việt": "bất cứ khi nào, bất cứ ở đâu (từ đó, từ đâu)",
+    "id": "Pali - 1163"
+  },
+  {
+    "Tiếng Pali": "sammasati",
+    "Tiếng Việt": "nắm bắt/hiểu rõ/biết tường tận",
+    "id": "Pali - 1164"
+  },
+  {
+    "Tiếng Pali": "khandhānaṃ",
+    "Tiếng Việt": "của những tập hợp",
+    "id": "Pali - 1165"
+  },
+  {
+    "Tiếng Pali": "udayabbayaṃ",
+    "Tiếng Việt": "sinh và diệt, khởi sinh và diệt đi",
+    "id": "Pali - 1166"
+  },
+  {
+    "Tiếng Pali": "labhatī",
+    "Tiếng Việt": "có được, kinh nghiệm được",
+    "id": "Pali - 1167"
+  },
+  {
+    "Tiếng Pali": "pīti",
+    "Tiếng Việt": "sự sung sướng vô ngần, trạng thái nhập định (hỷ)",
+    "id": "Pali - 1168"
+  },
+  {
+    "Tiếng Pali": "pāmojjaṃ",
+    "Tiếng Việt": "hạnh phúc, sự vui sướng",
+    "id": "Pali - 1169"
+  },
+  {
+    "Tiếng Pali": "amataṃ",
+    "Tiếng Việt": "trạng thái bất tử (đối cách.)",
+    "id": "Pali - 1170"
+  },
+  {
+    "Tiếng Pali": "taṃ",
+    "Tiếng Việt": "đó",
+    "id": "Pali - 1171"
+  },
+  {
+    "Tiếng Pali": "vijānataṃ",
+    "Tiếng Việt": "đã hiểu",
+    "id": "Pali - 1172"
+  },
+  {
+    "Tiếng Pali": "Puññānumodanaṃ (=puñña+anumodanaṃ)",
+    "Tiếng Việt": "sự chấp thuận/nhận, tạ ơn (công đức + sự chấp nhận)",
+    "id": "Pali - 1173"
+  },
+  {
+    "Tiếng Pali": "Sabbesu",
+    "Tiếng Việt": "(trong) tất cả",
+    "id": "Pali - 1174"
+  },
+  {
+    "Tiếng Pali": "cakkavāḷesu",
+    "Tiếng Việt": "hệ thống thế giới",
+    "id": "Pali - 1175"
+  },
+  {
+    "Tiếng Pali": "yakkhā",
+    "Tiếng Việt": "phi nhân, ma quỷ (dạ xoa)",
+    "id": "Pali - 1176"
+  },
+  {
+    "Tiếng Pali": "devā",
+    "Tiếng Việt": "chư thiên",
+    "id": "Pali - 1177"
+  },
+  {
+    "Tiếng Pali": "ca",
+    "Tiếng Việt": "và",
+    "id": "Pali - 1178"
+  },
+  {
+    "Tiếng Pali": "brahmuno",
+    "Tiếng Việt": "phạm thiên",
+    "id": "Pali - 1179"
+  },
+  {
+    "Tiếng Pali": "Yaṃ",
+    "Tiếng Việt": "bất cứ điều gì",
+    "id": "Pali - 1180"
+  },
+  {
+    "Tiếng Pali": "amhehi",
+    "Tiếng Việt": "bởi chúng tôi",
+    "id": "Pali - 1181"
+  },
+  {
+    "Tiếng Pali": "kataṃ",
+    "Tiếng Việt": "hoàn thành",
+    "id": "Pali - 1182"
+  },
+  {
+    "Tiếng Pali": "puññaṃ",
+    "Tiếng Việt": "công đức",
+    "id": "Pali - 1183"
+  },
+  {
+    "Tiếng Pali": "sabbasampatti (=sabba+sampatti)",
+    "Tiếng Việt": "tất cả các loại thịnh vượng (tất cả + thịnh vượng)",
+    "id": "Pali - 1184"
+  },
+  {
+    "Tiếng Pali": "sādhakaṃ",
+    "Tiếng Việt": "dẫn đến",
+    "id": "Pali - 1185"
+  },
+  {
+    "Tiếng Pali": "Sabbe",
+    "Tiếng Việt": "tất cả",
+    "id": "Pali - 1186"
+  },
+  {
+    "Tiếng Pali": "taṃ",
+    "Tiếng Việt": "đó",
+    "id": "Pali - 1187"
+  },
+  {
+    "Tiếng Pali": "anumoditvā",
+    "Tiếng Việt": "đã hoan hỷ",
+    "id": "Pali - 1188"
+  },
+  {
+    "Tiếng Pali": "samaggā",
+    "Tiếng Việt": "đoàn kết lại",
+    "id": "Pali - 1189"
+  },
+  {
+    "Tiếng Pali": "sāsane",
+    "Tiếng Việt": "để giảng dạy",
+    "id": "Pali - 1190"
+  },
+  {
+    "Tiếng Pali": "ratā",
+    "Tiếng Việt": "tận tâm",
+    "id": "Pali - 1191"
+  },
+  {
+    "Tiếng Pali": "pamādarahitā (=pamāda+rahitā)",
+    "Tiếng Việt": "không phóng dật (phóng dật+không)",
+    "id": "Pali - 1192"
+  },
+  {
+    "Tiếng Pali": "ārakkhāsu",
+    "Tiếng Việt": "trong việc cho đi sự bảo vệ",
+    "id": "Pali - 1193"
+  },
+  {
+    "Tiếng Pali": "visesato",
+    "Tiếng Việt": "đặc biệt là",
+    "id": "Pali - 1194"
+  },
+  {
+    "Tiếng Pali": "Puññabhāgamidaṃ (=Puñña+bhāgaṃ+idaṃ)",
+    "Tiếng Việt": "công đức+ phần+ này",
+    "id": "Pali - 1195"
+  },
+  {
+    "Tiếng Pali": "c'aññam=ca+aññam",
+    "Tiếng Việt": "và trước đó (và+khác)",
+    "id": "Pali - 1196"
+  },
+  {
+    "Tiếng Pali": "samaṃ",
+    "Tiếng Việt": "bằng nhau",
+    "id": "Pali - 1197"
+  },
+  {
+    "Tiếng Pali": "dadāma",
+    "Tiếng Việt": "cho đi",
+    "id": "Pali - 1198"
+  },
+  {
+    "Tiếng Pali": "kāritaṃ",
+    "Tiếng Việt": "Tôi đã làm",
+    "id": "Pali - 1199"
+  },
+  {
+    "Tiếng Pali": "anumodantu",
+    "Tiếng Việt": "chấp nhận với niềm vui",
+    "id": "Pali - 1200"
+  },
+  {
+    "Tiếng Pali": "medinī",
+    "Tiếng Việt": "trái đất",
+    "id": "Pali - 1201"
+  },
+  {
+    "Tiếng Pali": "thātu",
+    "Tiếng Việt": "ở lại, vẫn, đứng vững",
+    "id": "Pali - 1202"
+  },
+  {
+    "Tiếng Pali": "sakkhike",
+    "Tiếng Việt": "thực chứng",
+    "id": "Pali - 1203"
+  },
+  {
+    "Tiếng Pali": "Tumhehi",
+    "Tiếng Việt": "bởi bạn",
+    "id": "Pali - 1204"
+  },
+  {
+    "Tiếng Pali": "kiccaṃ",
+    "Tiếng Việt": "việc làm/phận sự",
+    "id": "Pali - 1205"
+  },
+  {
+    "Tiếng Pali": "ātappaṃ",
+    "Tiếng Việt": "sự nỗ lực",
+    "id": "Pali - 1206"
+  },
+  {
+    "Tiếng Pali": "akkhātāro",
+    "Tiếng Việt": "những người diễn giải, những người thuyết giảng",
+    "id": "Pali - 1207"
+  },
+  {
+    "Tiếng Pali": "tathāgatā",
+    "Tiếng Việt": "Những bậc Giác ngộ",
+    "id": "Pali - 1208"
+  },
+  {
+    "Tiếng Pali": "Sabba-pāpassa",
+    "Tiếng Việt": "(của) tất cả những hành động bất thiện/không có đạo đức",
+    "id": "Pali - 1209"
+  },
+  {
+    "Tiếng Pali": "akaraṇaṃ",
+    "Tiếng Việt": "không làm, không làm",
+    "id": "Pali - 1210"
+  },
+  {
+    "Tiếng Pali": "kusalassa",
+    "Tiếng Việt": "(của) hành động thiện/có đạo đức",
+    "id": "Pali - 1211"
+  },
+  {
+    "Tiếng Pali": "upasampadā",
+    "Tiếng Việt": "đạt được/thu được",
+    "id": "Pali - 1212"
+  },
+  {
+    "Tiếng Pali": "sa-citta",
+    "Tiếng Việt": "tâm của chính mình",
+    "id": "Pali - 1213"
+  },
+  {
+    "Tiếng Pali": "pariyodapanaṃ",
+    "Tiếng Việt": "sự thanh lọc, làm cho tinh khiết",
+    "id": "Pali - 1214"
+  },
+  {
+    "Tiếng Pali": "etaṃ",
+    "Tiếng Việt": "này",
+    "id": "Pali - 1215"
+  },
+  {
+    "Tiếng Pali": "Buddhāna",
+    "Tiếng Việt": "của Chư Phật",
+    "id": "Pali - 1216"
+  },
+  {
+    "Tiếng Pali": "sāsanaṃ",
+    "Tiếng Việt": "giáo huấn, giáo lý, luật lệ",
+    "id": "Pali - 1217"
+  },
+  {
+    "Tiếng Pali": "Niccaṃ",
+    "Tiếng Việt": "luôn luôn/thường hằng",
+    "id": "Pali - 1218"
+  },
+  {
+    "Tiếng Pali": "kāyagatā-sati (=kāyagatā+sati)",
+    "Tiếng Việt": "ý thức liên hệ tới thân thể (liên quan đến cơ thể + ý thức)",
+    "id": "Pali - 1219"
+  },
+  {
+    "Tiếng Pali": "Mano",
+    "Tiếng Việt": "tâm",
+    "id": "Pali - 1220"
+  },
+  {
+    "Tiếng Pali": "pubbaṅgamā",
+    "Tiếng Việt": "người báo hiệu, người đến báo trước",
+    "id": "Pali - 1221"
+  },
+  {
+    "Tiếng Pali": "dhammā",
+    "Tiếng Việt": "(tất cả) hiện tượng",
+    "id": "Pali - 1222"
+  },
+  {
+    "Tiếng Pali": "mano-seṭṭhā",
+    "Tiếng Việt": "tâm là chủ/đứng đầu",
+    "id": "Pali - 1223"
+  },
+  {
+    "Tiếng Pali": "mano=mayā",
+    "Tiếng Việt": "tâm tạo tác",
+    "id": "Pali - 1224"
+  },
+  {
+    "Tiếng Pali": "manasā",
+    "Tiếng Việt": "(với) tâm",
+    "id": "Pali - 1225"
+  },
+  {
+    "Tiếng Pali": "ce",
+    "Tiếng Việt": "nếu",
+    "id": "Pali - 1226"
+  },
+  {
+    "Tiếng Pali": "paduṭṭhena",
+    "Tiếng Việt": "(với) xấu/bất tịnh",
+    "id": "Pali - 1227"
+  },
+  {
+    "Tiếng Pali": "bhāsati",
+    "Tiếng Việt": "nói",
+    "id": "Pali - 1228"
+  },
+  {
+    "Tiếng Pali": "vā",
+    "Tiếng Việt": "hoặc",
+    "id": "Pali - 1229"
+  },
+  {
+    "Tiếng Pali": "karoti",
+    "Tiếng Việt": "làm, hành động",
+    "id": "Pali - 1230"
+  },
+  {
+    "Tiếng Pali": "tato",
+    "Tiếng Việt": "sau đó, từ đó",
+    "id": "Pali - 1231"
+  },
+  {
+    "Tiếng Pali": "naṃ",
+    "Tiếng Việt": "của anh ấy/cô ấy",
+    "id": "Pali - 1232"
+  },
+  {
+    "Tiếng Pali": "dukkhamanveti (=dukkhaṃ+anveti)",
+    "Tiếng Việt": "đau khổ theo sau (đau khổ + theo sau)",
+    "id": "Pali - 1233"
+  },
+  {
+    "Tiếng Pali": "cakkaṃ'va (=cakkaṃ+va)",
+    "Tiếng Việt": "giống như một bánh xe (bánh xe+giống như)",
+    "id": "Pali - 1234"
+  },
+  {
+    "Tiếng Pali": "vahato",
+    "Tiếng Việt": "súc vật kéo, người vận chuyển",
+    "id": "Pali - 1235"
+  },
+  {
+    "Tiếng Pali": "padaṃ",
+    "Tiếng Việt": "bàn chân",
+    "id": "Pali - 1236"
+  },
+  {
+    "Tiếng Pali": "pasannena",
+    "Tiếng Việt": "(với) tốt lành/tinh khiết",
+    "id": "Pali - 1237"
+  },
+  {
+    "Tiếng Pali": "sukhamanveti (=sukhaṃ+anveti)",
+    "Tiếng Việt": "hạnh phúc theo sau (hạnh phúc+theo sau)",
+    "id": "Pali - 1238"
+  },
+  {
+    "Tiếng Pali": "chāyā'va (=chāyā+va)",
+    "Tiếng Việt": "như một cái bóng (cái bóng+như)",
+    "id": "Pali - 1239"
+  },
+  {
+    "Tiếng Pali": "anapāyinī (=an+apāyinī)",
+    "Tiếng Việt": "liên tục theo sau (không+đi xa)",
+    "id": "Pali - 1240"
+  },
+  {
+    "Tiếng Pali": "Jāti",
+    "Tiếng Việt": "sự sinh",
+    "id": "Pali - 1241"
+  },
+  {
+    "Tiếng Pali": "pi",
+    "Tiếng Việt": "cũng thế (tiểu từ nhấn mạnh)",
+    "id": "Pali - 1242"
+  },
+  {
+    "Tiếng Pali": "dukkhā",
+    "Tiếng Việt": "đau khổ",
+    "id": "Pali - 1243"
+  },
+  {
+    "Tiếng Pali": "jarā",
+    "Tiếng Việt": "suy tàn/tuổi già/lão",
+    "id": "Pali - 1244"
+  },
+  {
+    "Tiếng Pali": "vyādhi",
+    "Tiếng Việt": "bệnh",
+    "id": "Pali - 1245"
+  },
+  {
+    "Tiếng Pali": "maraṇaṃ",
+    "Tiếng Việt": "tử/chết",
+    "id": "Pali - 1246"
+  },
+  {
+    "Tiếng Pali": "dukkhaṃ",
+    "Tiếng Việt": "khổ đau",
+    "id": "Pali - 1247"
+  },
+  {
+    "Tiếng Pali": "appiyehi",
+    "Tiếng Việt": "(với) sự khó chịu",
+    "id": "Pali - 1248"
+  },
+  {
+    "Tiếng Pali": "sampayogo",
+    "Tiếng Việt": "sự kết hợp",
+    "id": "Pali - 1249"
+  },
+  {
+    "Tiếng Pali": "dukkho",
+    "Tiếng Việt": "khổ đau",
+    "id": "Pali - 1250"
+  },
+  {
+    "Tiếng Pali": "piyehi",
+    "Tiếng Việt": "(khỏi) dễ chịu",
+    "id": "Pali - 1251"
+  },
+  {
+    "Tiếng Pali": "vippayogo",
+    "Tiếng Việt": "sự phân ly/tách biệt",
+    "id": "Pali - 1252"
+  },
+  {
+    "Tiếng Pali": "yam'p'icchaṃ (=yam+pi+icchaṃ)",
+    "Tiếng Việt": "điều người ta muốn/mong muốn (điều đó+cũng thế+điều mong muốn)",
+    "id": "Pali - 1253"
+  },
+  {
+    "Tiếng Pali": "na",
+    "Tiếng Việt": "không",
+    "id": "Pali - 1254"
+  },
+  {
+    "Tiếng Pali": "labhati",
+    "Tiếng Việt": "để có được, được",
+    "id": "Pali - 1255"
+  },
+  {
+    "Tiếng Pali": "tam'pi=tam+pi",
+    "Tiếng Việt": "cũng là (cái đó+cũng)",
+    "id": "Pali - 1256"
+  },
+  {
+    "Tiếng Pali": "saṅkhittena",
+    "Tiếng Việt": "tóm lại, ngắn gọn",
+    "id": "Pali - 1257"
+  },
+  {
+    "Tiếng Pali": "pañc'upādānakkhandhā (=pañca+upādāna+khandhā)",
+    "Tiếng Việt": "sự dính mắc vào năm tập hợp/năm uẩn (năm+chấp thủ/dính mắc+uẩn)",
+    "id": "Pali - 1258"
+  },
+  {
+    "Tiếng Pali": "Sabbadānaṃ",
+    "Tiếng Việt": "tất cả sự cho tặng/món quà",
+    "id": "Pali - 1259"
+  },
+  {
+    "Tiếng Pali": "dhammadānaṃ",
+    "Tiếng Việt": "sự ban tặng/món quà dhamma",
+    "id": "Pali - 1260"
+  },
+  {
+    "Tiếng Pali": "jināti",
+    "Tiếng Việt": "vượt trội, xuất sắc",
+    "id": "Pali - 1261"
+  },
+  {
+    "Tiếng Pali": "sabbarasaṃ",
+    "Tiếng Việt": "tất cả hương vị",
+    "id": "Pali - 1262"
+  },
+  {
+    "Tiếng Pali": "dhammaraso",
+    "Tiếng Việt": "hương vị dhamma",
+    "id": "Pali - 1263"
+  },
+  {
+    "Tiếng Pali": "sabbaratiṃ",
+    "Tiếng Việt": "tất cả điều vui thích",
+    "id": "Pali - 1264"
+  },
+  {
+    "Tiếng Pali": "dhammarati",
+    "Tiếng Việt": "hoan hỷ trong dhamma",
+    "id": "Pali - 1265"
+  },
+  {
+    "Tiếng Pali": "taṇhakkhayo",
+    "Tiếng Việt": "sự tiêu diệt tham muốn",
+    "id": "Pali - 1266"
+  },
+  {
+    "Tiếng Pali": "sabbadukkhaṃ",
+    "Tiếng Việt": "tất cả khổ đau",
+    "id": "Pali - 1267"
+  },
+  {
+    "Tiếng Pali": "Pakārena",
+    "Tiếng Việt": "(bằng) những cách khác nhau",
+    "id": "Pali - 1268"
+  },
+  {
+    "Tiếng Pali": "jānāti",
+    "Tiếng Việt": "hiểu biết",
+    "id": "Pali - 1269"
+  },
+  {
+    "Tiếng Pali": "(i)ti",
+    "Tiếng Việt": "dấu ngoặc kép",
+    "id": "Pali - 1270"
+  },
+  {
+    "Tiếng Pali": "paññā",
+    "Tiếng Việt": "trí tuệ",
+    "id": "Pali - 1271"
+  },
+  {
+    "Tiếng Pali": "Atta-dīpā=atta+dīpa",
+    "Tiếng Việt": "hòn đảo tự thân",
+    "id": "Pali - 1272"
+  },
+  {
+    "Tiếng Pali": "viharatha",
+    "Tiếng Việt": "cư ngụ",
+    "id": "Pali - 1273"
+  },
+  {
+    "Tiếng Pali": "atta-saraṇā",
+    "Tiếng Việt": "nương tựa nơi chính mình",
+    "id": "Pali - 1274"
+  },
+  {
+    "Tiếng Pali": "anaññasaraṇā (=an+añña+saraṇā)",
+    "Tiếng Việt": "không nơi nương tựa khác",
+    "id": "Pali - 1275"
+  },
+  {
+    "Tiếng Pali": "dhamma-dīpā",
+    "Tiếng Việt": "hòn đảo Dhamma",
+    "id": "Pali - 1276"
+  },
+  {
+    "Tiếng Pali": "dhamma-saraṇā",
+    "Tiếng Việt": "nương tựa Dhamma",
+    "id": "Pali - 1277"
+  },
+  {
+    "Tiếng Pali": null,
+    "Tiếng Việt": null,
+    "id": "Pali - 1278"
+  },
+  {
+    "Tiếng Pali": "Ācariya",
+    "Tiếng Việt": "thầy/cô, thiền sư, người hướng dẫn.",
+    "id": "Pali - 1279"
+  },
+  {
+    "Tiếng Pali": "Adhiṭṭhāna",
+    "Tiếng Việt": "quyết tâm mạnh mẽ. Một trong mười pāramī, phẩm hạnh (Ba la Mật).",
+    "id": "Pali - 1280"
+  },
+  {
+    "Tiếng Pali": "Akusala",
+    "Tiếng Việt": "bất thiện, có hại. Trái nghĩa kusala.",
+    "id": "Pali - 1281"
+  },
+  {
+    "Tiếng Pali": "Ānanda",
+    "Tiếng Việt": "vui sướng, hạnh phúc, hỷ.",
+    "id": "Pali - 1282"
+  },
+  {
+    "Tiếng Pali": "Ānāpāna",
+    "Tiếng Việt": "hô hấp, hơi thở. Ānāpāna-sati: ý thức về hơi thở, (niệm hơi thở).",
+    "id": "Pali - 1283"
+  },
+  {
+    "Tiếng Pali": "Anattā",
+    "Tiếng Việt": "vô ngã, không có cái ta, không có thực chất, không có thực thể. Một trong ba đặc tính căn bản. Xem lakkhaṇa.",
+    "id": "Pali - 1284"
+  },
+  {
+    "Tiếng Pali": "Anicca",
+    "Tiếng Việt": "vô thường, phù du, thay đổi. Một trong ba đặc tính căn bản. Xem lakkhaṇa.",
+    "id": "Pali - 1285"
+  },
+  {
+    "Tiếng Pali": "Arahant",
+    "Tiếng Việt": "người đã giải thoát (A-la-hán); người đã diệt hết mọi bất tịnh trong tâm mình. Xem Buddha.",
+    "id": "Pali - 1286"
+  },
+  {
+    "Tiếng Pali": "Ariya",
+    "Tiếng Việt": "thánh thiện; bậc thánh, thánh nhân. Người đã thanh lọc tâm tới mức đã chứng nghiệm được sự thật tối hậu (nibbāna). Có bốn cấp độ ariya, từ sotāpanna (\"thánh nhập lưu\"), người sẽ tái sinh tối đa bảy kiếp, cho tới arahant, người sẽ không còn tái sinh sau kiếp hiện tại.",
+    "id": "Pali - 1287"
+  },
+  {
+    "Tiếng Pali": "Ariya Aṭṭhaṅgika Magga",
+    "Tiếng Việt": "Bát Chánh Đạo hay Bát Thánh Đạo. Xem magga.",
+    "id": "Pali - 1288"
+  },
+  {
+    "Tiếng Pali": "Ariya Sacca",
+    "Tiếng Việt": "Sự Thật Thánh Thiện (Diệu Đế). Xem Sacca.",
+    "id": "Pali - 1289"
+  },
+  {
+    "Tiếng Pali": "Asubha",
+    "Tiếng Việt": "bất tịnh, đáng ghê sợ, không đẹp. Trái nghĩa với subha, thanh tịnh, tinh khiết, đẹp.",
+    "id": "Pali - 1290"
+  },
+  {
+    "Tiếng Pali": "Assutavā/Assutavant",
+    "Tiếng Việt": "không được chỉ dạy, phàm phu; người chưa bao giờ được nghe dạy về chân lý, người thiếu ngay cả suta-mayā paññā, và do đó không thể dẫn bước trên con đường giải thoát. Trái nghĩa với sutavā.",
+    "id": "Pali - 1291"
+  },
+  {
+    "Tiếng Pali": "Avijjā",
+    "Tiếng Việt": "vô minh, ảo tưởng, lầm lạc. Mắt xích đầu tiên trong Chuỗi Duyên Khởi / Chuỗi Thập Nhị (12) Nhân Duyên / Lý Duyên Khởi (paṭicca samuppāda). Cùng với tham (rāga) và sân (dosa), si là một trong ba phiền não căn bản trong tâm. Ba loại phiền não này là nguyên nhân gốc rễ của mọi bất tịnh khác và do đó là nguyên nhân đưa đến khổ đau. Đồng nghĩa với moha.",
+    "id": "Pali - 1292"
+  },
+  {
+    "Tiếng Pali": "Āyatana",
+    "Tiếng Việt": "phạm vi, lĩnh vực, đặc biệt là sáu lĩnh vực cảm nhận (lục căn) (saḷāyatana), nghĩa là: năm giác quan cộng với tâm, và các đối tượng tương ứng của chúng (lục trần), cụ thể là: mắt (cakkhu) và cảnh sắc (rūpa); tai (sota) và âm thanh (sadda); mũi (ghāna) và mùi (gandha); lưỡi (jivhā) và vị (rasa); thân (kāya) và xúc chạm (phoṭṭhabba); tâm (mano) và đối tượng của tâm, nghĩa là các loại ý nghĩ (dhamma). Đây còn được gọi là sáu giác quan. Xem indriya.",
+    "id": "Pali - 1293"
+  },
+  {
+    "Tiếng Pali": "Bala",
+    "Tiếng Việt": "sức mạnh, hùng lực (lực). Năm sức mạnh tinh thần là niềm tin (saddhā), nỗ lực (viriya), ý thức (sati), định (samādhi), trí tuệ (paññā). Dưới hình thức phát triển thấp hơn, đây được gọi là năm khả năng/năng lực. Xem indriya.",
+    "id": "Pali - 1294"
+  },
+  {
+    "Tiếng Pali": "Bhanga",
+    "Tiếng Việt": "(trạng thái) tan rã. Một giai đoạn quan trọng trong sự tu tập Vipassana, chứng nghiệm được sự tan rã của trạng thái bề ngoài dường như chắc đặc của thân ra thành những rung động vi tế vốn luôn sinh và diệt.",
+    "id": "Pali - 1295"
+  },
+  {
+    "Tiếng Pali": "Bhava",
+    "Tiếng Việt": "(tiến trình) hình thành. Bhava-cakka: vòng luân hồi, bánh xe luân hồi. Xem cakka.",
+    "id": "Pali - 1296"
+  },
+  {
+    "Tiếng Pali": "Bhāvanā",
+    "Tiếng Việt": "phát triển trí tuệ, thiền. Hai phần được chia ra của bhāvanā là sự phát triển trạng thái tĩnh lặng / thiền tĩnh lặng, (samatha-bhāvanā), tương ứng với định tâm, (samādhi) (thiền chỉ, thiền định), và sự phát triển tuệ giác (vipassanā-bhāvanā) (thiền quán/thiền tuệ), tương ứng với trí tuệ (paññā). Việc phát triển samatha sẽ đưa tới các trạng thái nhập định jhāna; việc phát triển vipassanā sẽ đưa tới giải thoát. Xem jhāna, paññā, samādhi, vipassanā.",
+    "id": "Pali - 1297"
+  },
+  {
+    "Tiếng Pali": "Bhāvanā-Mayā Paññā",
+    "Tiếng Việt": "trí tuệ phát triển nhờ kinh nghiệm trực tiếp của bản thân, tuệ giác, tuệ thực chứng (tu tuệ). Xem paññā.",
+    "id": "Pali - 1298"
+  },
+  {
+    "Tiếng Pali": "Bhavatu Sabba Maṅgalaṃ",
+    "Tiếng Việt": "\"Nguyện cho tất cả chúng sinh được hạnh phúc\". Một câu nói truyền thống dùng để diễn tả thiện ý đối với người khác. (Nghĩa đen, \"Nguyện cho luôn có hạnh phúc ở mọi nơi\")",
+    "id": "Pali - 1299"
+  },
+  {
+    "Tiếng Pali": "Bhikkhu",
+    "Tiếng Việt": "(Phật giáo) tăng sĩ; thiền giả, tỳ kheo. Bhikkhunī: tỳ kheo ni, ni, sư cô.",
+    "id": "Pali - 1300"
+  },
+  {
+    "Tiếng Pali": "Bodhi",
+    "Tiếng Việt": "sự giác ngộ.",
+    "id": "Pali - 1301"
+  },
+  {
+    "Tiếng Pali": "Bodhisatta",
+    "Tiếng Việt": "nghĩa đen, \"Bậc đang giác ngộ\" (Bồ Tát). Người đang tu tập để trở thành Phật. Dùng để chỉ Siddhattha Gotama trong khoảng thời gian trước khi Ngài đạt đến sự giác ngộ hoàn toàn. Tiếng Sanskrit: bodhisattva.",
+    "id": "Pali - 1302"
+  },
+  {
+    "Tiếng Pali": "Bojjhaṅga",
+    "Tiếng Việt": "nhân tố giác ngộ (thất giác chi), nghĩa là phẩm chất/tổ chất giúp ta đạt được sự giác ngộ. Bảy nhân tố này là ý thức (niệm) (sati), nghiên cứu thấu triệt về Dhamma (Dhamma-vicaya) (trạch pháp), tinh tấn (viriya), vui mừng (hỷ) (pīti), an tĩnh (khinh an) (passadhi), định tâm (samādhi), tâm xả (upekkhā).",
+    "id": "Pali - 1303"
+  },
+  {
+    "Tiếng Pali": "Brahmacariya",
+    "Tiếng Việt": "độc thân/tịnh thân/không quan hệ tình dục; một cuộc sống trong sạch và thánh thiện.",
+    "id": "Pali - 1304"
+  },
+  {
+    "Tiếng Pali": "Brahmā",
+    "Tiếng Việt": "sinh linh cư trú ở những cõi trời cao hơn, phạm thiên; từ dùng trong Ấn giáo để chỉ chúng sinh cao nhất trong mọi loài chúng sinh, thường để chỉ Đấng Tạo Hóa - Thượng đế toàn năng, nhưng Đức Phật nêu rõ là họ cũng chịu sự suy thoái và cái chết như mọi chúng sinh.",
+    "id": "Pali - 1305"
+  },
+  {
+    "Tiếng Pali": "Brahma-Vihāra",
+    "Tiếng Việt": "bản chất của brahmā, đó là trạng thái tâm siêu phàm hay thánh thiện, trong đó có bốn phẩm chất thanh tịnh hiện diện là: tâm từ (từ) (mettā), thương xót (bi) (karuṇā), mừng vui với hạnh phúc của người khác (hỷ) (muditā), buông xả trong mọi hoàn cảnh (xả) (upekkhā); sự tu dưỡng có phương pháp bốn phẩm chất này bằng cách thực hành thiền.",
+    "id": "Pali - 1306"
+  },
+  {
+    "Tiếng Pali": "Brāhmaṇa",
+    "Tiếng Việt": "nghĩa đen, một người trong sạch (Bà-la-môn). Thời xưa dùng để chỉ một người thuộc tầng lớp tu sĩ tại Ấn Độ. Người đó dựa vào một vị thần (Brahmā) để được \"cứu rỗi\" hoặc giải thoát cho mình; theo đường lối này họ khác với samaṇa. Đức Phật định rõ một brāhmaṇa đúng nghĩa là người đã thanh lọc được tâm mình, nghĩa là bậc arahant.",
+    "id": "Pali - 1307"
+  },
+  {
+    "Tiếng Pali": "Buddha",
+    "Tiếng Việt": "bậc giác ngộ, Đức Phật, người đã khám phá ra con đường giải thoát, đã thực hành, và đã đạt đến đích bằng nỗ lực của bản thân. Có hai hạng Phật: 1) pacceka-buddha, Phật Độc Giác, vị Phật \"đơn độc\" hay \"thầm lặng\", vị không thể chỉ dạy cho người khác con đường mình đã tìm thấy. 2) sammā-sambuddha, Phật Toàn Giác, vị Phật \"hoàn chỉnh\" hay \"hoàn hảo\", vị có thể chỉ dạy cho người khác.",
+    "id": "Pali - 1308"
+  },
+  {
+    "Tiếng Pali": "Cakka",
+    "Tiếng Việt": "bánh xe, Bhava-cakka, bánh xe luân hồi (nghĩa là tiến trình khổ đau), tương đương với saṃsāra. Dhamma-cakka, bánh xe Dhamma (nghĩa là giáo pháp hoặc tiến trình giải thoát). Bhava-cakka tương ứng với Chuỗi Duyên Khởi theo chiều thuận. Dhamma-cakka tương ứng với Chuỗi này theo chiều ngược lại, đưa tới diệt trừ thay vì gia tăng khổ đau.",
+    "id": "Pali - 1309"
+  },
+  {
+    "Tiếng Pali": "Cintā-Mayā-Paññā",
+    "Tiếng Việt": "trí tuệ đạt được nhờ suy luận, tuệ tư duy (tư tuệ). Xem paññā.",
+    "id": "Pali - 1310"
+  },
+  {
+    "Tiếng Pali": "Citta",
+    "Tiếng Việt": "tâm. Cittānupassanā, quan sát tâm. Xem satipaṭṭhāna.",
+    "id": "Pali - 1311"
+  },
+  {
+    "Tiếng Pali": "Dāna",
+    "Tiếng Việt": "hiến tặng, sự hào phóng, đóng góp thiện nguyện, (cúng dường). Một trong mười pāramī.",
+    "id": "Pali - 1312"
+  },
+  {
+    "Tiếng Pali": "Dhamma",
+    "Tiếng Việt": "hiện tượng, đối tượng của tâm (pháp); tự nhiên, luật tự nhiên, luật giải thoát, nghĩa là giáo pháp của bậc giác ngộ. Dhammānupassanā, quan sát nội dung của tâm. Xem satipaṭṭhāna. (Tiếng Sanskrit dharma).",
+    "id": "Pali - 1313"
+  },
+  {
+    "Tiếng Pali": "Dhātu / Dhatu",
+    "Tiếng Việt": "nguyên tố (xem mahā-bhūtāni); điều kiện tự nhiên, tính chất.",
+    "id": "Pali - 1314"
+  },
+  {
+    "Tiếng Pali": "Dosa",
+    "Tiếng Việt": "tâm sân, không ưa thích, ghét. Cùng với rāga và moha, một trong ba phiền não chính của tâm.",
+    "id": "Pali - 1315"
+  },
+  {
+    "Tiếng Pali": "Dukkha",
+    "Tiếng Việt": "khổ, sự không hài lòng. Một trong ba đặc tính căn bản (xem lakkhaṇa). Sự Thật Thánh Thiện Thứ Nhất (Khổ Đế) (xem sacca).",
+    "id": "Pali - 1316"
+  },
+  {
+    "Tiếng Pali": "Gotama",
+    "Tiếng Việt": "họ của vị Phật có trong lịch sử. (Tiếng Sanskrit Gautama).",
+    "id": "Pali - 1317"
+  },
+  {
+    "Tiếng Pali": "Hīnayāna",
+    "Tiếng Việt": "nghĩa đen, \"chiếc xe nhỏ\" (tiểu thừa). Từ của những người theo tông phái khác dùng để chỉ Phật giáo Theravāda. Hàm ý chê bai.",
+    "id": "Pali - 1318"
+  },
+  {
+    "Tiếng Pali": "Indriya",
+    "Tiếng Việt": "năng lực, khả năng. Dùng trong bài này để chỉ sáu lĩnh vực cảm nhận (xem āyatana) và năm sức mạnh của tâm (ngũ lực) (xem bala).",
+    "id": "Pali - 1319"
+  },
+  {
+    "Tiếng Pali": "Jāti",
+    "Tiếng Việt": "sinh ra, tồn tại, hiện hữu (hữu).",
+    "id": "Pali - 1320"
+  },
+  {
+    "Tiếng Pali": "Jhāna",
+    "Tiếng Việt": "trạng thái nhập định, tầng thiền định. Có tám trạng thái như vậy có thể đạt được nhờ thực hành samādhi hoặc samatha-bhāvanā (xem bhāvanā). Trau dồi định mang tới sự an tĩnh và hỷ lạc, nhưng không diệt trừ được những ô nhiễm đã cắm rễ sâu trong tâm.",
+    "id": "Pali - 1321"
+  },
+  {
+    "Tiếng Pali": "Kalāpa / Aṭṭha-Kalāpa",
+    "Tiếng Việt": "vi tử, đơn vị nhỏ nhất, không thể chia cắt của vật chất, được cấu thành từ bốn nguyên tố cùng những đặc tính của chúng. Xem mahā-bhūtāni.",
+    "id": "Pali - 1322"
+  },
+  {
+    "Tiếng Pali": "Kalyāṇa-Mitta",
+    "Tiếng Việt": "nghĩa đen, \"người bạn giúp đỡ cho ai đó được tốt lành\", do đó là người hướng dẫn một người tới sự giải thoát, nghĩa là người hướng dẫn tâm linh (thiện hữu).",
+    "id": "Pali - 1323"
+  },
+  {
+    "Tiếng Pali": "Kamma",
+    "Tiếng Việt": "hành động, đặc biệt là một hành động nào đó được thực hiện bởi một người mà nó sẽ có ảnh hưởng đến tương lai của người ấy (nghiệp). Xem saṅkhāra. (Tiếng Sanskrit karma).",
+    "id": "Pali - 1324"
+  },
+  {
+    "Tiếng Pali": "Kāya",
+    "Tiếng Việt": "thân, cơ thể. Kāyānupassanā, quan sát thân (quán thân). Xem satipaṭṭhāna.",
+    "id": "Pali - 1325"
+  },
+  {
+    "Tiếng Pali": "Khandha",
+    "Tiếng Việt": "khối, nhóm, tập hợp (uẩn). Con người được hợp thành từ năm tập hợp (ngũ uẩn): vật chất (sắc) (rūpa), hay biết (thức) (viññāṇa), nhận biết (tưởng) (saññā), cảm nhận / cảm giác (thọ) (vedanā), phản ứng (hành) (saṅkhāra).",
+    "id": "Pali - 1326"
+  },
+  {
+    "Tiếng Pali": "Kilesa",
+    "Tiếng Việt": "phiền não, tiêu cực, bất tịnh trong tâm, ô nhiễm. Anusaya kilesa, phiền não tiềm ẩn, bất tịnh nằm im trong vô thức.",
+    "id": "Pali - 1327"
+  },
+  {
+    "Tiếng Pali": "Kusala",
+    "Tiếng Việt": "thiện, hữu ích. Trái nghĩa với akusala.",
+    "id": "Pali - 1328"
+  },
+  {
+    "Tiếng Pali": "Lakkhaṇa",
+    "Tiếng Việt": "dấu hiệu, đặc điểm phân biệt, đặc trưng, đặc tính. Ba đặc tính (ti-lakkhaṇa) là anicca, dukkha, anattā. Hai đặc tính đầu có ở mọi hiện tượng bị điều kiện hóa (pháp hữu vi). Đặc tính thứ ba có ở mọi hiện tượng, bị điều kiện hóa (pháp hữu vi) hay không bị điều kiện hóa (pháp vô vi).",
+    "id": "Pali - 1329"
+  },
+  {
+    "Tiếng Pali": "Lobha",
+    "Tiếng Việt": "tâm tham. Đồng nghĩa với rāga.",
+    "id": "Pali - 1330"
+  },
+  {
+    "Tiếng Pali": "Loka",
+    "Tiếng Việt": "1. thế giới vĩ mô, nghĩa là vũ trụ, thế gian, cõi có sự sống; 2. thế giới vi mô, nghĩa là cấu trúc tinh thần-vật chất. Loka-dhamma, chông gai của cuộc đời, thăng trầm trong cuộc sống mà ai cũng gặp phải, đó là được hay mất, thắng hay thua, khen hay chê, sướng hay khổ.",
+    "id": "Pali - 1331"
+  },
+  {
+    "Tiếng Pali": "Mahā-Bhūtāni",
+    "Tiếng Việt": "bốn nguyên tố có trong mọi vật chất: Pathavī-dhātu-nguyên tố đất (sức nặng). Āpo-dhātu-nguyên tố nước (sự kết dính). Tejo-dhātu-nguyên tố lửa (nhiệt độ). Vāyo-dhātu-nguyên tố khí (chuyển động).",
+    "id": "Pali - 1332"
+  },
+  {
+    "Tiếng Pali": "Maṅgala",
+    "Tiếng Việt": "phúc lợi, an vui, phước lành, hạnh phúc.",
+    "id": "Pali - 1333"
+  },
+  {
+    "Tiếng Pali": "Māra",
+    "Tiếng Việt": "cái chết, ma lực / quyền lực tiêu cực, ma vương.",
+    "id": "Pali - 1334"
+  },
+  {
+    "Tiếng Pali": "Magga",
+    "Tiếng Việt": "đường lối, con đường (Đạo). Ariya Aṭṭhaṅgika Magga, Bát Chánh Đạo đưa đến giải thoát khỏi khổ đau. Bát Chánh Đạo chia ra làm ba giai đoạn hay sự tu tập: I. Sīla, giới, đạo đức, sự trong sạch của lời nói và việc làm: i. sammā-vācā, lời nói chân chính (Chánh ngữ); ii. sammā-kammanta, hành động chân chính (Chánh nghiệp); iii. sammā-ājīva, nghề nghiệp chân chính (Chánh mạng). II. Samādhi, định, sự làm chủ tâm: iv. sammā-vāyāma, nỗ lực chân chính (Chánh tinh tấn); v. sammā-sati, ý thức chân chính (Chánh niệm); vi. sammā-samādhi, định chân chính (Chánh định). III. Paññā, trí tuệ, tuệ giác hoàn toàn thanh lọc được tâm: vii. sammā-saṅkappa, suy nghĩ chân chính (Chánh tư duy); viii. sammā-diṭṭhi, sự hiểu biết chân chính (Chánh kiến). Magga là Sự Thật Thánh Thiện Thứ Tư (Đạo Đế) trong Bốn Sự Thật Thánh Thiện. Xem sacca.",
+    "id": "Pali - 1335"
+  },
+  {
+    "Tiếng Pali": "Mahāyāna",
+    "Tiếng Việt": "nghĩa đen, “chiếc xe lớn” (đại thừa). Tông phái Phật giáo phát triển tại Ấn Độ vài thế kỷ sau thời của Đức Phật và truyền sang phía bắc như Tây Tạng, Trung Quốc, Việt Nam, Mông Cổ, Hàn Quốc, và Nhật Bản.",
+    "id": "Pali - 1336"
+  },
+  {
+    "Tiếng Pali": "Mettā",
+    "Tiếng Việt": "tâm từ, tình thương vô vị lợi và thiện chí. Một trong những phẩm chất của một tâm thanh tịnh (xem Brahma-vihāra); một trong các pāramī. Mettā-bhāvanā, sự trau dồi Mettā một cách hệ thống bằng phương pháp thiền (từ bi quán).",
+    "id": "Pali - 1337"
+  },
+  {
+    "Tiếng Pali": "Moha",
+    "Tiếng Việt": "si, mê lầm, ảo tưởng. Đồng nghĩa với avijjā. Cùng với rāga và dosa, một trong ba phiền não chính trong tâm.",
+    "id": "Pali - 1338"
+  },
+  {
+    "Tiếng Pali": "Nāma",
+    "Tiếng Việt": "tâm, tinh thần (danh). Nāma-rūpa, tâm và thân, thể thống nhất thân-tâm (danh sắc). Nāma-rūpa viccheda, sự tách rời của thân và tâm khi chết, hay khi chứng nghiệm được nibbāna.",
+    "id": "Pali - 1339"
+  },
+  {
+    "Tiếng Pali": "Nibbāna",
+    "Tiếng Việt": "tịch diệt; giải thoát; sự thật tối hậu; diệt hết các nhân duyên (Niết bàn). (Sanskrit nirvāṇa)",
+    "id": "Pali - 1340"
+  },
+  {
+    "Tiếng Pali": "Nīvaraṇa",
+    "Tiếng Việt": "chướng ngại, trở ngại (triền cái). Năm trở ngại trong việc phát triển tâm trí là tham (kāmacchanda), sân (vyāpāda), uể oải về thể xác và tinh thần (hôn trầm, thụy miên) (thīna-middha), bồn chồn, bất an (trạo hối/trạo cử) (uddhacca-kukkucca), nghi ngờ (nghi) (vicikicchā).",
+    "id": "Pali - 1341"
+  },
+  {
+    "Tiếng Pali": "Oḷārika",
+    "Tiếng Việt": "thô thiển, thô. Trái nghĩa sukkuma.",
+    "id": "Pali - 1342"
+  },
+  {
+    "Tiếng Pali": "Pāli",
+    "Tiếng Việt": "câu chữ, bản văn; kinh sách ghi lại giáo huấn của Đức Phật; do đó là ngôn ngữ trong những kinh sách này. Chứng tích về mặt lịch sử, ngôn ngữ, khảo cổ cho thấy đó là một ngôn ngữ đích thực được nói ở miền bắc Ấn Độ vào thời hoặc gần thời của Đức Phật. Sau đó những kinh sách này được dịch sang tiếng Sanskrit là ngôn ngữ chỉ dùng trong văn chương.",
+    "id": "Pali - 1343"
+  },
+  {
+    "Tiếng Pali": "Paññā",
+    "Tiếng Việt": "trí tuệ, tuệ. Phần thứ ba trong ba sự rèn luyện khi tu tập Bát Chánh Đạo (xem magga). Có ba loại trí tuệ: Tuệ thụ nhận, trí tuệ do nghe, đọc từ người khác (Văn tuệ) (suta-mayā paññā); Tuệ tư duy, trí tuệ do lý luận (Tư tuệ) (cintā-mayā paññā); Tuệ giác, tuệ thực chứng, trí tuệ do tự chứng nghiệm (Tu tuệ) (bhāvanā-mayā paññā). Trong ba tuệ này, chỉ có tuệ cuối cùng mới có thể hoàn toàn thanh lọc được tâm; nó được trau dồi nhờ tu tập vipassanā-bhāvanā. Trí tuệ là một trong năm sức mạnh của tâm (xem bala), một trong bảy nhân tố giác ngộ (xem bojjhaṅga), và là một trong mười pāramī.",
+    "id": "Pali - 1344"
+  },
+  {
+    "Tiếng Pali": "Pāramī / pāramitā",
+    "Tiếng Việt": "sự hoàn hảo, phẩm hạnh (ba la mật); phẩm chất toàn thiện trong tâm giúp làm tan rã bản ngã và do đó đưa tới sự giải thoát. Mười pāramī/ phẩm hạnh là: hiến tặng (dāna), giới (sīla), xuất ly / xuất gia (nekkhamma), trí tuệ (paññā), nỗ lực / tinh tấn (viriya), kham nhẫn (khanti), chân thật (sacca), quyết tâm (adhiṭṭhāna), tâm từ (mettā), tâm xả (upekkhā).",
+    "id": "Pali - 1345"
+  },
+  {
+    "Tiếng Pali": "Paṭicca samuppāda",
+    "Tiếng Việt": "Chuỗi Duyên Khởi / Lý Duyên Khởi / Chuỗi 12 Nhân Duyên; nguồn gốc nhân quả. Tiến trình này, bắt đầu bằng vô minh, làm ta tiếp tục làm cho mình khổ đau hết kiếp này sang kiếp khác.",
+    "id": "Pali - 1346"
+  },
+  {
+    "Tiếng Pali": "Pūjā",
+    "Tiếng Việt": "tôn kính, tôn thờ, nghi thức hoặc nghi lễ tôn giáo. Đức Phật dạy rằng chỉ có một pūjā đúng cách duy nhất để tôn vinh Ngài là thực sự thực hành những lời dạy của Ngài, từ bước đầu tiên cho đến đích cuối cùng.",
+    "id": "Pali - 1347"
+  },
+  {
+    "Tiếng Pali": "Puññā",
+    "Tiếng Việt": "đức hạnh; hành động mang lại công đức, nhờ thực hành điều này ta đạt được hạnh phúc trong hiện tại và trong tương lai. Đối với một cư sĩ, puññā gồm có sự hiến tặng / cúng dường (dāna), sống một cuộc sống có giới hạnh (sīla), và thực hành thiền (bhāvanā).",
+    "id": "Pali - 1348"
+  },
+  {
+    "Tiếng Pali": "Rāga",
+    "Tiếng Việt": "tâm tham. Cùng với dosa và moha, một trong ba phiền não chính trong tâm. Đồng nghĩa với lobha.",
+    "id": "Pali - 1349"
+  },
+  {
+    "Tiếng Pali": "Ratana",
+    "Tiếng Việt": "châu bảo, châu báu. Ti-ratana: Tam bảo Phật, Pháp, Tăng.",
+    "id": "Pali - 1350"
+  },
+  {
+    "Tiếng Pali": "Rūpa",
+    "Tiếng Việt": "1. vật chất (sắc); 2. đối tượng của mắt. Xem āyatana, khandha.",
+    "id": "Pali - 1351"
+  },
+  {
+    "Tiếng Pali": "Sacca",
+    "Tiếng Việt": "chân lý, sự thật. Bốn Sự Thật Thánh Thiện (Tứ Diệu Đế) (ariya-sacca) là: Sự Thật về khổ (dukkha-sacca); (Khổ Đế) Sự Thật về nguyên nhân của khổ (samudaya-sacca); (Tập Đế) Sự Thật về sự đoạn diệt khổ (nirodha-sacca); (Diệt Đế) Sự Thật về con đường dẫn đến sự đoạn diệt khổ (magga-sacca) (Đạo Đế)",
+    "id": "Pali - 1352"
+  },
+  {
+    "Tiếng Pali": "Sādhu",
+    "Tiếng Việt": "“lành thay!”, làm giỏi; nói hay. Một cách diễn đạt sự đồng ý, tán đồng.",
+    "id": "Pali - 1353"
+  },
+  {
+    "Tiếng Pali": "Samatha",
+    "Tiếng Việt": "sự an tĩnh, sự tĩnh lặng. Samatha-bhāvanā, sự phát triển tâm tĩnh lặng, đồng nghĩa với samādhi. Xem bhāvanā.",
+    "id": "Pali - 1354"
+  },
+  {
+    "Tiếng Pali": "Sampajāna",
+    "Tiếng Việt": "có sampajañña. Xem dưới đây.",
+    "id": "Pali - 1355"
+  },
+  {
+    "Tiếng Pali": "Sampajañña",
+    "Tiếng Việt": "hiểu biết về toàn thể hiện tượng thân và tâm, có nghĩa là có tuệ giác về tính chất vô thường của hiện tượng này ở mức độ cảm giác.",
+    "id": "Pali - 1356"
+  },
+  {
+    "Tiếng Pali": "Samādhi",
+    "Tiếng Việt": "định, sự kiểm soát được tâm mình. Phần thứ hai trong ba phần rèn luyện để thực hành Bát Chánh Đạo (xem magga). Khi lấy phần này làm đích đến để tu tập sẽ đưa tới trạng thái nhập định (jhāna), nhưng không phải là sự giải thoát hoàn toàn của tâm. Ba loại samādhi là: 1. khaṇika samādhi, định trong khoảnh khắc, định được duy trì từ khoảnh khắc này sang khoảnh khắc khác (sát na định); 2. upacāra samādhi, sự định tâm ở một mức độ tiếp cận (đi dần đến) trạng thái nhập định (cận định); 3. appanā samādhi, sự tập trung hoàn toàn, trạng thái nhập định (jhāna). Trong những loại định này, khaṇika samādhi là sự chuẩn bị vừa đủ để có thể bắt đầu tu tập Vipassana",
+    "id": "Pali - 1357"
+  },
+  {
+    "Tiếng Pali": "Saṃsāra",
+    "Tiếng Việt": "vòng luân hồi, tái sinh; thế giới hữu vi; thế giới khổ đau.",
+    "id": "Pali - 1358"
+  },
+  {
+    "Tiếng Pali": "Samudaya",
+    "Tiếng Việt": "nảy sinh, nguồn gốc. Samudaya-dhamma, hiện tượng nảy sinh. Samudaya-sacca, Sự Thật về nguồn gốc của khổ, Sự Thật Thứ Hai (Tập Đế) trong Bốn Sự Thật Thánh Thiện (Tứ Diệu Đế).",
+    "id": "Pali - 1359"
+  },
+  {
+    "Tiếng Pali": "Saraṇa",
+    "Tiếng Việt": "sự trú ẩn, nương tựa, bảo vệ (quy y). Ti-sarana: nương tựa hay quy y Tam bảo, có nghĩa là nương tựa vào Phật, Pháp, Tăng.",
+    "id": "Pali - 1360"
+  },
+  {
+    "Tiếng Pali": "Saṅgha",
+    "Tiếng Việt": "nhóm; cộng đồng của ariyā, ví dụ như là những người đã chứng nghiệm được nibbāna; cộng đồng Tăng, Ni Phật giáo; một thành viên của ariya-saṅgha, bhikkhu-saṅgha hoặc bhikkhunī-saṅgha.",
+    "id": "Pali - 1361"
+  },
+  {
+    "Tiếng Pali": "Saṅkhāra",
+    "Tiếng Việt": "sự hình thành (trong tâm), (hành); hành động có dụng ý; phản ứng của tâm; sự điều kiện hóa tâm. Một trong năm tập hợp (khandha), cũng là mắt xích thứ hai trong Chuỗi Duyên Khởi (paṭicca samuppāda). Saṅkhāra là kamma, hành động mang lại hậu quả trong tương lai và do đó thực sự có trách nhiệm tạo nên cuộc đời mai sau. (Sanskrit saṃskāra).",
+    "id": "Pali - 1362"
+  },
+  {
+    "Tiếng Pali": "Saṅkhārupekkhā",
+    "Tiếng Việt": "nghĩa đen, tâm xả đối với saṅkhārā. Một giai đoạn trong sự tu tập Vipassana, xảy ra sau việc kinh nghiệm được bhaṅga, giai đoạn khi những bất tịnh lâu đời ẩn sâu trong vô thức nổi lên bề mặt của tâm và thể hiện ra bằng những cảm giác. Bằng cách duy trì được tâm xả (upekkhā) trước những cảm giác này, thiền giả không tạo ra saṅkhārā mới và để cho những saṅkhārā cũ diệt đi. Do đó tiến trình này dần dần đưa đến sự diệt trừ hết mọi saṅkhārā.",
+    "id": "Pali - 1363"
+  },
+  {
+    "Tiếng Pali": "Sato",
+    "Tiếng Việt": "ý thức, nhận biết. Sato sampajāno: ý thức với sự hiểu biết về bản chất vô thường của toàn thể cấu trúc tinh thần-vật chất, bằng cách quan sát cảm giác.",
+    "id": "Pali - 1364"
+  },
+  {
+    "Tiếng Pali": "Saññā",
+    "Tiếng Việt": "(trong samyutta-ñāṇā, sự hiểu biết đã bị điều kiện hóa) nhận định, nhận biết, tri giác, tưởng. Một trong năm tập hợp (khandha). Nó thường bị chi phối bởi saṅkhārā trong quá khứ của ta và do đó đưa đến một hình ảnh lệch lạc về sự thật. Trong khi tu tập Vipassana, saññā được chuyển thành paññā, sự hiểu biết thực tại đúng như thật. Nó trở thành anicca-saññā, dukkha-saññā, asubha-saññā — đó là, sự nhận định về vô thường, khổ, vô ngã, và tính chất hư ảo của vẻ đẹp vật chất.",
+    "id": "Pali - 1365"
+  },
+  {
+    "Tiếng Pali": "Sati",
+    "Tiếng Việt": "ý thức, nhận biết (niệm). Một phần trong Bát Chánh Đạo (xem magga), cũng là một trong năm sức mạnh của tâm (xem bala) và bảy nhân tố giác ngộ (xem bojjhaṅga). Ānāpāna-Sati, ý thức về hơi thở. (quán hơi thở)",
+    "id": "Pali - 1366"
+  },
+  {
+    "Tiếng Pali": "Siddhattha",
+    "Tiếng Việt": "nghĩa đen, ‘người đã hoàn thành nhiệm vụ của mình’. Tên riêng của vị Phật lịch sử. (Sanskrit Siddhārtha).",
+    "id": "Pali - 1367"
+  },
+  {
+    "Tiếng Pali": "Sīla",
+    "Tiếng Việt": "đạo đức, giới; tránh những hành động bằng lời nói và việc làm gây hại cho mình và cho người khác. Phần đầu trong ba sự tập luyện trong sự thực hành Bát Thánh Đạo (xem magga). Đối với một cư sĩ, sīla được thực hành trong đời sống hằng ngày bằng cách giữ Năm Giới.",
+    "id": "Pali - 1368"
+  },
+  {
+    "Tiếng Pali": "Satipaṭṭhāna",
+    "Tiếng Việt": "Sự Thiết Lập Vững Chắc Ý Thức (Tứ Niệm Xứ, bốn lĩnh vực chú tâm để phát triển vững chắc sự nhận biết). Có bốn lĩnh vực tương quan của satipaṭṭhāna: 1. quan sát thân (quán thân) (kāyānupassanā); 2. quan sát cảm giác nảy sinh trên thân (quán thọ) (vedanānupassanā); 3. quan sát tâm (quán tâm) (cittānupassanā); 4. quan sát nội dung của tâm (quán pháp) (dhammānupassanā). Cả bốn phần đều bao gồm quan sát cảm giác, bởi vì cảm giác liên quan trực tiếp đến thân cũng như tâm. Mahā-Satipaṭṭhāna Suttanta (Dīgha Nikāya, 22), Trường Kinh về Sự Thiết Lập Vững Chắc Ý Thức (Đại Niệm Xứ), là nguồn tư liệu chính mà trong đó lý thuyết căn bản cho việc tu tập vipassanā-bhāvanā được giảng giải.",
+    "id": "Pali - 1369"
+  },
+  {
+    "Tiếng Pali": "Sotāpanna",
+    "Tiếng Việt": "người đã đạt đến giai đoạn đầu của bậc thánh, và đã chứng nghiệm được Nibbāna. Xem ariya.",
+    "id": "Pali - 1370"
+  },
+  {
+    "Tiếng Pali": "Sukha",
+    "Tiếng Việt": "niềm vui sướng, hạnh phúc. Trái nghĩa với dukkha.",
+    "id": "Pali - 1371"
+  },
+  {
+    "Tiếng Pali": "Sukhuma",
+    "Tiếng Việt": "vi tế, tinh tế. Trái nghĩa oḷārika.",
+    "id": "Pali - 1372"
+  },
+  {
+    "Tiếng Pali": "Suta-Mayā Paññā",
+    "Tiếng Việt": "nghĩa đen, trí tuệ đạt được nhờ nghe từ người khác. Tuệ thụ nhận, trí tuệ do học hỏi (văn tuệ). Xem paññā.",
+    "id": "Pali - 1373"
+  },
+  {
+    "Tiếng Pali": "Sutavā / Sutavant",
+    "Tiếng Việt": "được chỉ dạy, người đã được nghe dạy về sự thật (thanh văn), người có suta-mayā-paññā. Trái nghĩa assutavā.",
+    "id": "Pali - 1374"
+  },
+  {
+    "Tiếng Pali": "Sutta",
+    "Tiếng Việt": "kinh Phật / bài giảng của Đức Phật hoặc của một trong những đệ tử chính của Ngài. (Sanskrit sutra).",
+    "id": "Pali - 1375"
+  },
+  {
+    "Tiếng Pali": "Taṇhā",
+    "Tiếng Việt": "nghĩa đen, ‘sự khát / thèm khát’, tham ái. Bao gồm cả tham lẫn sân là mặt trái của tham. Đức Phật chỉ rõ taṇhā là nguồn gốc của khổ (samudaya-sacca) trong bài giảng đầu tiên, “Kinh Chuyển Bánh Xe Dhamma” (Kinh Chuyển Pháp Luân) (Dhammacakkappavattana Sutta). Trong Chuỗi Duyên Khởi (paṭicca Samuppāda) Ngài giải thích rằng taṇhā phát nguồn từ một sự phản ứng nào đó đối với cảm giác trên thân.",
+    "id": "Pali - 1376"
+  },
+  {
+    "Tiếng Pali": "Tathāgata",
+    "Tiếng Việt": "nghĩa đen, ‘đi như thế’ hoặc ‘đến như thế’ (Như lai). Người nhờ đi trên con đường sự thật đã đạt được sự thật tối hậu, có nghĩa là một người giác ngộ. Danh xưng Đức Phật thường dùng để chỉ về bản thân.",
+    "id": "Pali - 1377"
+  },
+  {
+    "Tiếng Pali": "Theravāda",
+    "Tiếng Việt": "nghĩa đen, ‘giáo huấn của bậc trưởng lão’. Giáo huấn của Đức Phật, theo thể thức đã được bảo tồn tại các nước ở Nam Á (Myanmar, Sri Lanka, Thái Lan, Lào, Cam-pu-chia). Thường được công nhận là thể thức cổ xưa nhất của giáo pháp (Phật Giáo Nguyên Thủy).",
+    "id": "Pali - 1378"
+  },
+  {
+    "Tiếng Pali": "Ti-lakkhaṇa",
+    "Tiếng Việt": "Xem lakkhaṇa.",
+    "id": "Pali - 1379"
+  },
+  {
+    "Tiếng Pali": "Tipiṭaka",
+    "Tiếng Việt": "nghĩa đen, ba giỏ chứa (tam tạng). Ba bộ sưu tập về giáo lý của Đức Phật là: 1. Vinaya-piṭaka, bộ luật, bộ sưu tập về giới luật cho Tăng, Ni; 2. Sutta piṭaka, bộ kinh, bộ sưu tập những bài giảng; 3. Abhidhamma-piṭaka, bộ luận, bộ sưu tập những giáo lý cao hơn, nghĩa là sự bình luận về Dhamma một cách triết lý và có hệ thống. (Sanskrit Tripiṭaka)",
+    "id": "Pali - 1380"
+  },
+  {
+    "Tiếng Pali": "Ti-Ratana",
+    "Tiếng Việt": "xem ratana",
+    "id": "Pali - 1381"
+  },
+  {
+    "Tiếng Pali": "Udaya",
+    "Tiếng Việt": "nảy sinh, sinh, khởi. Udayabbaya, sinh và diệt, nghĩa là vô thường (cũng là udaya-vaya). Sự hiểu biết bằng kinh nghiệm về sự thật này đạt được bằng cách quan sát các cảm giác thay đổi không ngừng nơi chính mình.",
+    "id": "Pali - 1382"
+  },
+  {
+    "Tiếng Pali": "Upādāna",
+    "Tiếng Việt": "dính mắc, ràng buộc, bám víu, giữ chặt (thủ).",
+    "id": "Pali - 1383"
+  },
+  {
+    "Tiếng Pali": "Upekkha",
+    "Tiếng Việt": "tâm xả (xả); trạng thái của tâm không có tham, sân, si. Một trong bốn trạng thái thuần khiết của tâm. (xem Brahma-vihāra), trong bảy nhân tố giác ngộ (xem bojjhaṅga), và mười pāramī.",
+    "id": "Pali - 1384"
+  },
+  {
+    "Tiếng Pali": "Uppāda",
+    "Tiếng Việt": "xuất hiện, nảy sinh, sinh. Uppāda-vaya, sinh và diệt. Uppāda-vaya-dhammino, có bản chất của sinh và diệt.",
+    "id": "Pali - 1385"
+  },
+  {
+    "Tiếng Pali": "Vaya / Vyaya",
+    "Tiếng Việt": "diệt đi / diệt mất, suy tàn. Vaya-dhamma hiện tượng tan diệt mất.",
+    "id": "Pali - 1386"
+  },
+  {
+    "Tiếng Pali": "Vedanā",
+    "Tiếng Việt": "cảm nhận / cảm giác (thọ). Một trong năm tập hợp (khandha). Vedanā được Đức Phật mô tả là có 2 lĩnh vực thuộc về tinh thần và vật chất; do đó vedanā cho ta phương tiện khảo sát toàn thể hiện tượng tinh thần-vật chất. Trong Chuỗi Duyên Khởi (paṭicca-samuppāda), Đức Phật giải thích rằng taṇhā, nguồn gốc của khổ, nảy sinh là do phản ứng đối với vedanā. Bằng cách tập quan sát vedanā một cách khách quan ta có thể tránh khỏi bất cứ phản ứng mới nào, và có thể kinh nghiệm trực tiếp trong bản thân sự thật về vô thường (anicca). Kinh nghiệm này là thiết yếu để phát triển sự xa lìa những dính mắc, đưa đến sự giải thoát cho tâm.",
+    "id": "Pali - 1387"
+  },
+  {
+    "Tiếng Pali": "Vedanānupassanā",
+    "Tiếng Việt": "quan sát cảm giác trên thân. Xem satipaṭṭhāna.",
+    "id": "Pali - 1388"
+  },
+  {
+    "Tiếng Pali": "Viññāṇa",
+    "Tiếng Việt": "thức, sự hay biết. Một trong năm tập hợp (khandha).",
+    "id": "Pali - 1389"
+  },
+  {
+    "Tiếng Pali": "Viveka",
+    "Tiếng Việt": "sự không dính mắc / sự vô tư; tuệ phân biệt.",
+    "id": "Pali - 1390"
+  },
+  {
+    "Tiếng Pali": "Yathā-Bhūta",
+    "Tiếng Việt": "nghĩa đen, ‘đúng như thật’. Thực tại đang hiện hữu. Yathā-bhūta-ñāna-dassana, sự hiểu biết (tri kiến) sự thật đúng như thật.",
+    "id": "Pali - 1391"
+  },
+  {
+    "Tiếng Pali": "Vipassana",
+    "Tiếng Việt": "quan sát nội tâm, tuệ giác giúp thanh lọc được tâm; đặc biệt tuệ giác về bản chất vô thường, khổ, vô ngã của cấu trúc tinh thần-vật chất này. Vipassanā-bhāvanā, sự phát triển tuệ giác có hệ thống nhờ phương pháp thiền quan sát thực tại về bản thân mình bằng cách quan sát cảm giác trên thân.",
+    "id": "Pali - 1392"
+  }
+]

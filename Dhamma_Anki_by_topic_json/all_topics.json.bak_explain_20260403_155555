@@ -1,0 +1,1818 @@
+[
+  {
+    "id": "Dhamma - 0001",
+    "english": "breath",
+    "ipa": "/brɛθ/",
+    "vietnamese": "hơi thở",
+    "explain": "Hơi thở (Ana/Apana). Trong thiền định, hơi thở là đối tượng quán niệm thuần khiết nhất. Nó là cây cầu nối tự nhiên giữa ý thức và vô thức, giữa thân (Rupa) và tâm (Nama). Hành giả chỉ quan sát hơi thở tự nhiên như nó đang là, không điều khiển, từ đó phát triển chánh niệm (Sati) và định tâm (Samadhi).",
+    "title": "1. about the breath"
+  },
+  {
+    "id": "Dhamma - 0002",
+    "english": "respiration",
+    "ipa": "/ˌrɛspərˈeɪʃən/",
+    "vietnamese": "hơi thở",
+    "explain": "Sự hô hấp. Thuật ngữ này nhấn mạnh vào quá trình động và liên tục của việc thở ra và hít vào. Sự quan sát 'respiration' một cách sắc bén giúp hành giả nhận diện nhịp điệu tự nhiên của sự sống, đặt nền tảng ban đầu để thấu hiểu luật Vô thường (Anicca) ngay trong từng khoảnh khắc sinh diệt của luồng hơi.",
+    "title": "1. about the breath"
+  },
+  {
+    "id": "Dhamma - 0003",
+    "english": "outgoing breath",
+    "ipa": "/ˈaʊtˌgoʊɪŋ brɛθ/",
+    "vietnamese": "hơi thở đi ra",
+    "explain": "Hơi thở ra (Apana). Một nửa của vòng tuần hoàn Anapana. Khi luồng hơi đi ra, hành giả ghi nhận 'đang thở ra' với sự tỉnh giác trọn vẹn (Sampajanna). Không cố ý kéo dài hay làm ngắn lại, chỉ đơn thuần nhận biết sự cọ xát của không khí tại cửa mũi hoặc trên môi trên, thiết lập sự chánh niệm tại một điểm duy nhất.",
+    "title": "1. about the breath"
+  },
+  {
+    "id": "Dhamma - 0004",
+    "english": "incoming breath",
+    "ipa": "/ˈɪnˌkəmɪŋ brɛθ/",
+    "vietnamese": "hơi thở đi vào",
+    "explain": "Hơi thở vào (Ana). Hành giả ghi nhận rõ ràng sự bắt đầu, đoạn giữa và sự kết thúc của một luồng hơi thở đi vào. Sự chú tâm vào luồng không khí mát mẻ đi vào mũi giúp gom tâm lại, thu hẹp vùng không gian quan sát để làm tâm trở nên nhạy bén, vi tế và tập trung hơn.",
+    "title": "1. about the breath"
+  },
+  {
+    "id": "Dhamma - 0005",
+    "english": "soft breath",
+    "ipa": "/sɔft brɛθ/",
+    "vietnamese": "hơi thở nhẹ, dịu",
+    "explain": "Hơi thở vi tế. Khi tâm dần trở nên an tịnh và bớt xáo động (Samatha), hơi thở tự nhiên sẽ ngắn lại, trở nên vô cùng nhẹ nhàng và mỏng manh. Đôi lúc hành giả có cảm giác như hơi thở đã ngừng lại. Đây là dấu hiệu định lực đang tăng trưởng, đòi hỏi sự chú ý (Attention) cực kỳ sắc bén để tiếp tục duy trì sự nhận biết.",
+    "title": "1. about the breath"
+  },
+  {
+    "id": "Dhamma - 0006",
+    "english": "natural breath",
+    "ipa": "/ˈnæʧərəl brɛθ/",
+    "vietnamese": "hơi thở tự nhiên",
+    "explain": "Hơi thở thuần túy như nó đang là (Yathabhuta). Nguyên tắc cốt lõi của thiền Anapana là tuyệt đối không can thiệp hay điều khí (Pranayama). Việc chấp nhận hoàn toàn hơi thở tự nhiên—dù thô hay tế, sâu hay nông—giúp huấn luyện tâm xả ly (Upekkha), không phản ứng với thực tại và triệt tiêu thói quen kiểm soát của bản ngã.",
+    "title": "1. about the breath"
+  },
+  {
+    "id": "Dhamma - 0007",
+    "english": "intentional breath",
+    "ipa": "/ˌɪnˈtɛnʃənəl brɛθ/",
+    "vietnamese": "hơi thở cố ý",
+    "explain": "Hơi thở có chủ đích. Thường chỉ được áp dụng như một phương tiện chữa cháy tạm thời (vài nhịp) khi tâm quá trạo cử, hôn trầm hoặc trôi dạt vào dòng suy nghĩ miên man. Bằng cách thở hơi mạnh và có ý thức, hành giả mỏ neo tâm trở lại hiện tại trước khi lập tức quay về với sự quan sát hơi thở tự nhiên.",
+    "title": "1. about the breath"
+  },
+  {
+    "id": "Dhamma - 0008",
+    "english": "hard breath",
+    "ipa": "/hɑrd brɛθ/",
+    "vietnamese": "hơi thở mạnh",
+    "explain": "Hơi thở thô tháo. Thường xuất hiện tự nhiên khi tâm bị kích động bởi các chướng ngại (Nivarana) như sân hận, lo âu, hoặc cơ thể đang đau đớn. Hành giả chỉ cần khách quan ghi nhận 'đây là hơi thở mạnh' mà không phán xét hay cố làm dịu nó. Sự quan sát thuần túy này dần dần sẽ tự động xoa dịu cả tâm lẫn nhịp thở.",
+    "title": "1. about the breath"
+  },
+  {
+    "id": "Dhamma - 0009",
+    "english": "the breathing is forced and shallow",
+    "ipa": "/ðə ˈbriðɪŋ ɪz fɔrst ənd ˈʃæloʊ/",
+    "vietnamese": "hơi thở gượng ép và nông",
+    "explain": "Trạng thái hô hấp bị nén hoặc cạn cợt do sự căng thẳng tâm lý (Tension) hoặc sự cố gắng quá sức để tập trung. Lời khuyên là hành giả cần lùi lại, buông bỏ sự khao khát (Craving) muốn đạt được trạng thái thiền sâu, thư giãn cơ thể và để cho hệ hô hấp tự vận hành nhịp điệu của riêng nó.",
+    "title": "1. about the breath"
+  },
+  {
+    "id": "Dhamma - 0010",
+    "english": "be aware of the breath",
+    "ipa": "/bi əˈwɛr əv ðə brɛθ/",
+    "vietnamese": "ý thức, nhận biết hơi thở",
+    "explain": "Thiết lập Chánh niệm (Sati) trên đối tượng. Đây không phải là suy nghĩ, tưởng tượng hay niệm thầm về hơi thở, mà là sự trải nghiệm trực tiếp sự xúc chạm vật lý của luồng hơi ngay tại vùng cửa mũi. Sự nhận biết liên tục, không đứt đoạn là mảnh đất màu mỡ để phát sinh trí tuệ thực chứng (Panna).",
+    "title": "1. about the breath"
+  },
+  {
+    "id": "Dhamma - 0011",
+    "english": "regulate the breath",
+    "ipa": "/ˈrɛgjəˌleɪt ðə brɛθ/",
+    "vietnamese": "điều khiển hơi thở",
+    "explain": "Một thao tác hoàn toàn bị cấm kỵ trong truyền thống Vipassana (trái ngược với Yoga Pranayama). Việc 'điều khiển' sẽ nuôi dưỡng sự bám chấp vào một cái tôi (Ngã) đang làm chủ và kiểm soát thực tại. Thiền tuệ đòi hỏi sự quan sát vô ngã (Anatta), để mọi thứ diễn ra theo đúng quy luật tự nhiên của chúng.",
+    "title": "1. about the breath"
+  },
+  {
+    "id": "Dhamma - 0012",
+    "english": "nostril",
+    "ipa": "/ˈnɑstrɪl/",
+    "vietnamese": "lỗ mũi",
+    "explain": "Cửa ngõ của hệ hô hấp và là vùng giới hạn không gian (Area of attention) để hành giả neo giữ tâm trí trong giai đoạn Anapana. Bằng cách thu hẹp phạm vi quan sát quanh lỗ mũi, tâm dần trở nên hội tụ, sắc bén như một mũi kim, chuẩn bị năng lực để thấu triệt những cảm thọ vi tế (Subtle sensations) trên toàn thân sau này.",
+    "title": "1. about the breath"
+  },
+  {
+    "id": "Dhamma - 0013",
+    "english": "entrance of the nostril",
+    "ipa": "/ˈɛntrəns əv ðə ˈnɑstrɪl/",
+    "vietnamese": "cửa mũi",
+    "explain": "Vùng cửa ngõ nơi luồng khí đi vào và đi ra. Trong giai đoạn thiền Anapana, hành giả thu hẹp sự chú ý tại khu vực nhỏ hẹp này để mài giũa sự tập trung. Diện tích quan sát càng nhỏ, tâm càng trở nên sắc bén và vi tế, chuẩn bị năng lực để nhận biết những cảm thọ cực kỳ mỏng manh.",
+    "title": "1. about the breath"
+  },
+  {
+    "id": "Dhamma - 0014",
+    "english": "inside the nostril",
+    "ipa": "/ˌɪnˈsaɪd ðə ˈnɑstrɪl/",
+    "vietnamese": "bên trong mũi",
+    "explain": "Nơi diễn ra sự cọ xát đầu tiên của luồng hơi. Hành giả ghi nhận mọi cảm giác nảy sinh tại khu vực này (như sự ấm, mát, ngứa, nhột hay cọ xát) với sự tỉnh giác (Sampajanna) và giữ tâm khách quan tuyệt đối, không phản ứng thuận nghịch.",
+    "title": "1. about the breath"
+  },
+  {
+    "id": "Dhamma - 0015",
+    "english": "outer ring of the nostril",
+    "ipa": "/ˈaʊtər rɪŋ əv ðə ˈnɑstrɪl/",
+    "vietnamese": "vòng ngoài lỗ mũi",
+    "explain": "Khu vực rìa của cửa mũi, tiếp giáp với môi trên. Việc khoanh vùng chính xác điểm tiếp xúc của hơi thở tại đây giúp tâm không bị phân tán ra bên ngoài, từ đó phát triển Chánh định (Samma Samadhi) một cách vững chãi.",
+    "title": "1. about the breath"
+  },
+  {
+    "id": "Dhamma - 0016",
+    "english": "passage of the nostril",
+    "ipa": "/ˈpæsɪʤ əv ðə ˈnɑstrɪl/",
+    "vietnamese": "ống mũi",
+    "explain": "Đường dẫn luồng sinh khí. Việc quan sát sự di chuyển của không khí qua ống mũi giúp hành giả nhận diện rõ đặc tính thực sự của luồng hơi: thô hay tế, dài hay ngắn, qua đó kinh nghiệm trực tiếp sự thay đổi liên tục của sắc pháp (Rupa).",
+    "title": "1. about the breath"
+  },
+  {
+    "id": "Dhamma - 0017",
+    "english": "pure breath",
+    "ipa": "/pjʊr brɛθ/",
+    "vietnamese": "hơi thở tự nhiên",
+    "explain": "Hơi thở thuần khiết, không bị xen lẫn bởi các câu thần chú (Mantra), hình ảnh tưởng tượng hay khái niệm ngôn ngữ. Việc chỉ quan sát luồng không khí đi vào và đi ra giúp tâm đối diện trực tiếp với thực tại chân đế (Paramattha Sacca), không bị lạc vào ảo ảnh.",
+    "title": "1. about the breath"
+  },
+  {
+    "id": "Dhamma - 0018",
+    "english": "bare breath",
+    "ipa": "/bɛr brɛθ/",
+    "vietnamese": "hơi thở đơn thuần",
+    "explain": "Sự quan sát đã được tước bỏ mọi khái niệm chế định (Pannatti). Hành giả không gán tên gọi 'đây là hơi thở', mà chỉ đơn thuần kinh nghiệm sự xúc chạm vật lý. Đây là bước đệm quan trọng để gọt rửa tâm trí khỏi những dính mắc vào khái niệm.",
+    "title": "1. about the breath"
+  },
+  {
+    "id": "Dhamma - 0019",
+    "english": "surface of the mind",
+    "ipa": "/ˈsərfəs əv ðə maɪnd/",
+    "vietnamese": "bề mặt tâm",
+    "explain": "Tầng tâm thức nông cạn, nơi các suy nghĩ, logic, ký ức và ngôn ngữ hoạt động mạnh mẽ. Thiền Vipassana yêu cầu hành giả không dừng lại ở lớp bề mặt đầy xáo động này, mà phải dùng định lực xuyên thấu xuống cội rễ của tâm, nơi các phản ứng vi tế thực sự diễn ra.",
+    "title": "2. About the mind"
+  },
+  {
+    "id": "Dhamma - 0020",
+    "english": "superficial level",
+    "ipa": "/ˌsupərˈfɪʃəl ˈlɛvəl/",
+    "vietnamese": "ở mức độ bề mặt, bề ngoài",
+    "explain": "Trạng thái tiếp nhận thực tại chỉ qua lăng kính của trí tuệ vay mượn từ người khác (Suta-maya panna) hoặc trí tuệ tự suy luận logic (Cinta-maya panna), chưa chạm đến cốt lõi của sự giải thoát là thực chứng tuệ (Bhavana-maya panna).",
+    "title": "2. About the mind"
+  },
+  {
+    "id": "Dhamma - 0021",
+    "english": "intellectual level",
+    "ipa": "/ˌɪnəˈlɛkʧuəl ˈlɛvəl/",
+    "vietnamese": "mức độ tri thức, trí năng",
+    "explain": "Sự hiểu biết giáo pháp qua sách vở và tư duy trí óc. Dù cần thiết làm bản đồ chỉ đường ban đầu, nhưng sự dính mắc ở mức độ trí năng là một chướng ngại lớn. Trí năng không đủ sức mạnh để nhổ tận gốc rễ của những ô nhiễm (Kilesa) nằm sâu dưới các tầng vô thức.",
+    "title": "2. About the mind"
+  },
+  {
+    "id": "Dhamma - 0022",
+    "english": "experiencial level",
+    "ipa": "/ɛkˌspɛriˈɛnʃəl ˈlɛvəl/",
+    "vietnamese": "mức độ kinh nghiệm",
+    "explain": "Trí tuệ phát sinh nhờ kinh nghiệm trực tiếp trên thân (Bhavana-maya panna). Khi hành giả tự mình trải nghiệm tính Vô thường (Anicca) thông qua sự sinh diệt của cảm thọ, đó mới là sự giác ngộ thực sự, mang lại năng lực tịnh hóa nội tâm và giải thoát khỏi khổ đau.",
+    "title": "2. About the mind"
+  },
+  {
+    "id": "Dhamma - 0023",
+    "english": "conscious level",
+    "ipa": "/ˈkɑnʃəs ˈlɛvəl/",
+    "vietnamese": "tầng có ý thức",
+    "explain": "Phần tâm trí bề mặt (Vinnana) nhận biết thông tin từ sáu căn (Mắt, Tai, Mũi, Lưỡi, Thân, Ý). Dù nó có thể đang niệm 'vô thường, vô ngã', nhưng nếu tầng vô thức vẫn mù quáng phản ứng bằng tham và sân, tâm trí vẫn chưa thực sự được thanh lọc.",
+    "title": "2. About the mind"
+  },
+  {
+    "id": "Dhamma - 0024",
+    "english": "subconscious level",
+    "ipa": "/səbˈkɑnʃəs ˈlɛvəl/",
+    "vietnamese": "tiềm thức",
+    "explain": "Tầng sâu thẳm của tâm, hoạt động liên tục ngày đêm không ngừng nghỉ. Đây là kho chứa của các Hành (Sankhara) - những phản ứng và thói quen ngầm sâu kín. Thực hành Vipassana chính là cuộc phẫu thuật tâm linh vào tầng tiềm thức này, dùng lưỡi dao Chánh niệm để cắt đứt các gốc rễ ô nhiễm.",
+    "title": "2. About the mind"
+  },
+  {
+    "id": "Dhamma - 0025",
+    "english": "unconscious level",
+    "ipa": "/ˌənˈkɑnʃəs ˈlɛvəl/",
+    "vietnamese": "tầng vô thức",
+    "explain": "",
+    "title": "2. About the mind"
+  },
+  {
+    "id": "Dhamma - 0026",
+    "english": "defilement",
+    "ipa": "/dɪˈfaɪlmənt/",
+    "vietnamese": "ô nhiễm",
+    "explain": "",
+    "title": "2. About the mind"
+  },
+  {
+    "id": "Dhamma - 0027",
+    "english": "impurity",
+    "ipa": "/ˌɪmˈpjʊrəti/",
+    "vietnamese": "bất tịnh",
+    "explain": "",
+    "title": "2. About the mind"
+  },
+  {
+    "id": "Dhamma - 0028",
+    "english": "negativity",
+    "ipa": "/ˌnɛgəˈtɪvəti/",
+    "vietnamese": "tiêu cực",
+    "explain": "",
+    "title": "2. About the mind"
+  },
+  {
+    "id": "Dhamma - 0029",
+    "english": "craving",
+    "ipa": "/ˈkreɪvɪŋ/",
+    "vietnamese": "tham muốn, tâm tham",
+    "explain": "",
+    "title": "2. About the mind"
+  },
+  {
+    "id": "Dhamma - 0030",
+    "english": "aversion",
+    "ipa": "/əˈvərʒən/",
+    "vietnamese": "ghét bỏ, tâm sân",
+    "explain": "",
+    "title": "2. About the mind"
+  },
+  {
+    "id": "Dhamma - 0031",
+    "english": "ignorance",
+    "ipa": "/ˈɪgnərəns/",
+    "vietnamese": "vô minh",
+    "explain": "",
+    "title": "2. About the mind"
+  },
+  {
+    "id": "Dhamma - 0032",
+    "english": "illusion",
+    "ipa": "/ˌɪˈluʒən/",
+    "vietnamese": "ảo tưởng",
+    "explain": "",
+    "title": "2. About the mind"
+  },
+  {
+    "id": "Dhamma - 0033",
+    "english": "delusion",
+    "ipa": "/dɪˈluʒən/",
+    "vietnamese": "mê lầm",
+    "explain": "",
+    "title": "2. About the mind"
+  },
+  {
+    "id": "Dhamma - 0034",
+    "english": "attachment",
+    "ipa": "/əˈtæʧmənt/",
+    "vietnamese": "dính mắc",
+    "explain": "",
+    "title": "2. About the mind"
+  },
+  {
+    "id": "Dhamma - 0035",
+    "english": "clinging",
+    "ipa": "/ˈklɪŋɪŋ/",
+    "vietnamese": "bám víu",
+    "explain": "",
+    "title": "2. About the mind"
+  },
+  {
+    "id": "Dhamma - 0036",
+    "english": "the world within",
+    "ipa": "/ðə wərld wɪˈθɪn/",
+    "vietnamese": "thế giới bên trong, nội tâm",
+    "explain": "",
+    "title": "2. About the mind"
+  },
+  {
+    "id": "Dhamma - 0037",
+    "english": "habit pattern",
+    "ipa": "/ˈhæbət ˈpætərn/",
+    "vietnamese": "khuôn mẫu thói quen",
+    "explain": "",
+    "title": "2. About the mind"
+  },
+  {
+    "id": "Dhamma - 0038",
+    "english": "roll in thoughts",
+    "ipa": "/roʊl ɪn θɔts/",
+    "vietnamese": "trôi lăn trong suy nghĩ",
+    "explain": "",
+    "title": "2. About the mind"
+  },
+  {
+    "id": "Dhamma - 0039",
+    "english": "equanimity",
+    "ipa": "/ˌikwəˈnɪmɪti/",
+    "vietnamese": "tâm xả = tâm quân bình + không phản ứng",
+    "explain": "",
+    "title": "3. states of mind"
+  },
+  {
+    "id": "Dhamma - 0040",
+    "english": "be equanimous",
+    "ipa": "/bi ˌiːkwəˈnɪməs/",
+    "vietnamese": "bình thản, buông xả",
+    "explain": "",
+    "title": "3. states of mind"
+  },
+  {
+    "id": "Dhamma - 0041",
+    "english": "remain equanimous",
+    "ipa": "/rɪˈmeɪn ˌiːkwəˈnɪməs/",
+    "vietnamese": "giữ tâm bình thản, không phản ứng",
+    "explain": "",
+    "title": "3. states of mind"
+  },
+  {
+    "id": "Dhamma - 0042",
+    "english": "pure mind",
+    "ipa": "/pjʊr maɪnd/",
+    "vietnamese": "tâm thanh tịnh",
+    "explain": "",
+    "title": "3. states of mind"
+  },
+  {
+    "id": "Dhamma - 0043",
+    "english": "agitated",
+    "ipa": "/ˈæʤəˌteɪtəd/",
+    "vietnamese": "dao động, xáo động",
+    "explain": "",
+    "title": "3. states of mind"
+  },
+  {
+    "id": "Dhamma - 0044",
+    "english": "calm & quiet mind",
+    "ipa": "/kɑm kwaɪət maɪnd/",
+    "vietnamese": "tâm an tĩnh & yên lặng",
+    "explain": "",
+    "title": "3. states of mind"
+  },
+  {
+    "id": "Dhamma - 0045",
+    "english": "alert & attentive mind",
+    "ipa": "/əˈlərt əˈtɛntɪv maɪnd/",
+    "vietnamese": "tâm tỉnh táo & chăm chú",
+    "explain": "",
+    "title": "3. states of mind"
+  },
+  {
+    "id": "Dhamma - 0046",
+    "english": "balanced & equanimous mind",
+    "ipa": "/ˈbælənst ˌiːkwəˈnɪməs maɪnd/",
+    "vietnamese": "tâm cân bằng & buông xả, không phản ứng",
+    "explain": "",
+    "title": "3. states of mind"
+  },
+  {
+    "id": "Dhamma - 0047",
+    "english": "wandering mind",
+    "ipa": "/ˈwɑndərɪŋ maɪnd/",
+    "vietnamese": "cái tâm đi lang thang",
+    "explain": "",
+    "title": "3. states of mind"
+  },
+  {
+    "id": "Dhamma - 0048",
+    "english": "state of the mind",
+    "ipa": "/steɪt əv ðə maɪnd/",
+    "vietnamese": "trạng thái của tâm",
+    "explain": "",
+    "title": "3. states of mind"
+  },
+  {
+    "id": "Dhamma - 0049",
+    "english": "be aware of the breath/sensation",
+    "ipa": "/bi əˈwɛr əv ðə brɛθ/ ⁄ /sɛnˈseɪʃən/",
+    "vietnamese": "ý thức, nhận biết hơi thở/cảm giác",
+    "explain": "",
+    "title": "4. about the technique"
+  },
+  {
+    "id": "Dhamma - 0050",
+    "english": "focus the attention on",
+    "ipa": "/ˈfoʊkɪs ðə əˈtɛnʃən ɔn/",
+    "vietnamese": "tập trung chú ý vào",
+    "explain": "",
+    "title": "4. about the technique"
+  },
+  {
+    "id": "Dhamma - 0051",
+    "english": "move the attention from part to part",
+    "ipa": "/muv ðə əˈtɛnʃən frəm pɑrt tɪ pɑrt/",
+    "vietnamese": "di chuyển sự chú ý qua từng phần",
+    "explain": "",
+    "title": "4. about the technique"
+  },
+  {
+    "id": "Dhamma - 0052",
+    "english": "feel the breath/sensation",
+    "ipa": "/fil ðə brɛθ/ ⁄ /sɛnˈseɪʃən/",
+    "vietnamese": "cảm nhận hơi thở/cảm giác",
+    "explain": "",
+    "title": "4. about the technique"
+  },
+  {
+    "id": "Dhamma - 0053",
+    "english": "observe objectively",
+    "ipa": "/əbˈzərv ɑˈbʤɛktɪvli/",
+    "vietnamese": "quan sát một cách khách quan",
+    "explain": "",
+    "title": "4. about the technique"
+  },
+  {
+    "id": "Dhamma - 0054",
+    "english": "experience a sensation",
+    "ipa": "/ɪkˈspɪriəns ə sɛnˈseɪʃən/",
+    "vietnamese": "kinh nghiệm được một cảm giác",
+    "explain": "",
+    "title": "4. about the technique"
+  },
+  {
+    "id": "Dhamma - 0055",
+    "english": "stay with the respiration/sensation",
+    "ipa": "/steɪ wɪθ ðə ˌrɛspərˈeɪʃən/ ⁄ /sɛnˈseɪʃən/",
+    "vietnamese": "trụ lại với hơi thở/cảm giác (nhiều cái \"stay\" liên tục sẽ hình thành trạng thái \"be\")",
+    "explain": "",
+    "title": "4. about the technique"
+  },
+  {
+    "id": "Dhamma - 0056",
+    "english": "be with the respiration/sensation",
+    "ipa": "/bi wɪθ ðə ˌrɛspərˈeɪʃən/ ⁄ /sɛnˈseɪʃən/",
+    "vietnamese": "ý thức về hơi thở/cảm giác, hoàn toàn chú tâm quan sát hơi thở/cảm giác ấy",
+    "explain": "",
+    "title": "4. about the technique"
+  },
+  {
+    "id": "Dhamma - 0057",
+    "english": "observe/work part-by-part",
+    "ipa": "/əbˈzərv/ ⁄ /wərk pɑrt baɪ pɑrt/",
+    "vietnamese": "quan sát từng phần",
+    "explain": "",
+    "title": "4. about the technique"
+  },
+  {
+    "id": "Dhamma - 0058",
+    "english": "observe/work with a flow",
+    "ipa": "/əbˈzərv/ ⁄ /wərk wɪθ ə floʊ/",
+    "vietnamese": "quét",
+    "explain": "",
+    "title": "4. about the technique"
+  },
+  {
+    "id": "Dhamma - 0059",
+    "english": "observe the reality of this moment",
+    "ipa": "/əbˈzərv ðə ˌriˈæləˌti əv ðɪs ˈmoʊmənt/",
+    "vietnamese": "quan sát thực tại của khoảnh khắc này",
+    "explain": "",
+    "title": "4. about the technique"
+  },
+  {
+    "id": "Dhamma - 0060",
+    "english": "explore/investigate",
+    "ipa": "/ɪkˈsplɔr/ ⁄ /ˌɪnˈvɛstəˌgeɪt/",
+    "vietnamese": "khảo sát",
+    "explain": "",
+    "title": "4. about the technique"
+  },
+  {
+    "id": "Dhamma - 0061",
+    "english": "dividing it, dissecting it, disintegrating it",
+    "ipa": "/dɪˈvaɪdɪŋ ɪt, daɪˈsɛktɪŋ ɪt, dɪˈsɪntəˌgreɪtɪŋ ɪt/",
+    "vietnamese": "chia chẻ ra, tách rời ra, phân nhỏ nó ra",
+    "explain": "",
+    "title": "4. about the technique"
+  },
+  {
+    "id": "Dhamma - 0062",
+    "english": "dissolve",
+    "ipa": "/dɪˈzɑlv/",
+    "vietnamese": "tan rã ra, làm tan rã",
+    "explain": "",
+    "title": "4. about the technique"
+  },
+  {
+    "id": "Dhamma - 0063",
+    "english": "dissolution",
+    "ipa": "/ˌdɪsəˈluʃən/",
+    "vietnamese": "sự rã ra, sự tan ra, tan rã",
+    "explain": "",
+    "title": "4. about the technique"
+  },
+  {
+    "id": "Dhamma - 0064",
+    "english": "eradicate the impurities",
+    "ipa": "/ɪˈrædəˌkeɪt ðə ˌɪmˈpjʊrətiz/",
+    "vietnamese": "diệt trừ các bất tịnh",
+    "explain": "",
+    "title": "4. about the technique"
+  },
+  {
+    "id": "Dhamma - 0065",
+    "english": "purify the mind",
+    "ipa": "/ˈpjʊrəˌfaɪ ðə maɪnd/",
+    "vietnamese": "thanh lọc tâm",
+    "explain": "",
+    "title": "4. about the technique"
+  },
+  {
+    "id": "Dhamma - 0066",
+    "english": "purification of the mind",
+    "ipa": "/ˌpjʊrəfəˈkeɪʃən əv ðə maɪnd/",
+    "vietnamese": "sự thanh lọc tâm",
+    "explain": "",
+    "title": "4. about the technique"
+  },
+  {
+    "id": "Dhamma - 0067",
+    "english": "craving & aversion",
+    "ipa": "/ˈkreɪvɪŋ/ & /əˈvərʒən/",
+    "vietnamese": "tham muốn & ghét bỏ (tâm tham & tâm sân)",
+    "explain": "",
+    "title": "5. learn vocabulary in pair"
+  },
+  {
+    "id": "Dhamma - 0068",
+    "english": "wholesome deeds & unwholesome deeds",
+    "ipa": "/ˈhoʊlsəm didz/ & /ʌnˈhoʊlsəm didz/",
+    "vietnamese": "hành động thiện lành & hành động không thiện lành",
+    "explain": "",
+    "title": "5. learn vocabulary in pair"
+  },
+  {
+    "id": "Dhamma - 0069",
+    "english": "arise & pass away",
+    "ipa": "/əraɪz pæs əˈweɪ/",
+    "vietnamese": "nảy sinh & diệt đi (sinh-diệt)",
+    "explain": "",
+    "title": "5. learn vocabulary in pair"
+  },
+  {
+    "id": "Dhamma - 0070",
+    "english": "progress >< regress",
+    "ipa": "/ˈprɑˌgrɛs/ >< /ˈrigrɛs/",
+    "vietnamese": "tiến bộ >< thoái bộ",
+    "explain": "",
+    "title": "5. learn vocabulary in pair"
+  },
+  {
+    "id": "Dhamma - 0071",
+    "english": "conscious mind >< unconscious mind",
+    "ipa": "/ˈkɑnʃəs maɪnd/ >< /ˌənˈkɑnʃəs maɪnd/",
+    "vietnamese": "tâm có ý thức >< tâm vô thức",
+    "explain": "",
+    "title": "5. learn vocabulary in pair"
+  },
+  {
+    "id": "Dhamma - 0072",
+    "english": "piercing & penetrating",
+    "ipa": "/ˈpɪrsɪŋ/ & /ˈpɛnəˌtreɪtɪŋ/",
+    "vietnamese": "(đưa tâm) đi xuyên vào & thấu qua",
+    "explain": "",
+    "title": "5. learn vocabulary in pair"
+  },
+  {
+    "id": "Dhamma - 0073",
+    "english": "pleasant or unpleasant",
+    "ipa": "/ˈplɛzənt ər ənˈplɛzənt/",
+    "vietnamese": "dễ chịu hay khó chịu",
+    "explain": "",
+    "title": "5. learn vocabulary in pair"
+  },
+  {
+    "id": "Dhamma - 0074",
+    "english": "gross or subtle",
+    "ipa": "/groʊs ər ˈsətəl/",
+    "vietnamese": "thô thiển hay vi tế",
+    "explain": "",
+    "title": "5. learn vocabulary in pair"
+  },
+  {
+    "id": "Dhamma - 0075",
+    "english": "agreeable or disagreeable",
+    "ipa": "/əˈgriəbəl ər ˌdɪsəˈgriəbəl/",
+    "vietnamese": "vừa ý hay không vừa ý",
+    "explain": "",
+    "title": "5. learn vocabulary in pair"
+  },
+  {
+    "id": "Dhamma - 0076",
+    "english": "mental & physical structure",
+    "ipa": "/ˈmɛntəl ˈfɪzɪkəl ˈstrəkʧər/",
+    "vietnamese": "cơ cấu tâm thức & vật chất",
+    "explain": "",
+    "title": "5. learn vocabulary in pair"
+  },
+  {
+    "id": "Dhamma - 0077",
+    "english": "mind & matter",
+    "ipa": "/maɪnd/ & /ˈmætər/",
+    "vietnamese": "tâm & thân (tâm thức & vật chất)",
+    "explain": "",
+    "title": "5. learn vocabulary in pair"
+  },
+  {
+    "id": "Dhamma - 0078",
+    "english": "upper arm & lower arm",
+    "ipa": "/ˈəpər ɑrm/ & /loʊər ɑrm/",
+    "vietnamese": "cánh tay trên & cánh tay dưới",
+    "explain": "",
+    "title": "5. learn vocabulary in pair"
+  },
+  {
+    "id": "Dhamma - 0079",
+    "english": "upper back & lower back",
+    "ipa": "/ˈəpər bæk/ & /loʊər bæk/",
+    "vietnamese": "lưng trên & lưng dưới",
+    "explain": "",
+    "title": "5. learn vocabulary in pair"
+  },
+  {
+    "id": "Dhamma - 0080",
+    "english": "palms & soles",
+    "ipa": "/pɑmz/ & /soʊlz/",
+    "vietnamese": "lòng bàn tay & lòng bàn chân",
+    "explain": "",
+    "title": "5. learn vocabulary in pair"
+  },
+  {
+    "id": "Dhamma - 0081",
+    "english": "throbbing",
+    "ipa": "/θˈrɑbɪŋ/",
+    "vietnamese": "nhói, mạch đập mạnh",
+    "explain": "",
+    "title": "6. Sensations1"
+  },
+  {
+    "id": "Dhamma - 0082",
+    "english": "pressured",
+    "ipa": "/ˈprɛʃərd/",
+    "vietnamese": "bị đè ép",
+    "explain": "",
+    "title": "6. Sensations1"
+  },
+  {
+    "id": "Dhamma - 0083",
+    "english": "tension",
+    "ipa": "/ˈtɛnʃən/",
+    "vietnamese": "lực căng, căng kéo",
+    "explain": "",
+    "title": "6. Sensations1"
+  },
+  {
+    "id": "Dhamma - 0084",
+    "english": "strain",
+    "ipa": "/streɪn/",
+    "vietnamese": "căng thẳng, áp lực",
+    "explain": "",
+    "title": "6. Sensations1"
+  },
+  {
+    "id": "Dhamma - 0085",
+    "english": "ache",
+    "ipa": "/eɪk/",
+    "vietnamese": "đau",
+    "explain": "",
+    "title": "6. Sensations1"
+  },
+  {
+    "id": "Dhamma - 0086",
+    "english": "numbness",
+    "ipa": "/ˈnəmnəs/",
+    "vietnamese": "tê, tê cóng",
+    "explain": "",
+    "title": "6. Sensations1"
+  },
+  {
+    "id": "Dhamma - 0087",
+    "english": "convulsion",
+    "ipa": "/kənˈvəlʃən/",
+    "vietnamese": "sự co giật",
+    "explain": "",
+    "title": "6. Sensations1"
+  },
+  {
+    "id": "Dhamma - 0088",
+    "english": "spasm",
+    "ipa": "/ˈspæzəm/",
+    "vietnamese": "sự co thắt",
+    "explain": "",
+    "title": "6. Sensations1"
+  },
+  {
+    "id": "Dhamma - 0089",
+    "english": "expansion",
+    "ipa": "/ɪkˈspænʧən/",
+    "vietnamese": "giãn ra, nở ra",
+    "explain": "",
+    "title": "6. Sensations1"
+  },
+  {
+    "id": "Dhamma - 0090",
+    "english": "contraction",
+    "ipa": "/kənˈtrækʃən/",
+    "vietnamese": "sự co kéo, co lại",
+    "explain": "",
+    "title": "6. Sensations1"
+  },
+  {
+    "id": "Dhamma - 0091",
+    "english": "pulsing",
+    "ipa": "/ˈpəlsɪŋ/",
+    "vietnamese": "mạch đập nhè nhẹ",
+    "explain": "",
+    "title": "6. Sensations1"
+  },
+  {
+    "id": "Dhamma - 0092",
+    "english": "cold",
+    "ipa": "/koʊld/",
+    "vietnamese": "cái lạnh",
+    "explain": "",
+    "title": "7. sensations 2"
+  },
+  {
+    "id": "Dhamma - 0093",
+    "english": "heat",
+    "ipa": "/hit/",
+    "vietnamese": "cái nóng",
+    "explain": "",
+    "title": "7. sensations 2"
+  },
+  {
+    "id": "Dhamma - 0094",
+    "english": "moisture",
+    "ipa": "/ˈmɔɪsʧər/",
+    "vietnamese": "hơi ẩm, sự ẩm ướt",
+    "explain": "",
+    "title": "7. sensations 2"
+  },
+  {
+    "id": "Dhamma - 0095",
+    "english": "dryness",
+    "ipa": "/ˈdraɪnəs/",
+    "vietnamese": "khô",
+    "explain": "",
+    "title": "7. sensations 2"
+  },
+  {
+    "id": "Dhamma - 0096",
+    "english": "perspiration",
+    "ipa": "/ˌpərspərˈeɪʃən/",
+    "vietnamese": "sự đổ mồ hôi, mồ hôi",
+    "explain": "",
+    "title": "7. sensations 2"
+  },
+  {
+    "id": "Dhamma - 0097",
+    "english": "itching",
+    "ipa": "/ˈɪʧɪŋ/",
+    "vietnamese": "ngứa",
+    "explain": "",
+    "title": "7. sensations 2"
+  },
+  {
+    "id": "Dhamma - 0098",
+    "english": "tickling",
+    "ipa": "/tickling*/",
+    "vietnamese": "nhột nhột, buồn buồn",
+    "explain": "",
+    "title": "7. sensations 2"
+  },
+  {
+    "id": "Dhamma - 0099",
+    "english": "prickling",
+    "ipa": "/prickling*/",
+    "vietnamese": "cảm giác châm chích",
+    "explain": "",
+    "title": "7. sensations 2"
+  },
+  {
+    "id": "Dhamma - 0100",
+    "english": "ant crawling",
+    "ipa": "/ænt ˈkrɔlɪŋ/",
+    "vietnamese": "cảm giác kiến bò",
+    "explain": "",
+    "title": "7. sensations 2"
+  },
+  {
+    "id": "Dhamma - 0101",
+    "english": "insect moving",
+    "ipa": "/ˈɪnˌsɛkt ˈmuvɪŋ/",
+    "vietnamese": "cảm giác côn trùng bò",
+    "explain": "",
+    "title": "7. sensations 2"
+  },
+  {
+    "id": "Dhamma - 0102",
+    "english": "sweat",
+    "ipa": "/swɛt/",
+    "vietnamese": "sự đổ mồ hôi, mồ hôi",
+    "explain": "",
+    "title": "7. sensations 2"
+  },
+  {
+    "id": "Dhamma - 0103",
+    "english": "intense",
+    "ipa": "/ˌɪnˈtɛns/",
+    "vietnamese": "mãnh liệt, rất mạnh",
+    "explain": "",
+    "title": "8. sensations 3"
+  },
+  {
+    "id": "Dhamma - 0104",
+    "english": "intensified",
+    "ipa": "/ˌɪnˈtɛnsɪˌfaɪd/",
+    "vietnamese": "mãnh liệt, có cường độ tăng dần",
+    "explain": "",
+    "title": "8. sensations 3"
+  },
+  {
+    "id": "Dhamma - 0105",
+    "english": "feeble",
+    "ipa": "/ˈfibəl/",
+    "vietnamese": "yếu ớt",
+    "explain": "",
+    "title": "8. sensations 3"
+  },
+  {
+    "id": "Dhamma - 0106",
+    "english": "solidified",
+    "ipa": "/səˈlɪdəˌfaɪd/",
+    "vietnamese": "chắc đặc, được kết chặt lại",
+    "explain": "",
+    "title": "8. sensations 3"
+  },
+  {
+    "id": "Dhamma - 0107",
+    "english": "swinging",
+    "ipa": "/sˈwɪŋɪŋ/",
+    "vietnamese": "đu đưa, lắc lư",
+    "explain": "",
+    "title": "8. sensations 3"
+  },
+  {
+    "id": "Dhamma - 0108",
+    "english": "fine",
+    "ipa": "/faɪn/",
+    "vietnamese": "mịn, vi tế",
+    "explain": "",
+    "title": "8. sensations 3"
+  },
+  {
+    "id": "Dhamma - 0109",
+    "english": "vibration",
+    "ipa": "/vaɪˈbreɪʃən/",
+    "vietnamese": "rung động",
+    "explain": "",
+    "title": "8. sensations 3"
+  },
+  {
+    "id": "Dhamma - 0110",
+    "english": "tingling",
+    "ipa": "/ˈtɪŋgəlɪŋ/",
+    "vietnamese": "rần rần, râm ran",
+    "explain": "",
+    "title": "8. sensations 3"
+  },
+  {
+    "id": "Dhamma - 0111",
+    "english": "boneless",
+    "ipa": "/ˈboʊnləs/",
+    "vietnamese": "không có xương",
+    "explain": "",
+    "title": "8. sensations 3"
+  },
+  {
+    "id": "Dhamma - 0112",
+    "english": "blind",
+    "ipa": "/blaɪnd/",
+    "vietnamese": "không cảm nhận được cảm giác",
+    "explain": "",
+    "title": "8. sensations 3"
+  },
+  {
+    "id": "Dhamma - 0113",
+    "english": "blank",
+    "ipa": "/blæŋk/",
+    "vietnamese": "trống không",
+    "explain": "",
+    "title": "8. sensations 3"
+  },
+  {
+    "id": "Dhamma - 0114",
+    "english": "hazy",
+    "ipa": "/ˈheɪzi/",
+    "vietnamese": "mơ hồ",
+    "explain": "",
+    "title": "8. sensations 3"
+  },
+  {
+    "id": "Dhamma - 0115",
+    "english": "misty",
+    "ipa": "/ˈmɪsti/",
+    "vietnamese": "mờ mịt",
+    "explain": "",
+    "title": "8. sensations 3"
+  },
+  {
+    "id": "Dhamma - 0116",
+    "english": "cloudy",
+    "ipa": "/ˈklaʊdi/",
+    "vietnamese": "u ám, đục",
+    "explain": "",
+    "title": "8. sensations 3"
+  },
+  {
+    "id": "Dhamma - 0117",
+    "english": "pleasant",
+    "ipa": "/ˈplɛzənt/",
+    "vietnamese": "dễ chịu",
+    "explain": "",
+    "title": "9. sensations 4"
+  },
+  {
+    "id": "Dhamma - 0118",
+    "english": "unpleasant",
+    "ipa": "/ənˈplɛzənt/",
+    "vietnamese": "khó chịu",
+    "explain": "",
+    "title": "9. sensations 4"
+  },
+  {
+    "id": "Dhamma - 0119",
+    "english": "gross",
+    "ipa": "/groʊs/",
+    "vietnamese": "thô thiển",
+    "explain": "",
+    "title": "9. sensations 4"
+  },
+  {
+    "id": "Dhamma - 0120",
+    "english": "subtle",
+    "ipa": "/ˈsətəl/",
+    "vietnamese": "vi tế",
+    "explain": "",
+    "title": "9. sensations 4"
+  },
+  {
+    "id": "Dhamma - 0121",
+    "english": "agreeable",
+    "ipa": "/əˈgriəbəl/",
+    "vietnamese": "vừa ý",
+    "explain": "",
+    "title": "9. sensations 4"
+  },
+  {
+    "id": "Dhamma - 0122",
+    "english": "disagreeable",
+    "ipa": "/ˌdɪsəˈgriəbəl/",
+    "vietnamese": "không vừa ý",
+    "explain": "",
+    "title": "9. sensations 4"
+  },
+  {
+    "id": "Dhamma - 0123",
+    "english": "trembling",
+    "ipa": "/ˈtrɛmbəlɪŋ/",
+    "vietnamese": "run cầm cập",
+    "explain": "",
+    "title": "9. sensations 4"
+  },
+  {
+    "id": "Dhamma - 0124",
+    "english": "shivering",
+    "ipa": "/ˈʃɪvərɪŋ/",
+    "vietnamese": "rùng mình",
+    "explain": "",
+    "title": "9. sensations 4"
+  },
+  {
+    "id": "Dhamma - 0125",
+    "english": "paralyzed",
+    "ipa": "/ˈpɛrəˌlaɪzd/",
+    "vietnamese": "tê liệt, đờ người",
+    "explain": "",
+    "title": "9. sensations 4"
+  },
+  {
+    "id": "Dhamma - 0126",
+    "english": "shaking",
+    "ipa": "/ˈʃeɪkɪŋ/",
+    "vietnamese": "rung lắc",
+    "explain": "",
+    "title": "9. sensations 4"
+  },
+  {
+    "id": "Dhamma - 0127",
+    "english": "chill",
+    "ipa": "/ʧɪl/",
+    "vietnamese": "ớn lạnh",
+    "explain": "",
+    "title": "9. sensations 4"
+  },
+  {
+    "id": "Dhamma - 0128",
+    "english": "solidified intensified sensations",
+    "ipa": "/səˈlɪdəˌfaɪd ˌɪnˈtɛnsɪˌfaɪd sɛnˈseɪʃənz/",
+    "vietnamese": "những cảm giác mãnh liệt, kết chặt lại với nhau",
+    "explain": "",
+    "title": "9. sensations 4"
+  },
+  {
+    "id": "Dhamma - 0129",
+    "english": "running nose",
+    "ipa": "/ˈrənɪŋ noʊz/",
+    "vietnamese": "sổ mũi",
+    "explain": "",
+    "title": "10. Diseases 1"
+  },
+  {
+    "id": "Dhamma - 0130",
+    "english": "sinusitis",
+    "ipa": "/ˌsaɪnəˈsaɪtɪs/",
+    "vietnamese": "bệnh viêm xoang",
+    "explain": "",
+    "title": "10. Diseases 1"
+  },
+  {
+    "id": "Dhamma - 0131",
+    "english": "cold",
+    "ipa": "/koʊld/",
+    "vietnamese": "bệnh cảm lạnh",
+    "explain": "",
+    "title": "10. Diseases 1"
+  },
+  {
+    "id": "Dhamma - 0132",
+    "english": "flu",
+    "ipa": "/flu/",
+    "vietnamese": "cảm cúm",
+    "explain": "",
+    "title": "10. Diseases 1"
+  },
+  {
+    "id": "Dhamma - 0133",
+    "english": "allergy",
+    "ipa": "/ˈælərʤi/",
+    "vietnamese": "dị ứng",
+    "explain": "",
+    "title": "10. Diseases 1"
+  },
+  {
+    "id": "Dhamma - 0134",
+    "english": "poor eyes sight",
+    "ipa": "/pur aɪz saɪt/",
+    "vietnamese": "thị lực kém",
+    "explain": "",
+    "title": "10. Diseases 1"
+  },
+  {
+    "id": "Dhamma - 0135",
+    "english": "hearing difficulty",
+    "ipa": "/ˈhirɪŋ ˈdɪfɪˌkəlti/",
+    "vietnamese": "lãng tai",
+    "explain": "",
+    "title": "10. Diseases 1"
+  },
+  {
+    "id": "Dhamma - 0136",
+    "english": "hearing loss",
+    "ipa": "/ˈhirɪŋ lɔs/",
+    "vietnamese": "mất thính lực",
+    "explain": "",
+    "title": "10. Diseases 1"
+  },
+  {
+    "id": "Dhamma - 0137",
+    "english": "earache",
+    "ipa": "/ˈɪreɪk/",
+    "vietnamese": "đau tai",
+    "explain": "",
+    "title": "10. Diseases 1"
+  },
+  {
+    "id": "Dhamma - 0138",
+    "english": "sudden deafness",
+    "ipa": "/ˈsədən ˈdɛfnəs/",
+    "vietnamese": "điếc đột ngột",
+    "explain": "",
+    "title": "10. Diseases 1"
+  },
+  {
+    "id": "Dhamma - 0139",
+    "english": "neurasthenia",
+    "ipa": "/ˌnʊræsˈθiniə/",
+    "vietnamese": "chứng suy nhược thần kinh",
+    "explain": "",
+    "title": "11. Diseases 2"
+  },
+  {
+    "id": "Dhamma - 0140",
+    "english": "restless",
+    "ipa": "/ˈrɛstləs/",
+    "vietnamese": "bồn chồn, bất an",
+    "explain": "",
+    "title": "11. Diseases 2"
+  },
+  {
+    "id": "Dhamma - 0141",
+    "english": "insomnia",
+    "ipa": "/ˌɪnˈsɑmniə/",
+    "vietnamese": "chứng mất ngủ",
+    "explain": "",
+    "title": "11. Diseases 2"
+  },
+  {
+    "id": "Dhamma - 0142",
+    "english": "myocardial infarction",
+    "ipa": "/ˌmaɪəˈkɑrdiəl ˌɪnˈfɑrkʃən/",
+    "vietnamese": "chứng nhồi máu cơ tim",
+    "explain": "",
+    "title": "11. Diseases 2"
+  },
+  {
+    "id": "Dhamma - 0143",
+    "english": "stroke",
+    "ipa": "/stroʊk/",
+    "vietnamese": "đột quỵ",
+    "explain": "",
+    "title": "11. Diseases 2"
+  },
+  {
+    "id": "Dhamma - 0144",
+    "english": "anemia",
+    "ipa": "/əˈnimiə/",
+    "vietnamese": "bệnh thiếu máu",
+    "explain": "",
+    "title": "11. Diseases 2"
+  },
+  {
+    "id": "Dhamma - 0145",
+    "english": "poor blood circulation",
+    "ipa": "/pur bləd ˈsərkjəˌleɪʃən/",
+    "vietnamese": "tuần hoàn máu kém",
+    "explain": "",
+    "title": "11. Diseases 2"
+  },
+  {
+    "id": "Dhamma - 0146",
+    "english": "hypertension",
+    "ipa": "/ˌhaɪpərˈtɛnʃən/",
+    "vietnamese": "chứng cao huyết áp",
+    "explain": "",
+    "title": "11. Diseases 2"
+  },
+  {
+    "id": "Dhamma - 0147",
+    "english": "hypotension",
+    "ipa": "/ˌhaɪpoʊˈtɛnʃən/",
+    "vietnamese": "chứng hạ huyết áp, huyết áp thấp",
+    "explain": "",
+    "title": "11. Diseases 2"
+  },
+  {
+    "id": "Dhamma - 0148",
+    "english": "pneumonia",
+    "ipa": "/nəˈmoʊnjə/",
+    "vietnamese": "viêm phổi",
+    "explain": "",
+    "title": "12. Diseases 3"
+  },
+  {
+    "id": "Dhamma - 0149",
+    "english": "bronchitis",
+    "ipa": "/brɑŋˈkaɪtəs/",
+    "vietnamese": "viêm phế quản",
+    "explain": "",
+    "title": "12. Diseases 3"
+  },
+  {
+    "id": "Dhamma - 0150",
+    "english": "asthma",
+    "ipa": "/ˈæzmə/",
+    "vietnamese": "bệnh hen suyễn",
+    "explain": "",
+    "title": "12. Diseases 3"
+  },
+  {
+    "id": "Dhamma - 0151",
+    "english": "gastric ulcer",
+    "ipa": "/ˈgæstrɪk ˈəlsər/",
+    "vietnamese": "loét dạ dày",
+    "explain": "",
+    "title": "12. Diseases 3"
+  },
+  {
+    "id": "Dhamma - 0152",
+    "english": "stomach acid",
+    "ipa": "/ˈstəmək ˈæsəd/",
+    "vietnamese": "axít dạ dày",
+    "explain": "",
+    "title": "12. Diseases 3"
+  },
+  {
+    "id": "Dhamma - 0153",
+    "english": "duodenal ulcer",
+    "ipa": "/ˈduəˈdinəl ˈəlsər/",
+    "vietnamese": "loét tá tràng",
+    "explain": "",
+    "title": "12. Diseases 3"
+  },
+  {
+    "id": "Dhamma - 0154",
+    "english": "stomach ache",
+    "ipa": "/ˈstəmək eɪk/",
+    "vietnamese": "đau bao tử",
+    "explain": "",
+    "title": "12. Diseases 3"
+  },
+  {
+    "id": "Dhamma - 0155",
+    "english": "indigestion",
+    "ipa": "/ˌɪndaɪˈʤɛsʧən/",
+    "vietnamese": "chứng khó tiêu",
+    "explain": "",
+    "title": "12. Diseases 3"
+  },
+  {
+    "id": "Dhamma - 0156",
+    "english": "abdominal pain",
+    "ipa": "/əbˈdɑmənəl peɪn/",
+    "vietnamese": "đau bụng",
+    "explain": "",
+    "title": "12. Diseases 3"
+  },
+  {
+    "id": "Dhamma - 0157",
+    "english": "hepatitis-A",
+    "ipa": "/ˌhɛpəˈtaɪtəs ə/",
+    "vietnamese": "viêm gan A",
+    "explain": "",
+    "title": "12. Diseases 3"
+  },
+  {
+    "id": "Dhamma - 0158",
+    "english": "fracture",
+    "ipa": "/ˈfrækʧər/",
+    "vietnamese": "sự gãy, chỗ gãy",
+    "explain": "",
+    "title": "13. Diseases 4"
+  },
+  {
+    "id": "Dhamma - 0159",
+    "english": "heart disease",
+    "ipa": "/hɑrt dɪˈziz/",
+    "vietnamese": "bệnh tim",
+    "explain": "",
+    "title": "13. Diseases 4"
+  },
+  {
+    "id": "Dhamma - 0160",
+    "english": "cataract",
+    "ipa": "/ˈkætərækt/",
+    "vietnamese": "cườm, bệnh đục thủy tinh thể",
+    "explain": "",
+    "title": "13. Diseases 4"
+  },
+  {
+    "id": "Dhamma - 0161",
+    "english": "hay fever",
+    "ipa": "/heɪ ˈfivər/",
+    "vietnamese": "viêm mũi dị ứng",
+    "explain": "",
+    "title": "13. Diseases 4"
+  },
+  {
+    "id": "Dhamma - 0162",
+    "english": "kidney failure",
+    "ipa": "/ˈkɪdni ˈfeɪljər/",
+    "vietnamese": "suy thận",
+    "explain": "",
+    "title": "13. Diseases 4"
+  },
+  {
+    "id": "Dhamma - 0163",
+    "english": "skin allergy",
+    "ipa": "/skɪn ˈælərʤi/",
+    "vietnamese": "dị ứng da",
+    "explain": "",
+    "title": "13. Diseases 4"
+  },
+  {
+    "id": "Dhamma - 0164",
+    "english": "epilepsy",
+    "ipa": "/ˈɛpɪˌlɛpsi/",
+    "vietnamese": "chứng động kinh",
+    "explain": "",
+    "title": "13. Diseases 4"
+  },
+  {
+    "id": "Dhamma - 0165",
+    "english": "convulsion",
+    "ipa": "/kənˈvəlʃən/",
+    "vietnamese": "chứng co giật",
+    "explain": "",
+    "title": "13. Diseases 4"
+  },
+  {
+    "id": "Dhamma - 0166",
+    "english": "top of the head",
+    "ipa": "/tɔp əv ðə hɛd/",
+    "vietnamese": "đỉnh đầu",
+    "explain": "",
+    "title": "14. Organs 1"
+  },
+  {
+    "id": "Dhamma - 0167",
+    "english": "crown",
+    "ipa": "/kraʊn/",
+    "vietnamese": "đỉnh đầu",
+    "explain": "",
+    "title": "14. Organs 1"
+  },
+  {
+    "id": "Dhamma - 0168",
+    "english": "skull",
+    "ipa": "/skəl/",
+    "vietnamese": "sọ",
+    "explain": "",
+    "title": "14. Organs 1"
+  },
+  {
+    "id": "Dhamma - 0169",
+    "english": "scalp",
+    "ipa": "/skælp/",
+    "vietnamese": "da đầu",
+    "explain": "",
+    "title": "14. Organs 1"
+  },
+  {
+    "id": "Dhamma - 0170",
+    "english": "forehead",
+    "ipa": "/ˈfɔrhɛd/",
+    "vietnamese": "trán",
+    "explain": "",
+    "title": "14. Organs 1"
+  },
+  {
+    "id": "Dhamma - 0171",
+    "english": "temple",
+    "ipa": "/ˈtɛmpəl/",
+    "vietnamese": "thái dương",
+    "explain": "",
+    "title": "14. Organs 1"
+  },
+  {
+    "id": "Dhamma - 0172",
+    "english": "eyebrows",
+    "ipa": "/ˈaɪˌbraʊz/",
+    "vietnamese": "lông mày",
+    "explain": "",
+    "title": "14. Organs 1"
+  },
+  {
+    "id": "Dhamma - 0173",
+    "english": "eyelashes",
+    "ipa": "/ˈaɪˌlæʃɪz/",
+    "vietnamese": "lông mi",
+    "explain": "",
+    "title": "14. Organs 1"
+  },
+  {
+    "id": "Dhamma - 0174",
+    "english": "eyelid",
+    "ipa": "/ˈaɪˌlɪd/",
+    "vietnamese": "mí mắt",
+    "explain": "",
+    "title": "14. Organs 1"
+  },
+  {
+    "id": "Dhamma - 0175",
+    "english": "eye ball",
+    "ipa": "/aɪ bɔl/",
+    "vietnamese": "cầu mắt, nhãn cầu",
+    "explain": "",
+    "title": "14. Organs 1"
+  },
+  {
+    "id": "Dhamma - 0176",
+    "english": "nose bridge",
+    "ipa": "/noʊz brɪʤ/",
+    "vietnamese": "sống mũi",
+    "explain": "",
+    "title": "15. Organs 2"
+  },
+  {
+    "id": "Dhamma - 0177",
+    "english": "passages of the nostrils",
+    "ipa": "/ˈpæsɪʤɪz əv ðə ˈnɑstrəlz/",
+    "vietnamese": "ống mũi",
+    "explain": "",
+    "title": "15. Organs 2"
+  },
+  {
+    "id": "Dhamma - 0178",
+    "english": "nostrils",
+    "ipa": "/ˈnɑstrəlz/",
+    "vietnamese": "lỗ mũi",
+    "explain": "",
+    "title": "15. Organs 2"
+  },
+  {
+    "id": "Dhamma - 0179",
+    "english": "oral cavity",
+    "ipa": "/ˈɔrəl ˈkævəti/",
+    "vietnamese": "khoang miệng",
+    "explain": "",
+    "title": "15. Organs 2"
+  },
+  {
+    "id": "Dhamma - 0180",
+    "english": "tooth",
+    "ipa": "/tuθ/",
+    "vietnamese": "răng",
+    "explain": "",
+    "title": "15. Organs 2"
+  },
+  {
+    "id": "Dhamma - 0181",
+    "english": "tongue",
+    "ipa": "/təŋ/",
+    "vietnamese": "lưỡi",
+    "explain": "",
+    "title": "15. Organs 2"
+  },
+  {
+    "id": "Dhamma - 0182",
+    "english": "cheek",
+    "ipa": "/ʧik/",
+    "vietnamese": "má",
+    "explain": "",
+    "title": "15. Organs 2"
+  },
+  {
+    "id": "Dhamma - 0183",
+    "english": "cheek bone",
+    "ipa": "/ʧik boʊn/",
+    "vietnamese": "xương má",
+    "explain": "",
+    "title": "15. Organs 2"
+  },
+  {
+    "id": "Dhamma - 0184",
+    "english": "chin",
+    "ipa": "/ʧɪn/",
+    "vietnamese": "cằm",
+    "explain": "",
+    "title": "15. Organs 2"
+  },
+  {
+    "id": "Dhamma - 0185",
+    "english": "throat",
+    "ipa": "/θroʊt/",
+    "vietnamese": "cổ họng",
+    "explain": "",
+    "title": "15. Organs 2"
+  },
+  {
+    "id": "Dhamma - 0186",
+    "english": "chest",
+    "ipa": "/ʧɛst/",
+    "vietnamese": "ngực",
+    "explain": "",
+    "title": "16. Organs 3"
+  },
+  {
+    "id": "Dhamma - 0187",
+    "english": "abdomen",
+    "ipa": "/ˈæbdəmən/",
+    "vietnamese": "bụng",
+    "explain": "",
+    "title": "16. Organs 3"
+  },
+  {
+    "id": "Dhamma - 0188",
+    "english": "elbow",
+    "ipa": "/ˈɛlˌboʊ/",
+    "vietnamese": "cùi chỏ",
+    "explain": "",
+    "title": "16. Organs 3"
+  },
+  {
+    "id": "Dhamma - 0189",
+    "english": "wrist",
+    "ipa": "/rɪst/",
+    "vietnamese": "cổ tay",
+    "explain": "",
+    "title": "16. Organs 3"
+  },
+  {
+    "id": "Dhamma - 0190",
+    "english": "finger",
+    "ipa": "/ˈfɪŋgər/",
+    "vietnamese": "ngón tay",
+    "explain": "",
+    "title": "16. Organs 3"
+  },
+  {
+    "id": "Dhamma - 0191",
+    "english": "thumb",
+    "ipa": "/θəm/",
+    "vietnamese": "ngón cái",
+    "explain": "",
+    "title": "16. Organs 3"
+  },
+  {
+    "id": "Dhamma - 0192",
+    "english": "fingertip",
+    "ipa": "/ˈfɪŋgərˌtɪp/",
+    "vietnamese": "đầu ngón tay",
+    "explain": "",
+    "title": "16. Organs 3"
+  },
+  {
+    "id": "Dhamma - 0193",
+    "english": "nail",
+    "ipa": "/neɪl/",
+    "vietnamese": "móng tay, móng chân",
+    "explain": "",
+    "title": "16. Organs 3"
+  },
+  {
+    "id": "Dhamma - 0194",
+    "english": "abdoment",
+    "ipa": "/ˈæbdəmən/",
+    "vietnamese": "bụng",
+    "explain": "",
+    "title": "16. Organs 3"
+  },
+  {
+    "id": "Dhamma - 0195",
+    "english": "belly",
+    "ipa": "/ˈbɛli/",
+    "vietnamese": "bụng",
+    "explain": "",
+    "title": "17. Organs 4"
+  },
+  {
+    "id": "Dhamma - 0196",
+    "english": "front portion",
+    "ipa": "/frənt ˈpɔrʃən/",
+    "vietnamese": "phần trước, thân trước",
+    "explain": "",
+    "title": "17. Organs 4"
+  },
+  {
+    "id": "Dhamma - 0197",
+    "english": "trunk",
+    "ipa": "/trəŋk/",
+    "vietnamese": "mình, thân",
+    "explain": "",
+    "title": "17. Organs 4"
+  },
+  {
+    "id": "Dhamma - 0198",
+    "english": "neck",
+    "ipa": "/nɛk/",
+    "vietnamese": "cổ",
+    "explain": "",
+    "title": "17. Organs 4"
+  },
+  {
+    "id": "Dhamma - 0199",
+    "english": "waist",
+    "ipa": "/weɪst/",
+    "vietnamese": "eo, chỗ thắt lưng",
+    "explain": "",
+    "title": "17. Organs 4"
+  },
+  {
+    "id": "Dhamma - 0200",
+    "english": "lumbar",
+    "ipa": "/ˈləmˌbɑr/",
+    "vietnamese": "thắt lưng, ngang lưng",
+    "explain": "",
+    "title": "17. Organs 4"
+  },
+  {
+    "id": "Dhamma - 0201",
+    "english": "thigh",
+    "ipa": "/θaɪ/",
+    "vietnamese": "đùi, bắp đùi",
+    "explain": "",
+    "title": "17. Organs 4"
+  },
+  {
+    "id": "Dhamma - 0202",
+    "english": "thigh bone",
+    "ipa": "/θaɪ boʊn/",
+    "vietnamese": "xương đùi",
+    "explain": "",
+    "title": "17. Organs 4"
+  },
+  {
+    "id": "Dhamma - 0203",
+    "english": "knee",
+    "ipa": "/ni/",
+    "vietnamese": "đầu gối",
+    "explain": "",
+    "title": "17. Organs 4"
+  },
+  {
+    "id": "Dhamma - 0204",
+    "english": "leg",
+    "ipa": "/lɛg/",
+    "vietnamese": "cẳng chân",
+    "explain": "",
+    "title": "17. Organs 4"
+  },
+  {
+    "id": "Dhamma - 0205",
+    "english": "heel",
+    "ipa": "/hil/",
+    "vietnamese": "gót chân",
+    "explain": "",
+    "title": "18. Organs 5"
+  },
+  {
+    "id": "Dhamma - 0206",
+    "english": "toe",
+    "ipa": "/toʊ/",
+    "vietnamese": "ngón chân",
+    "explain": "",
+    "title": "18. Organs 5"
+  },
+  {
+    "id": "Dhamma - 0207",
+    "english": "heart",
+    "ipa": "/hɑrt/",
+    "vietnamese": "tim",
+    "explain": "",
+    "title": "18. Organs 5"
+  },
+  {
+    "id": "Dhamma - 0208",
+    "english": "lung",
+    "ipa": "/ləŋ/",
+    "vietnamese": "phổi",
+    "explain": "",
+    "title": "18. Organs 5"
+  },
+  {
+    "id": "Dhamma - 0209",
+    "english": "liver",
+    "ipa": "/ˈlɪvər/",
+    "vietnamese": "gan",
+    "explain": "",
+    "title": "18. Organs 5"
+  },
+  {
+    "id": "Dhamma - 0210",
+    "english": "blood",
+    "ipa": "/bləd/",
+    "vietnamese": "máu",
+    "explain": "",
+    "title": "18. Organs 5"
+  },
+  {
+    "id": "Dhamma - 0211",
+    "english": "cell",
+    "ipa": "/sɛl/",
+    "vietnamese": "tế bào",
+    "explain": "",
+    "title": "18. Organs 5"
+  },
+  {
+    "id": "Dhamma - 0212",
+    "english": "stomach",
+    "ipa": "/ˈstəmək/",
+    "vietnamese": "bụng, bao tử",
+    "explain": "",
+    "title": "18. Organs 5"
+  },
+  {
+    "id": "Dhamma - 0213",
+    "english": "navel",
+    "ipa": "/ˈneɪvəl/",
+    "vietnamese": "rốn",
+    "explain": "",
+    "title": "18. Organs 5"
+  },
+  {
+    "id": "Dhamma - 0214",
+    "english": "belly button",
+    "ipa": "/ˈbɛli ˈbətən/",
+    "vietnamese": "lỗ rốn",
+    "explain": "",
+    "title": "18. Organs 5"
+  },
+  {
+    "id": "Dhamma - 0215",
+    "english": "kidney",
+    "ipa": "/ˈkɪdni/",
+    "vietnamese": "thận",
+    "explain": "",
+    "title": "19. Organs 6"
+  },
+  {
+    "id": "Dhamma - 0216",
+    "english": "gall",
+    "ipa": "/gɔl/",
+    "vietnamese": "mật, túi mật",
+    "explain": "",
+    "title": "19. Organs 6"
+  },
+  {
+    "id": "Dhamma - 0217",
+    "english": "appendix",
+    "ipa": "/əˈpɛndɪks/",
+    "vietnamese": "ruột thừa",
+    "explain": "",
+    "title": "19. Organs 6"
+  },
+  {
+    "id": "Dhamma - 0218",
+    "english": "anus",
+    "ipa": "/ˈeɪnəs/",
+    "vietnamese": "hậu môn",
+    "explain": "",
+    "title": "19. Organs 6"
+  },
+  {
+    "id": "Dhamma - 0219",
+    "english": "uterus/womb",
+    "ipa": "/ˈjutərəs/ ⁄ /wum/",
+    "vietnamese": "dạ con, tử cung",
+    "explain": "",
+    "title": "19. Organs 6"
+  },
+  {
+    "id": "Dhamma - 0220",
+    "english": "marrow",
+    "ipa": "/ˈmɛroʊ/",
+    "vietnamese": "tủy",
+    "explain": "",
+    "title": "19. Organs 6"
+  },
+  {
+    "id": "Dhamma - 0221",
+    "english": "intestine",
+    "ipa": "/ˌɪnˈtɛˌstaɪn/",
+    "vietnamese": "ruột",
+    "explain": "",
+    "title": "19. Organs 6"
+  },
+  {
+    "id": "Dhamma - 0222",
+    "english": "skeleton",
+    "ipa": "/ˈskɛlətən/",
+    "vietnamese": "bộ xương",
+    "explain": "",
+    "title": "19. Organs 6"
+  },
+  {
+    "id": "Dhamma - 0223",
+    "english": "pelvis",
+    "ipa": "/ˈpɛlvəs/",
+    "vietnamese": "khung xương chậu",
+    "explain": "",
+    "title": "19. Organs 6"
+  },
+  {
+    "id": "Dhamma - 0224",
+    "english": "extremities (palms & soles)",
+    "ipa": "/ɛkˈstrɛmətiz (pɑmz & soʊlz)/",
+    "vietnamese": "lòng bàn tay & lòng bàn chân",
+    "explain": "",
+    "title": "20. Organs 7"
+  },
+  {
+    "id": "Dhamma - 0225",
+    "english": "spinal cord",
+    "ipa": "/ˈspaɪnəl kɔrd/",
+    "vietnamese": "tủy sống, khối dây thần kinh nằm trong xương sống",
+    "explain": "",
+    "title": "20. Organs 7"
+  },
+  {
+    "id": "Dhamma - 0226",
+    "english": "spinal column",
+    "ipa": "/ˈspaɪnəl ˈkɑləm/",
+    "vietnamese": "cột sống, xương sống",
+    "explain": "",
+    "title": "20. Organs 7"
+  },
+  {
+    "id": "Dhamma - 0227",
+    "english": "navel cord, navel string",
+    "ipa": "/ˈneɪvəl kɔrd, ˈneɪvəl strɪŋ/",
+    "vietnamese": "dây rốn",
+    "explain": "",
+    "title": "20. Organs 7"
+  }
+]
