@@ -1,0 +1,1818 @@
+[
+  {
+    "id": "Dhamma - 0001",
+    "english": "breath",
+    "ipa": "/brɛθ/",
+    "vietnamese": "hơi thở",
+    "explain": "Hơi thở (Ana/Apana). Trong thiền định, hơi thở là đối tượng quán niệm thuần khiết nhất. Nó là cây cầu nối tự nhiên giữa ý thức và vô thức, giữa thân (Rupa) và tâm (Nama). Hành giả chỉ quan sát hơi thở tự nhiên như nó đang là, không điều khiển, từ đó phát triển chánh niệm (Sati) và định tâm (Samadhi).",
+    "title": "1. about the breath"
+  },
+  {
+    "id": "Dhamma - 0002",
+    "english": "respiration",
+    "ipa": "/ˌrɛspərˈeɪʃən/",
+    "vietnamese": "hơi thở",
+    "explain": "Sự hô hấp. Thuật ngữ này nhấn mạnh vào quá trình động và liên tục của việc thở ra và hít vào. Sự quan sát 'respiration' một cách sắc bén giúp hành giả nhận diện nhịp điệu tự nhiên của sự sống, đặt nền tảng ban đầu để thấu hiểu luật Vô thường (Anicca) ngay trong từng khoảnh khắc sinh diệt của luồng hơi.",
+    "title": "1. about the breath"
+  },
+  {
+    "id": "Dhamma - 0003",
+    "english": "outgoing breath",
+    "ipa": "/ˈaʊtˌgoʊɪŋ brɛθ/",
+    "vietnamese": "hơi thở đi ra",
+    "explain": "Hơi thở ra (Apana). Một nửa của vòng tuần hoàn Anapana. Khi luồng hơi đi ra, hành giả ghi nhận 'đang thở ra' với sự tỉnh giác trọn vẹn (Sampajanna). Không cố ý kéo dài hay làm ngắn lại, chỉ đơn thuần nhận biết sự cọ xát của không khí tại cửa mũi hoặc trên môi trên, thiết lập sự chánh niệm tại một điểm duy nhất.",
+    "title": "1. about the breath"
+  },
+  {
+    "id": "Dhamma - 0004",
+    "english": "incoming breath",
+    "ipa": "/ˈɪnˌkəmɪŋ brɛθ/",
+    "vietnamese": "hơi thở đi vào",
+    "explain": "Hơi thở vào (Ana). Hành giả ghi nhận rõ ràng sự bắt đầu, đoạn giữa và sự kết thúc của một luồng hơi thở đi vào. Sự chú tâm vào luồng không khí mát mẻ đi vào mũi giúp gom tâm lại, thu hẹp vùng không gian quan sát để làm tâm trở nên nhạy bén, vi tế và tập trung hơn.",
+    "title": "1. about the breath"
+  },
+  {
+    "id": "Dhamma - 0005",
+    "english": "soft breath",
+    "ipa": "/sɔft brɛθ/",
+    "vietnamese": "hơi thở nhẹ, dịu",
+    "explain": "Hơi thở vi tế. Khi tâm dần trở nên an tịnh và bớt xáo động (Samatha), hơi thở tự nhiên sẽ ngắn lại, trở nên vô cùng nhẹ nhàng và mỏng manh. Đôi lúc hành giả có cảm giác như hơi thở đã ngừng lại. Đây là dấu hiệu định lực đang tăng trưởng, đòi hỏi sự chú ý (Attention) cực kỳ sắc bén để tiếp tục duy trì sự nhận biết.",
+    "title": "1. about the breath"
+  },
+  {
+    "id": "Dhamma - 0006",
+    "english": "natural breath",
+    "ipa": "/ˈnæʧərəl brɛθ/",
+    "vietnamese": "hơi thở tự nhiên",
+    "explain": "Hơi thở thuần túy như nó đang là (Yathabhuta). Nguyên tắc cốt lõi của thiền Anapana là tuyệt đối không can thiệp hay điều khí (Pranayama). Việc chấp nhận hoàn toàn hơi thở tự nhiên—dù thô hay tế, sâu hay nông—giúp huấn luyện tâm xả ly (Upekkha), không phản ứng với thực tại và triệt tiêu thói quen kiểm soát của bản ngã.",
+    "title": "1. about the breath"
+  },
+  {
+    "id": "Dhamma - 0007",
+    "english": "intentional breath",
+    "ipa": "/ˌɪnˈtɛnʃənəl brɛθ/",
+    "vietnamese": "hơi thở cố ý",
+    "explain": "Hơi thở có chủ đích. Thường chỉ được áp dụng như một phương tiện chữa cháy tạm thời (vài nhịp) khi tâm quá trạo cử, hôn trầm hoặc trôi dạt vào dòng suy nghĩ miên man. Bằng cách thở hơi mạnh và có ý thức, hành giả mỏ neo tâm trở lại hiện tại trước khi lập tức quay về với sự quan sát hơi thở tự nhiên.",
+    "title": "1. about the breath"
+  },
+  {
+    "id": "Dhamma - 0008",
+    "english": "hard breath",
+    "ipa": "/hɑrd brɛθ/",
+    "vietnamese": "hơi thở mạnh",
+    "explain": "Hơi thở thô tháo. Thường xuất hiện tự nhiên khi tâm bị kích động bởi các chướng ngại (Nivarana) như sân hận, lo âu, hoặc cơ thể đang đau đớn. Hành giả chỉ cần khách quan ghi nhận 'đây là hơi thở mạnh' mà không phán xét hay cố làm dịu nó. Sự quan sát thuần túy này dần dần sẽ tự động xoa dịu cả tâm lẫn nhịp thở.",
+    "title": "1. about the breath"
+  },
+  {
+    "id": "Dhamma - 0009",
+    "english": "the breathing is forced and shallow",
+    "ipa": "/ðə ˈbriðɪŋ ɪz fɔrst ənd ˈʃæloʊ/",
+    "vietnamese": "hơi thở gượng ép và nông",
+    "explain": "Trạng thái hô hấp bị nén hoặc cạn cợt do sự căng thẳng tâm lý (Tension) hoặc sự cố gắng quá sức để tập trung. Lời khuyên là hành giả cần lùi lại, buông bỏ sự khao khát (Craving) muốn đạt được trạng thái thiền sâu, thư giãn cơ thể và để cho hệ hô hấp tự vận hành nhịp điệu của riêng nó.",
+    "title": "1. about the breath"
+  },
+  {
+    "id": "Dhamma - 0010",
+    "english": "be aware of the breath",
+    "ipa": "/bi əˈwɛr əv ðə brɛθ/",
+    "vietnamese": "ý thức, nhận biết hơi thở",
+    "explain": "Thiết lập Chánh niệm (Sati) trên đối tượng. Đây không phải là suy nghĩ, tưởng tượng hay niệm thầm về hơi thở, mà là sự trải nghiệm trực tiếp sự xúc chạm vật lý của luồng hơi ngay tại vùng cửa mũi. Sự nhận biết liên tục, không đứt đoạn là mảnh đất màu mỡ để phát sinh trí tuệ thực chứng (Panna).",
+    "title": "1. about the breath"
+  },
+  {
+    "id": "Dhamma - 0011",
+    "english": "regulate the breath",
+    "ipa": "/ˈrɛgjəˌleɪt ðə brɛθ/",
+    "vietnamese": "điều khiển hơi thở",
+    "explain": "Một thao tác hoàn toàn bị cấm kỵ trong truyền thống Vipassana (trái ngược với Yoga Pranayama). Việc 'điều khiển' sẽ nuôi dưỡng sự bám chấp vào một cái tôi (Ngã) đang làm chủ và kiểm soát thực tại. Thiền tuệ đòi hỏi sự quan sát vô ngã (Anatta), để mọi thứ diễn ra theo đúng quy luật tự nhiên của chúng.",
+    "title": "1. about the breath"
+  },
+  {
+    "id": "Dhamma - 0012",
+    "english": "nostril",
+    "ipa": "/ˈnɑstrɪl/",
+    "vietnamese": "lỗ mũi",
+    "explain": "Cửa ngõ của hệ hô hấp và là vùng giới hạn không gian (Area of attention) để hành giả neo giữ tâm trí trong giai đoạn Anapana. Bằng cách thu hẹp phạm vi quan sát quanh lỗ mũi, tâm dần trở nên hội tụ, sắc bén như một mũi kim, chuẩn bị năng lực để thấu triệt những cảm thọ vi tế (Subtle sensations) trên toàn thân sau này.",
+    "title": "1. about the breath"
+  },
+  {
+    "id": "Dhamma - 0013",
+    "english": "entrance of the nostril",
+    "ipa": "/ˈɛntrəns əv ðə ˈnɑstrɪl/",
+    "vietnamese": "cửa mũi",
+    "explain": "Vùng cửa ngõ nơi luồng khí đi vào và đi ra. Trong giai đoạn thiền Anapana, hành giả thu hẹp sự chú ý tại khu vực nhỏ hẹp này để mài giũa sự tập trung. Diện tích quan sát càng nhỏ, tâm càng trở nên sắc bén và vi tế, chuẩn bị năng lực để nhận biết những cảm thọ cực kỳ mỏng manh.",
+    "title": "1. about the breath"
+  },
+  {
+    "id": "Dhamma - 0014",
+    "english": "inside the nostril",
+    "ipa": "/ˌɪnˈsaɪd ðə ˈnɑstrɪl/",
+    "vietnamese": "bên trong mũi",
+    "explain": "Nơi diễn ra sự cọ xát đầu tiên của luồng hơi. Hành giả ghi nhận mọi cảm giác nảy sinh tại khu vực này (như sự ấm, mát, ngứa, nhột hay cọ xát) với sự tỉnh giác (Sampajanna) và giữ tâm khách quan tuyệt đối, không phản ứng thuận nghịch.",
+    "title": "1. about the breath"
+  },
+  {
+    "id": "Dhamma - 0015",
+    "english": "outer ring of the nostril",
+    "ipa": "/ˈaʊtər rɪŋ əv ðə ˈnɑstrɪl/",
+    "vietnamese": "vòng ngoài lỗ mũi",
+    "explain": "Khu vực rìa của cửa mũi, tiếp giáp với môi trên. Việc khoanh vùng chính xác điểm tiếp xúc của hơi thở tại đây giúp tâm không bị phân tán ra bên ngoài, từ đó phát triển Chánh định (Samma Samadhi) một cách vững chãi.",
+    "title": "1. about the breath"
+  },
+  {
+    "id": "Dhamma - 0016",
+    "english": "passage of the nostril",
+    "ipa": "/ˈpæsɪʤ əv ðə ˈnɑstrɪl/",
+    "vietnamese": "ống mũi",
+    "explain": "Đường dẫn luồng sinh khí. Việc quan sát sự di chuyển của không khí qua ống mũi giúp hành giả nhận diện rõ đặc tính thực sự của luồng hơi: thô hay tế, dài hay ngắn, qua đó kinh nghiệm trực tiếp sự thay đổi liên tục của sắc pháp (Rupa).",
+    "title": "1. about the breath"
+  },
+  {
+    "id": "Dhamma - 0017",
+    "english": "pure breath",
+    "ipa": "/pjʊr brɛθ/",
+    "vietnamese": "hơi thở tự nhiên",
+    "explain": "Hơi thở thuần khiết, không bị xen lẫn bởi các câu thần chú (Mantra), hình ảnh tưởng tượng hay khái niệm ngôn ngữ. Việc chỉ quan sát luồng không khí đi vào và đi ra giúp tâm đối diện trực tiếp với thực tại chân đế (Paramattha Sacca), không bị lạc vào ảo ảnh.",
+    "title": "1. about the breath"
+  },
+  {
+    "id": "Dhamma - 0018",
+    "english": "bare breath",
+    "ipa": "/bɛr brɛθ/",
+    "vietnamese": "hơi thở đơn thuần",
+    "explain": "Sự quan sát đã được tước bỏ mọi khái niệm chế định (Pannatti). Hành giả không gán tên gọi 'đây là hơi thở', mà chỉ đơn thuần kinh nghiệm sự xúc chạm vật lý. Đây là bước đệm quan trọng để gọt rửa tâm trí khỏi những dính mắc vào khái niệm.",
+    "title": "1. about the breath"
+  },
+  {
+    "id": "Dhamma - 0019",
+    "english": "surface of the mind",
+    "ipa": "/ˈsərfəs əv ðə maɪnd/",
+    "vietnamese": "bề mặt tâm",
+    "explain": "Tầng tâm thức nông cạn, nơi các suy nghĩ, logic, ký ức và ngôn ngữ hoạt động mạnh mẽ. Thiền Vipassana yêu cầu hành giả không dừng lại ở lớp bề mặt đầy xáo động này, mà phải dùng định lực xuyên thấu xuống cội rễ của tâm, nơi các phản ứng vi tế thực sự diễn ra.",
+    "title": "2. About the mind"
+  },
+  {
+    "id": "Dhamma - 0020",
+    "english": "superficial level",
+    "ipa": "/ˌsupərˈfɪʃəl ˈlɛvəl/",
+    "vietnamese": "ở mức độ bề mặt, bề ngoài",
+    "explain": "Trạng thái tiếp nhận thực tại chỉ qua lăng kính của trí tuệ vay mượn từ người khác (Suta-maya panna) hoặc trí tuệ tự suy luận logic (Cinta-maya panna), chưa chạm đến cốt lõi của sự giải thoát là thực chứng tuệ (Bhavana-maya panna).",
+    "title": "2. About the mind"
+  },
+  {
+    "id": "Dhamma - 0021",
+    "english": "intellectual level",
+    "ipa": "/ˌɪnəˈlɛkʧuəl ˈlɛvəl/",
+    "vietnamese": "mức độ tri thức, trí năng",
+    "explain": "Sự hiểu biết giáo pháp qua sách vở và tư duy trí óc. Dù cần thiết làm bản đồ chỉ đường ban đầu, nhưng sự dính mắc ở mức độ trí năng là một chướng ngại lớn. Trí năng không đủ sức mạnh để nhổ tận gốc rễ của những ô nhiễm (Kilesa) nằm sâu dưới các tầng vô thức.",
+    "title": "2. About the mind"
+  },
+  {
+    "id": "Dhamma - 0022",
+    "english": "experiencial level",
+    "ipa": "/ɛkˌspɛriˈɛnʃəl ˈlɛvəl/",
+    "vietnamese": "mức độ kinh nghiệm",
+    "explain": "Trí tuệ phát sinh nhờ kinh nghiệm trực tiếp trên thân (Bhavana-maya panna). Khi hành giả tự mình trải nghiệm tính Vô thường (Anicca) thông qua sự sinh diệt của cảm thọ, đó mới là sự giác ngộ thực sự, mang lại năng lực tịnh hóa nội tâm và giải thoát khỏi khổ đau.",
+    "title": "2. About the mind"
+  },
+  {
+    "id": "Dhamma - 0023",
+    "english": "conscious level",
+    "ipa": "/ˈkɑnʃəs ˈlɛvəl/",
+    "vietnamese": "tầng có ý thức",
+    "explain": "Phần tâm trí bề mặt (Vinnana) nhận biết thông tin từ sáu căn (Mắt, Tai, Mũi, Lưỡi, Thân, Ý). Dù nó có thể đang niệm 'vô thường, vô ngã', nhưng nếu tầng vô thức vẫn mù quáng phản ứng bằng tham và sân, tâm trí vẫn chưa thực sự được thanh lọc.",
+    "title": "2. About the mind"
+  },
+  {
+    "id": "Dhamma - 0024",
+    "english": "subconscious level",
+    "ipa": "/səbˈkɑnʃəs ˈlɛvəl/",
+    "vietnamese": "tiềm thức",
+    "explain": "Tầng sâu thẳm của tâm, hoạt động liên tục ngày đêm không ngừng nghỉ. Đây là kho chứa của các Hành (Sankhara) - những phản ứng và thói quen ngầm sâu kín. Thực hành Vipassana chính là cuộc phẫu thuật tâm linh vào tầng tiềm thức này, dùng lưỡi dao Chánh niệm để cắt đứt các gốc rễ ô nhiễm.",
+    "title": "2. About the mind"
+  },
+  {
+    "id": "Dhamma - 0025",
+    "english": "unconscious level",
+    "ipa": "/ˌənˈkɑnʃəs ˈlɛvəl/",
+    "vietnamese": "tầng vô thức",
+    "explain": "Tầng vô thức (Anusaya). Nơi ngấm ngầm lưu trữ các tập khí (Sankhara) từ vô thủy. Dù bề mặt tâm có thể đang ngủ hay đang bận rộn tư duy, vô thức vẫn liên tục đo lường và phản ứng với các cảm thọ trên thân bằng tham và sân. Vipassana rọi ánh sáng Chánh niệm vào vùng tối này để đánh thức sự tỉnh giác.",
+    "title": "2. About the mind"
+  },
+  {
+    "id": "Dhamma - 0026",
+    "english": "defilement",
+    "ipa": "/dɪˈfaɪlmənt/",
+    "vietnamese": "ô nhiễm",
+    "explain": "Ô nhiễm (Kilesa). Các yếu tố bất thiện làm vẩn đục tâm trí, ngăn cản trí tuệ sáng suốt. Trong hành thiền, defilement thường trồi lên bề mặt dưới dạng các chướng ngại (Nivarana) như trạo cử hay hôn trầm. Hành giả cần giữ tâm xả ly, chỉ quan sát sự sinh diệt của chúng để gọt rửa nội tâm.",
+    "title": "2. About the mind"
+  },
+  {
+    "id": "Dhamma - 0027",
+    "english": "impurity",
+    "ipa": "/ˌɪmˈpjʊrəti/",
+    "vietnamese": "bất tịnh",
+    "explain": "Bất tịnh (Asava). Những cặn bã tâm linh, các lậu hoặc sinh ra từ vô minh và những phản ứng mù quáng trong quá khứ. Phương pháp Vipassana là một quá trình thanh lọc (Purification) liên tục, dùng ngọn lửa của sự nhận biết thuần túy để thiêu rụi các hạt giống bất tịnh này từ tận gốc rễ.",
+    "title": "2. About the mind"
+  },
+  {
+    "id": "Dhamma - 0028",
+    "english": "negativity",
+    "ipa": "/ˌnɛgəˈtɪvəti/",
+    "vietnamese": "tiêu cực",
+    "explain": "Tiêu cực (Akusala). Bất kỳ trạng thái tâm nào thiếu vắng sự bình an, điển hình là giận dữ, sợ hãi, ghen tị hay phiền não. Khi negativity nổi lên, hành giả không đè nén cũng không biểu đạt ra ngoài (suppression/expression), mà chỉ quay lại quan sát cảm thọ đi kèm trên thân để nó tự sinh và diệt.",
+    "title": "2. About the mind"
+  },
+  {
+    "id": "Dhamma - 0029",
+    "english": "craving",
+    "ipa": "/ˈkreɪvɪŋ/",
+    "vietnamese": "tham muốn, tâm tham",
+    "explain": "Tâm tham (Lobha/Tanha). Cội rễ của luân hồi và khổ đau. Là sự thèm khát, bám víu mãnh liệt vào các cảm thọ dễ chịu (Pleasant sensations) sinh ra trên thân. Hành giả Vipassana rèn luyện để khi cảm thọ hỷ lạc xuất hiện, chỉ ghi nhận tính vô thường của nó mà không sinh khởi tâm tham đắm.",
+    "title": "2. About the mind"
+  },
+  {
+    "id": "Dhamma - 0030",
+    "english": "aversion",
+    "ipa": "/əˈvərʒən/",
+    "vietnamese": "ghét bỏ, tâm sân",
+    "explain": "Tâm sân (Dosa). Phản ứng đẩy ra, chối bỏ, kháng cự đối với các cảm thọ khó chịu (Unpleasant sensations) như đau nhức, tê mỏi. Việc giữ tâm quân bình (Equanimity), mỉm cười chấp nhận cơn đau bức bách mà không nhúc nhích chính là cách hiệu quả nhất để nhổ rễ tâm sân hận.",
+    "title": "2. About the mind"
+  },
+  {
+    "id": "Dhamma - 0031",
+    "english": "ignorance",
+    "ipa": "/ˈɪgnərəns/",
+    "vietnamese": "vô minh",
+    "explain": "Vô minh (Avijja). Sự mù lòa về bản chất thực sự của vạn pháp (Vô thường, Khổ, Vô ngã). Là nguyên nhân sâu xa nhất khiến tâm liên tục phản ứng tạo nghiệp mới. Ánh sáng của tuệ giác (Panna) sinh ra từ việc trực tiếp quan sát cảm thọ sẽ xua tan bóng tối vô minh này.",
+    "title": "2. About the mind"
+  },
+  {
+    "id": "Dhamma - 0032",
+    "english": "illusion",
+    "ipa": "/ˌɪˈluʒən/",
+    "vietnamese": "ảo tưởng",
+    "explain": "Ảo tưởng (Maya). Sự đánh lừa của tâm trí, nhìn nhận một khối danh sắc (Nama-Rupa) luôn sinh diệt là một cái 'Tôi' (Ngã) thường hằng, hoặc thấy cái khổ là vui, cái bất tịnh là thanh tịnh. Thực hành thiền tuệ là phá vỡ ảo tưởng biểu kiến để chạm đến sự thật chân đế.",
+    "title": "2. About the mind"
+  },
+  {
+    "id": "Dhamma - 0033",
+    "english": "delusion",
+    "ipa": "/dɪˈluʒən/",
+    "vietnamese": "mê lầm",
+    "explain": "Mê lầm (Moha). Trạng thái tâm si mê, mất tỉnh giác, đánh mất sự nhận biết trong phút giây hiện tại. Trạng thái này khiến hành giả dễ trôi lăn trong các dòng suy nghĩ miên man vô ý thức, quên mất nhiệm vụ duy trì sự quan sát khách quan các cảm thọ trên thân.",
+    "title": "2. About the mind"
+  },
+  {
+    "id": "Dhamma - 0034",
+    "english": "attachment",
+    "ipa": "/əˈtæʧmənt/",
+    "vietnamese": "dính mắc",
+    "explain": "Dính mắc (Upadana). Trạng thái tâm bị trói buộc vào đối tượng do sức kéo của tâm tham (Craving). Trong hành thiền, chướng ngại lớn nhất thường là sự dính mắc vào những trải nghiệm thiền tốt đẹp (ánh sáng, sự tĩnh lặng, cảm giác rỗng rang vô trọng lượng), làm cản trở tiến trình đi sâu hơn.",
+    "title": "2. About the mind"
+  },
+  {
+    "id": "Dhamma - 0035",
+    "english": "clinging",
+    "ipa": "/ˈklɪŋɪŋ/",
+    "vietnamese": "bám víu",
+    "explain": "Bám víu. Mức độ thô tháo, bám chặt và mãnh liệt hơn của attachment. Khi hành giả bám víu vào một trạng thái thiền sâu trong quá khứ và khởi lên sự khao khát nó phải lặp lại, họ đã tự tạo ra một rào cản nội tâm mới, đánh mất đi thực tại vô thường của khoảnh khắc hiện tiền.",
+    "title": "2. About the mind"
+  },
+  {
+    "id": "Dhamma - 0036",
+    "english": "the world within",
+    "ipa": "/ðə wərld wɪˈθɪn/",
+    "vietnamese": "thế giới bên trong, nội tâm",
+    "explain": "Thế giới bên trong (Ajjhatta). Toàn bộ vũ trụ của danh và sắc (Mind and Matter) nằm gọn trong khuôn khổ cơ thể dài khoảng một sải tay này. Hành giả Vipassana không tìm kiếm chân lý ở thế giới bên ngoài, mà quay vào trong khám phá toàn bộ quy luật tự nhiên của vũ trụ thông qua chính tấm thân này.",
+    "title": "2. About the mind"
+  },
+  {
+    "id": "Dhamma - 0037",
+    "english": "habit pattern",
+    "ipa": "/ˈhæbət ˈpætərn/",
+    "vietnamese": "khuôn mẫu thói quen",
+    "explain": "Khuôn mẫu thói quen (Sankhara). Phản xạ có điều kiện của tâm trí được lặp đi lặp lại nhiều đời. Khi gặp cảm thọ dễ chịu, thói quen là sinh tham; gặp khó chịu, thói quen là sinh sân. Vipassana bẻ gãy khuôn mẫu mù quáng này bằng cách chêm 'sự tỉnh giác' và 'tâm xả' vào giữa sự xuất hiện của cảm thọ và sự phản ứng.",
+    "title": "2. About the mind"
+  },
+  {
+    "id": "Dhamma - 0038",
+    "english": "roll in thoughts",
+    "ipa": "/roʊl ɪn θɔts/",
+    "vietnamese": "trôi lăn trong suy nghĩ",
+    "explain": "Trôi lăn trong suy nghĩ (Papanca). Trạng thái tâm phóng dật, liên tục nhân bản các ý niệm, quá khứ, tương lai tạo thành một dòng thác vọng tưởng. Khi phát hiện tâm đang trôi lăn, hành giả chỉ mỉm cười ghi nhận thực tại đó và nhẹ nhàng đưa tâm về lại với hơi thở hoặc cảm thọ hiện tại, tuyệt đối không tự trách móc.",
+    "title": "2. About the mind"
+  },
+  {
+    "id": "Dhamma - 0039",
+    "english": "equanimity",
+    "ipa": "/ˌikwəˈnɪmɪti/",
+    "vietnamese": "tâm xả = tâm quân bình + không phản ứng",
+    "explain": "Tâm xả (Upekkha). Một trong bốn Phạm trú (Brahma-vihara) và là mục tiêu cốt lõi của thiền Vipassana. Không phải là sự thờ ơ hay trơ lì vô cảm, mà là trạng thái tâm thăng bằng tuyệt đối. Do thấu triệt luật vô thường (Anicca), tâm không phản ứng (non-reaction) bằng tham hay sân trước bất kỳ cảm thọ thô hay tế nào.",
+    "title": "3. states of mind"
+  },
+  {
+    "id": "Dhamma - 0040",
+    "english": "be equanimous",
+    "ipa": "/bi ˌiːkwəˈnɪməs/",
+    "vietnamese": "bình thản, buông xả",
+    "explain": "Trạng thái giữ sự thăng bằng tâm trí. Hành giả thực hành 'be equanimous' bằng cách đóng vai trò một nhân chứng khách quan (objective observer). Bất kể điều gì xảy ra trên thân hay trong tâm, chỉ đơn thuần ghi nhận sự thật tự nhiên: 'Nó đang là như vậy, và rồi nó cũng sẽ thay đổi'.",
+    "title": "3. states of mind"
+  },
+  {
+    "id": "Dhamma - 0041",
+    "english": "remain equanimous",
+    "ipa": "/rɪˈmeɪn ˌiːkwəˈnɪməs/",
+    "vietnamese": "giữ tâm bình thản, không phản ứng",
+    "explain": "Duy trì tâm xả liên tục. Sự thử thách lớn nhất không phải là đạt được tâm xả trong chốc lát, mà là duy trì nó (remain) trước những cơn bão của cảm thọ cường liệt (đau đớn tột cùng hoặc hỷ lạc ngập tràn). Duy trì sự bình thản là thước đo thực sự cho sự vững chãi trên đạo lộ giải thoát.",
+    "title": "3. states of mind"
+  },
+  {
+    "id": "Dhamma - 0042",
+    "english": "pure mind",
+    "ipa": "/pjʊr maɪnd/",
+    "vietnamese": "tâm thanh tịnh",
+    "explain": "Tâm thanh tịnh (Visuddhi). Trạng thái tâm đã được gọt rửa khỏi các ô nhiễm (Kilesa) thô tháo và vi tế. Trong khoảnh khắc tâm hoàn toàn xả ly, không có một mảy may tham hay sân xen vào, đó là một khoảnh khắc của tâm thanh tịnh. Sự tích lũy những khoảnh khắc này sẽ dẫn đến sự tịnh hóa nội tâm hoàn toàn.",
+    "title": "3. states of mind"
+  },
+  {
+    "id": "Dhamma - 0043",
+    "english": "agitated",
+    "ipa": "/ˈæʤəˌteɪtəd/",
+    "vietnamese": "dao động, xáo động",
+    "explain": "Tâm dao động (Uddhacca). Trạng thái tâm không an trú được trên đối tượng, bị khuấy động bởi phiền não, hoài nghi hoặc sự mong cầu kết quả. Khi tâm xáo động mạnh, hành giả được khuyên nên quay lại với đối tượng thô hơn là hơi thở (Anapana) thay vì cố quét cảm thọ vi tế, để tâm dần lắng dịu và quy nhất trở lại.",
+    "title": "3. states of mind"
+  },
+  {
+    "id": "Dhamma - 0044",
+    "english": "calm & quiet mind",
+    "ipa": "/kɑm kwaɪət maɪnd/",
+    "vietnamese": "tâm an tĩnh & yên lặng",
+    "explain": "Tâm an tĩnh (Samatha). Kết quả của việc tâm tập trung liên tục vào một đối tượng duy nhất (như hơi thở). Tuy nhiên, trong Vipassana, sự yên lặng này chỉ là công cụ (Định) để dọn đường cho trí tuệ (Tuệ) phát sinh, để quan sát các vi hạt cấu tạo nên thân thể, chứ không phải là đích đến cuối cùng để đắm chìm và dính mắc.",
+    "title": "3. states of mind"
+  },
+  {
+    "id": "Dhamma - 0045",
+    "english": "alert & attentive mind",
+    "ipa": "/əˈlərt əˈtɛntɪv maɪnd/",
+    "vietnamese": "tâm tỉnh táo & chăm chú",
+    "explain": "Tâm tỉnh giác (Sampajanna) và chánh niệm (Sati). Tâm không bị rơi vào hôn trầm (thờ thẫn, buồn ngủ), luôn giữ được sự nhạy bén và chú tâm liên tục vào sự sinh diệt của các cảm thọ. Sự chăm chú sắc bén này hoạt động như mũi dao phẫu thuật, bóc tách và cắt đứt các khối vô minh ngầm sâu trong vô thức.",
+    "title": "3. states of mind"
+  },
+  {
+    "id": "Dhamma - 0046",
+    "english": "balanced & equanimous mind",
+    "ipa": "/ˈbælənst ˌiːkwəˈnɪməs maɪnd/",
+    "vietnamese": "tâm cân bằng & buông xả, không phản ứng",
+    "explain": "Trạng thái lý tưởng của hành giả Vipassana. Sự kết hợp hoàn hảo giữa năng lực định tâm vững vàng và trí tuệ vô thường. Tâm như một chiếc cân thăng bằng tuyệt đối, không nghiêng lệch về phía khao khát (khi gặp lạc thọ) hay ghét bỏ (khi gặp khổ thọ), chỉ thuần túy quan sát mọi hiện tượng đến rồi đi.",
+    "title": "3. states of mind"
+  },
+  {
+    "id": "Dhamma - 0047",
+    "english": "wandering mind",
+    "ipa": "/ˈwɑndərɪŋ maɪnd/",
+    "vietnamese": "cái tâm đi lang thang",
+    "explain": "Tâm phóng tâm, không bám trụ ở hiện tại (Monkey mind). Bản chất tự nhiên của tâm chưa được huấn luyện là luôn nhảy từ nhánh cây quá khứ sang tương lai. Khi nhận ra tâm đang đi lang thang, khoảnh khắc nhận ra đó chính là lúc Chánh niệm đã quay về, hành giả hoan hỷ đưa nó lại với đề mục thiền mà không sinh tâm sân hận.",
+    "title": "3. states of mind"
+  },
+  {
+    "id": "Dhamma - 0048",
+    "english": "state of the mind",
+    "ipa": "/steɪt əv ðə maɪnd/",
+    "vietnamese": "trạng thái của tâm",
+    "explain": "Trạng thái tâm (Citta). Một trong bốn nền tảng của Tứ niệm xứ (Cittanupassana - Quán tâm). Hành giả quan sát tâm như một khách thể: tâm đang có tham biết là có tham, tâm đang phân tán biết là phân tán. Quan sát một cách khách quan mà không đồng hóa 'tôi đang tức giận' hay 'tôi đang buồn'.",
+    "title": "3. states of mind"
+  },
+  {
+    "id": "Dhamma - 0049",
+    "english": "be aware of the breath/sensation",
+    "ipa": "/bi əˈwɛr əv ðə brɛθ/ ⁄ /sɛnˈseɪʃən/",
+    "vietnamese": "ý thức, nhận biết hơi thở/cảm giác",
+    "explain": "Sự tỉnh giác (Sampajanna). Nhận biết rõ ràng đối tượng (hơi thở tại vùng mũi hoặc cảm thọ trên thân) ngay trong khoảnh khắc hiện tại. Sự nhận biết này phải liên tục và không bị gián đoạn bởi các khái niệm hay suy nghĩ.",
+    "title": "4. about the technique"
+  },
+  {
+    "id": "Dhamma - 0050",
+    "english": "focus the attention on",
+    "ipa": "/ˈfoʊkɪs ðə əˈtɛnʃən ɔn/",
+    "vietnamese": "tập trung chú ý vào",
+    "explain": "Gom tâm (Samadhi). Đặt trọn vẹn sự tỉnh giác vào một điểm hoặc một vùng nhỏ bé nhất định (như tam giác quanh mũi). Sự tập trung này đóng vai trò như việc hội tụ ánh sáng qua thấu kính, tạo ra năng lực xuyên thấu để cảm nhận các cảm thọ vi tế.",
+    "title": "4. about the technique"
+  },
+  {
+    "id": "Dhamma - 0051",
+    "english": "move the attention from part to part",
+    "ipa": "/muv ðə əˈtɛnʃən frəm pɑrt tɪ pɑrt/",
+    "vietnamese": "di chuyển sự chú ý qua từng phần",
+    "explain": "Kỹ thuật quét thân (Body Scanning). Lần lượt di chuyển ánh sáng chánh niệm qua từng bộ phận của cơ thể theo một trật tự nhất định (từ đỉnh đầu xuống gót chân và ngược lại). Đảm bảo không bỏ sót bất kỳ một vùng nào (Blind spots).",
+    "title": "4. about the technique"
+  },
+  {
+    "id": "Dhamma - 0052",
+    "english": "feel the breath/sensation",
+    "ipa": "/fil ðə brɛθ/ ⁄ /sɛnˈseɪʃən/",
+    "vietnamese": "cảm nhận hơi thở/cảm giác",
+    "explain": "Trải nghiệm trực tiếp (Anubhava). Không phải là tưởng tượng hay mong cầu một cảm thọ, mà là sự tiếp xúc thực sự của tâm (Phassa) với sự thay đổi của sắc pháp tại một vùng cơ thể cụ thể.",
+    "title": "4. about the technique"
+  },
+  {
+    "id": "Dhamma - 0053",
+    "english": "observe objectively",
+    "ipa": "/əbˈzərv ɑˈbʤɛktɪvli/",
+    "vietnamese": "quan sát một cách khách quan",
+    "explain": "Chánh niệm xả ly. Đóng vai trò như một nhà khoa học (Objective observer) quan sát các hiện tượng sinh diệt trên thân thể mà không phán xét, không yêu thích (tham) cũng không chối bỏ (sân). Chỉ thuần túy ghi nhận 'Nó đang là'.",
+    "title": "4. about the technique"
+  },
+  {
+    "id": "Dhamma - 0054",
+    "english": "experience a sensation",
+    "ipa": "/ɪkˈspɪriəns ə sɛnˈseɪʃən/",
+    "vietnamese": "kinh nghiệm được một cảm giác",
+    "explain": "Thực chứng thọ uẩn (Vedana). Cảm thọ là cầu nối then chốt nơi tâm giao tiếp với thân. Việc kinh nghiệm trực tiếp cảm thọ thô hay tế là nền tảng để thấu triệt sự Vô thường (Anicca) ngay trong tự thân.",
+    "title": "4. about the technique"
+  },
+  {
+    "id": "Dhamma - 0055",
+    "english": "stay with the respiration/sensation",
+    "ipa": "/steɪ wɪθ ðə ˌrɛspərˈeɪʃən/ ⁄ /sɛnˈseɪʃən/",
+    "vietnamese": "trụ lại với hơi thở/cảm giác (nhiều cái \"stay\" liên tục sẽ hình thành trạng thái \"be\")",
+    "explain": "An trú chánh niệm. Sự kiên trì bám sát đối tượng (hơi thở hoặc cảm thọ) một cách liên tục không đứt quãng. Chữ 'stay' nhấn mạnh vào sự tinh tấn (Viriya), không để tâm phóng đi (Wandering mind).",
+    "title": "4. about the technique"
+  },
+  {
+    "id": "Dhamma - 0056",
+    "english": "be with the respiration/sensation",
+    "ipa": "/bi wɪθ ðə ˌrɛspərˈeɪʃən/ ⁄ /sɛnˈseɪʃən/",
+    "vietnamese": "ý thức về hơi thở/cảm giác, hoàn toàn chú tâm quan sát hơi thở/cảm giác ấy",
+    "explain": "Sự hợp nhất với đề mục. Giai đoạn mà sự quan sát trở nên tự nhiên và nỗ lực dần biến mất. Tâm ở trọn vẹn với hơi thở/cảm thọ, không còn sự phân biệt giữa người quan sát và đối tượng quan sát, chỉ còn lại dòng chảy chánh niệm.",
+    "title": "4. about the technique"
+  },
+  {
+    "id": "Dhamma - 0057",
+    "english": "observe/work part-by-part",
+    "ipa": "/əbˈzərv/ ⁄ /wərk pɑrt baɪ pɑrt/",
+    "vietnamese": "quan sát từng phần",
+    "explain": "Kỹ thuật quét từng phần nhỏ. Áp dụng khi định lực còn yếu hoặc khi gặp những vùng cơ thể bị tắc nghẽn, vô cảm (Blind/Blank areas) hoặc có cảm thọ thô cứng (Solidified sensations). Giúp tâm rèn luyện sự tỉ mỉ, kiên nhẫn.",
+    "title": "4. about the technique"
+  },
+  {
+    "id": "Dhamma - 0058",
+    "english": "observe/work with a flow",
+    "ipa": "/əbˈzərv/ ⁄ /wərk wɪθ ə floʊ/",
+    "vietnamese": "quét",
+    "explain": "Dòng chảy tự do (Free flow). Trạng thái khi cơ thể tan rã thành những vi hạt (Kalapas) và cảm thọ trở thành một dòng rung động vi tế, đồng nhất. Hành giả quét tâm một mạch từ trên xuống dưới. Tuy nhiên, tuyệt đối không được sinh tâm tham đắm vào trải nghiệm vi tế này.",
+    "title": "4. about the technique"
+  },
+  {
+    "id": "Dhamma - 0059",
+    "english": "observe the reality of this moment",
+    "ipa": "/əbˈzərv ðə ˌriˈæləˌti əv ðɪs ˈmoʊmənt/",
+    "vietnamese": "quan sát thực tại của khoảnh khắc này",
+    "explain": "Thực tại hiện tiền (Paccuppanna Dhamma). Rời bỏ quá khứ và tương lai. Thực tại không phải là những gì ta mong muốn xảy ra, mà là những cảm thọ thô cứng, đau nhức hay hỷ lạc đang thực sự diễn ra ngay khoảnh khắc này trên thân.",
+    "title": "4. about the technique"
+  },
+  {
+    "id": "Dhamma - 0060",
+    "english": "explore/investigate",
+    "ipa": "/ɪkˈsplɔr/ ⁄ /ˌɪnˈvɛstəˌgeɪt/",
+    "vietnamese": "khảo sát",
+    "explain": "Trạch pháp (Dhamma Vicaya). Yếu tố thứ hai trong Thất giác chi (Bojjhanga). Không phải suy luận bằng trí óc, mà dùng tâm sắc bén như một lưỡi dao phẫu thuật đi sâu vào các cảm thọ để khám phá bản chất thật (sinh và diệt) của chúng.",
+    "title": "4. about the technique"
+  },
+  {
+    "id": "Dhamma - 0061",
+    "english": "dividing it, dissecting it, disintegrating it",
+    "ipa": "/dɪˈvaɪdɪŋ ɪt, daɪˈsɛktɪŋ ɪt, dɪˈsɪntəˌgreɪtɪŋ ɪt/",
+    "vietnamese": "chia chẻ ra, tách rời ra, phân nhỏ nó ra",
+    "explain": "Hành động của Tuệ giác (Panna). Khi đối diện với các khối cảm thọ rắn chắc (như đau nhức tột độ), hành giả dùng định tâm sắc bén đâm xuyên qua đó, chia nhỏ khối thô trược ấy ra để thấy rằng chúng chỉ là sự tập hợp của các vi hạt (Kalapas) luôn chuyển động sinh diệt.",
+    "title": "4. about the technique"
+  },
+  {
+    "id": "Dhamma - 0062",
+    "english": "dissolve",
+    "ipa": "/dɪˈzɑlv/",
+    "vietnamese": "tan rã ra, làm tan rã",
+    "explain": "Sự tan chảy (Bhanga). Trạng thái khi định lực đủ mạnh, những cảm thọ thô đặc, rắn chắc (Solidified) bắt đầu tan rã thành những rung động vi tế (Vibrations). Cội rễ của ảo tưởng về sự rắn chắc của thân (Ngã) bị phá vỡ.",
+    "title": "4. about the technique"
+  },
+  {
+    "id": "Dhamma - 0063",
+    "english": "dissolution",
+    "ipa": "/ˌdɪsəˈluʃən/",
+    "vietnamese": "sự rã ra, sự tan ra, tan rã",
+    "explain": "Tuệ Diệt (Bhanga Nana). Cấp độ tuệ quán sâu sắc khi hành giả chỉ còn thấy sự diệt đi liên tục của vạn pháp. Mọi cấu trúc vật chất và tâm trí đều hiện diện như một dòng chảy tan rã, mang lại sự thấu hiểu rốt ráo về Vô thường và Vô ngã.",
+    "title": "4. about the technique"
+  },
+  {
+    "id": "Dhamma - 0064",
+    "english": "eradicate the impurities",
+    "ipa": "/ɪˈrædəˌkeɪt ðə ˌɪmˈpjʊrətiz/",
+    "vietnamese": "diệt trừ các bất tịnh",
+    "explain": "Quá trình nhổ bỏ rễ ô nhiễm (Anusaya Kilesa). Khi duy trì được tâm xả (Equanimity) hoàn hảo trước mọi cảm thọ, ta ngừng tạo nghiệp (Sankhara) mới. Lúc này, các bất tịnh cũ ở tầng vô thức trồi lên và tự diệt đi, nội tâm dần được làm sạch.",
+    "title": "4. about the technique"
+  },
+  {
+    "id": "Dhamma - 0065",
+    "english": "purify the mind",
+    "ipa": "/ˈpjʊrəˌfaɪ ðə maɪnd/",
+    "vietnamese": "thanh lọc tâm",
+    "explain": "Mục tiêu tối hậu của đạo Phật. Bằng cách quan sát khách quan sự sinh diệt của các cảm thọ, hành giả ngừng việc tưới tẩm tham và sân, dẫn đến một trạng thái tâm hoàn toàn vô lậu, sáng suốt và giải thoát khỏi ách khổ đau.",
+    "title": "4. about the technique"
+  },
+  {
+    "id": "Dhamma - 0066",
+    "english": "purification of the mind",
+    "ipa": "/ˌpjʊrəfəˈkeɪʃən əv ðə maɪnd/",
+    "vietnamese": "sự thanh lọc tâm",
+    "explain": "Tiến trình Visuddhi. Là toàn bộ hành trình tu tập Giới - Định - Tuệ. Bắt đầu từ sự thanh lọc hành vi (Giới), thanh lọc tâm xáo động (Định) và thanh lọc tận gốc rễ vô minh và các phản ứng mù quáng dưới tầng vô thức (Tuệ).",
+    "title": "4. about the technique"
+  },
+  {
+    "id": "Dhamma - 0067",
+    "english": "craving & aversion",
+    "ipa": "/ˈkreɪvɪŋ/ & /əˈvərʒən/",
+    "vietnamese": "tham muốn & ghét bỏ (tâm tham & tâm sân)",
+    "explain": "Tham và Sân (Lobha & Dosa). Hai mặt của một đồng xu, nguồn gốc của mọi phản ứng sinh tử (Sankhara). Có tham (muốn giữ lại cảm thọ lạc) thì ắt có sân (muốn đẩy lùi cảm thọ khổ). Giữ tâm xả trước cảm thọ là đập tan cả hai gốc rễ này.",
+    "title": "5. learn vocabulary in pair"
+  },
+  {
+    "id": "Dhamma - 0068",
+    "english": "wholesome deeds & unwholesome deeds",
+    "ipa": "/ˈhoʊlsəm didz/ & /ʌnˈhoʊlsəm didz/",
+    "vietnamese": "hành động thiện lành & hành động không thiện lành",
+    "explain": "Nghiệp (Kamma). Wholesome deeds (Kusala Kamma) mang lại sự bình an, thanh tịnh. Unwholesome deeds (Akusala Kamma) tạo ra phiền não. Giữ tâm xả không phản ứng (Equanimity) là hành động thiện lành vi tế và tối thượng nhất để vượt thoát mọi nghiệp báo.",
+    "title": "5. learn vocabulary in pair"
+  },
+  {
+    "id": "Dhamma - 0069",
+    "english": "arise & pass away",
+    "ipa": "/əraɪz pæs əˈweɪ/",
+    "vietnamese": "nảy sinh & diệt đi (sinh-diệt)",
+    "explain": "Luật sinh diệt (Uppada-vaya). Trái tim của sự thật Vô thường (Anicca). Mọi hiện tượng danh sắc đều sinh ra rồi diệt đi ngay tức khắc. Thấu triệt 'sinh-diệt' không bằng trí năng mà bằng kinh nghiệm trực tiếp trên thân sẽ dẫn đến sự giải thoát.",
+    "title": "5. learn vocabulary in pair"
+  },
+  {
+    "id": "Dhamma - 0070",
+    "english": "progress >< regress",
+    "ipa": "/ˈprɑˌgrɛs/ >< /ˈrigrɛs/",
+    "vietnamese": "tiến bộ >< thoái bộ",
+    "explain": "Tiến trình tu tập. Progress (Tiến bộ) không phải là cảm nhận được nhiều hỷ lạc hay dòng chảy vi tế (Free flow). Thước đo duy nhất của sự tiến bộ là mức độ bình thản (Equanimity) của hành giả trước cả hai mặt thuận và nghịch của cảm thọ.",
+    "title": "5. learn vocabulary in pair"
+  },
+  {
+    "id": "Dhamma - 0071",
+    "english": "conscious mind >< unconscious mind",
+    "ipa": "/ˈkɑnʃəs maɪnd/ >< /ˌənˈkɑnʃəs maɪnd/",
+    "vietnamese": "tâm có ý thức >< tâm vô thức",
+    "explain": "Sự mở rộng của nhận thức. Conscious mind (Ý thức bề mặt) thường tự hào về học thức, nhưng Unconscious mind (Vô thức) mới là kẻ làm chủ thực sự, luôn mù quáng phản ứng. Vipassana xóa bỏ bức tường này, mang ánh sáng tỉnh giác thấu suốt tận đáy vô thức.",
+    "title": "5. learn vocabulary in pair"
+  },
+  {
+    "id": "Dhamma - 0072",
+    "english": "piercing & penetrating",
+    "ipa": "/ˈpɪrsɪŋ/ & /ˈpɛnəˌtreɪtɪŋ/",
+    "vietnamese": "(đưa tâm) đi xuyên vào & thấu qua",
+    "explain": "Sức mạnh xuyên thấu của Tâm Định. Khi tâm hội tụ (Samadhi) cao độ, sự chú tâm không chỉ dừng ở bề mặt da mà có khả năng đâm xuyên (Piercing) vào tận xương tủy, khám phá mọi ngóc ngách của cơ thể để nhổ bỏ những bám chấp thô trược.",
+    "title": "5. learn vocabulary in pair"
+  },
+  {
+    "id": "Dhamma - 0073",
+    "english": "pleasant or unpleasant",
+    "ipa": "/ˈplɛzənt ər ənˈplɛzənt/",
+    "vietnamese": "dễ chịu hay khó chịu",
+    "explain": "Cặp cảm thọ phân cực cốt lõi. Trong vòng luân hồi, tâm trí mù quáng (Avijja) luôn vận hành theo công thức: gặp cảm thọ dễ chịu (Sukha vedana) thì sinh tham đắm, bám víu; gặp cảm thọ khó chịu (Dukkha vedana) thì sinh sân hận, chối bỏ. Vipassana bẻ gãy mắt xích này bằng thái độ xả ly đối với cả hai.",
+    "title": "5. learn vocabulary in pair"
+  },
+  {
+    "id": "Dhamma - 0074",
+    "english": "gross or subtle",
+    "ipa": "/groʊs ər ˈsətəl/",
+    "vietnamese": "thô thiển hay vi tế",
+    "explain": "Mật độ và tần số của cảm thọ. Cảm thọ thô (Gross) thường đặc cứng, mù mịt và đi kèm đau đớn do sự dồn ứ bất tịnh. Cảm thọ tế (Subtle) là những rung động nhẹ nhàng, êm ái. Dù thô hay tế, bản chất của chúng vẫn đồng nhất: đó là tính sinh diệt (Anicca). Việc phân biệt chỉ để quan sát, không phải để lựa chọn.",
+    "title": "5. learn vocabulary in pair"
+  },
+  {
+    "id": "Dhamma - 0075",
+    "english": "agreeable or disagreeable",
+    "ipa": "/əˈgriəbəl ər ˌdɪsəˈgriəbəl/",
+    "vietnamese": "vừa ý hay không vừa ý",
+    "explain": "Sự dán nhãn của Tưởng uẩn (Sanna). Khi một cảm giác nảy sinh, Tưởng lập tức lục lọi ký ức để đánh giá nó là 'tốt' (vừa ý) hay 'xấu' (không vừa ý), từ đó kích hoạt Hành uẩn (Sankhara) phản ứng. Chánh niệm giúp hành giả nhận diện quá trình dán nhãn này và dừng lại trước khi phản ứng xảy ra.",
+    "title": "5. learn vocabulary in pair"
+  },
+  {
+    "id": "Dhamma - 0076",
+    "english": "mental & physical structure",
+    "ipa": "/ˈmɛntəl ˈfɪzɪkəl ˈstrəkʧər/",
+    "vietnamese": "cơ cấu tâm thức & vật chất",
+    "explain": "Sự cấu thành của con người. Thiền tuệ bóc tách ảo tưởng về một cái 'Tôi' nguyên vẹn. Trải nghiệm thiền sâu sẽ cho thấy thứ ta gọi là 'Tôi' thực chất chỉ là một cơ cấu danh sắc (Nama-Rupa) không ngừng vận động, nương tựa vào nhau, phát sinh và hoại diệt trong từng sát-na (khoảnh khắc).",
+    "title": "5. learn vocabulary in pair"
+  },
+  {
+    "id": "Dhamma - 0077",
+    "english": "mind & matter",
+    "ipa": "/maɪnd/ & /ˈmætər/",
+    "vietnamese": "tâm & thân (tâm thức & vật chất)",
+    "explain": "Danh (Nama) và Sắc (Rupa). Hai yếu tố không thể tách rời trong thế giới duyên sinh. Bất kỳ một ý niệm nào khởi lên trong tâm (Mind) ngay lập tức sẽ được chuyển hóa thành một hiện tượng sinh hóa, tạo ra cảm thọ trên thân (Matter), và ngược lại. Quan sát thân chính là con đường trực tiếp nhất để tịnh hóa tâm.",
+    "title": "5. learn vocabulary in pair"
+  },
+  {
+    "id": "Dhamma - 0078",
+    "english": "upper arm & lower arm",
+    "ipa": "/ˈəpər ɑrm/ & /loʊər ɑrm/",
+    "vietnamese": "cánh tay trên & cánh tay dưới",
+    "explain": "Phân chia không gian quan sát (Body scanning). Việc chia nhỏ các bộ phận cơ thể giúp tâm rèn luyện tính kỷ luật và sự tỉ mỉ. Bằng cách di chuyển ánh sáng chánh niệm từ từ qua cánh tay trên rồi xuống cánh tay dưới, hành giả đảm bảo không có bất kỳ điểm mù (blind spot) nào bị bỏ sót.",
+    "title": "5. learn vocabulary in pair"
+  },
+  {
+    "id": "Dhamma - 0079",
+    "english": "upper back & lower back",
+    "ipa": "/ˈəpər bæk/ & /loʊər bæk/",
+    "vietnamese": "lưng trên & lưng dưới",
+    "explain": "Khu vực quét thân (Body scanning). Vùng lưng là nơi thường xuyên tích tụ các cảm thọ thô cứng do căng thẳng, mệt mỏi hoặc nghiệp lực (Sankhara) cũ trồi lên. Việc giữ tâm xả ly khi quét qua vùng này, không vội vã lướt qua để trốn tránh cơn đau, là bài tập tuyệt vời cho hạnh kham nhẫn.",
+    "title": "5. learn vocabulary in pair"
+  },
+  {
+    "id": "Dhamma - 0080",
+    "english": "palms & soles",
+    "ipa": "/pɑmz/ & /soʊlz/",
+    "vietnamese": "lòng bàn tay & lòng bàn chân",
+    "explain": "Các điểm kết thúc của chu trình quét thân. Đây là những vùng tập trung nhiều dây thần kinh, thường biểu hiện các cảm thọ rất rõ ràng như nhiệt độ hay nhịp đập. Hành giả ghi nhận cảm giác tại đây rồi tiếp tục di chuyển sự chú ý, không dừng lại bám víu dù cảm giác có dễ chịu đến đâu.",
+    "title": "5. learn vocabulary in pair"
+  },
+  {
+    "id": "Dhamma - 0081",
+    "english": "throbbing",
+    "ipa": "/θˈrɑbɪŋ/",
+    "vietnamese": "nhói, mạch đập mạnh",
+    "explain": "Đặc tính của yếu tố Gió (Vayo - chuyển động). Một loại cảm thọ thô (Gross sensation) rất phổ biến. Cảm giác nhói hay đập mạnh này cho thấy sự luân chuyển và va chạm liên tục của các vi hạt (Kalapas) bên dưới bề mặt da, đập tan khái niệm về một cơ thể tĩnh tại.",
+    "title": "6. Sensations1"
+  },
+  {
+    "id": "Dhamma - 0082",
+    "english": "pressured",
+    "ipa": "/ˈprɛʃərd/",
+    "vietnamese": "bị đè ép",
+    "explain": "Cảm thọ bức bách thường phát sinh khi định lực bị thúc ép quá mức, hoặc do các năng lượng tiêu cực (Sankhara) từ tiềm thức đang nỗ lực trồi lên bề mặt giải phóng. Sự đè ép này mang yếu tố Đất (Pathavi). Hành giả chỉ thư giãn tâm trí và quan sát sự đè ép này tồn tại rồi biến mất.",
+    "title": "6. Sensations1"
+  },
+  {
+    "id": "Dhamma - 0083",
+    "english": "tension",
+    "ipa": "/ˈtɛnʃən/",
+    "vietnamese": "lực căng, căng kéo",
+    "explain": "Sự căng cứng (Tension). Thường là kết quả của việc cố gắng quá sức (over-exertion) trong hành thiền, hoặc do tâm đang vô thức kháng cự lại một cảm thọ khó chịu. Lời khuyên là nới lỏng sự chú ý, quay lại với hơi thở (Anapana) một lát để thiết lập lại sự bình thản trước khi quét tiếp.",
+    "title": "6. Sensations1"
+  },
+  {
+    "id": "Dhamma - 0084",
+    "english": "strain",
+    "ipa": "/streɪn/",
+    "vietnamese": "căng thẳng, áp lực",
+    "explain": "Dấu hiệu của sự mong cầu (Craving) ẩn lấp. Khi hành giả bực bội vì không cảm nhận được cảm giác, hoặc mong mỏi cảm giác vi tế xuất hiện, tâm lập tức rơi vào trạng thái 'strain'. Áp lực này làm tâm mất đi sự sắc bén tự nhiên, và nó là một hình thái tinh vi của sự chối bỏ thực tại hiện tiền.",
+    "title": "6. Sensations1"
+  },
+  {
+    "id": "Dhamma - 0085",
+    "english": "ache",
+    "ipa": "/eɪk/",
+    "vietnamese": "đau",
+    "explain": "Khổ thọ (Dukkha Vedana) điển hình. Sự đau nhức khi ngồi thiền lâu không chỉ do vật lý, mà phần lớn là sự phản chiếu của những khối trầm tích bất thiện (Sankhara) trong quá khứ đang được giải phóng. Việc chịu đựng cơn đau bằng tâm xả ly hoàn toàn (không than vãn, không nhúc nhích) là cách tịnh hóa nghiệp mạnh mẽ nhất.",
+    "title": "6. Sensations1"
+  },
+  {
+    "id": "Dhamma - 0086",
+    "english": "numbness",
+    "ipa": "/ˈnəmnəs/",
+    "vietnamese": "tê, tê cóng",
+    "explain": "Trạng thái vùng cảm giác bị phong bế do khí huyết ngưng trệ, mang nặng yếu tố Đất (rắn chắc). Hành giả thường sợ hãi trước sự tê mỏi này. Tuy nhiên, bằng cái nhìn nội quán sâu sắc, sự 'tê' cũng chỉ là một khối gồm hàng tỷ vi hạt đang dao động mãnh liệt, và chắc chắn nó phải tuân theo quy luật hoại diệt.",
+    "title": "6. Sensations1"
+  },
+  {
+    "id": "Dhamma - 0087",
+    "english": "convulsion",
+    "ipa": "/kənˈvəlʃən/",
+    "vietnamese": "sự co giật",
+    "explain": "Sự phóng thích năng lượng mãnh liệt. Đôi khi, các khối nghiệp (Sankhara) sân hận thâm căn cố đế bị đào xới, chúng bùng nổ ra ngoài biểu hiện thành sự co giật vật lý. Hành giả phải vô cùng thận trọng, giữ chặt tâm xả, không hoảng sợ cũng không đồng hóa mình với cơn co giật đó.",
+    "title": "6. Sensations1"
+  },
+  {
+    "id": "Dhamma - 0088",
+    "english": "spasm",
+    "ipa": "/ˈspæzəm/",
+    "vietnamese": "sự co thắt",
+    "explain": "Biểu hiện của sự kháng cự vi tế trong tâm. Khi chạm trán một lớp vô minh dày đặc, cơ thể phản ứng bằng sự co thắt (vùng bụng, ngực hoặc cổ). Quan sát sự co thắt khách quan như một hiện tượng sinh lý bên ngoài là chìa khóa để tháo gỡ nút thắt tâm lý này.",
+    "title": "6. Sensations1"
+  },
+  {
+    "id": "Dhamma - 0089",
+    "english": "expansion",
+    "ipa": "/ɪkˈspænʧən/",
+    "vietnamese": "giãn ra, nở ra",
+    "explain": "Đặc tính của yếu tố Gió (Vayo) kết hợp với Không đại (Akasa). Cảm giác này thường mang lại sự dễ chịu, nhẹ nhàng. Hành giả thấy cơ thể như tan tỏa ra xung quanh. Dù vi tế đến đâu, cái bẫy ở đây là tâm tham (Craving). Phải luôn khắc cốt ghi tâm: 'Sự giãn nở này cũng là Vô thường'.",
+    "title": "6. Sensations1"
+  },
+  {
+    "id": "Dhamma - 0090",
+    "english": "contraction",
+    "ipa": "/kənˈtrækʃən/",
+    "vietnamese": "sự co kéo, co lại",
+    "explain": "Ngược với expansion. Sự co rút là tiếng vọng của bản năng tự vệ, sự thu mình của cái tôi (Ngã) trước một thực tại không mong muốn. Trong thiền tuệ, ta dùng sự chú tâm chia chẻ (dissecting) để rã đông các vùng bị co kéo này, trả lại sự lưu thông tự nhiên cho danh sắc.",
+    "title": "6. Sensations1"
+  },
+  {
+    "id": "Dhamma - 0091",
+    "english": "pulsing",
+    "ipa": "/ˈpəlsɪŋ/",
+    "vietnamese": "mạch đập nhè nhẹ",
+    "explain": "Rung động sinh mệnh. Quan sát mạch đập ở bất kỳ điểm nào trên cơ thể là sự chứng nghiệm trực tiếp về dòng chảy thời gian, về từng khoảnh khắc (sát-na) sinh và diệt liên hồi. Không có gì tĩnh tại, mọi thứ đều đang 'pulsing', đang cháy lên rồi lụi tàn.",
+    "title": "6. Sensations1"
+  },
+  {
+    "id": "Dhamma - 0092",
+    "english": "cold",
+    "ipa": "/koʊld/",
+    "vietnamese": "cái lạnh",
+    "explain": "Biểu hiện của yếu tố Lửa (Tejo - nhiệt năng) ở trạng thái thấp. Cảm thọ lạnh có thể do thời tiết, hoặc do một loại tập khí (Sankhara) cụ thể đang xả ra. Bất kể nguồn gốc là gì, việc của hành giả không phải là đi tìm nguyên nhân, mà là quán sát cái lạnh ấy nảy sinh rồi diệt đi.",
+    "title": "7. sensations 2"
+  },
+  {
+    "id": "Dhamma - 0093",
+    "english": "heat",
+    "ipa": "/hit/",
+    "vietnamese": "cái nóng",
+    "explain": "Yếu tố Lửa (Tejo) hoạt động mạnh. Nóng, đổ mồ hôi thường gắn liền với sự thiêu đốt (Tapa) các phiền não. Quá trình tịnh hóa sâu sắc đôi khi tạo ra lượng nhiệt lớn trong thân. Ghi nhận 'đang nóng' mà không khó chịu, sự thiêu đốt này sẽ hóa giải những trầm tích nội tâm.",
+    "title": "7. sensations 2"
+  },
+  {
+    "id": "Dhamma - 0094",
+    "english": "moisture",
+    "ipa": "/ˈmɔɪsʧər/",
+    "vietnamese": "hơi ẩm, sự ẩm ướt",
+    "explain": "Đặc tính của yếu tố Nước (Apo - sự kết dính, độ ẩm). Yếu tố này vốn không thể xúc chạm trực tiếp được, nhưng được tâm trí nhận biết thông qua sự kết hợp với các yếu tố khác. Cảm giác ẩm ướt trên da là một đối tượng thiền chân thực, mộc mạc và hoàn toàn vô ngã.",
+    "title": "7. sensations 2"
+  },
+  {
+    "id": "Dhamma - 0095",
+    "english": "dryness",
+    "ipa": "/ˈdraɪnəs/",
+    "vietnamese": "khô",
+    "explain": "Sự vắng mặt của yếu tố Nước. Có thể xuất hiện ở cổ họng, môi hoặc da trong khi hành thiền. Cảm thọ khô khan dễ làm hành giả sinh tâm bực dọc, muốn dừng lại uống nước. Đó chính là tâm Sân (Aversion) đang hoạt động. Vượt qua nó bằng thái độ khách quan là sự tu tập chân chính.",
+    "title": "7. sensations 2"
+  },
+  {
+    "id": "Dhamma - 0096",
+    "english": "perspiration",
+    "ipa": "/ˌpərspərˈeɪʃən/",
+    "vietnamese": "sự đổ mồ hôi, mồ hôi",
+    "explain": "Hiện tượng bài tiết sinh lý nhưng mang ý nghĩa tâm linh khi hành thiền sâu. Khi các ác nghiệp (Akusala Sankhara) bị năng lực của định tuệ bức bách trồi lên bề mặt và diệt đi, cơ thể thường phản ứng bằng sự toát mồ hôi (đôi khi rất hôi hám). Đây là dấu hiệu tốt của quá trình giải độc (Detoxification) tâm lý.",
+    "title": "7. sensations 2"
+  },
+  {
+    "id": "Dhamma - 0097",
+    "english": "itching",
+    "ipa": "/ˈɪʧɪŋ/",
+    "vietnamese": "ngứa",
+    "explain": "Một trong những thử thách tinh tế. Phản xạ vô điều kiện của con người là đưa tay lên gãi để thỏa mãn và triệt tiêu cơn ngứa. Trong Vipassana, hành giả giữ bất động, quan sát cơn ngứa từ lúc nó mới sinh, bùng lên dữ dội, rồi tự thân nó biến mất mà không cần bất kỳ tác động vật lý nào.",
+    "title": "7. sensations 2"
+  },
+  {
+    "id": "Dhamma - 0098",
+    "english": "tickling",
+    "ipa": "/tickling*/",
+    "vietnamese": "nhột nhột, buồn buồn",
+    "explain": "Cảm giác vi tế, dễ làm tâm xao lãng và đánh mất sự nghiêm túc. Cảm giác nhột cũng là một sự biểu hiện của các vi hạt (Kalapas) đang di chuyển. Thái độ đối với cảm giác nhột cũng giống như đối với sự đau đớn: bình thản, không bám víu cũng không xua đuổi.",
+    "title": "7. sensations 2"
+  },
+  {
+    "id": "Dhamma - 0099",
+    "english": "prickling",
+    "ipa": "/prickling*/",
+    "vietnamese": "cảm giác châm chích",
+    "explain": "Giống như hàng ngàn mũi kim li ti đâm vào da. Sự châm chích này là dấu hiệu các khối bế tắc thô đang bắt đầu rạn nứt dưới năng lực quan sát (Piercing attention) của tâm. Hành giả dùng trí tuệ quét qua vùng châm chích để nhận ra chúng chỉ là những làn sóng sinh diệt vô hại.",
+    "title": "7. sensations 2"
+  },
+  {
+    "id": "Dhamma - 0100",
+    "english": "ant crawling",
+    "ipa": "/ænt ˈkrɔlɪŋ/",
+    "vietnamese": "cảm giác kiến bò",
+    "explain": "Ảo giác sinh học cực kỳ phổ biến khi các luồng vi mạch dưới da được khai thông nhờ định lực. Tâm trí Tưởng uẩn (Sanna) do thiếu ngôn từ nên tự động gán nhãn nó là 'kiến bò'. Hành giả cần gạt bỏ hình ảnh con kiến trong đầu, chỉ thuần túy quan sát sự di chuyển của cảm thọ tĩnh điện đó.",
+    "title": "7. sensations 2"
+  },
+  {
+    "id": "Dhamma - 0101",
+    "english": "insect moving",
+    "ipa": "/ˈɪnˌsɛkt ˈmuvɪŋ/",
+    "vietnamese": "cảm giác côn trùng bò",
+    "explain": "Tương tự như 'ant crawling', nhưng cường độ thường rộng hơn. Nhiều hành giả hoảng hốt mở mắt ra kiểm tra vì cảm giác quá chân thực. Sự gián đoạn đó là một chiến thắng của vô minh. Niềm tin vào phương pháp (Saddha) sẽ giúp hành giả nhắm mắt lại và nhận ra tính 'Vô ngã' (không có con côn trùng nào cả, chỉ có duyên sinh) của hiện tượng.",
+    "title": "7. sensations 2"
+  },
+  {
+    "id": "Dhamma - 0102",
+    "english": "sweat",
+    "ipa": "/swɛt/",
+    "vietnamese": "sự đổ mồ hôi, mồ hôi",
+    "explain": "Chất lỏng bài tiết (Apo Dhatu - Nước). Trong quá trình hành thiền, cảm nhận những giọt mồ hôi lăn trên mặt, trên lưng là một bài thực hành chánh niệm tuyệt vời. Ta quan sát tiến trình của dòng nước, cảm giác mát lạnh hay dính dớp do nó mang lại, và tiếp tục duy trì tâm xả.",
+    "title": "7. sensations 2"
+  },
+  {
+    "id": "Dhamma - 0103",
+    "english": "intense",
+    "ipa": "/ˌɪnˈtɛns/",
+    "vietnamese": "mãnh liệt, rất mạnh",
+    "explain": "Mức độ cực đoan của cảm thọ (cả Lạc thọ lẫn Khổ thọ). Khi gặp một cơn đau 'intense', hành giả được rèn luyện để chia nhỏ (dissecting) nó ra thành trung tâm điểm đau và vùng lan tỏa, để thấy rằng sự 'mãnh liệt' không phải là một khối kiên cố, mà là sự chồng lấp của vô số vi hạt li ti.",
+    "title": "8. sensations 3"
+  },
+  {
+    "id": "Dhamma - 0104",
+    "english": "intensified",
+    "ipa": "/ˌɪnˈtɛnsɪˌfaɪd/",
+    "vietnamese": "mãnh liệt, có cường độ tăng dần",
+    "explain": "Quá trình gia tăng của Dukkha (Khổ). Khi ta giữ tâm xả, đôi khi một cảm giác khó chịu không biến mất ngay mà lại 'intensified' (dội lên mạnh hơn) như ngọn lửa bùng lên trước khi tắt lụi. Sự điềm tĩnh trước sự gia tăng cường độ này chính là quá trình nhổ tận gốc rễ của Sankhara.",
+    "title": "8. sensations 3"
+  },
+  {
+    "id": "Dhamma - 0105",
+    "english": "feeble",
+    "ipa": "/ˈfibəl/",
+    "vietnamese": "yếu ớt",
+    "explain": "Cảm thọ vô cùng mờ nhạt, khó nắm bắt. Đây là thách thức đối với độ nhạy bén (Attentiveness) của tâm. Khi gặp một vùng cơ thể có cảm giác 'feeble', hành giả không được lướt qua nhanh (tạo thành tâm si/lười biếng), mà phải dừng lại chừng 1-2 phút, tập trung cao độ để nhận biết, nếu không có cảm giác gì thì ghi nhận là 'không có cảm giác' rồi mới đi tiếp.",
+    "title": "8. sensations 3"
+  },
+  {
+    "id": "Dhamma - 0106",
+    "english": "solidified",
+    "ipa": "/səˈlɪdəˌfaɪd/",
+    "vietnamese": "chắc đặc, được kết chặt lại",
+    "explain": "Trạng thái vật chất (Rupa) tưởng như là một khối bê tông nguyên khối, không thể xuyên thấu. Đây là nguyên nhân sinh ra ảo tưởng về một cái Ngã (Ego) rắn chắc. Sự chú tâm xuyên thấu (Piercing attention) của Vipassana sẽ làm tan rã khối 'solidified' này thành dạng sóng dao động.",
+    "title": "8. sensations 3"
+  },
+  {
+    "id": "Dhamma - 0107",
+    "english": "swinging",
+    "ipa": "/sˈwɪŋɪŋ/",
+    "vietnamese": "đu đưa, lắc lư",
+    "explain": "Cảm thọ dao động mạnh, thường đi kèm với trạng thái dòng chảy vi tế (Free flow). Cơ thể như không còn trọng lượng và đung đưa trong không gian. Đây là một trải nghiệm hỷ lạc (Piti) dễ gây nghiện. Sự cảnh giác cao độ để không bám chấp (Attachment) vào sự 'đu đưa' này là tối quan trọng.",
+    "title": "8. sensations 3"
+  },
+  {
+    "id": "Dhamma - 0108",
+    "english": "fine",
+    "ipa": "/faɪn/",
+    "vietnamese": "mịn, vi tế",
+    "explain": "Mức độ cảm thọ vi tế nhất (Subtle sensations). Cảm giác như một luồng điện êm ái lướt qua toàn thân. Khi cơ thể chỉ còn là các rung động 'fine', trí tuệ thấu đạt sâu sắc nhất về bản chất vô chất lượng (substancelessness) của thế giới vật chất, dọn đường cho việc chứng nghiệm Niết Bàn (Nibbana).",
+    "title": "8. sensations 3"
+  },
+  {
+    "id": "Dhamma - 0109",
+    "english": "vibration",
+    "ipa": "/vaɪˈbreɪʃən/",
+    "vietnamese": "rung động",
+    "explain": "Bản chất thực sự của vật chất (Rupa). Mọi khối rắn đặc nhất của cơ thể thực ra chỉ là tập hợp các bọt nước Kalapas liên tục sinh diệt, tạo ra tần số rung động. Kinh nghiệm được rung động toàn thân là lúc hành giả đang nhìn vạn pháp bằng con mắt Tuệ (Bhanga Nana - Tuệ diệt), thấy rõ không có cái 'Ngã' nào tồn tại.",
+    "title": "8. sensations 3"
+  },
+  {
+    "id": "Dhamma - 0110",
+    "english": "tingling",
+    "ipa": "/ˈtɪŋgəlɪŋ/",
+    "vietnamese": "rần rần, râm ran",
+    "explain": "Dấu hiệu của các luồng vi mạch sinh học đang được khai thông bởi định lực. Cảm giác râm ran giống như dòng điện nhẹ chạy qua da, là một loại cảm thọ vi tế. Sự nguy hiểm của nó nằm ở chỗ nó rất dễ chịu, nếu tâm thiếu tỉnh giác sẽ lập tức dính mắc và sinh lòng khao khát (Craving).",
+    "title": "8. sensations 3"
+  },
+  {
+    "id": "Dhamma - 0111",
+    "english": "boneless",
+    "ipa": "/ˈboʊnləs/",
+    "vietnamese": "không có xương",
+    "explain": "Trạng thái khi định tuệ đã hoàn toàn phá vỡ khối vật chất ảo tưởng (Ghana). Hành giả cảm nhận cơ thể không còn da thịt, xương cốt hay cấu trúc vật lý thô trược, mà chỉ còn là một dòng chảy năng lượng thuần túy. Ở trạng thái này, cần dặn lòng 'đây cũng chỉ là một hiện tượng sinh diệt'.",
+    "title": "8. sensations 3"
+  },
+  {
+    "id": "Dhamma - 0112",
+    "english": "blind",
+    "ipa": "/blaɪnd/",
+    "vietnamese": "không cảm nhận được cảm giác",
+    "explain": "Vùng mù cảm giác (Blind spots). Nơi tập trung những khối trầm tích vô minh (Avijja) hoặc nghiệp thô cực kỳ rắn chắc chặn đứng sự lưu thông cảm thọ. Khi gặp vùng mù, hành giả không được bỏ qua (sẽ dung túng tâm lười biếng) cũng không được tức giận (sinh tâm sân), chỉ kiên nhẫn dừng lại 1-2 phút, ghi nhận 'không có cảm giác' rồi đi tiếp.",
+    "title": "8. sensations 3"
+  },
+  {
+    "id": "Dhamma - 0113",
+    "english": "blank",
+    "ipa": "/blæŋk/",
+    "vietnamese": "trống không",
+    "explain": "Tương tự như 'blind', là khu vực tâm không tiếp xúc được với sự thay đổi của sắc pháp. Bản chất của sự 'trống không' này cũng là một loại cảm thọ vi tế của tâm si. Giữ nguyên sự chú tâm ôn hòa, nhẹ nhàng lướt qua sau vài phút, theo thời gian năng lực quét sẽ phá vỡ lớp băng này.",
+    "title": "8. sensations 3"
+  },
+  {
+    "id": "Dhamma - 0114",
+    "english": "hazy",
+    "ipa": "/ˈheɪzi/",
+    "vietnamese": "mơ hồ",
+    "explain": "Cảm giác không rõ rệt, như bị che phủ bởi một lớp sương mù. Thường xuất hiện khi định tâm (Samadhi) bị suy giảm hoặc do hôn trầm, thùy miên (Sloth & Torpor) xen vào. Hành giả cần thở mạnh vài nhịp (intentional breath) để đánh thức tâm trí, mài sắc lại mũi dao chánh niệm.",
+    "title": "8. sensations 3"
+  },
+  {
+    "id": "Dhamma - 0115",
+    "english": "misty",
+    "ipa": "/ˈmɪsti/",
+    "vietnamese": "mờ mịt",
+    "explain": "Một biểu hiện của tâm trí đang bị bao phủ bởi tấm màn vô minh (Avijja). Thay vì thấy rõ các vi hạt sinh diệt, hành giả chỉ thấy một khối mờ mịt, thiếu sinh khí. Sự tinh tấn (Viriya) quét từ phần này sang phần khác một cách kỷ luật sẽ xua tan làn sương mờ mịt này.",
+    "title": "8. sensations 3"
+  },
+  {
+    "id": "Dhamma - 0116",
+    "english": "cloudy",
+    "ipa": "/ˈklaʊdi/",
+    "vietnamese": "u ám, đục",
+    "explain": "Trạng thái tâm và thân vẩn đục do sự dội lên của các ác nghiệp (Akusala Sankhara). Cảm giác này mang lại sự nặng nề, u uất. Không được dán nhãn đây là 'cảm giác tồi tệ', mà chỉ xem nó là sự bốc hơi của các độc tố tâm linh đang được đẩy ra ngoài qua bề mặt da.",
+    "title": "8. sensations 3"
+  },
+  {
+    "id": "Dhamma - 0117",
+    "english": "pleasant",
+    "ipa": "/ˈplɛzənt/",
+    "vietnamese": "dễ chịu",
+    "explain": "Lạc thọ (Sukha Vedana). Kẻ thù vi tế và nguy hiểm nhất của hành giả Vipassana. Khi tâm chưa thuần thục, nó sẽ lập tức ôm ấp và muốn giữ mãi cảm giác dễ chịu này, tạo ra dây xích Dính mắc (Upadana). Tuệ giác cần bén nhạy nhận ra ngay: Lạc thọ cũng là bản chất Khổ vì nó không tồn tại mãi.",
+    "title": "9. sensations 4"
+  },
+  {
+    "id": "Dhamma - 0118",
+    "english": "unpleasant",
+    "ipa": "/ənˈplɛzənt/",
+    "vietnamese": "khó chịu",
+    "explain": "Khổ thọ (Dukkha Vedana). Người thầy vĩ đại trên đường tu. Đau nhức, tê buốt là cơ hội vàng để mài giũa thanh gươm Bình Thản (Equanimity). Nếu hành giả có thể mỉm cười đối diện với một cơn đau xé thịt mà không sinh một tia bực dọc nào, nghiệp chướng sinh tử đang bị chặt đứt từng tảng lớn.",
+    "title": "9. sensations 4"
+  },
+  {
+    "id": "Dhamma - 0119",
+    "english": "gross",
+    "ipa": "/groʊs/",
+    "vietnamese": "thô thiển",
+    "explain": "Sự kết tảng của sắc pháp (Solidified matter). Cảm thọ thô là lớp vỏ bọc kiên cố của những thói quen phản ứng mù quáng đã hằn sâu. Việc chia nhỏ (dissecting) vùng cảm thọ thô bằng ánh sáng chánh niệm là cách giải phóng nguồn năng lượng bị nhốt chặt bên trong.",
+    "title": "9. sensations 4"
+  },
+  {
+    "id": "Dhamma - 0120",
+    "english": "subtle",
+    "ipa": "/ˈsətəl/",
+    "vietnamese": "vi tế",
+    "explain": "Cấu trúc hạt vi mô (Kalapas). Khi tâm đủ tịnh, cảm thọ thô tan rã nhường chỗ cho dòng chảy vi tế êm dịu. Nhưng nếu tâm sinh ngã mạn 'ta đã thiền giỏi' hay tham đắm sự vi tế này, nó sẽ lập tức đánh mất sự thanh tịnh, rơi lại vào các cảm thọ thô cứng.",
+    "title": "9. sensations 4"
+  },
+  {
+    "id": "Dhamma - 0121",
+    "english": "agreeable",
+    "ipa": "/əˈgriəbəl/",
+    "vietnamese": "vừa ý",
+    "explain": "Hệ quả của Tưởng uẩn (Sanna). 'Vừa ý' không phải là bản chất của cảm thọ, mà là bản án do tâm trí gán cho nó dựa trên kinh nghiệm quá khứ. Cắt đứt sự đánh giá 'vừa ý' hay 'không vừa ý' để trở về với trạng thái thuần túy 'đang là' là cốt tủy của thiền minh sát.",
+    "title": "9. sensations 4"
+  },
+  {
+    "id": "Dhamma - 0122",
+    "english": "disagreeable",
+    "ipa": "/ˌdɪsəˈgriəbəl/",
+    "vietnamese": "không vừa ý",
+    "explain": "Mũi tên độc thứ hai. Khi thân đau (mũi tên thứ nhất), tâm đánh giá đó là 'không vừa ý' và sinh ra bực bội, buồn bã (mũi tên thứ hai). Vipassana huấn luyện hành giả chỉ nhận mũi tên vật lý đầu tiên, và dùng tâm xả ly để ngăn chặn hoàn toàn mũi tên tâm lý thứ hai.",
+    "title": "9. sensations 4"
+  },
+  {
+    "id": "Dhamma - 0123",
+    "english": "trembling",
+    "ipa": "/ˈtrɛmbəlɪŋ/",
+    "vietnamese": "run cầm cập",
+    "explain": "Sự rung giật mạnh mẽ do năng lượng bị nén chặt (thường là sợ hãi hoặc uất ức) đang được bung ra. Hành giả có thể thấy toàn thân run lên không kiểm soát được. Không cần phải cố kìm nén, chỉ đóng vai người đứng ngoài quan sát cỗ máy sinh học này đang tự đào thải độc tố tâm linh.",
+    "title": "9. sensations 4"
+  },
+  {
+    "id": "Dhamma - 0124",
+    "english": "shivering",
+    "ipa": "/ˈʃɪvərɪŋ/",
+    "vietnamese": "rùng mình",
+    "explain": "Sự ớn lạnh lan tỏa hoặc luồng khí chạy dọc xương sống. Tương tự như 'trembling', đây là một loại cảm thọ, một đối tượng của thiền quán. Mọi sự rùng mình, dù chân thực đến đâu, cũng chỉ kéo dài trong vài sát-na rồi nhường chỗ cho hiện tượng khác.",
+    "title": "9. sensations 4"
+  },
+  {
+    "id": "Dhamma - 0125",
+    "english": "paralyzed",
+    "ipa": "/ˈpɛrəˌlaɪzd/",
+    "vietnamese": "tê liệt, đờ người",
+    "explain": "Ảo giác bất động. Đôi khi khối cảm thọ thô đặc tới mức cơ thể như bị đông cứng, tê liệt hoàn toàn, không thể di chuyển sự chú tâm. Hành giả không được bỏ cuộc, hãy lùi lại, đưa tâm về với diện tích nhỏ (như vùng tam giác mũi) để mài dũa lại định lực, rồi mới đục phá tiếp khối tê liệt.",
+    "title": "9. sensations 4"
+  },
+  {
+    "id": "Dhamma - 0126",
+    "english": "shaking",
+    "ipa": "/ˈʃeɪkɪŋ/",
+    "vietnamese": "rung lắc",
+    "explain": "Đặc tính di động (Vayo - Gió) vượt ngoài tầm kiểm soát của ý thức. Sự rung lắc của thân chứng minh hùng hồn một sự thật: 'Cái thân này không phải của ta, ta không thể ra lệnh cho nó ngừng rung'. Thấu hiểu điều này đập tan ngã chấp bám víu vào sắc uẩn.",
+    "title": "9. sensations 4"
+  },
+  {
+    "id": "Dhamma - 0127",
+    "english": "chill",
+    "ipa": "/ʧɪl/",
+    "vietnamese": "ớn lạnh",
+    "explain": "Một biến thể của cảm thọ Lạnh (Tejo suy yếu). Đôi khi cái lạnh toát ra từ tận trong tủy xương, mang theo sự trống rỗng và sợ hãi từ vô thức. Dùng ánh sáng chánh niệm bao trùm lấy cơn ớn lạnh, giữ chặt sự bình thản như một mỏ neo vững chắc.",
+    "title": "9. sensations 4"
+  },
+  {
+    "id": "Dhamma - 0128",
+    "english": "solidified intensified sensations",
+    "ipa": "/səˈlɪdəˌfaɪd ˌɪnˈtɛnsɪˌfaɪd sɛnˈseɪʃənz/",
+    "vietnamese": "những cảm giác mãnh liệt, kết chặt lại với nhau",
+    "explain": "Trạng thái 'cực hình' trong lúc ngồi thiền. Cơn đau không chỉ dữ dội mà còn đặc quánh như một tảng đá đè lên thân thể. Đây là cuộc chiến thực sự với ma vương (phiền não). Công cụ duy nhất để thắng là tuệ phân tích (dissecting) để thấy tảng đá kia chỉ là những bọt nước li ti.",
+    "title": "9. sensations 4"
+  },
+  {
+    "id": "Dhamma - 0129",
+    "english": "running nose",
+    "ipa": "/ˈrənɪŋ noʊz/",
+    "vietnamese": "sổ mũi",
+    "explain": "Sự mất cân bằng sinh lý. Nước mũi chảy làm vùng tam giác quanh mũi mất đi độ nhạy cảm hoặc tạo ra sự bức bách ngứa ngáy. Hành giả vẫn lấy chính cảm giác khó chịu, tắc nghẽn đó làm đối tượng quán niệm. Vô thường ứng nghiệm trên cả những chứng bệnh bình thường nhất.",
+    "title": "10. Diseases 1"
+  },
+  {
+    "id": "Dhamma - 0130",
+    "english": "sinusitis",
+    "ipa": "/ˌsaɪnəˈsaɪtɪs/",
+    "vietnamese": "bệnh viêm xoang",
+    "explain": "Khối đau nhức đặc thù vùng mặt. Bệnh tật trong thiền không phải là thứ để oán thán, mà là 'nguyên liệu' hoàn hảo để tu tập. Dùng sự chú tâm sắc bén quét qua vùng xoang bị viêm, quan sát cơn đau nhức, nhức buốt ấy sinh ra và tàn lụi trong từng sát-na.",
+    "title": "10. Diseases 1"
+  },
+  {
+    "id": "Dhamma - 0131",
+    "english": "cold",
+    "ipa": "/koʊld/",
+    "vietnamese": "bệnh cảm lạnh",
+    "explain": "Sự xáo trộn tứ đại trên thân. Bệnh cảm mang đến sự mỏi mệt, nặng nề (hôn trầm). Hành giả cần tăng cường sự tinh tấn (Viriya) để vượt qua lớp màn mệt mỏi của thể xác, giữ tâm trí tỉnh táo quan sát cảm thọ gai lạnh, nhức mỏi đang biến chuyển liên tục.",
+    "title": "10. Diseases 1"
+  },
+  {
+    "id": "Dhamma - 0132",
+    "english": "flu",
+    "ipa": "/flu/",
+    "vietnamese": "cảm cúm",
+    "explain": "Mức độ thô tháo của cảm giác mệt mỏi toàn thân. Khi bị cúm, các cảm thọ thường là đau nhức và nóng lạnh thất thường. Sự thực hành lúc này đòi hỏi sức chịu đựng phi thường, sử dụng chính cơn bạo bệnh làm phương tiện đẩy nhanh quá trình tiêu trừ ác nghiệp quá khứ.",
+    "title": "10. Diseases 1"
+  },
+  {
+    "id": "Dhamma - 0133",
+    "english": "allergy",
+    "ipa": "/ˈælərʤi/",
+    "vietnamese": "dị ứng",
+    "explain": "Phản ứng thái quá của cơ thể vật lý, cũng giống như sự phản ứng bằng tham sân của tâm trí. Sự ngứa ngáy, nổi mẩn của dị ứng mang lại khổ thọ. Thay vì gãi vật lý, hành giả 'gãi' bằng sự chánh niệm, rọi ánh sáng tỉnh giác vào tâm điểm cơn ngứa cho đến khi nó tự tan biến.",
+    "title": "10. Diseases 1"
+  },
+  {
+    "id": "Dhamma - 0134",
+    "english": "poor eyes sight",
+    "ipa": "/pur aɪz saɪt/",
+    "vietnamese": "thị lực kém",
+    "explain": "Sự hoại diệt của Nhãn căn (Cakkhu). Vipassana không yêu cầu nhãn quan vật lý tốt, vì hành giả nhắm mắt quay vào trong. Thị lực suy giảm là một minh chứng sống động của Vô thường, cái gì có sinh ra, cái đó phải suy yếu và hoại diệt, không có ngoại lệ.",
+    "title": "10. Diseases 1"
+  },
+  {
+    "id": "Dhamma - 0135",
+    "english": "hearing difficulty",
+    "ipa": "/ˈhirɪŋ ˈdɪfɪˌkəlti/",
+    "vietnamese": "lãng tai",
+    "explain": "Sự tàn lụi của Nhĩ căn (Sota). Dù thính lực kém đi, hành giả vẫn có thể dùng tâm để lắng nghe âm thanh vi tế của các hạt Kalapas đang va chạm nổ tung bên trong cơ thể. Thế giới bên ngoài mờ đi để thế giới nội tâm hiện rõ hơn.",
+    "title": "10. Diseases 1"
+  },
+  {
+    "id": "Dhamma - 0136",
+    "english": "hearing loss",
+    "ipa": "/ˈhirɪŋ lɔs/",
+    "vietnamese": "mất thính lực",
+    "explain": "Trạng thái cắt đứt một trong những cửa ngõ tiếp xúc trần cảnh (Phassa). Việc mất thính lực vật lý đôi khi lại giúp hành giả ít bị phóng tâm bởi âm thanh môi trường, từ đó gom tâm (Samadhi) dễ dàng hơn vào các cảm thọ trên thân sắc.",
+    "title": "10. Diseases 1"
+  },
+  {
+    "id": "Dhamma - 0137",
+    "english": "earache",
+    "ipa": "/ˈɪreɪk/",
+    "vietnamese": "đau tai",
+    "explain": "Cảm thọ nhức nhối tập trung tại vùng tai. Khi quét thân (body scanning) qua khu vực này, hành giả không được nhảy cóc qua cơn đau vì sợ hãi. Hãy đâm xuyên sự chú ý vào giữa điểm đau nhức, bóc tách nó ra khỏi ảo tưởng về một cái ngã đang chịu đựng.",
+    "title": "10. Diseases 1"
+  },
+  {
+    "id": "Dhamma - 0138",
+    "english": "sudden deafness",
+    "ipa": "/ˈsədən ˈdɛfnəs/",
+    "vietnamese": "điếc đột ngột",
+    "explain": "Sự biến hoại bất ngờ của vật chất. Một cú sốc lớn đối với tâm trí chưa được rèn luyện, dẫn đến hoảng loạn và sầu bi. Nhưng với con mắt thiền tuệ, sự 'đột ngột' này phản ánh bản chất mong manh vô lường của mạng sống và các giác quan, thúc đẩy sự xả ly sâu sắc hơn.",
+    "title": "10. Diseases 1"
+  },
+  {
+    "id": "Dhamma - 0139",
+    "english": "neurasthenia",
+    "ipa": "/ˌnʊræsˈθiniə/",
+    "vietnamese": "chứng suy nhược thần kinh",
+    "explain": "Hậu quả của một nội tâm liên tục phản ứng (Sankhara) tạo ra sự hao tổn năng lượng khổng lồ. Thiền Vipassana là liều thuốc chữa lành tận gốc: khi tâm ngừng phản ứng, năng lượng được bảo toàn, các dây thần kinh được nghỉ ngơi tuyệt đối trong trạng thái chánh niệm xả ly.",
+    "title": "11. Diseases 2"
+  },
+  {
+    "id": "Dhamma - 0140",
+    "english": "restless",
+    "ipa": "/ˈrɛstləs/",
+    "vietnamese": "bồn chồn, bất an",
+    "explain": "Trạo cử (Uddhacca) - một trong Năm triền cái (Nivarana) ngăn lấp tâm trí. Tâm bồn chồn nhảy nhót liên tục, muốn bỏ thiền, muốn đổi tư thế. Cách giải quyết là lùi lại một bước, chỉ quan sát hơi thở ở cửa mũi (Anapana) cho đến khi sự bồn chồn này tự cạn kiệt năng lượng và biến mất.",
+    "title": "11. Diseases 2"
+  },
+  {
+    "id": "Dhamma - 0141",
+    "english": "insomnia",
+    "ipa": "/ˌɪnˈsɑmniə/",
+    "vietnamese": "chứng mất ngủ",
+    "explain": "Tâm trí hoạt động quá mức do các lo âu (Sankhara) bám rễ sâu. Thay vì trăn trở trên giường và sinh tâm bực dọc (Sân), hành giả nằm ngửa buông lỏng, thực hành quét thân từ đầu đến chân. Ngay cả khi không ngủ được, cơ thể và tâm trí vẫn được phục hồi nhờ năng lượng tĩnh lặng của chánh niệm.",
+    "title": "11. Diseases 2"
+  },
+  {
+    "id": "Dhamma - 0142",
+    "english": "myocardial infarction",
+    "ipa": "/ˌmaɪəˈkɑrdiəl ˌɪnˈfɑrkʃən/",
+    "vietnamese": "chứng nhồi máu cơ tim",
+    "explain": "Một trải nghiệm cận tử cận kề. Cơn đau thắt ngực cực độ đi kèm với sự nghẹt thở. Sự tu tập Vipassana chuẩn bị cho hành giả đối diện với những khoảnh khắc cuối cùng này bằng một nội tâm không sợ hãi, giữ nguyên chánh niệm quán thọ cho đến sát-na hoại diệt của sắc thân.",
+    "title": "11. Diseases 2"
+  },
+  {
+    "id": "Dhamma - 0143",
+    "english": "stroke",
+    "ipa": "/stroʊk/",
+    "vietnamese": "đột quỵ",
+    "explain": "Sự ngắt kết nối đột ngột giữa tâm và một phần của cơ thể vật lý. Máu huyết tắc nghẽn, cảm giác bị phong tỏa. Trí tuệ Vipassana dạy rằng: 'Thân này dẫu có tê liệt, nhưng tâm không tê liệt'. Hành giả vẫn duy trì ánh sáng tỉnh giác quán chiếu sự phân rã này mà không tuyệt vọng.",
+    "title": "11. Diseases 2"
+  },
+  {
+    "id": "Dhamma - 0144",
+    "english": "anemia",
+    "ipa": "/əˈnimiə/",
+    "vietnamese": "bệnh thiếu máu",
+    "explain": "Nguồn sinh khí (Jivita) suy giảm, dẫn đến thân thể hư nhược, dễ rơi vào trạng thái Hôn trầm (Thina). Khi quét thân gặp cảm giác yếu ớt, mệt mỏi, hành giả không được buông thả theo nó, mà phải duy trì sự tinh tấn (Viriya) để ghi nhận từng luồng cảm thọ mờ nhạt nhất.",
+    "title": "11. Diseases 2"
+  },
+  {
+    "id": "Dhamma - 0145",
+    "english": "poor blood circulation",
+    "ipa": "/pur bləd ˈsərkjəˌleɪʃən/",
+    "vietnamese": "tuần hoàn máu kém",
+    "explain": "Nguyên nhân vật lý gây ra các điểm mù (Blind spots) hoặc sự tê cứng (Numbness) thường gặp trong hành thiền. Khi luồng huyết mạch tắc nghẽn, thay vì cố gắng cựa quậy để lưu thông máu, hành giả dùng lực chú ý gom tụ tại điểm tắc nghẽn đó, năng lượng chánh niệm sẽ tự đục thông các kinh mạch.",
+    "title": "11. Diseases 2"
+  },
+  {
+    "id": "Dhamma - 0146",
+    "english": "hypertension",
+    "ipa": "/ˌhaɪpərˈtɛnʃən/",
+    "vietnamese": "chứng cao huyết áp",
+    "explain": "Sự gia tăng áp lực nội tại, thường do tâm trí chất chứa quá nhiều căng thẳng, tức giận (Sân hận) không được giải tỏa. Khi thực hành Vipassana, sự buông bỏ mọi đánh giá và giữ tâm xả ly hoàn toàn sẽ tự động làm giảm áp lực, đưa hệ tuần hoàn về trạng thái cân bằng nhịp nhàng.",
+    "title": "11. Diseases 2"
+  },
+  {
+    "id": "Dhamma - 0147",
+    "english": "hypotension",
+    "ipa": "/ˌhaɪpoʊˈtɛnʃən/",
+    "vietnamese": "chứng hạ huyết áp, huyết áp thấp",
+    "explain": "Tình trạng thiếu hụt năng lượng vật lý, kéo theo sự mờ mịt của ý thức (Hazy/Misty). Hành giả dễ bị chìm vào giấc ngủ sâu khi ngồi thiền. Cần phải kích hoạt mạnh mẽ Yếu tố Tinh tấn (Viriya) bằng cách hít thở sâu, chú tâm sắc bén và di chuyển chánh niệm nhanh hơn một chút để giữ tâm tỉnh táo.",
+    "title": "11. Diseases 2"
+  },
+  {
+    "id": "Dhamma - 0148",
+    "english": "pneumonia",
+    "ipa": "/nəˈmoʊnjə/",
+    "vietnamese": "viêm phổi",
+    "explain": "Khối uế trược tập trung tại vùng ngực và hệ hô hấp. Gây cản trở nghiêm trọng đến việc quan sát hơi thở (Anapana). Trong trường hợp bệnh nặng, hành giả chuyển sự chú ý khỏi luồng hơi mà chỉ quán trực tiếp lên cơn đau tức ở ngực, xem nó như một hiện tượng vật lý đang bốc cháy rồi sẽ tàn.",
+    "title": "12. Diseases 3"
+  },
+  {
+    "id": "Dhamma - 0149",
+    "english": "bronchitis",
+    "ipa": "/brɑŋˈkaɪtəs/",
+    "vietnamese": "viêm phế quản",
+    "explain": "Đường thở bị thắt hẹp, tạo ra những luồng hơi gượng ép và nông (forced and shallow breath). Đừng cố gắng thay đổi hay điều hòa hơi thở (không regulate), hãy để cơ thể ho rũ rượi nếu nó cần, và chỉ dùng tâm xả ghi nhận: 'hơi thở đang thô, cổ họng đang ngứa, lồng ngực đang co thắt'.",
+    "title": "12. Diseases 3"
+  },
+  {
+    "id": "Dhamma - 0150",
+    "english": "asthma",
+    "ipa": "/ˈæzmə/",
+    "vietnamese": "bệnh hen suyễn",
+    "explain": "Cơn khủng hoảng ngạt thở cực độ. Tâm lý hoảng loạn và sợ hãi cái chết sẽ lập tức ập tới. Đây là bài thi tột cùng của sự buông xả. Cắt đứt sự đồng hóa 'tôi đang ngạt thở', chỉ còn lại sự nhận biết thuần túy: 'Đây là sự co thắt, đây là sự thiếu khí, và nó cũng là Vô thường'.",
+    "title": "12. Diseases 3"
+  },
+  {
+    "id": "Dhamma - 0151",
+    "english": "gastric ulcer",
+    "ipa": "/ˈgæstrɪk ˈəlsər/",
+    "vietnamese": "loét dạ dày",
+    "explain": "Vết thương vật lý thường sinh ra từ những ức chế, lo âu và sân hận tích tụ quanh vùng tỳ vị. Trong lúc quét thân, khu vực bụng sẽ phát ra những cảm thọ nhức buốt, cồn cào. Nhìn xuyên qua vết loét ấy bằng tình thương và sự xả ly để thanh tẩy các độc tố tâm linh đang nương tựa tại đây.",
+    "title": "12. Diseases 3"
+  },
+  {
+    "id": "Dhamma - 0152",
+    "english": "stomach acid",
+    "ipa": "/ˈstəmək ˈæsəd/",
+    "vietnamese": "axít dạ dày",
+    "explain": "Sự hiện diện mãnh liệt của yếu tố Lửa (Tejo Dhatu - Nhiệt năng). Sự nóng rát dội lên thực quản là một đối tượng thiền quán rõ rệt. Quan sát sự nóng rát (heat) này mà không sinh tâm bực bội, không dán nhãn là 'bệnh tật', chỉ thấy nó là một khối nhiệt đang lan tỏa rồi yếu dần.",
+    "title": "12. Diseases 3"
+  },
+  {
+    "id": "Dhamma - 0153",
+    "english": "duodenal ulcer",
+    "ipa": "/ˈduəˈdinəl ˈəlsər/",
+    "vietnamese": "loét tá tràng",
+    "explain": "Tương tự như loét dạ dày, nhưng vị trí đau nằm sâu hơn. Khi định lực chưa đủ sắc bén, hành giả chỉ thấy một khối đau mơ hồ bên trong khoang bụng. Khi định tuệ phát triển, cái nhìn nội quán sẽ đâm xuyên (penetrating) lớp da thịt bề ngoài để chạm thẳng vào lõi của sự đau nhức bên trong.",
+    "title": "12. Diseases 3"
+  },
+  {
+    "id": "Dhamma - 0154",
+    "english": "stomach ache",
+    "ipa": "/ˈstəmək eɪk/",
+    "vietnamese": "đau bao tử",
+    "explain": "Khổ thọ (Dukkha) hiển lộ quanh vùng bụng. Vùng rốn và bụng là trung tâm của rất nhiều mạng lưới thần kinh lưu trữ các phản ứng cảm xúc thô thiển. Quán sát cơn đau bao tử bằng tâm thăng bằng là đang phẫu thuật nhổ bỏ gốc rễ của những ác nghiệp đã ngưng tụ từ lâu.",
+    "title": "12. Diseases 3"
+  },
+  {
+    "id": "Dhamma - 0155",
+    "english": "indigestion",
+    "ipa": "/ˌɪndaɪˈʤɛsʧən/",
+    "vietnamese": "chứng khó tiêu",
+    "explain": "Sự ách tắc của Gió (Vayo) và Nước (Apo) trong hệ tiêu hóa. Gây ra cảm giác đầy hơi, đè ép (pressured). Hãy quán sát cảm giác bức bách này như một luồng năng lượng đang cố gắng tìm đường thoát. Sự bình thản của nội tâm sẽ giúp các cơ trơn nội tạng giãn ra, hỗ trợ sự tiêu hóa tự nhiên.",
+    "title": "12. Diseases 3"
+  },
+  {
+    "id": "Dhamma - 0156",
+    "english": "abdominal pain",
+    "ipa": "/əbˈdɑmənəl peɪn/",
+    "vietnamese": "đau bụng",
+    "explain": "Cảm giác đau quặn hoặc âm ỉ tại vùng bụng dưới. Hành giả không chạy trốn cơn đau bằng cách nghĩ sang chuyện khác, cũng không cố tập trung để ép nó biến mất. Chỉ tĩnh lặng quan sát trung tâm điểm đau, chia chẻ nó ra thành vô số nhịp đập rung động vi tế liên tục hoại diệt.",
+    "title": "12. Diseases 3"
+  },
+  {
+    "id": "Dhamma - 0157",
+    "english": "hepatitis-A",
+    "ipa": "/ˌhɛpəˈtaɪtəs ə/",
+    "vietnamese": "viêm gan A",
+    "explain": "Tổn thương tại cơ quan thanh lọc của thể xác (Liver). Khi tạng can bị bệnh, cơ thể bức bối, mệt mỏi toàn diện. Hành giả lấy cơ thể ốm yếu này làm đạo tràng, dùng tâm trí chánh niệm thanh lọc tâm hồn (Purification of the mind), thay vì để tâm hồn cũng bị nhiễm bệnh theo thể xác.",
+    "title": "12. Diseases 3"
+  },
+  {
+    "id": "Dhamma - 0158",
+    "english": "fracture",
+    "ipa": "/ˈfrækʧər/",
+    "vietnamese": "sự gãy, chỗ gãy",
+    "explain": "Cơn đau vật lý tột độ do cấu trúc Đất (Pathavi - sự rắn chắc của xương) bị phá vỡ. Trong lịch sử thiền tập, nhiều vị thiền sư đã lấy chính cơn đau gãy xương làm đề mục thiền quán, giữ tâm bất động xả ly hoàn toàn khỏi sắc thân đang hoại diệt, qua đó đắc được quả vị giải thoát.",
+    "title": "13. Diseases 4"
+  },
+  {
+    "id": "Dhamma - 0159",
+    "english": "heart disease",
+    "ipa": "/hɑrt dɪˈziz/",
+    "vietnamese": "bệnh tim",
+    "explain": "Sự bất an tại luân xa tim, nơi trung tâm của lồng ngực. Cảm giác đè nặng, nhói buốt (throbbing). Tâm trí hoảng loạn sẽ làm nhịp tim càng hỗn loạn. Phương pháp duy nhất là buông bỏ sự bám víu vào sinh mạng, quán chiếu trái tim này cũng chỉ là một cỗ máy sinh học đang tuân theo luật vô thường.",
+    "title": "13. Diseases 4"
+  },
+  {
+    "id": "Dhamma - 0160",
+    "english": "cataract",
+    "ipa": "/ˈkætərækt/",
+    "vietnamese": "cườm, bệnh đục thủy tinh thể",
+    "explain": "Sự lão hóa (Jara) của sắc uẩn. Tấm màn mờ đục che phủ nhãn quan vật lý (Cakkhu). Tuy nhiên, con mắt trí tuệ (Panna Cakkhu) không phụ thuộc vào thủy tinh thể vật lý này. Khi cửa sổ nhìn ra thế giới bên ngoài đóng lại, cánh cửa nhìn vào thế giới nội tâm (World within) lại càng mở rộng thênh thang.",
+    "title": "13. Diseases 4"
+  },
+  {
+    "id": "Dhamma - 0161",
+    "english": "hay fever",
+    "ipa": "/heɪ ˈfivər/",
+    "vietnamese": "viêm mũi dị ứng",
+    "explain": "Chứng ngứa ngáy, hắt xì liên tục do dị ứng thời tiết. Đây là chướng ngại lớn lao trong quá trình tập Anapana do vùng cửa mũi (entrance of the nostril) liên tục bị xáo động. Hành giả cần nhẫn nại ghi nhận từng luồng hắt hơi bùng phát rồi biến mất, không phàn nàn oán trách hoàn cảnh.",
+    "title": "13. Diseases 4"
+  },
+  {
+    "id": "Dhamma - 0162",
+    "english": "kidney failure",
+    "ipa": "/ˈkɪdni ˈfeɪljər/",
+    "vietnamese": "suy thận",
+    "explain": "Sự suy kiệt của nguồn tinh khí. Thân thể trở nên nặng nề, phù thũng (chứa nhiều yếu tố Nước - Apo). Sự hành thiền lúc này giống như kéo một cỗ xe rệu rã. Nhưng chính sự rệu rã ấy là bài thuyết pháp sống động nhất về sự Khổ (Dukkha) của vòng luân hồi sinh tử.",
+    "title": "13. Diseases 4"
+  },
+  {
+    "id": "Dhamma - 0163",
+    "english": "skin allergy",
+    "ipa": "/skɪn ˈælərʤi/",
+    "vietnamese": "dị ứng da",
+    "explain": "Bề mặt da (Surface of the body) nổi mẩn, châm chích (prickling) hoặc ngứa dữ dội (itching). Đây là cơ hội để quét thân (body scanning) một cách vi tế. Thay vì gãi, hãy quan sát vùng dị ứng lan tỏa như những ngọn lửa nhỏ nhen nhóm rồi lụi tàn dưới sự quan sát của tuệ giác vô ngã.",
+    "title": "13. Diseases 4"
+  },
+  {
+    "id": "Dhamma - 0164",
+    "english": "epilepsy",
+    "ipa": "/ˈɛpɪˌlɛpsi/",
+    "vietnamese": "chứng động kinh",
+    "explain": "Sự phóng điện mất kiểm soát của não bộ. Bản ngã hoàn toàn đánh mất quyền điều khiển cơ thể vật lý. Mặc dù khi cơn động kinh xảy ra không thể ngồi thiền, nhưng sau đó hành giả quán chiếu sâu sắc về tính Vô ngã (Anatta): 'Nếu thân này là của ta, sao ta không thể ngăn nó co giật?'.",
+    "title": "13. Diseases 4"
+  },
+  {
+    "id": "Dhamma - 0165",
+    "english": "convulsion",
+    "ipa": "/kənˈvəlʃən/",
+    "vietnamese": "chứng co giật",
+    "explain": "Hiện tượng co thắt cơ bắp bạo liệt. Trong thiền chuyên sâu, đôi khi nghiệp lực sân hận bùng nổ cũng tạo ra sự co giật tương tự dù không có bệnh lý thực thể. Tuyệt đối giữ tâm xả ly, không hoảng sợ, không đàn áp cơn giật, để năng lượng trược này giải phóng hoàn toàn ra khỏi hệ thống.",
+    "title": "13. Diseases 4"
+  },
+  {
+    "id": "Dhamma - 0166",
+    "english": "top of the head",
+    "ipa": "/tɔp əv ðə hɛd/",
+    "vietnamese": "đỉnh đầu",
+    "explain": "Điểm khởi đầu cho mọi chu trình quét thân (Body Scanning) từ trên xuống. Đây là nơi hội tụ thần kinh mẫn cảm, thường rất dễ cảm nhận sự ngứa râm ran, mạch đập (pulsing) hoặc sức ép nhẹ. Hành giả đặt chánh niệm tại đây chừng 1 phút rồi bắt đầu từ từ di chuyển sự chú ý xuống dưới.",
+    "title": "14. Organs 1"
+  },
+  {
+    "id": "Dhamma - 0167",
+    "english": "crown",
+    "ipa": "/kraʊn/",
+    "vietnamese": "đỉnh đầu",
+    "explain": "Tương tự như Top of the head. Vùng cao nhất của cơ thể sắc pháp. Khi dòng chảy vi tế (Free flow) được thiết lập, hành giả cảm nhận một luồng năng lượng êm dịu xuyên thấu từ đỉnh đầu (crown) tuôn chảy một mạch xuống tận gót chân, hòa tan mọi khối tắc nghẽn vô minh.",
+    "title": "14. Organs 1"
+  },
+  {
+    "id": "Dhamma - 0168",
+    "english": "skull",
+    "ipa": "/skəl/",
+    "vietnamese": "sọ",
+    "explain": "Cấu trúc Đất (Pathavi) cứng chắc bậc nhất bảo vệ não bộ. Dưới góc nhìn phân định vô minh, sọ là vật thể đặc cứng vô tri. Nhưng dưới lăng kính thiền tuệ sâu sắc, hộp sọ cũng chỉ là một khối gồm hàng tỷ vi hạt (Kalapas) mang không gian trống rỗng, đang rung động mãnh liệt và liên tục hoại diệt.",
+    "title": "14. Organs 1"
+  },
+  {
+    "id": "Dhamma - 0169",
+    "english": "scalp",
+    "ipa": "/skælp/",
+    "vietnamese": "da đầu",
+    "explain": "Lớp da bao phủ hộp sọ. Nơi này cực kỳ nhạy cảm và thường là nơi hành giả dễ dàng cảm nhận được những rung động vi tế (fine vibrations) hoặc cảm giác kiến bò (ant crawling) đầu tiên khi định lực bắt đầu hội tụ. Quét chánh niệm qua toàn bộ da đầu đảm bảo không bỏ sót một tấc da nào.",
+    "title": "14. Organs 1"
+  },
+  {
+    "id": "Dhamma - 0170",
+    "english": "forehead",
+    "ipa": "/ˈfɔrhɛd/",
+    "vietnamese": "trán",
+    "explain": "Khu vực thường xuyên phản ánh sự căng thẳng, lo âu của ý thức (Conscious mind). Khi cố gắng tập trung quá mức (strain), vùng trán thường nhăn lại và căng cứng. Việc thư giãn thả lỏng vầng trán trước khi quét qua là bước thiết yếu để thiết lập một tâm thái bình thản, không gượng ép.",
+    "title": "14. Organs 1"
+  },
+  {
+    "id": "Dhamma - 0171",
+    "english": "temple",
+    "ipa": "/ˈtɛmpəl/",
+    "vietnamese": "thái dương",
+    "explain": "Khu vực hai bên trán, nơi thường có cảm giác mạch đập (pulsing/throbbing) rất rõ rệt khi tâm trí hoạt động mạnh hoặc căng thẳng. Ghi nhận sự co bóp liên hồi tại thái dương là cách tuyệt vời để quán sát yếu tố Gió (sự chuyển động) và tính sinh diệt liên tục của sắc thân.",
+    "title": "14. Organs 1"
+  },
+  {
+    "id": "Dhamma - 0172",
+    "english": "eyebrows",
+    "ipa": "/ˈaɪˌbraʊz/",
+    "vietnamese": "lông mày",
+    "explain": "Khu vực hẹp chứa đựng những phản xạ vi tế của tâm lý (nhíu mày khi khó chịu, sân hận). Khi di chuyển sự chú tâm qua đôi lông mày, hành giả giải phóng mọi sự cau có vô thức, trải rộng sự xả ly (Equanimity) mềm mại lên khu vực này.",
+    "title": "14. Organs 1"
+  },
+  {
+    "id": "Dhamma - 0173",
+    "english": "eyelashes",
+    "ipa": "/ˈaɪˌlæʃɪz/",
+    "vietnamese": "lông mi",
+    "explain": "Khu vực đòi hỏi định lực (Samadhi) cực kỳ sắc bén để có thể cảm nhận được cảm thọ. Sự chú ý phải thu hẹp và tĩnh lặng như mũi kim mới nhận biết được sự xúc chạm tinh tế của không khí hoặc sự rung động tĩnh điện tại chân lông mi.",
+    "title": "14. Organs 1"
+  },
+  {
+    "id": "Dhamma - 0174",
+    "english": "eyelid",
+    "ipa": "/ˈaɪˌlɪd/",
+    "vietnamese": "mí mắt",
+    "explain": "Lớp da mỏng bảo vệ nhãn cầu. Khi tâm bị trạo cử (restless) hoặc do các ác nghiệp dội lên, mí mắt thường có hiện tượng co giật nhẹ. Không bận tâm đến sự co giật đó, không mở mắt ra, chỉ thuần túy quan sát sự rung giật ấy như một hiện tượng khách quan.",
+    "title": "14. Organs 1"
+  },
+  {
+    "id": "Dhamma - 0175",
+    "english": "eye ball",
+    "ipa": "/aɪ bɔl/",
+    "vietnamese": "cầu mắt, nhãn cầu",
+    "explain": "Dù đã nhắm mắt, thói quen của vô thức vẫn khiến nhãn cầu đảo liên tục để tìm kiếm hình ảnh (ảo ảnh của tâm). Giữ nhãn cầu bất động, chìm sâu vào hốc mắt là bí quyết để đưa tâm vào trạng thái tĩnh lặng sâu sắc. Quán sát sức ép và sức nóng bên trong nhãn cầu.",
+    "title": "14. Organs 1"
+  },
+  {
+    "id": "Dhamma - 0176",
+    "english": "nose bridge",
+    "ipa": "/noʊz brɪʤ/",
+    "vietnamese": "sống mũi",
+    "explain": "Vùng da kéo dài dọc theo mũi. Đây là lộ trình chú ý khi hành giả quét thân từ trán đi xuống vùng mặt. Cảm nhận sự căng cứng của xương sụn dưới da, hoặc bất kỳ sự nhột nhạt, tê râm ran nào nảy sinh tại đây rồi lập tức phân rã.",
+    "title": "15. Organs 2"
+  },
+  {
+    "id": "Dhamma - 0177",
+    "english": "passages of the nostrils",
+    "ipa": "/ˈpæsɪʤɪz əv ðə ˈnɑstrəlz/",
+    "vietnamese": "ống mũi",
+    "explain": "Không gian trống bên trong mũi (Akasa Dhatu). Nơi luồng hơi thở (Gió) đi vào cọ xát với thành mũi (Đất) tạo ra nhiệt độ nóng mát (Lửa) và độ ẩm (Nước). Chỉ quán sát toàn bộ tiến trình này mà không thêm thắt bất kỳ khái niệm triết lý nào.",
+    "title": "15. Organs 2"
+  },
+  {
+    "id": "Dhamma - 0178",
+    "english": "nostrils",
+    "ipa": "/ˈnɑstrəlz/",
+    "vietnamese": "lỗ mũi",
+    "explain": "Cửa ngõ thiêng liêng của thiền Anapana. Chú tâm tại vùng nhỏ hẹp này giúp buộc chặt tâm phóng dật vào trụ cột của hơi thở. Diện tích quan sát càng thu hẹp, tâm càng trở nên sắc bén và hội tụ mạnh mẽ, chuẩn bị năng lượng cho việc quét toàn thân.",
+    "title": "15. Organs 2"
+  },
+  {
+    "id": "Dhamma - 0179",
+    "english": "oral cavity",
+    "ipa": "/ˈɔrəl ˈkævəti/",
+    "vietnamese": "khoang miệng",
+    "explain": "Khoảng không bên trong miệng. Khi hành thiền, cần giữ lưỡi chạm nhẹ vào vòm họng và răng khép hờ để giảm tiết nước bọt và khóa kín khẩu nghiệp. Việc nuốt nước bọt liên tục sẽ làm đứt quãng chánh niệm. Cảm thọ khô hay ướt tại đây là đối tượng quán sát.",
+    "title": "15. Organs 2"
+  },
+  {
+    "id": "Dhamma - 0180",
+    "english": "tooth",
+    "ipa": "/tuθ/",
+    "vietnamese": "răng",
+    "explain": "Bộ phận biểu trưng cho sự rắn đặc (Pathavi). Đôi khi do quá cố gắng (strain), hành giả vô thức nghiến chặt răng tạo ra cảm giác ê buốt và đè ép. Hãy thư giãn quai hàm, dùng tâm xuyên thấu lớp men cứng nhắc để nhận ra bản chất rung động sinh diệt bên trong những chiếc răng này.",
+    "title": "15. Organs 2"
+  },
+  {
+    "id": "Dhamma - 0181",
+    "english": "tongue",
+    "ipa": "/təŋ/",
+    "vietnamese": "lưỡi",
+    "explain": "Thiệt căn (Jivha). Một trong sáu cửa ngõ tiếp xúc với trần cảnh. Trong thiền định, hành giả giữ lưỡi bất động, chạm nhẹ vòm họng để khóa bớt dòng chảy của khẩu nghiệp. Quán sát sự xúc chạm và cảm thọ (vị giác hoặc nhiệt độ) nảy sinh trên bề mặt lưỡi để thấy tính vô thường của xúc và thọ.",
+    "title": "15. Organs 2"
+  },
+  {
+    "id": "Dhamma - 0182",
+    "english": "cheek",
+    "ipa": "/ʧik/",
+    "vietnamese": "má",
+    "explain": "Vùng cơ mặt thường phản chiếu trạng thái cảm xúc. Khi tâm có sân hận, vùng má thường nóng lên hoặc căng cứng. Khi quét qua má, hành giả giải phóng mọi sự co thắt vô thức, để sự bình thản (Equanimity) làm dịu đi các tế bào, cảm nhận sự rung động li ti của các hạt Kalapa.",
+    "title": "15. Organs 2"
+  },
+  {
+    "id": "Dhamma - 0183",
+    "english": "cheek bone",
+    "ipa": "/ʧik boʊn/",
+    "vietnamese": "xương má",
+    "explain": "Biểu hiện của Địa đại (Pathavi). Cảm giác rắn chắc bên dưới lớp da má. Hành giả dùng tâm định xuyên thấu qua lớp xương cứng để nhận ra rằng ngay cả xương cốt cũng không phải là một khối đặc vĩnh cửu, mà là một tập hợp năng lượng đang dao động ở tần số chậm.",
+    "title": "15. Organs 2"
+  },
+  {
+    "id": "Dhamma - 0184",
+    "english": "chin",
+    "ipa": "/ʧɪn/",
+    "vietnamese": "cằm",
+    "explain": "Điểm cuối của khuôn mặt trước khi chuyển sự chú ý xuống cổ họng. Vùng cằm thường tích tụ sự căng thẳng khi hành giả cố gắng tập trung (strain). Thả lỏng quai hàm và cằm giúp tâm trí trở nên cởi mở và dễ dàng đón nhận các cảm thọ vi tế hơn.",
+    "title": "15. Organs 2"
+  },
+  {
+    "id": "Dhamma - 0185",
+    "english": "throat",
+    "ipa": "/θroʊt/",
+    "vietnamese": "cổ họng",
+    "explain": "Trung tâm biểu đạt và là luân xa quan trọng. Những cảm giác nghẹn ngào, khó thở hoặc co thắt tại cổ họng thường liên quan đến các Sankhara (hành) về lời nói hoặc cảm xúc dồn nén. Quán sát sự co thắt này khách quan sẽ giúp khai thông các bế tắc năng lượng lâu đời.",
+    "title": "15. Organs 2"
+  },
+  {
+    "id": "Dhamma - 0186",
+    "english": "chest",
+    "ipa": "/ʧɛst/",
+    "vietnamese": "ngực",
+    "explain": "Nơi cư ngụ của Tâm căn theo quan niệm truyền thống. Vùng ngực thường phản ứng mãnh liệt với các trạng thái hỷ lạc (mở rộng) hoặc sợ hãi (thắt chặt). Hành giả quán sát sự phồng xẹp của lồng ngực và các cảm thọ sâu bên trong để thấu hiểu sự tương tác giữa Danh (tâm) và Sắc (thân).",
+    "title": "16. Organs 3"
+  },
+  {
+    "id": "Dhamma - 0187",
+    "english": "abdomen",
+    "ipa": "/ˈæbdəmən/",
+    "vietnamese": "bụng",
+    "explain": "Vùng chứa đựng nhiều cơ quan nội tạng và là kho lưu trữ các phản ứng bản năng. Cảm thọ tại bụng thường thô và mạnh. Việc quan sát sự chuyển động của bụng giúp hành giả mỏ neo tâm trí vào hiện tại, đặc biệt khi các suy nghĩ phóng dật trồi lên quá mạnh.",
+    "title": "16. Organs 3"
+  },
+  {
+    "id": "Dhamma - 0188",
+    "english": "elbow",
+    "ipa": "/ˈɛlˌboʊ/",
+    "vietnamese": "cùi chỏ",
+    "explain": "Khớp nối quan trọng của tay. Tại đây thường xuất hiện các cảm thọ nhức mỏi hoặc áp lực do tư thế ngồi. Hành giả ghi nhận cảm giác tại khớp cùi chỏ như một hiện tượng vật lý thuần túy, không dán nhãn 'đau của tôi', từ đó phá vỡ sự đồng hóa với thân xác.",
+    "title": "16. Organs 3"
+  },
+  {
+    "id": "Dhamma - 0189",
+    "english": "wrist",
+    "ipa": "/rɪst/",
+    "vietnamese": "cổ tay",
+    "explain": "Vùng chuyển tiếp nhạy cảm. Cổ tay thường biểu hiện các cảm thọ về nhiệt độ (nóng/mát) hoặc mạch đập (pulsing). Quét tâm qua cổ tay một cách tỉ mỉ giúp duy trì dòng chảy chánh niệm không đứt đoạn khi di chuyển xuống bàn tay.",
+    "title": "16. Organs 3"
+  },
+  {
+    "id": "Dhamma - 0190",
+    "english": "finger",
+    "ipa": "/ˈfɪŋgər/",
+    "vietnamese": "ngón tay",
+    "explain": "Công cụ tiếp xúc và hành động. Từng ngón tay chứa đựng hàng triệu thụ thể cảm giác. Việc cảm nhận cảm thọ trên từng ngón tay một cách riêng biệt là bài tập tuyệt vời để rèn luyện sự tinh vi và nhạy bén (sharpness) của tâm định.",
+    "title": "16. Organs 3"
+  },
+  {
+    "id": "Dhamma - 0191",
+    "english": "thumb",
+    "ipa": "/θəm/",
+    "vietnamese": "ngón cái",
+    "explain": "Ngón tay chủ đạo. Khi thực hành, nếu cảm nhận được sự rung động hoặc sức nóng tại ngón cái, hành giả chỉ ghi nhận và tiếp tục di chuyển, không dừng lại để phân tích hay tận hưởng cảm thọ dễ chịu.",
+    "title": "16. Organs 3"
+  },
+  {
+    "id": "Dhamma - 0192",
+    "english": "fingertip",
+    "ipa": "/ˈfɪŋgərˌtɪp/",
+    "vietnamese": "đầu ngón tay",
+    "explain": "Nơi cảm thọ thường biểu hiện rõ rệt nhất dưới dạng râm ran (tingling) hoặc luồng điện li ti. Đây là 'điểm cuối' của lộ trình quét tay, nơi hành giả có thể chứng nghiệm sự tan rã của vật chất thành các rung động năng lượng thuần túy.",
+    "title": "16. Organs 3"
+  },
+  {
+    "id": "Dhamma - 0193",
+    "english": "nail",
+    "ipa": "/neɪl/",
+    "vietnamese": "móng tay, móng chân",
+    "explain": "Phần dẫn xuất của da và xương, biểu hiện của Địa đại. Dù móng không có dây thần kinh cảm giác bên trong, nhưng hành giả vẫn có thể cảm nhận cảm thọ tại vùng chân móng. Điều này nhắc nhở rằng không có phần nào trên cơ thể nằm ngoài quy luật của cảm thọ và vô thường.",
+    "title": "16. Organs 3"
+  },
+  {
+    "id": "Dhamma - 0194",
+    "english": "abdoment",
+    "ipa": "/ˈæbdəmən/",
+    "vietnamese": "bụng",
+    "explain": "Khu vực trọng yếu để quan sát các cảm thọ về sự căng, chướng hoặc trống rỗng. Việc duy trì sự tỉnh giác tại vùng bụng giúp hành giả nhận diện các phản ứng ngầm của tâm trước những biến chuyển sinh lý.",
+    "title": "16. Organs 3"
+  },
+  {
+    "id": "Dhamma - 0195",
+    "english": "belly",
+    "ipa": "/ˈbɛli/",
+    "vietnamese": "bụng",
+    "explain": "Cách gọi dân dã của vùng bụng. Trong thiền tập, 'belly' thường là nơi dễ cảm nhận sự phồng xẹp của hơi thở nhất. Đây là điểm tựa cho những người mới bắt đầu để thu gom tâm trí đang phóng dật.",
+    "title": "17. Organs 4"
+  },
+  {
+    "id": "Dhamma - 0196",
+    "english": "front portion",
+    "ipa": "/frənt ˈpɔrʃən/",
+    "vietnamese": "phần trước, thân trước",
+    "explain": "Bao gồm mặt, ngực và bụng. Thân trước thường nhạy cảm và dễ tiếp nhận cảm thọ hơn thân sau. Hành giả tận dụng sự nhạy cảm này để thiết lập dòng chảy vi tế trước khi quét ra những vùng khó cảm nhận hơn ở phía sau lưng.",
+    "title": "17. Organs 4"
+  },
+  {
+    "id": "Dhamma - 0197",
+    "english": "trunk",
+    "ipa": "/trəŋk/",
+    "vietnamese": "mình, thân",
+    "explain": "Phần thân chính không bao gồm đầu và tứ chi. Đây là 'trụ sở' của hầu hết các cơ quan nội tạng. Quét qua toàn bộ phần thân (trunk) giúp hành giả có cái nhìn tổng thể về sự hợp nhất và tương tác của các đại (Đất, Nước, Lửa, Gió) trong cơ thể.",
+    "title": "17. Organs 4"
+  },
+  {
+    "id": "Dhamma - 0198",
+    "english": "neck",
+    "ipa": "/nɛk/",
+    "vietnamese": "cổ",
+    "explain": "Cầu nối giữa đầu và thân. Cổ là nơi tập trung nhiều dây thần kinh và mạch máu lớn. Cảm thọ cứng cổ hoặc đau mỏi tại đây thường do tâm si (Delusion) hoặc sự căng thẳng tích tụ. Sự bình thản quán chiếu vùng cổ sẽ giúp giải phóng dòng năng lượng lên não bộ.",
+    "title": "17. Organs 4"
+  },
+  {
+    "id": "Dhamma - 0199",
+    "english": "waist",
+    "ipa": "/weɪst/",
+    "vietnamese": "eo, chỗ thắt lưng",
+    "explain": "Vùng eo là nơi phân chia giữa thân trên và thân dưới. Khi quét chánh niệm qua eo, hành giả cảm nhận sự thắt lại hoặc giãn ra của các cơ, học cách chấp nhận mọi trạng thái của cơ thể mà không nảy sinh tâm ghét bỏ (Aversion).",
+    "title": "17. Organs 4"
+  },
+  {
+    "id": "Dhamma - 0200",
+    "english": "lumbar",
+    "ipa": "/ˈləmˌbɑr/",
+    "vietnamese": "thắt lưng, ngang lưng",
+    "explain": "Khu vực thường chịu áp lực lớn nhất khi ngồi thiền kiết già hoặc bán già. Những cơn đau lưng (backache) tại vùng lumbar là bài kiểm tra khắc nghiệt nhất cho tâm xả. Nhìn xuyên qua cơn đau để thấy nó chỉ là những luồng rung động cực mạnh.",
+    "title": "17. Organs 4"
+  },
+  {
+    "id": "Dhamma - 0201",
+    "english": "thigh",
+    "ipa": "/θaɪ/",
+    "vietnamese": "đùi, bắp đùi",
+    "explain": "Phần cơ bắp lớn của chân. Tại đây hành giả thường gặp các cảm thọ thô đặc (solidified). Việc kiên nhẫn quét qua bắp đùi giúp tâm rèn luyện khả năng quan sát các khối cảm thọ lớn mà không bị choáng ngợp hay hoảng sợ.",
+    "title": "17. Organs 4"
+  },
+  {
+    "id": "Dhamma - 0202",
+    "english": "thigh bone",
+    "ipa": "/θaɪ boʊn/",
+    "vietnamese": "xương đùi",
+    "explain": "Xương dài nhất và chắc nhất. Quán chiếu xương đùi giúp hành giả thấu đạt rằng ngay cả phần cứng chắc nhất của 'tôi' cũng đang không ngừng thay đổi cấu trúc ở cấp độ nguyên tử, không có gì là hằng cửu (Anicca).",
+    "title": "17. Organs 4"
+  },
+  {
+    "id": "Dhamma - 0203",
+    "english": "knee",
+    "ipa": "/ni/",
+    "vietnamese": "đầu gối",
+    "explain": "Điểm 'nóng' của sự đau nhức trong các giờ thiền quyết định (Adhitthana). Cảm giác như xương bị gãy hoặc kim châm tại đầu gối là cơ hội vàng để nhổ rễ tâm sân hận. Giữ tâm bất động trước cơn đau đầu gối là chiến thắng vĩ đại của nội tâm.",
+    "title": "17. Organs 4"
+  },
+  {
+    "id": "Dhamma - 0204",
+    "english": "leg",
+    "ipa": "/lɛg/",
+    "vietnamese": "cẳng chân",
+    "explain": "Phần chân từ đầu gối xuống cổ chân. Hành giả quét qua cẳng chân để cảm nhận lớp da, cơ và xương, duy trì sự nhận biết về sự tồn tại khách quan của sắc uẩn (Rupa Khandha) mà không dính mắc.",
+    "title": "17. Organs 4"
+  },
+  {
+    "id": "Dhamma - 0205",
+    "english": "heel",
+    "ipa": "/hil/",
+    "vietnamese": "gót chân",
+    "explain": "Nơi tiếp xúc mạnh với thảm ngồi hoặc sàn nhà. Cảm thọ đè ép (pressure) tại gót chân rất rõ rệt. Hành giả dùng cảm thọ này để thực chứng yếu tố Đất (sự rắn chắc) và yếu tố Gió (sự chuyển động của máu huyết bên dưới vùng bị ép).",
+    "title": "18. Organs 5"
+  },
+  {
+    "id": "Dhamma - 0206",
+    "english": "toe",
+    "ipa": "/toʊ/",
+    "vietnamese": "ngón chân",
+    "explain": "Các điểm tận cùng của thân dưới. Việc cảm nhận cảm thọ trên từng ngón chân giúp hoàn tất một chu kỳ quét thân trọn vẹn, đảm bảo sự tỉnh giác đã bao trùm từ đỉnh đầu (crown) xuống tận kẽ chân.",
+    "title": "18. Organs 5"
+  },
+  {
+    "id": "Dhamma - 0207",
+    "english": "heart",
+    "ipa": "/hɑrt/",
+    "vietnamese": "tim",
+    "explain": "Động cơ của sự sống vật lý. Trong thiền quán, nhịp tim không chỉ là hiện tượng sinh học mà còn là biểu hiện của sự sinh diệt liên tục. Cảm nhận nhịp đập của trái tim giúp hành giả hòa nhịp với vũ trụ của sự vô thường.",
+    "title": "18. Organs 5"
+  },
+  {
+    "id": "Dhamma - 0208",
+    "english": "lung",
+    "ipa": "/ləŋ/",
+    "vietnamese": "phổi",
+    "explain": "Cơ quan thực hiện sự hô hấp (Anapana). Phổi là nơi trao đổi khí, tượng trưng cho sự tiếp nhận và buông bỏ. Quan sát cảm thọ tại phổi giúp hành giả thấu hiểu sâu sắc hơn về sự nương tựa lẫn nhau của tứ đại.",
+    "title": "18. Organs 5"
+  },
+  {
+    "id": "Dhamma - 0209",
+    "english": "liver",
+    "ipa": "/ˈlɪvər/",
+    "vietnamese": "gan",
+    "explain": "Cơ quan tịnh hóa của cơ thể. Trong tâm lý học Phật giáo, gan thường liên quan đến cảm xúc giận dữ. Quán chiếu vùng gan với lòng từ bi và tâm xả giúp tịnh hóa những mầm mống sân hận tiềm ẩn trong máu huyết.",
+    "title": "18. Organs 5"
+  },
+  {
+    "id": "Dhamma - 0210",
+    "english": "blood",
+    "ipa": "/bləd/",
+    "vietnamese": "máu",
+    "explain": "Yếu tố Nước (Apo Dhatu) mang theo dưỡng chất và nhiệt năng. Sự lưu thông của máu tạo ra các cảm thọ như nóng, ngứa hoặc râm ran toàn thân. Máu là dòng chảy sự sống, minh chứng cho một thực tại luôn biến dịch.",
+    "title": "18. Organs 5"
+  },
+  {
+    "id": "Dhamma - 0211",
+    "english": "cell",
+    "ipa": "/sɛl/",
+    "vietnamese": "tế bào",
+    "explain": "Đơn vị cơ bản của sự sống. Vipassana ở cấp độ cao giúp hành giả cảm nhận được sự sinh và diệt của từng tế bào như những ánh chớp li ti. Đây là đỉnh cao của tuệ giác về Vô thường (Anicca).",
+    "title": "18. Organs 5"
+  },
+  {
+    "id": "Dhamma - 0212",
+    "english": "stomach",
+    "ipa": "/ˈstəmək/",
+    "vietnamese": "bụng, bao tử",
+    "explain": "Nơi tiêu hóa thực phẩm và cũng là nơi 'tiêu hóa' các cảm xúc. Cảm giác cồn cào hay no đủ tại dạ dày là những đối tượng quán niệm thực tế, giúp hành giả không bị đánh lừa bởi những ảo tưởng về sự thỏa mãn.",
+    "title": "18. Organs 5"
+  },
+  {
+    "id": "Dhamma - 0213",
+    "english": "navel",
+    "ipa": "/ˈneɪvəl/",
+    "vietnamese": "rốn",
+    "explain": "Trung tâm năng lượng và là dấu tích của sự kết nối nguồn sống đầu tiên. Vùng rốn thường có những rung động sâu và tinh tế, giúp hành giả ổn định định lực khi tâm bị xao động mạnh.",
+    "title": "18. Organs 5"
+  },
+  {
+    "id": "Dhamma - 0214",
+    "english": "belly button",
+    "ipa": "/ˈbɛli ˈbətən/",
+    "vietnamese": "lỗ rốn",
+    "explain": "Điểm tập trung chánh niệm tại vùng bụng. Việc nhận biết các cảm thọ li ti quanh lỗ rốn giúp hành giả thâm nhập vào các tầng sâu của thân uẩn, nơi các tập khí (Sankhara) bám rễ.",
+    "title": "18. Organs 5"
+  },
+  {
+    "id": "Dhamma - 0215",
+    "english": "kidney",
+    "ipa": "/ˈkɪdni/",
+    "vietnamese": "thận",
+    "explain": "Cơ quan lọc máu và cân bằng nước. Trong thiền định, thận liên quan đến sức chịu đựng và năng lượng căn bản. Quét tâm qua vùng thận để ghi nhận mọi sự mỏi mệt hay căng thẳng và giải phóng chúng bằng tâm xả.",
+    "title": "19. Organs 6"
+  },
+  {
+    "id": "Dhamma - 0216",
+    "english": "gall",
+    "ipa": "/gɔl/",
+    "vietnamese": "mật, túi mật",
+    "explain": "Dịch mật giúp tiêu hóa chất béo. Về mặt biểu tượng, 'mật' thường gợi đến sự đắng cay hoặc quyết đoán. Hành giả ghi nhận các cảm thọ tại vùng túi mật mà không khởi sinh bất kỳ tư tưởng phân biệt hay dán nhãn nào.",
+    "title": "19. Organs 6"
+  },
+  {
+    "id": "Dhamma - 0217",
+    "english": "appendix",
+    "ipa": "/əˈpɛndɪks/",
+    "vietnamese": "ruột thừa",
+    "explain": "Một phần nhỏ của hệ tiêu hóa. Ngay cả một cơ quan được coi là 'thừa' cũng là một phần của cấu trúc danh sắc này. Quán sát cảm thọ tại đây giúp hành giả bao trùm chánh niệm lên mọi ngóc ngách, không loại trừ bất kỳ phần nào trên thân.",
+    "title": "19. Organs 6"
+  },
+  {
+    "id": "Dhamma - 0218",
+    "english": "anus",
+    "ipa": "/ˈeɪnəs/",
+    "vietnamese": "hậu môn",
+    "explain": "Cửa ngõ bài tiết uế trược. Trong thiền quán, không có vùng nào là 'bất tịnh' hay 'thanh tịnh', chỉ có các cảm thọ sinh diệt. Việc giữ tâm bình thản khi quét qua vùng này giúp phá bỏ những định kiến và sự ghê tởm do Tưởng uẩn tạo ra.",
+    "title": "19. Organs 6"
+  },
+  {
+    "id": "Dhamma - 0219",
+    "english": "uterus/womb",
+    "ipa": "/ˈjutərəs/ ⁄ /wum/",
+    "vietnamese": "dạ con, tử cung",
+    "explain": "Nơi khởi nguồn của sự tái sinh vật lý. Một vùng chứa đựng sức mạnh sáng tạo và cũng là nơi lưu trữ nhiều nghiệp quả liên quan đến chủng tộc và gia đình. Quán chiếu với tâm xả ly giúp giải thoát hành giả khỏi những ràng buộc sâu thẳm của bản năng truyền giống.",
+    "title": "19. Organs 6"
+  },
+  {
+    "id": "Dhamma - 0220",
+    "english": "marrow",
+    "ipa": "/ˈmɛroʊ/",
+    "vietnamese": "tủy",
+    "explain": "Phần sâu thẳm bên trong xương. Khi định lực đủ mạnh để đâm xuyên (piercing), hành giả có thể cảm nhận được sự rung động bên trong tủy xương. Đây là trải nghiệm về sự thanh lọc ở mức độ sâu nhất của sắc pháp.",
+    "title": "19. Organs 6"
+  },
+  {
+    "id": "Dhamma - 0221",
+    "english": "intestine",
+    "ipa": "/ˌɪnˈtɛˌstaɪn/",
+    "vietnamese": "ruột",
+    "explain": "Hệ thống ống dẫn dài và phức tạp. Cảm thọ co bóp (peristalsis) của ruột là minh chứng cho sự vận hành tự động của cơ thể (Anatta - Vô ngã). Không có ai điều khiển ruột cả, nó chỉ vận hành theo duyên sinh.",
+    "title": "19. Organs 6"
+  },
+  {
+    "id": "Dhamma - 0222",
+    "english": "skeleton",
+    "ipa": "/ˈskɛlətən/",
+    "vietnamese": "bộ xương",
+    "explain": "Khung đỡ của toàn bộ sắc thân. Quán chiếu bộ xương (Asubha bhavana - Quán tử thi/xương trắng) giúp hành giả ly tham, bớt bám víu vào vẻ đẹp giả tạm bên ngoài và nhận ra sự mỏng manh của kiếp người.",
+    "title": "19. Organs 6"
+  },
+  {
+    "id": "Dhamma - 0223",
+    "english": "pelvis",
+    "ipa": "/ˈpɛlvəs/",
+    "vietnamese": "khung xương chậu",
+    "explain": "Nền tảng vững chãi nâng đỡ toàn bộ cột sống khi ngồi thiền. Cảm giác đè ép và trọng lực tại khung chậu giúp hành giả cảm nhận sự kết nối với mặt đất, tạo ra sự vững vàng (Samadhi) trong tư thế tọa thiền.",
+    "title": "19. Organs 6"
+  },
+  {
+    "id": "Dhamma - 0224",
+    "english": "extremities (palms & soles)",
+    "ipa": "/ɛkˈstrɛmətiz (pɑmz & soʊlz)/",
+    "vietnamese": "lòng bàn tay & lòng bàn chân",
+    "explain": "Những vùng mẫn cảm nhất, nơi năng lượng dễ thoát ra hoặc thu nhận vào. Cảm giác 'rần rần' như điện chạy tại đây báo hiệu dòng chảy vi tế đang hoạt động tốt. Tuy nhiên, đừng vì thế mà sinh tâm tự mãn, hãy tiếp tục quan sát.",
+    "title": "20. Organs 7"
+  },
+  {
+    "id": "Dhamma - 0225",
+    "english": "spinal cord",
+    "ipa": "/ˈspaɪnəl kɔrd/",
+    "vietnamese": "tủy sống, khối dây thần kinh nằm trong xương sống",
+    "explain": "Trục truyền dẫn thông tin thần kinh. Mọi cảm thọ từ thân đều được truyền qua đây để lên tâm. Giữ cột sống thẳng giúp tủy sống không bị chèn ép, tạo điều kiện cho sự tỉnh giác được thông suốt từ trên xuống dưới.",
+    "title": "20. Organs 7"
+  },
+  {
+    "id": "Dhamma - 0226",
+    "english": "spinal column",
+    "ipa": "/ˈspaɪnəl ˈkɑləm/",
+    "vietnamese": "cột sống, xương sống",
+    "explain": "Cây cột của ngôi nhà thân xác. Khi quét dọc cột sống, hành giả cảm nhận từng đốt xương. Sự đau nhức tại cột sống thường do tư thế sai hoặc sự kháng cự của tâm. Thẳng lưng và buông xả là chìa khóa để vượt qua.",
+    "title": "20. Organs 7"
+  },
+  {
+    "id": "Dhamma - 0227",
+    "english": "navel cord, navel string",
+    "ipa": "/ˈneɪvəl kɔrd, ˈneɪvəl strɪŋ/",
+    "vietnamese": "dây rốn",
+    "explain": "Biểu tượng của sự duyên sinh. Chúng ta sinh ra nhờ sự kết nối và sẽ chết đi khi các duyên tan rã. Quán chiếu dây rốn giúp hành giả hướng tâm về lòng biết ơn cha mẹ và sự thấu hiểu sâu sắc về vòng luân hồi vô tận.",
+    "title": "20. Organs 7"
+  }
+]
