@@ -1,0 +1,471 @@
+# Hybrid rebuild review
+
+## Summary
+
+- Page labels: 147
+- Parsed text blocks: 5162
+- Layout rows after header/footer filter: 2994
+- Skipped running headers/footers: 272
+- Markdown table data rows: 1535
+- Output: `Những lời vàng ngọc.hybrid.md`
+
+## Existing Markdown comparison
+
+- Existing MD chars: 124496
+- Hybrid MD chars: 138270
+
+## Parser review items
+
+- Page 1, top 90.7: possible shifted translation line; right cell may continue previous row.
+- Page 1, top 112.7: possible shifted translation line; right cell may continue previous row.
+- Page 1, top 158.1: right-only table continuation.
+- Page 1, top 176.1: right-only table continuation.
+- Page 2, top 84.0: near column boundary: GIỚI THIỆU
+- Page 8, top 189.6: right-only table continuation.
+- Page 8, top 207.6: right-only table continuation.
+- Page 8, top 225.6: right-only table continuation.
+- Page 8, top 243.6: right-only table continuation.
+- Page 8, top 320.3: possible shifted translation line; right cell may continue previous row.
+- Page 8, top 356.3: possible shifted translation line; right cell may continue previous row.
+- Page 8, top 374.3: right-only table continuation.
+- Page 8, top 392.3: right-only table continuation.
+- Page 8, top 410.3: right-only table continuation.
+- Page 8, top 456.7: merged probable split source line into previous table row.
+- Page 8, top 474.7: possible shifted translation line; right cell may continue previous row.
+- Page 8, top 492.7: right-only table continuation.
+- Page 9, top 122.5: right-only table continuation.
+- Page 9, top 171.0: possible shifted translation line; right cell may continue previous row.
+- Page 9, top 189.0: possible shifted translation line; right cell may continue previous row.
+- Page 9, top 225.0: right-only table continuation.
+- Page 9, top 291.6: possible shifted translation line; right cell may continue previous row.
+- Page 9, top 327.6: merged probable split source line into previous table row.
+- Page 9, top 345.6: right-only table continuation.
+- Page 9, top 363.6: possible shifted translation line; right cell may continue previous row.
+- Page 9, top 381.6: right-only table continuation.
+- Page 9, top 428.0: possible shifted translation line; right cell may continue previous row.
+- Page 9, top 464.0: possible shifted translation line; right cell may continue previous row.
+- Page 10, top 104.5: possible shifted translation line; right cell may continue previous row.
+- Page 10, top 122.5: possible shifted translation line; right cell may continue previous row.
+- Page 10, top 158.5: right-only table continuation.
+- Page 10, top 207.0: possible shifted translation line; right cell may continue previous row.
+- Page 10, top 243.0: possible shifted translation line; right cell may continue previous row.
+- Page 10, top 279.0: right-only table continuation.
+- Page 10, top 297.0: right-only table continuation.
+- Page 10, top 315.0: right-only table continuation.
+- Page 10, top 333.0: right-only table continuation.
+- Page 10, top 351.0: right-only table continuation.
+- Page 10, top 415.4: possible shifted translation line; right cell may continue previous row.
+- Page 10, top 433.4: possible shifted translation line; right cell may continue previous row.
+- Page 10, top 487.4: right-only table continuation.
+- Page 11, top 104.5: possible shifted translation line; right cell may continue previous row.
+- Page 11, top 122.5: right-only table continuation.
+- Page 11, top 171.0: merged probable split source line into previous table row.
+- Page 11, top 189.0: possible shifted translation line; right cell may continue previous row.
+- Page 11, top 207.0: possible shifted translation line; right cell may continue previous row.
+- Page 11, top 225.0: right-only table continuation.
+- Page 11, top 261.0: possible shifted translation line; right cell may continue previous row.
+- Page 11, top 279.0: possible shifted translation line; right cell may continue previous row.
+- Page 11, top 297.0: right-only table continuation.
+- Page 11, top 315.0: right-only table continuation.
+- Page 11, top 359.8: merged probable split source line into previous table row.
+- Page 11, top 377.8: possible shifted translation line; right cell may continue previous row.
+- Page 11, top 395.8: possible shifted translation line; right cell may continue previous row.
+- Page 11, top 413.8: right-only table continuation.
+- Page 11, top 449.8: possible shifted translation line; right cell may continue previous row.
+- Page 11, top 467.8: possible shifted translation line; right cell may continue previous row.
+- Page 11, top 485.8: right-only table continuation.
+- Page 11, top 503.8: right-only table continuation.
+- Page 12, top 160.8: left-only table continuation.
+- Page 12, top 242.7: merged probable split source line into previous table row.
+- Page 12, top 278.7: merged probable split source line into previous table row.
+- Page 12, top 314.7: merged probable split source line into previous table row.
+- Page 12, top 332.7: left-only table continuation.
+- Page 12, top 368.7: merged probable split source line into previous table row.
+- Page 12, top 404.7: merged probable split source line into previous table row.
+- Page 12, top 422.7: merged probable split source line into previous table row.
+- Page 12, top 440.7: left-only table continuation.
+- Page 13, top 122.1: merged probable split source line into previous table row.
+- Page 13, top 158.1: merged probable split source line into previous table row.
+- Page 13, top 194.1: merged probable split source line into previous table row.
+- Page 13, top 230.1: left-only table continuation.
+- Page 13, top 266.1: merged probable split source line into previous table row.
+- Page 13, top 284.1: merged probable split source line into previous table row.
+- Page 13, top 320.1: merged probable split source line into previous table row.
+- Page 13, top 356.1: merged probable split source line into previous table row.
+- Page 13, top 374.1: merged probable split source line into previous table row.
+- Page 13, top 392.1: merged probable split source line into previous table row.
+- Page 13, top 410.1: merged probable split source line into previous table row.
+- Page 13, top 428.1: right-only table continuation.
+- Page 13, top 464.1: merged probable split source line into previous table row.
+- Page 13, top 482.1: left-only table continuation.
+- Page 14, top 122.1: merged probable split source line into previous table row.
+- Page 14, top 140.1: merged probable split source line into previous table row.
+- Page 14, top 158.1: right-only table continuation.
+- Page 14, top 194.1: merged probable split source line into previous table row.
+- Page 14, top 212.1: merged probable split source line into previous table row.
+- Page 14, top 230.1: right-only table continuation.
+- Page 14, top 294.0: merged probable split source line into previous table row.
+- Page 14, top 312.0: merged probable split source line into previous table row.
+- Page 14, top 330.0: right-only table continuation.
+- Page 15, top 166.8: right-only table continuation.
+- Page 15, top 220.8: right-only table continuation.
+- Page 15, top 238.8: right-only table continuation.
+- Page 15, top 301.5: right-only table continuation.
+- Page 15, top 355.5: right-only table continuation.
+- Page 15, top 373.5: right-only table continuation.
+- Page 15, top 399.9: left-only table continuation.
+- Page 15, top 472.2: right-only table continuation.
+- Page 16, top 417.9: possible shifted translation line; right cell may continue previous row.
+- Page 16, top 453.9: merged probable split source line into previous table row.
+- Page 16, top 472.2: right-only table continuation.
+- Page 17, top 122.5: possible shifted translation line; right cell may continue previous row.
+- Page 17, top 158.5: right-only table continuation.
+- Page 17, top 176.5: right-only table continuation.
+- Page 17, top 194.5: right-only table continuation.
+- Page 17, top 243.0: possible shifted translation line; right cell may continue previous row.
+- Page 17, top 279.0: possible shifted translation line; right cell may continue previous row.
+- Page 17, top 297.0: right-only table continuation.
+- Page 17, top 363.6: possible shifted translation line; right cell may continue previous row.
+- Page 17, top 381.6: possible shifted translation line; right cell may continue previous row.
+- Page 17, top 399.6: right-only table continuation.
+- Page 17, top 427.6: left-only table continuation.
+- Page 17, top 465.1: possible shifted translation line; right cell may continue previous row.
+- Page 17, top 519.1: right-only table continuation.
+- Page 18, top 122.5: possible shifted translation line; right cell may continue previous row.
+- Page 18, top 158.5: right-only table continuation.
+- Page 18, top 176.5: right-only table continuation.
+- Page 18, top 194.5: right-only table continuation.
+- Page 18, top 212.5: right-only table continuation.
+- Page 18, top 258.8: possible shifted translation line; right cell may continue previous row.
+- Page 18, top 276.8: possible shifted translation line; right cell may continue previous row.
+- Page 18, top 343.4: possible shifted translation line; right cell may continue previous row.
+- Page 18, top 361.4: possible shifted translation line; right cell may continue previous row.
+- Page 18, top 379.4: possible shifted translation line; right cell may continue previous row.
+- Page 18, top 461.7: merged probable split source line into previous table row.
+- Page 18, top 515.7: right-only table continuation.
+- Page 19, top 236.0: right-only table continuation.
+- Page 19, top 254.0: right-only table continuation.
+- Page 19, top 272.0: right-only table continuation.
+- Page 19, top 290.0: right-only table continuation.
+- Page 19, top 308.0: right-only table continuation.
+- Page 19, top 398.1: possible shifted translation line; right cell may continue previous row.
+- Page 19, top 416.1: right-only table continuation.
+- Page 19, top 434.1: right-only table continuation.
+- Page 20, top 140.5: right-only table continuation.
+- Page 20, top 158.5: right-only table continuation.
+- Page 20, top 240.8: right-only table continuation.
+- Page 20, top 307.4: possible shifted translation line; right cell may continue previous row.
+- Page 20, top 343.4: right-only table continuation.
+- Page 20, top 392.0: merged probable split source line into previous table row.
+- Page 20, top 446.0: right-only table continuation.
+- Page 20, top 464.0: right-only table continuation.
+- Page 20, top 482.0: right-only table continuation.
+- Page 21, top 104.5: merged probable split source line into previous table row.
+- Page 21, top 122.5: possible shifted translation line; right cell may continue previous row.
+- Page 21, top 140.5: left-only table continuation.
+- Page 21, top 186.8: merged probable split source line into previous table row.
+- Page 21, top 222.8: possible shifted translation line; right cell may continue previous row.
+- Page 21, top 258.8: right-only table continuation.
+- Page 21, top 325.4: possible shifted translation line; right cell may continue previous row.
+- Page 21, top 343.4: possible shifted translation line; right cell may continue previous row.
+- Page 21, top 410.0: possible shifted translation line; right cell may continue previous row.
+- Page 21, top 428.0: possible shifted translation line; right cell may continue previous row.
+- Page 21, top 492.3: possible shifted translation line; right cell may continue previous row.
+- Page 21, top 510.3: possible shifted translation line; right cell may continue previous row.
+- Page 22, top 122.5: possible shifted translation line; right cell may continue previous row.
+- Page 22, top 158.5: right-only table continuation.
+- Page 22, top 176.5: right-only table continuation.
+- Page 22, top 194.5: right-only table continuation.
+- Page 22, top 261.0: possible shifted translation line; right cell may continue previous row.
+- Page 22, top 297.0: right-only table continuation.
+- Page 22, top 315.0: right-only table continuation.
+- Page 22, top 333.0: right-only table continuation.
+- Page 22, top 397.4: possible shifted translation line; right cell may continue previous row.
+- Page 22, top 433.4: right-only table continuation.
+- Page 22, top 451.4: right-only table continuation.
+- Page 22, top 469.4: right-only table continuation.
+- Page 23, top 132.4: merged probable split source line into previous table row.
+- Page 23, top 150.4: possible shifted translation line; right cell may continue previous row.
+- Page 23, top 204.4: possible shifted translation line; right cell may continue previous row.
+- Page 23, top 240.4: merged probable split source line into previous table row.
+- Page 23, top 258.4: possible shifted translation line; right cell may continue previous row.
+- Page 23, top 294.4: right-only table continuation.
+- Page 23, top 312.4: right-only table continuation.
+- Page 23, top 330.4: right-only table continuation.
+- Page 23, top 412.7: possible shifted translation line; right cell may continue previous row.
+- Page 23, top 448.7: possible shifted translation line; right cell may continue previous row.
+- Page 23, top 466.7: possible shifted translation line; right cell may continue previous row.
+- Page 23, top 484.7: merged probable split source line into previous table row.
+- Page 23, top 502.7: right-only table continuation.
+- Page 24, top 122.5: right-only table continuation.
+- Page 24, top 185.2: right-only table continuation.
+- Page 24, top 247.9: right-only table continuation.
+- Page 24, top 310.6: right-only table continuation.
+- Page 24, top 355.4: merged probable split source line into previous table row.
+- Page 24, top 409.4: merged probable split source line into previous table row.
+- Page 24, top 427.4: possible shifted translation line; right cell may continue previous row.
+- Page 24, top 445.4: possible shifted translation line; right cell may continue previous row.
+- Page 24, top 463.4: possible shifted translation line; right cell may continue previous row.
+- Page 24, top 481.4: merged probable split source line into previous table row.
+- Page 25, top 268.0: merged probable split source line into previous table row.
+- Page 25, top 304.0: merged probable split source line into previous table row.
+- Page 25, top 322.0: right-only table continuation.
+- Page 25, top 340.0: possible shifted translation line; right cell may continue previous row.
+- Page 25, top 358.0: merged probable split source line into previous table row.
+- Page 25, top 376.0: right-only table continuation.
+- Page 25, top 412.0: merged probable split source line into previous table row.
+- Page 25, top 430.0: right-only table continuation.
+- Page 25, top 466.0: merged probable split source line into previous table row.
+- Page 25, top 484.0: right-only table continuation.
+- Page 26, top 183.6: possible shifted translation line; right cell may continue previous row.
+- Page 26, top 201.6: right-only table continuation.
+- Page 26, top 219.6: right-only table continuation.
+- Page 26, top 286.1: possible shifted translation line; right cell may continue previous row.
+- Page 26, top 322.1: right-only table continuation.
+- Page 26, top 340.1: right-only table continuation.
+- Page 26, top 404.5: possible shifted translation line; right cell may continue previous row.
+- Page 26, top 458.5: right-only table continuation.
+- Page 26, top 476.5: right-only table continuation.
+- Page 26, top 494.5: right-only table continuation.
+- Page 27, top 158.5: right-only table continuation.
+- Page 27, top 204.8: right-only table continuation.
+- Page 27, top 251.1: possible shifted translation line; right cell may continue previous row.
+- Page 27, top 269.1: possible shifted translation line; right cell may continue previous row.
+- Page 27, top 305.1: possible shifted translation line; right cell may continue previous row.
+- Page 27, top 323.1: possible shifted translation line; right cell may continue previous row.
+- Page 27, top 387.5: left-only table continuation.
+- Page 27, top 423.5: merged probable split source line into previous table row.
+- Page 27, top 441.5: possible shifted translation line; right cell may continue previous row.
+- Page 27, top 459.5: right-only table continuation.
+- Page 27, top 477.5: right-only table continuation.
+- Page 27, top 513.5: right-only table continuation.
+- Page 28, top 104.5: possible shifted translation line; right cell may continue previous row.
+- Page 28, top 122.5: possible shifted translation line; right cell may continue previous row.
+- Page 28, top 158.5: possible shifted translation line; right cell may continue previous row.
+- Page 28, top 176.5: possible shifted translation line; right cell may continue previous row.
+- Page 28, top 212.5: right-only table continuation.
+- Page 28, top 230.5: possible shifted translation line; right cell may continue previous row.
+- Page 28, top 248.5: right-only table continuation.
+- Page 28, top 266.5: possible shifted translation line; right cell may continue previous row.
+- Page 28, top 284.5: right-only table continuation.
+- Page 28, top 312.4: left-only table continuation.
+- Page 28, top 340.0: left-only table continuation.
+- Page 28, top 358.0: left-only table continuation.
+- Page 28, top 376.0: left-only table continuation.
+- Page 28, top 420.2: merged probable split source line into previous table row.
+- Page 28, top 438.2: right-only table continuation.
+- Page 28, top 470.6: right-only table continuation.
+- Page 29, top 106.4: possible shifted translation line; right cell may continue previous row.
+- Page 29, top 142.4: merged probable split source line into previous table row.
+- Page 29, top 178.4: right-only table continuation.
+- Page 29, top 362.3: merged probable split source line into previous table row.
+- Page 29, top 398.3: merged probable split source line into previous table row.
+- Page 29, top 434.3: right-only table continuation.
+- Page 29, top 524.3: right-only table continuation.
+- Page 30, top 116.3: near column boundary: Con thành kính cúi đầu
+- Page 30, top 134.3: near column boundary: Đảnh lễdưới chân Ngài
+- Page 30, top 134.3: merged probable split source line into previous table row.
+- Page 30, top 152.3: near column boundary: Đấng đạo sư tôn quý, ...
+- Page 30, top 152.3: right-only table continuation.
+- Page 30, top 170.3: near column boundary: ... Đây là cách duy nhất,
+- Page 30, top 188.3: right-only table continuation.
+- Page 30, top 212.9: near column boundary: Nhờcông đức của sựphục vụnày
+- Page 30, top 230.9: near column boundary: Nguyện tất cả chúng sinh
+- Page 30, top 248.9: near column boundary: Được an vui hạnh phúc!
+- Page 30, top 266.9: near column boundary: Nguyện Dhamma khởi sinh
+- Page 30, top 266.9: merged probable split source line into previous table row.
+- Page 30, top 284.9: near column boundary: Trong tâm của mọi người,
+- Page 30, top 302.9: near column boundary: Nguyện cho họthoát khổ!
+- Page 30, top 302.9: possible shifted translation line; right cell may continue previous row.
+- Page 30, top 320.9: near column boundary: Nguyện cho tất cảđược hạnh phúc!
+- Page 30, top 320.9: right-only table continuation.
+- Page 30, top 349.2: near column boundary: Nguyện tất cả chúng sinh được hạnh
+- Page 30, top 367.2: near column boundary: phúc. (3 lần)
+- Page 30, top 367.2: merged probable split source line into previous table row.
+- Page 30, top 385.2: near column boundary: Nguyện tất cảđược hạnh phúc, ...
+- Page 30, top 403.2: near column boundary: Nguyện quý vị được hạnh phúc, ...
+- Page 30, top 431.6: near column boundary: Hữu hình hay vô hình,
+- Page 30, top 449.6: near column boundary: Nguyện tất cả chúng sinh
+- Page 30, top 449.6: possible shifted translation line; right cell may continue previous row.
+- Page 30, top 467.6: near column boundary: Được an vui hạnh phúc. (2 lần)
+- Page 30, top 467.6: merged probable split source line into previous table row.
+- Page 30, top 485.6: near column boundary: Nguyện tất cảthoát khỏi
+- Page 30, top 503.6: near column boundary: Sợhãi và oán thù, (2 lần)
+- Page 30, top 503.6: merged probable split source line into previous table row.
+- Page 31, top 104.5: merged probable split source line into previous table row.
+- Page 31, top 122.5: possible shifted translation line; right cell may continue previous row.
+- Page 31, top 140.5: right-only table continuation.
+- Page 31, top 230.5: right-only table continuation.
+- Page 31, top 258.4: left-only table continuation.
+- Page 31, top 303.1: merged probable split source line into previous table row.
+- Page 31, top 357.1: merged probable split source line into previous table row.
+- Page 31, top 421.5: merged probable split source line into previous table row.
+- Page 31, top 457.5: right-only table continuation.
+- Page 31, top 503.8: merged probable split source line into previous table row.
+- Page 32, top 122.5: possible shifted translation line; right cell may continue previous row.
+- Page 32, top 140.5: right-only table continuation.
+- Page 32, top 330.8: merged probable split source line into previous table row.
+- Page 32, top 348.8: left-only table continuation.
+- Page 32, top 368.4: left-only table continuation.
+- Page 32, top 449.1: right-only table continuation.
+- Page 33, top 130.8: merged probable split source line into previous table row.
+- Page 33, top 238.8: merged probable split source line into previous table row.
+- Page 33, top 274.8: right-only table continuation.
+- Page 33, top 375.1: possible shifted translation line; right cell may continue previous row.
+- Page 33, top 393.1: right-only table continuation.
+- Page 33, top 411.1: right-only table continuation.
+- Page 34, top 104.5: merged probable split source line into previous table row.
+- Page 34, top 122.5: possible shifted translation line; right cell may continue previous row.
+- Page 34, top 140.5: merged probable split source line into previous table row.
+- Page 34, top 158.5: possible shifted translation line; right cell may continue previous row.
+- Page 34, top 176.5: possible shifted translation line; right cell may continue previous row.
+- Page 34, top 212.5: merged probable split source line into previous table row.
+- Page 34, top 248.5: merged probable split source line into previous table row.
+- Page 34, top 266.5: right-only table continuation.
+- Page 34, top 351.0: right-only table continuation.
+- Page 34, top 379.0: left-only table continuation.
+- Page 34, top 415.0: merged probable split source line into previous table row.
+- Page 34, top 469.0: merged probable split source line into previous table row.
+- Page 34, top 487.0: possible shifted translation line; right cell may continue previous row.
+- Page 34, top 505.4: right-only table continuation.
+- Page 35, top 104.5: merged probable split source line into previous table row.
+- Page 35, top 140.5: right-only table continuation.
+- Page 35, top 194.5: possible shifted translation line; right cell may continue previous row.
+- Page 35, top 248.5: merged probable split source line into previous table row.
+- Page 35, top 284.5: right-only table continuation.
+- Page 35, top 302.5: right-only table continuation.
+- Page 35, top 355.2: merged probable split source line into previous table row.
+- Page 35, top 445.2: merged probable split source line into previous table row.
+- Page 35, top 481.2: left-only table continuation.
+- Page 36, top 86.5: near column boundary: Nguyện cho người hành thiền
+- Page 36, top 104.5: near column boundary: Trên đất Dhamma này, (2 lần)
+- Page 36, top 104.5: merged probable split source line into previous table row.
+- Page 36, top 122.5: near column boundary: Thoát khỏi mọi khổ đau, (2 lần)
+- Page 36, top 140.5: left-only table continuation.
+- Page 36, top 176.5: near column boundary: Nguyện tất cảđược hạnh phúc, ...
+- Page 36, top 194.5: near column boundary: Nguyện quý vị được hạnh phúc, ...
+- Page 36, top 212.5: near column boundary: Nguyện tất cả chúng sinh được
+- Page 36, top 230.5: near column boundary: hạnh phúc, ...
+- Page 36, top 230.5: right-only table continuation.
+- Page 36, top 256.8: left-only table continuation.
+- Page 36, top 292.8: near column boundary: Con thành kính cúi đầu,
+- Page 36, top 310.8: near column boundary: Đảnh lễdưới chân Ngài
+- Page 36, top 310.8: merged probable split source line into previous table row.
+- Page 36, top 328.8: near column boundary: Đấng đạo sư tôn quý.
+- Page 36, top 346.8: near column boundary: Ngài ban tặng cho con
+- Page 36, top 364.8: near column boundary: Viên ngọc quý Dhamma
+- Page 36, top 364.8: merged probable split source line into previous table row.
+- Page 36, top 382.8: near column boundary: Xua đi mọi điều ác.
+- Page 36, top 418.8: near column boundary: Ngài cho con được nếm
+- Page 36, top 436.8: near column boundary: Mật ngọt của Dhamma...
+- Page 36, top 436.8: merged probable split source line into previous table row.
+- Page 36, top 454.8: near column boundary: …Đây là cách duy nhất,
+- Page 36, top 473.2: right-only table continuation.
+- Page 37, top 104.5: possible shifted translation line; right cell may continue previous row.
+- Page 37, top 140.5: merged probable split source line into previous table row.
+- Page 37, top 176.5: right-only table continuation.
+- Page 37, top 194.5: right-only table continuation.
+- Page 37, top 239.2: merged probable split source line into previous table row.
+- Page 37, top 257.2: possible shifted translation line; right cell may continue previous row.
+- Page 37, top 293.2: merged probable split source line into previous table row.
+- Page 37, top 311.2: possible shifted translation line; right cell may continue previous row.
+- Page 37, top 329.2: right-only table continuation.
+- Page 37, top 454.6: merged probable split source line into previous table row.
+- Page 37, top 472.6: merged probable split source line into previous table row.
+- Page 37, top 508.6: merged probable split source line into previous table row.
+- Page 38, top 104.5: merged probable split source line into previous table row.
+- Page 38, top 319.5: merged probable split source line into previous table row.
+- Page 38, top 373.5: merged probable split source line into previous table row.
+- Page 38, top 436.6: merged probable split source line into previous table row.
+- Page 38, top 472.6: right-only table continuation.
+- Page 39, top 104.5: possible shifted translation line; right cell may continue previous row.
+- Page 39, top 140.5: possible shifted translation line; right cell may continue previous row.
+- Page 39, top 158.5: right-only table continuation.
+- Page 39, top 176.5: right-only table continuation.
+- Page 39, top 194.5: right-only table continuation.
+- Page 39, top 239.2: merged probable split source line into previous table row.
+- Page 39, top 329.2: merged probable split source line into previous table row.
+- Page 39, top 347.2: possible shifted translation line; right cell may continue previous row.
+- Page 39, top 383.2: merged probable split source line into previous table row.
+- Page 39, top 401.2: possible shifted translation line; right cell may continue previous row.
+- Page 40, top 104.5: merged probable split source line into previous table row.
+- Page 40, top 122.5: merged probable split source line into previous table row.
+- Page 40, top 167.2: merged probable split source line into previous table row.
+- Page 40, top 376.2: merged probable split source line into previous table row.
+- Page 40, top 394.2: possible shifted translation line; right cell may continue previous row.
+- Page 40, top 430.2: merged probable split source line into previous table row.
+- Page 40, top 448.2: possible shifted translation line; right cell may continue previous row.
+- Page 40, top 466.2: right-only table continuation.
+- Page 41, top 86.5: near column boundary: Ngài cho con được nếm
+- Page 41, top 104.5: near column boundary: Mật ngọt của Dhamma, ...
+- Page 41, top 104.5: merged probable split source line into previous table row.
+- Page 41, top 122.5: near column boundary: …Đây là cách duy nhất
+- Page 41, top 140.5: right-only table continuation.
+- Page 41, top 167.2: near column boundary: Nhờcông đức của sựphục vụnày,
+- Page 41, top 185.2: near column boundary: Nguyện cho tất cảđược hạnh phúc.
+- Page 41, top 185.2: possible shifted translation line; right cell may continue previous row.
+- Page 41, top 203.2: near column boundary: Nguyện Dhamma khởi sinh
+- Page 41, top 221.2: near column boundary: Trong tâm của mọi người
+- Page 41, top 221.2: merged probable split source line into previous table row.
+- Page 41, top 239.2: near column boundary: Giải thoát mọi khổ đau.
+- Page 41, top 265.9: near column boundary: Nguyện cho mọi người nam
+- Page 41, top 283.9: near column boundary: Sống cuộc đời Dhamma,
+- Page 41, top 283.9: merged probable split source line into previous table row.
+- Page 41, top 301.9: near column boundary: Nguyện cho mọi người nữ
+- Page 41, top 301.9: possible shifted translation line; right cell may continue previous row.
+- Page 41, top 319.9: near column boundary: Sống cuộc đời Dhamma,
+- Page 41, top 337.9: near column boundary: Nguyện cho các con họ
+- Page 41, top 337.9: merged probable split source line into previous table row.
+
+- ... 1046 more parser items omitted.
+
+## Suspect spacing/OCR rows
+
+- Page 2, top 84.0: GIỚI THIỆU
+- Page 8, top 85.5: BUỔI TỐI NGÀY KHAI GIẢNG KHÓA
+- Page 8, top 103.5: THIỀN 10 NGÀY
+- Page 10, top 469.4: Śīśa para jāge sabhī ke, Nguyện cho nhân tốnày,
+- Page 11, top 122.5: Của tất cảmọi người.
+- Page 11, top 243.0: Śīśa para jāge sabhī ke, Nguyện cho nhân tốnày,
+- Page 11, top 315.0: Của tất cảmọi người.
+- Page 11, top 431.8: Śīśa para jāge sabhī ke, Nguyện cho nhân tốnày,
+- Page 11, top 503.8: Của tất cảmọi người.
+- Page 16, top 84.5: BÀITỤ NGHẰNG NGÀY BUỔI SÁNG
+- Page 29, top 272.3: Isa dharatī ke jitane prāṇī, Tất cảmọi chúng sinh
+- Page 43, top 481.9: sabhī nirāmaya hoṅya. Tất cảmọi bệnh tật.
+- Page 49, top 85.5: NGÀY MỘT — KINH ĀṬĀ NĀṬ IYA
+- Page 75, top 85.5: NGÀY BỐN - BUDDHA JAYAMAṄ GALA
+- Page 80, top 85.5: NGÀY NĂM - TIKAPAṬṬĀ NA
+- Page 87, top 85.5: NGÀY BẢY—BOJJHAṄ GAPARITTA
+- Page 88, top 471.6: Bảy nhân tốnày đây
+- Page 93, top 140.5: yo mittānaṃna dūbhati. Tất cảmọi kẻthù
+- Page 102, top 85.5: NGÀY MƯỜI — METTĀ-BHĀ VANĀ
+- Page 102, top 469.4: Averā hontu, Và tất cảmọi người—
+- Page 103, top 421.8: Sabbe sattā, sabbe pāṇā, Tất cảmọi chúng sinh,
+- Page 103, top 493.8: sabbā itthiyo, sabbe purisā, Tất cảmọi nam nữ,
+- Page 105, top 85.5: THIỀN CHUNG, THIỀN VIPASSANAVÀ
+- Page 105, top 425.3: NGÀY MỘT
+- Page 112, top 86.1: NGÀY BỐN
+- Page 116, top 199.1: hṛdaya meṅjāge pratikṣaṇa, Nguyện cho nhân tốnày
+- Page 116, top 387.8: hṛdaya meṅjāge pratikṣaṇa, Nguyện cho nhân tốnày
+- Page 117, top 176.5: hṛdaya meṅjāge pratikṣaṇa, Nguyện cho nhân tốnày,
+- Page 118, top 174.2: BÀITỤNG THỜI THIỀN CHUNG ADHIṬṬ HĀ NA
+- Page 119, top 176.5: hṛdaya meṅjāge pratikṣaṇa, Nguyện cho nhân tốnày
+- Page 119, top 365.2: hṛdaya meṅjāge pratikṣaṇa, Nguyện cho nhân tốnày
+- Page 120, top 140.5: hṛdaya meṅjāge pratikṣaṇa, Nguyện cho nhân tốnày,
+- Page 123, top 86.1: NGÀY NĂM
+- Page 125, top 86.1: NGÀY BẢY
+- Page 128, top 86.1: NGÀY MƯỜI
+- Page 129, top 311.2: Nguyện cuộc đời của tất cảmọi
+- Page 133, top 86.1: NGÀY MƯỜI MỘT
+- Page 135, top 86.1: CÁCĐ OẠN KINH TIẾNG PĀ LI ĐƯỢC TRÍCH DẪN
+- Page 135, top 104.1: TRONG CÁC BÀI GIẢNG
+- Page 135, top 309.9: NGÀY BỐN
+- Page 136, top 256.8: NGÀY NĂM
+- Page 139, top 321.5: NGÀY BẢY
+- Page 142, top 494.0: AṭṭhakathāI.1.1 —Paṭisambhidāmagga
+- Page 142, top 512.0: Ñāṇakathā AṭṭhakathāI.1.1 Ñāṇakathā
+- Page 143, top 86.1: NGÀY MƯỜI
+- Page 145, top 106.2: GIỚI THIỆ UVỀ PARIYATTI
+- Page 145, top 379.0: thiền Vipassana được giảng dạy bởi Thiền sưS.N. Goenka
+- Page 145, top 397.0: theo truyền thống của SayagyiU Ba Khin).
