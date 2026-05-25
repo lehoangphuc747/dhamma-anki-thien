@@ -1,0 +1,52 @@
+---
+book: Những lời vàng ngọc
+part_num: 2
+part_title: Kinh văn mười ngày
+chapter_num: 5
+chapter_title: Ngày Hai — Ratana Suttaṃ (Kinh Châu Báu)
+language: Pāli
+anki_deck: "Những lời vàng ngọc::Phần 2 — Kinh văn mười ngày::05. Ngày 2 — Ratana Suttaṃ"
+order: "05"
+---
+
+## NGÀY HAI — RATANA SUTTAṂ
+
+Để tán dương "châu báu" của Phật, Pháp và Tăng, bài tụng *paritta* này phát xuất từ *Sutta Nipāta* (Kinh Tập) (2.1), một trong những bài lâu đời và phổ biến nhất trong các bộ kinh khác nhau của *Khuddaka-nikāya* (Tiểu Bộ Kinh). Như trong lời giới thiệu cho thấy, Đức Phật tụng bài này khi có nạn đói ở thành phố *Vesāli*. Câu kệ đầu được thêm vào sau này, và câu cuối, được trình bày ở đây, là dạng rút gọn của ba câu cuối trong kinh điển.
+
+### Ratana Suttaṃ — Kinh Châu Báu
+
+| Nguyên văn | Tiếng Việt |
+| --- | --- |
+| Koṭisatasahassesu,<br>cakkavālesu devatā;<br>yassāṇaṃ paṭigaṇhanti,<br>yañca vesāliyā pure;<br>rogāmanussa-dubbhikkhaṃ,<br>sambhūtaṃ tividhaṃ bhayaṃ;<br>khippamantaradhāpesi,<br>parittaṃ taṃ bhaṇāmahe. | [Bài kinh hộ trì này]<br>Công năng được chấp nhận<br>Bởi chư thiên an trú<br>Trong vô số cõi trời;<br>Tụng ở Vesāli,<br>Khiến ba thứ sợ hãi<br>Phát sinh từ: bệnh tật,<br>Phi nhân và nạn đói,<br>Phải biến mất nhanh chóng;<br>Chúng ta hãy cùng tụng<br>Bài kinh hộ trì này. |
+| Yānīdha bhūtāni samāgatāni,<br>bhummāni vā yāni’va antalikkhe;<br>sabbeva bhūtā sumanā bhavantu,<br>athopi sakkacca suṇantu bhāsitaṃ. | Bất cứ chúng sinh nào<br>Tề tựu ở nơi đây,<br>Cư ngụ ở cõi trần<br>Hay trên các cõi trời,<br>Nguyện mọi chúng sinh này<br>Tất cả được hạnh phúc;<br>Hơn nữa, nguyện cho họ<br>Lắng nghe những lời này<br>Một cách thật cẩn thận. |
+| Tasmā hi bhūtā nisāmetha sabbe,<br>mettaṃ karotha mānusiyā pajāya;<br>divā ca ratto ca haranti ye baliṃ,<br>tasmā hi ne rakkhatha appamattā. | Do vậy mọi chúng sinh<br>Hãy lắng nghe cho kỹ!<br>Hãy khởi tâm từ ái<br>Cho tất cả những người.<br>Ngày và đêm dâng cúng<br>Vật phẩm đến quý vị,<br>Vì thế hãy giúp đỡ<br>Hộ trì hãy cẩn thận. |
+| Yaṃ kiñci vittaṃ idha vā huraṃ vā,<br>saggesu vā yaṃ ratanaṃ paṇītaṃ;<br>na no samaṃ atthi tathāgatena,<br>idampi buddhe ratanaṃ paṇītaṃ;<br>etena saccena suvatthi hotu. | Bất cứ của cải nào<br>Có trên thế gian này<br>Hay ở ngoài thế gian,<br>Bất cứ châu báu quý<br>Không gì sánh bằng được<br>Trong Đức Phật có<br>Châu báu quý giá này.<br>Nhờ lời chân thật này,<br>Nguyện có được hạnh phúc. |
+| Khayaṃ virāgaṃ amataṃ paṇītaṃ,<br>yadajjhagā sakyamunī samāhito;<br>na tena dhammena samatthi kiñci,<br>idampi dhamme ratanaṃ paṇītaṃ;<br>etena saccena suvatthi hotu. | Diệt trừ các bất tịnh,<br>Thoát khỏi mọi đam mê,<br>Đạt trạng thái bất tử,<br>Thánh nhân họ Thích Ca<br>Chứng nghiệm các điều này;<br>Không có gì sánh bằng<br>Trong Dhamma kỳ diệu<br>Là châu báu quý giá.<br>Nhờ lời chân thật này,<br>Nguyện có được hạnh phúc. |
+| Yaṃ buddhaseṭṭho parivaṇṇayī suciṃ,<br>samādhimānantarikaññamāhu;<br>samādhinā tena samo na vijjati,<br>idampi dhamme ratanaṃ paṇītaṃ;<br>etena saccena suvatthi hotu. | Sự thanh tịnh mà bậc<br>Vô Thượng Phật tán dương,<br>Là định không gián đoạn,<br>Không có gì sánh được<br>Châu báu quý giá này<br>Hiện hữu trong Dhamma,<br>Nhờ lời chân thật này,<br>Nguyện có được hạnh phúc. |
+| Ye puggalā aṭṭha sataṃ pasatthā,<br>cattāri etāni yugāni honti;<br>te dakkhiṇeyyā Sugatassa sāvakā,<br>etesu dinnāni mahapphalāni;<br>idampi saṅghe ratanaṃ paṇītaṃ,<br>etena saccena suvatthi hotu. | Gồm bốn đôi, tám vị<br>Được hiền nhân khen ngợi,<br>Các đệ tử của Phật<br>Xứng đáng được cúng dường;<br>Vật phẩm cúng dường họ<br>Đem lại nhiều quả lành.<br>Châu báu quý giá này<br>Hiện diện trong Sangha,<br>Nhờ lời chân thật này,<br>Nguyện có được hạnh phúc. |
+| Ye suppayuttā manasā daḷhena,<br>nikkāmino Gotamasāsanamhi;<br>te pattipattā amataṃ vigayha,<br>laddhā mudhā nibbutiṃ bhuñjamānā;<br>idampi saṅghe ratanaṃ paṇītaṃ,<br>etena saccena suvatthi hotu. | Người không còn đam mê,<br>Tâm vững vàng, kiên định,<br>Sống đúng theo lời dạy<br>Của Phật Gotama,<br>Những gì cần chứng đắc<br>Đã đạt được trọn vẹn,<br>Thâm nhập quả bất tử,<br>Hưởng an vui nhẹ nhàng<br>Mà không có dính mắc.<br>Đó là châu báu quý<br>Hiện diện trong Sangha,<br>Nhờ lời chân thật này,<br>Nguyện có được hạnh phúc. |
+| Yathindakhīlo paṭhaviṃ sito siyā,<br>catubbhi vātehi asampakampiyo;<br>tathūpamaṃ sappurisaṃ vadāmi,<br>yo ariyasaccāni avecca passati;<br>idampi saṅghe ratanaṃ paṇītaṃ,<br>etena saccena suvatthi hotu. | Như cột chôn trong đất,<br>Không thể bị lay động<br>Bởi gió từ bốn phương,<br>Do đó, Ta tuyên thuyết,<br>Người với tâm thanh tịnh,<br>Hoàn toàn chứng ngộ được<br>Các Sự Thật Thánh Thiện.<br>Đó là châu báu quý<br>Hiện diện trong Sangha,<br>Nhờ lời chân thật này,<br>Nguyện có được hạnh phúc. |
+| Ye ariyasaccāni vibhāvayanti,<br>gambhīrapaññena sudesitāni;<br>kiñcāpi te honti bhusappamattā,<br>na te bhavaṃ aṭṭhamamādiyanti;<br>idampi saṅghe ratanaṃ paṇītaṃ,<br>etena saccena suvatthi hotu. | Những người thấu hiểu được<br>Các Sự Thật Thánh Thiện,<br>Được giảng dạy kỹ càng<br>Bởi bậc có trí tuệ.<br>Dù họ còn phóng dật,<br>Sẽ không còn tái sinh<br>Tới lần thứ tám đâu.<br>Đó là châu báu quý<br>Hiện diện trong Saṅgha.<br>Nhờ lời chân thật này,<br>Nguyện có được hạnh phúc. |
+| Sahāvassa dassana-sampadāya,<br>tayassu dhammā jahitā bhavanti;<br>sakkāyadiṭṭhi vicikicchitaṃ ca,<br>sīlabbataṃ vā pi yadatthi kiñci. | Đắc Thánh quả thứ nhất, (1)<br>Thoát khỏi ba điều xấu:<br>Ảo tưởng về cái ngã,<br>Nghi ngờ, và [ràng buộc]<br>Với nghi thức, lễ nghi<br>Và những thứ tương tự. |
+| Catūhapāyehi ca vippamutto,<br>chaccābhiṭhānāni abhabbo kātuṃ;<br>idampi saṅghe ratanaṃ paṇītaṃ,<br>etena saccena suvatthi hotu. | Thoát khỏi bốn cõi khổ, (2)<br>Không phạm sáu điều ác. (3)<br>Đó là châu báu quý<br>Hiện diện trong Sangha.<br>Nhờ lời chân thật này,<br>Nguyện có được hạnh phúc. |
+| Kiñcāpi so kammaṃ karoti pāpakaṃ,<br>kāyena vācā uda cetasā vā;<br>abhabbo so tassa paṭicchādāya,<br>abhabbatā diṭṭhapadassa vuttā;<br>idampi saṅghe ratanaṃ paṇītaṃ,<br>etena saccena suvatthi hotu. | Nếu phạm điều bất thiện<br>Dù là bằng việc làm,<br>Lời nói hay ý nghĩ,<br>Người ấy cũng không thể<br>Che dấu việc đã làm,<br>Vì người ta nói rằng<br>Không gì che dấu được<br>Với người đã chứng ngộ<br>Trạng thái Nibbāna.<br>Châu báu quý giá này<br>Hiện diện trong Sangha.<br>Nhờ lời chân thật này,<br>Nguyện có được hạnh phúc. |
+| Vanappagumbe yathā phussitagge,<br>gimhānamāse paṭhamasmiṃ gimhe;<br>tathūpamaṃ dhammavaraṃ adesayi,<br>nibbānagāmiṃ paramaṃ hitāya;<br>idampi buddhe ratanaṃ paṇītaṃ,<br>etena saccena suvatthi hotu. | Ví như trong khu rừng<br>Được đội vương miện với<br>Các bông hoa nở rộ<br>Khi nắng ấm đầu hè,<br>Cũng như thế, giáo huấn<br>Siêu phàm do Ngài dạy<br>Đưa đến nibbāna,<br>Điều tốt lành lớn nhất<br>Cho tất cả chúng sinh.<br>Đó là châu báu quý<br>Hiện hữu trong Đức Phật.<br>Nhờ lời chân thật này,<br>Nguyện có được hạnh phúc. |
+| Varo varaññū varado varāharo,<br>anuttaro dhammavaraṃ adesayi;<br>idampi buddhe ratanaṃ paṇītaṃ,<br>etena saccena suvatthi hotu. | Bậc thánh nhân Siêu Phàm,<br>Biết giáo pháp siêu phàm,<br>Ban giáo pháp siêu phàm,<br>Mang giáo pháp siêu phàm,<br>Đấng Vô thượng đã giảng<br>Về Dhamma siêu phàm.<br>Đó là châu báu quý<br>Hiện hữu trong Đức Phật.<br>Nhờ lời chân thật này,<br>Nguyện có được hạnh phúc. |
+| Khīṇaṃ purāṇaṃ navaṃ natthi sambhavaṃ,<br>virattacittāyatike bhavasmiṃ;<br>te khīṇabījā avirūḷhichandā,<br>nibbanti dhīrā yathāyaṃ padīpo;<br>idampi saṅghe ratanaṃ paṇītaṃ,<br>etena saccena suvatthi hotu. | [Nghiệp] cũ đã diệt trừ,<br>Không nghiệp mới sinh khởi,<br>Tâm không còn dính mắc<br>Tái sinh trong tương lai.<br>Hạt giống bị tiêu hủy,<br>Khát vọng [được trở thành]<br>Không còn tăng trưởng nữa.<br>Hàng thánh nhân nhập diệt<br>Ví như ngọn đèn tắt.<br>Đó là châu báu quý<br>Hiện diện trong Sangha.<br>Nhờ lời chân thật này,<br>Nguyện có được hạnh phúc. |
+| Yānīdha bhūtāni samāgatāni,<br>bhummāni vā yāni’va antalikkhe;<br>tathāgataṃ devamanussapūjitaṃ,<br>buddhaṃ namassāma suvatthi hotu. | Bất kỳ chúng sinh nào<br>Quy tụ ở nơi đây,<br>Dù ở dưới cõi trần<br>Hay trên các cõi trời,<br>Loài người hay chư thiên<br>Đều tôn kính Như Lai.<br>Chúng con đảnh lễ Phật;<br>[Nhờ lời chân thật này]<br>Nguyện có được hạnh phúc. |
+| dhammaṃ namassāma suvatthi hotu; | Chúng con đảnh lễ Pháp;<br>[Nhờ lời chân thật này]<br>Nguyện có được hạnh phúc. |
+| saṅghaṃ namassāma suvatthi hotu. | Chúng con đảnh lễ Tăng;<br>[Nhờ lời chân thật này]<br>Nguyện có được hạnh phúc. |
+
+### Ghi chú
+
+- *Ratana Suttaṃ* nằm trong *Sutta Nipāta* (Kinh Tập) 2.1 và *Khuddakapāṭha* 6 — một trong những kinh hộ trì lâu đời và quan trọng nhất của Theravāda.
+- **Bối cảnh lịch sử**: Khi thành Vesāli (kinh đô của bộ tộc Licchavī) bị **ba tai nạn** (*tividhaṃ bhayaṃ*) — nạn đói, dịch bệnh, phi nhân quấy phá — vua Licchavī thỉnh Đức Phật. Ngài đến cùng tôn giả Ānanda, dạy *Ratana Sutta* để tôn giả tụng đi quanh thành. Ba tai nạn liền tan biến.
+- **Cấu trúc kinh** gồm điệp khúc **3 châu báu** (*ratana*) — *Buddha-ratana / Dhamma-ratana / Saṅgha-ratana* — mỗi khổ kết bằng *"etena saccena suvatthi hotu"* ("**nhờ lời chân thật này, nguyện có được hạnh phúc**"). Đây là công thức *saccakiriya* (lời thề chân thật) đặc trưng của *paritta*.
+- *aṭṭha sataṃ* (gồm bốn đôi tám vị) = **8 hạng thánh nhân**: 4 hạng Đạo (*magga*) + 4 hạng Quả (*phala*) — *sotāpanna* / *sakadāgāmī* / *anāgāmī* / *arahant* (mỗi hạng có Đạo và Quả).
+- Ẩn dụ *indakhīla* — "**cột Indra**" — cây cột gỗ lớn chôn sâu ở cổng thành Ấn Độ cổ, biểu tượng cho sự kiên cố không lay chuyển. Đây là hình ảnh của bậc *sotāpanna* đã thấy *ariyasacca*.
+- Ẩn dụ *vanappagumbe phussitagge* — "**rừng nở hoa đầu hè**" — biểu tượng cho Dhamma trong giai đoạn rực rỡ nhất, lan toả khắp nơi.
+- Khổ cuối *Khīṇaṃ purāṇaṃ...* mô tả *parinibbāna* (đại Niết Bàn) — *yathāyaṃ padīpo* ("như ngọn đèn tắt") — không phải hư vô mà là sự chấm dứt hoàn toàn của tham ái và mọi điều kiện sinh.
+- Chú thích chi tiết của bản dịch:
+  1. **Thánh quả thứ nhất** = *sotāpanna* ("**Thánh nhập lưu / Tu Đà Hoàn**") — vị đã đạt được dòng chảy đi đến Niết Bàn, sẽ không còn tái sinh quá 7 lần.
+  2. **Bốn cõi khổ** (*catur-apāya*): (i) *niraya* (địa ngục), (ii) súc sinh (*tiracchāna-yoni*), (iii) ngạ quỷ (*peta*), (iv) atula / quỷ (*asura*).
+  3. **Sáu điều cực ác** (*chacchabhiṭhāna*): (i) giết mẹ, (ii) giết cha, (iii) giết bậc Arahant, (iv) gây chia rẽ Sangha (*saṅghabheda*), (v) làm Đức Phật bị thương / chảy máu, (vi) giữ tà kiến (*niyatamicchādiṭṭhi*).
